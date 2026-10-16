@@ -3,7 +3,7 @@
 
 # Your dashboard's web address. Fill this in once GitHub Pages is on,
 # so tapping the morning notification opens it.
-dashboard_url: ""
+dashboard_url: "https://kirstenschan.github.io/ai-audit-news/"
 
 # How many days of stories to keep on the dashboard
 keep_days: 30
