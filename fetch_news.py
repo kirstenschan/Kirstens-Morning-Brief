@@ -53,9 +53,10 @@ def load_topics() -> list[dict]:
 
 # ---------- helpers ----------
 
-def google_news_url(query: str) -> str:
-    """Turn a search query into a Google News RSS feed URL (last 7 days, US English)."""
-    q = quote_plus(f"{query} when:7d")
+def google_news_url(query: str, window: str = "7d") -> str:
+    """Turn a search query into a Google News RSS feed URL (US English).
+    window = how far back to search, e.g. "1d" or "7d"."""
+    q = quote_plus(f"{query} when:{window}")
     return f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
 
 
@@ -66,7 +67,8 @@ def clean(text: str) -> str:
 
 
 def mentions_any(text: str, terms: list[str]) -> bool:
-    padded = f" {text.lower()} "
+    # Turn punctuation into spaces so " dow " matches "Dow," but not "down"
+    padded = " " + re.sub(r"[^a-z0-9&\-\s]", " ", text.lower()) + " "
     return any(term.lower() in padded for term in terms)
 
 
@@ -112,7 +114,8 @@ def update_topic(topic: dict, settings: dict, run_time: datetime, feed_file: str
     if feed_file:
         feeds = [("Sample", feed_file)]
     else:
-        feeds = [(s["name"], google_news_url(s["query"])) for s in topic["sources"]]
+        window = topic.get("search_window", "7d")
+        feeds = [(s["name"], google_news_url(s["query"], window)) for s in topic["sources"]]
 
     new_ids = set()
     for source_name, url in feeds:
@@ -143,7 +146,8 @@ def update_topic(topic: dict, settings: dict, run_time: datetime, feed_file: str
         print(f"  {source_name}: {len(feed.entries)} items, {kept} new")
 
     # Drop anything older than keep_days
-    cutoff = run_time - timedelta(days=settings.get("keep_days", 30))
+    keep_days = topic.get("keep_days", settings.get("keep_days", 30))  # topic can override
+    cutoff = run_time - timedelta(days=keep_days)
     stories = {k: s for k, s in stories.items() if datetime.fromisoformat(s["published"]) >= cutoff}
     ordered = sorted(stories.values(), key=lambda s: s["published"], reverse=True)
 
