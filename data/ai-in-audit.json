@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-16T23:20:51.975638+00:00",
+  "updated": "2026-10-16T23:40:48.685106+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,28 +10,28 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "The AICPA issued a practice aid on using AI in financial statement audits, while Big Four leaders say junior roles are changing but hiring continues.",
+    "quick_take": "Today's stories are all firm-side AI commentary, with no regulator or standard-setter news. The theme is a shift from AI adoption toward proving value and accountability.",
     "standouts": [
       {
-        "id": "207b2ed80e56",
-        "title": "AI and the audit: AICPA publishes practice aid to assist auditors",
-        "publisher": "Journal of Accountancy",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHVZbHIwSW1fdTNycHBtcm1GZFVXRm1mM3hydExwX0Vuem5oU2NYd3lneHZuYUpKX1VKajNjYm5OVlNINmJ5OHFxaEI3UHFvZkNQYlJMb1ZZMC1ib2dVQWdLVElHM0ZhcFVqbWQ4STYzZk1LekFCbWZrNUJqcV96cmtBd1pyeHdMalFxRXVsZHh6dkdyZ0NQdFlKMjRCMDBLeEllaU5RMHBTREE5U0lYZEdBUlBSeFE?oc=5",
-        "why": "The AICPA practice aid covers AI use in financial statement audits, so it's a key reference for interviews and your first busy season."
+        "id": "eb92fc7bb582",
+        "title": "AI: from adoption to accountability",
+        "publisher": "KPMG International",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOemxmMTgxSm9od2NWUWY1QnNsTXdUMmwzdWNHNkY5RjExWC1Oa1F4X3BxZ1ZSTmdOUWVjeEw1NUduWXhyWGRMZzMyQW1EZTdzU0tyUVhCMXlKZVg4Q0o3eXA5Z2J3OTFhTEdhM1FmY09QRXd1bjZHYl92SWUzYloyTDZRblQzZmY1U1MybVZieXNwb0dEWkFXcHM1VWlLcldiSmc?oc=5",
+        "why": "KPMG's 'adoption to accountability' framing signals firms will be judged on governing AI, which is useful language for interviews and for audit work."
       },
       {
-        "id": "8f49369d0a2d",
-        "title": "PwC will keep hiring even as AI reshapes junior roles: global chairman",
-        "publisher": "The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVGVnTTRLVi03V3VwLXNaY0I0UkNJdjdRUEtIVkRERS1lX0tkdzNFc3BsRk5vUkJfeFNDZXJ5QkNsbHZNSTRnMWZTcXo1dUdWcl9LMXdjVXRXYnVrUTJQNnJaakszZ2VrekRkcHVvOUFiSU9PbkxkZ2V3c2pTeEVNNy1kUU5USHpLZ0xEZGhsNGp1alhZVzRWbGk0UktFcHI3XzVVQzNOODJiZFlJTzBMNzJJSG4xbDlG?oc=5",
-        "why": "PwC's global chairman says hiring continues even as AI reshapes junior roles, which speaks directly to your entry-level outlook."
+        "id": "146ee0425152",
+        "title": "89% of organisations report value from AI, but only 12% consistently measure value against cost",
+        "publisher": "kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3hHTHIyUWdZX2pCcXdPOTBqSVJqVjc5TkUtaDczRF83Um9xeUFKYlBxZFBtTkNZa3NNUEdJRndkQ1NDc2N5Z2NoUFJLZm40UEVJQUN4dXhBclNySnRoNXlwZHVsUWxBWGlaWFBpWUk2dlVkdG9CYV94QWpYV3NBeG5tOHYtanE5bjM0LXFUM3R2cmRDRHhPVHJUQTZuTEJTSGdhUE1JeDdBZw?oc=5",
+        "why": "Only 12% of organisations consistently measure AI value against cost, so expect clients and firms to ask for ROI evidence and controls around AI."
       },
       {
-        "id": "07b325574e48",
-        "title": "How AI assurance builds trust with SOC, attestation and certification",
-        "publisher": "EY",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVEQwbUhpUDhZN0FkaS1SZFRRR1NOdkNFZDRWNmdZVHFqNktRelFMOGQ2QWJyaWlpQ2VpREN5M3FqX3Q3M1UwcEJoaGtRXzJma2ZzOHdDR01hRFVMTmpFcjBybVRLOHdiSi1jV0RTSmZaaEV4STRjS2JuR1ptR0JDamh4R0ltNWVHZWpxczJTQ3ZhTTRDNnVRcUlEVQ?oc=5",
-        "why": "EY describes AI assurance through SOC, attestation and certification, a growing service line where audit skills could apply."
+        "id": "0dea8814f195",
+        "title": "America's CEOs are spending big on AI, new KPMG survey finds",
+        "publisher": "Marketplace.org",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFNsVDlzTXcyWHBoUEQ3NXJOUjRiQm1yWFkxXzFYanNFUklKVnd1a0t1RVFheWVzT3dFbXFYOGlkaFVWbGVCVldNbExTMUdZRHJBY3JDMU9MNkRrYU5TZnoxOHF0MjlBVzFDTkJlX3E3RXdHXy1DUU9kZUdKYzc4VVozd2dNNFVKaWtVN0MzdEdLV2RmYjU5cjJlTQ?oc=5",
+        "why": "A KPMG survey finds CEOs spending heavily on AI, which shows the client investment and risk that auditors will increasingly need to understand."
       }
     ]
   },
@@ -327,6 +327,21 @@
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
     },
     {
+      "id": "0dea8814f195",
+      "title": "America's CEOs are spending big on AI, new KPMG survey finds",
+      "publisher": "Marketplace.org",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFNsVDlzTXcyWHBoUEQ3NXJOUjRiQm1yWFkxXzFYanNFUklKVnd1a0t1RVFheWVzT3dFbXFYOGlkaFVWbGVCVldNbExTMUdZRHJBY3JDMU9MNkRrYU5TZnoxOHF0MjlBVzFDTkJlX3E3RXdHXy1DUU9kZUdKYzc4VVozd2dNNFVKaWtVN0MzdEdLV2RmYjU5cjJlTQ?oc=5",
+      "snippet": "America's CEOs are spending big on AI, new KPMG survey finds Marketplace.org",
+      "published": "2026-10-15T18:12:16+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-16T23:40:48.685106+00:00"
+    },
+    {
       "id": "c967255c7b54",
       "title": "Not all AI is built for auditing \u2014 here\u2019s the difference",
       "publisher": "Thomson Reuters tax",
@@ -495,6 +510,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
+    },
+    {
+      "id": "eb92fc7bb582",
+      "title": "AI: from adoption to accountability",
+      "publisher": "KPMG International",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOemxmMTgxSm9od2NWUWY1QnNsTXdUMmwzdWNHNkY5RjExWC1Oa1F4X3BxZ1ZSTmdOUWVjeEw1NUduWXhyWGRMZzMyQW1EZTdzU0tyUVhCMXlKZVg4Q0o3eXA5Z2J3OTFhTEdhM1FmY09QRXd1bjZHYl92SWUzYloyTDZRblQzZmY1U1MybVZieXNwb0dEWkFXcHM1VWlLcldiSmc?oc=5",
+      "snippet": "AI: from adoption to accountability KPMG International",
+      "published": "2026-10-14T23:03:03+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-16T23:40:48.685106+00:00"
     },
     {
       "id": "10841703879a",
@@ -688,6 +718,21 @@
         "Other"
       ],
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
+    },
+    {
+      "id": "146ee0425152",
+      "title": "89% of organisations report value from AI, but only 12% consistently measure value against cost",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3hHTHIyUWdZX2pCcXdPOTBqSVJqVjc5TkUtaDczRF83Um9xeUFKYlBxZFBtTkNZa3NNUEdJRndkQ1NDc2N5Z2NoUFJLZm40UEVJQUN4dXhBclNySnRoNXlwZHVsUWxBWGlaWFBpWUk2dlVkdG9CYV94QWpYV3NBeG5tOHYtanE5bjM0LXFUM3R2cmRDRHhPVHJUQTZuTEJTSGdhUE1JeDdBZw?oc=5",
+      "snippet": "89% of organisations report value from AI, but only 12% consistently measure value against cost kpmg.com",
+      "published": "2026-10-14T13:59:02+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-16T23:40:48.685106+00:00"
     },
     {
       "id": "9ba3d2755984",
@@ -1123,6 +1168,21 @@
         "Risk & controls"
       ],
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
+    },
+    {
+      "id": "c8d5df6f8401",
+      "title": "What\u2019s next for physical AI: insights, macro trends and projections",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWWJ2cmlRaGhNajVHVWx4QkFCZmtZU24weF81RUtXTHZ3UVdYa0RlRjhfaE1KY3ptQlNOOWxSSkE5SnRQS1Bfc1hwd1d3Y0ZkczRpZ0p0WThyWkd3NTlMbDF1VlRUZlF2Y3p1aDB5N2FpNE01dmo4R0FaSmQtTm9DYUQzTldRMmNCTmZrY2lmR1M2MGFNa25iMWNTYWYta3ROZnVRckFQQzU3STZPNU56UWd3?oc=5",
+      "snippet": "What\u2019s next for physical AI: insights, macro trends and projections EY",
+      "published": "2026-10-13T04:30:48+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-16T23:40:48.685106+00:00"
     },
     {
       "id": "6ce134190206",
