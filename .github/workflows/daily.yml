@@ -1,0 +1,54 @@
+name: Daily news brief
+
+on:
+  schedule:
+    - cron: "0 14 * * *"
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check time
+        id: gate
+        run: |
+          offset=$(TZ=America/Los_Angeles date +%z)
+          schedule="${{ github.event.schedule }}"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] \
+             || { [ "$schedule" = "0 14 * * *" ] && [ "$offset" = "-0700" ]; } \
+             || { [ "$schedule" = "0 15 * * *" ] && [ "$offset" = "-0800" ]; }; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Not 7am Pacific for this schedule; skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Fetch news, write recap, send push
+        if: steps.gate.outputs.run == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          pip install -r requirements.txt
+          python fetch_news.py
+
+      - name: Save results
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Daily news update $(date -u +%Y-%m-%d)"
+          git push
