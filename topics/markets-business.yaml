@@ -1,0 +1,74 @@
+# Topic: Markets & Business
+# A morning read on financial markets, the economy, and big business/tech trends.
+
+name: Markets & Business
+
+notify: true
+
+# Business news goes stale fast, so keep one week on the dashboard
+# and only search the last day of news.
+keep_days: 7
+search_window: 1d
+
+recap_focus: >
+  A morning briefing on financial markets and the business world for
+  someone building investing knowledge from scratch: what moved stocks
+  and why, the economy and the Federal Reserve, major company news and
+  earnings, and big tech/AI trends. Explain any market jargon in plain
+  words. Explain what happened and why it matters; never recommend
+  buying or selling anything.
+
+# A story must mention at least one of these words.
+must_mention:
+  - [stock, stocks, shares, market, markets, s&p, " dow ", nasdaq, wall street,
+     investor, earnings, revenue, profit, economy, economic, inflation,
+     interest rate, " fed ", federal reserve, treasury, bond, jobs report,
+     " ipo ", merger, acquisition, deal, valuation, tariff, gdp, recession,
+     crypto, bitcoin, " oil ", dollar]
+
+sources:
+  # Markets
+  - name: Stock market
+    query: stock market today
+  - name: Wall Street
+    query: Wall Street stocks S&P 500 Nasdaq
+  - name: Fed & rates
+    query: Federal Reserve interest rates OR inflation
+  - name: Economy
+    query: US economy jobs OR inflation OR GDP
+  - name: Earnings
+    query: earnings report shares
+  - name: Deals
+    query: merger OR acquisition OR IPO deal
+  - name: Tech & AI business
+    query: AI stocks OR "artificial intelligence" investment
+  # Reputable outlets
+  - name: Reuters
+    query: site:reuters.com markets OR business
+  - name: AP
+    query: site:apnews.com business stocks OR economy
+  - name: CNBC
+    query: site:cnbc.com markets
+  - name: Yahoo Finance
+    query: site:finance.yahoo.com stocks
+  - name: Axios
+    query: site:axios.com markets OR economy
+
+priority_sources: [Reuters, AP, CNBC, Fed & rates, Economy]
+
+themes:
+  Markets & stocks:
+    [stock, shares, s&p, " dow ", nasdaq, wall street, rally, selloff, sell-off,
+     index, futures, volatility]
+  Economy & the Fed:
+    [" fed ", federal reserve, interest rate, inflation, jobs report, unemployment,
+     gdp, recession, treasury, bond, yield, " cpi ", tariff]
+  Companies & earnings:
+    [earnings, revenue, profit, guidance, quarter, ceo, layoffs, forecast]
+  Tech & AI:
+    [" ai ", artificial intelligence, chip, nvidia, semiconductor, tech, software,
+     cloud, data center]
+  Deals & IPOs:
+    [merger, acquisition, acquire, " ipo ", deal, buyout, takeover]
+  Crypto & commodities:
+    [crypto, bitcoin, ethereum, " oil ", " gold ", commodity]

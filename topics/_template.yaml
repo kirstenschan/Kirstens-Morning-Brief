@@ -10,6 +10,10 @@ name: My New Topic          # Tab name on the dashboard
 
 notify: true                # true = include in the morning push; false = dashboard only
 
+# Optional: uncomment to override the defaults
+# keep_days: 7              # days of stories to keep (default: keep_days in config.yaml)
+# search_window: 1d         # how far back each search looks (default: 7d)
+
 recap_focus: >
   One or two sentences on what you want to know about this topic and why.
 
