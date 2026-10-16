@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-16T23:40:48.685106+00:00",
+  "updated": "2026-10-16T23:52:47.101903+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,28 +10,14 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's stories are all firm-side AI commentary, with no regulator or standard-setter news. The theme is a shift from AI adoption toward proving value and accountability.",
+    "quick_take": "Only one new story today: the AICPA has released guidance on using AI in financial reporting and auditing, a notable standards-side signal.",
     "standouts": [
       {
-        "id": "eb92fc7bb582",
-        "title": "AI: from adoption to accountability",
-        "publisher": "KPMG International",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOemxmMTgxSm9od2NWUWY1QnNsTXdUMmwzdWNHNkY5RjExWC1Oa1F4X3BxZ1ZSTmdOUWVjeEw1NUduWXhyWGRMZzMyQW1EZTdzU0tyUVhCMXlKZVg4Q0o3eXA5Z2J3OTFhTEdhM1FmY09QRXd1bjZHYl92SWUzYloyTDZRblQzZmY1U1MybVZieXNwb0dEWkFXcHM1VWlLcldiSmc?oc=5",
-        "why": "KPMG's 'adoption to accountability' framing signals firms will be judged on governing AI, which is useful language for interviews and for audit work."
-      },
-      {
-        "id": "146ee0425152",
-        "title": "89% of organisations report value from AI, but only 12% consistently measure value against cost",
-        "publisher": "kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3hHTHIyUWdZX2pCcXdPOTBqSVJqVjc5TkUtaDczRF83Um9xeUFKYlBxZFBtTkNZa3NNUEdJRndkQ1NDc2N5Z2NoUFJLZm40UEVJQUN4dXhBclNySnRoNXlwZHVsUWxBWGlaWFBpWUk2dlVkdG9CYV94QWpYV3NBeG5tOHYtanE5bjM0LXFUM3R2cmRDRHhPVHJUQTZuTEJTSGdhUE1JeDdBZw?oc=5",
-        "why": "Only 12% of organisations consistently measure AI value against cost, so expect clients and firms to ask for ROI evidence and controls around AI."
-      },
-      {
-        "id": "0dea8814f195",
-        "title": "America's CEOs are spending big on AI, new KPMG survey finds",
-        "publisher": "Marketplace.org",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFNsVDlzTXcyWHBoUEQ3NXJOUjRiQm1yWFkxXzFYanNFUklKVnd1a0t1RVFheWVzT3dFbXFYOGlkaFVWbGVCVldNbExTMUdZRHJBY3JDMU9MNkRrYU5TZnoxOHF0MjlBVzFDTkJlX3E3RXdHXy1DUU9kZUdKYzc4VVozd2dNNFVKaWtVN0MzdEdLV2RmYjU5cjJlTQ?oc=5",
-        "why": "A KPMG survey finds CEOs spending heavily on AI, which shows the client investment and risk that auditors will increasingly need to understand."
+        "id": "5ca63482552b",
+        "title": "AICPA Releases Guidance on the Use of AI in Financial Reporting and Auditing",
+        "publisher": "CPA Practice Advisor",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPalZLbUJDRzZQQjlScGxEME9FdzhrQkNVLS14TjByNWtlRWl0a0F3OXRoeGRCU2JTM0RLS09kTE80WmEzX1o3TnlfeWIzcUdTVW9fd2VqcUpBTEZJNExJTUZHcU1yYXpaQUZFUUJCYnFkMUd4dUdkSTdtZnpqREJYR0RrdmhEbnk4S0NydHFzUlI4cjQ3aEtqajNsNXMyOTdLTVlJMlg2SG9DcFV6REk4UDVGVGVTSmk5eFpYbTM1MUwxV1FGc2Npd3BR?oc=5",
+        "why": "The AICPA is the profession's standard-setter, so its AI guidance on reporting and auditing is worth knowing for interviews and your first busy season."
       }
     ]
   },
@@ -982,6 +968,21 @@
         "Skills & careers"
       ],
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
+    },
+    {
+      "id": "5ca63482552b",
+      "title": "AICPA Releases Guidance on the Use of AI in Financial Reporting and Auditing",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPalZLbUJDRzZQQjlScGxEME9FdzhrQkNVLS14TjByNWtlRWl0a0F3OXRoeGRCU2JTM0RLS09kTE80WmEzX1o3TnlfeWIzcUdTVW9fd2VqcUpBTEZJNExJTUZHcU1yYXpaQUZFUUJCYnFkMUd4dUdkSTdtZnpqREJYR0RrdmhEbnk4S0NydHFzUlI4cjQ3aEtqajNsNXMyOTdLTVlJMlg2SG9DcFV6REk4UDVGVGVTSmk5eFpYbTM1MUwxV1FGc2Npd3BR?oc=5",
+      "snippet": "AICPA Releases Guidance on the Use of AI in Financial Reporting and Auditing CPA Practice Advisor",
+      "published": "2026-10-13T19:48:41+00:00",
+      "themes": [
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
     },
     {
       "id": "282d347fd256",

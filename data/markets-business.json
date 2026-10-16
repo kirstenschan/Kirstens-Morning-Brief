@@ -1,6 +1,6 @@
 {
   "name": "Markets & Business",
-  "updated": "2026-10-16T23:40:48.685106+00:00",
+  "updated": "2026-10-16T23:52:47.101903+00:00",
   "themes": [
     "Markets & stocks",
     "Economy & the Fed",
@@ -12,32 +12,62 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Stocks fell as worries over the AI rally, high oil prices and sticky inflation grew. Investors are now watching the Fed and company earnings to see whether AI spending is paying off.",
+    "quick_take": "US stocks had their biggest drops since June as an AI selloff weighed on markets, while the 10-year Treasury yield reached 5% and the Fed's Warsh stayed focused on inflation.",
     "standouts": [
       {
-        "id": "53df694cd31f",
-        "title": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
-        "publisher": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
-        "why": "Shows the day's big driver: AI stocks sliding and costly oil together dragged the market down, a good example of how themes move prices."
+        "id": "60db325eff84",
+        "title": "US Stock Market today: Why have S&P 500, Nasdaq, Dow Jones suffered biggest drops since June? Top, worst p",
+        "publisher": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOU1VxRTVjdFlSNW1DX0lQTWJlTEFHYVpObjE0V3U4OEc2RHhJcERvcDZCRm1BYjJSWHpobXJuazBLV3VYQk9vT05vSDdlYlFmNjJzU2lydTJqRXJqakxuMGZZSTFLZVp2UThRM0JXT1lPRW02dGxwWndlLW1fSnIwV0NXbUpLemtGVG01aXdEWV92a0YyZUI2Q2lrZjR3OWlSY0s5MWpVR3VMVW9CUXl6aGo3cWdhQ3c3LVdYNXhrVExoX3VZZ0pkR3U3M1I1R21hV19UQWpPSGthTFdJN1JiV1lLRHFqb3BmaFI4aDlOX1NWVXFSeWxHWDdmeUxLd0VkQlB1dmhOZXgxTWhsajVQaEljRElxallaMEVzejd1eXZtNzRZYUNYbXJGWlZtMHZJ0gG2AkFVX3lxTE5jNTVYSF92YUxCTURKRnByT1NHS2VMTjE2SDI2amdzMm01VHQ5ZXhzdkphLXRlaW5ydXo0Q05qVkJmOWVlSFhpX1dldHp4dDlEM1FRcW80Y3BVN05aOU5Ic1IzYWVONWg4dHgtOXNGZlpwZWNscTBMbnEyZHBVd2c3SDY1MHExMzBIeWlBU3RBUXRmQkNrRDRhVnJQeXczczRCV3dsdTVWekxzcVFLVjIxa3l6RGxsUTlpbVY3WWpBZzcyemc1bWZfLUVEZmdXcllreF85VmZWNzg4U3NNVHhCZnRhNnlWRHhIVEZKZE9LcUhDTGRYaTlEbVFhTk82WUJHOVIwUnRVRjRXU09oWjFlOEJuWlVBY2lTSlppcVlTVEUtQ2UxTWhtakQ2WW9YYldOZ2JSb3c?oc=5",
+        "why": "The S&P 500, Nasdaq and Dow had their biggest drops since June. It is the main market story to understand before interviews."
       },
       {
-        "id": "bca050549232",
-        "title": "Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation - ABC News",
-        "publisher": "Breaking News, Latest News and Videos",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHRMYTRHanJFWjJnNGNLRExKaGZOdEtWWlNKdHFhdmRHc3dJcnZNV2NfZmxkTFJQdmRKYkllRFVsN1lIbGVsWFdxN3NJRVZCLWNVNzhPaU5aUGlSMDE3bTN4RFpCT01KVlZ1R0dieUhhQ1pmNlh5RjhXLWpCWFE2VEhYQy10OHRFU2dLX0owMlMtbnVTR0NN0gGcAUFVX3lxTE9NczBRSGxTSUhocXdVbmRiQVdhRUg2d0FaTk9nZkpQRDdnNUlMS1BJeFZrOVhiU0RYZEt6VUVjRm52SDdJaHFWeHFSQVI3Q09hZVB1dFQtZDRGb3pfVndMY1lJVklyRUVwM2p5R2c0cmJIc3VLbXJsczR1SHlCNGZfUVB2R1dnTlBIamphWUtQQzNQdnRzY2xsSTNEVw?oc=5",
-        "why": "The new Fed chair warns AI could shock the economy and vows to contain inflation, which shapes interest rates and client borrowing costs."
+        "id": "84c1b41a5ad5",
+        "title": "10-Year Treasury Yield Hits 5% \u2014 Here\u2019s Why It Matters Uva (q2YTj30sgT)",
+        "publisher": "Unisba Media",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1oyQmQyWTlFbXJjalFESTlvcHRaT3ZjanZIQWY3Q09vNERsbXJSQkZqc215QWRYQXhVejZHNHlkUjhXZFlvdnVscURoSlRIbXQzQ244MXhac2R2bVFySGVQdXhIbHVjVnVqLVdsOC1WX2FyQVd2UnVhdDVfT201YTBB?oc=5",
+        "why": "A 10-year Treasury yield (what the government pays to borrow for a decade) at 5% raises borrowing costs for companies and affects how they are valued."
       },
       {
-        "id": "3d15a9df881a",
-        "title": "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings",
-        "publisher": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0cyVkR4czJqcmtMVHU0c21pVnRHR1h1Q3VFRUdyX1FtSzg1alVJSFRqSmI0al95bGpvRkJpRG1EUy14djN1Y2xWXzlfVC04X2xIcUt4QkROSTR6V01la3plVWVhX202alJTYmhJSXIxQTJrM3VyTVZOVXhmWExqYVFWMVJQWUt3X3VUb0loWEp1SmphZ3E4MDVXS0ZZX3dkSThsTFAtMmEzRHpHMzFxTWhrblZQZFRoT1lFdXN5X3M5Y0dUQ0I5bzBR?oc=5",
-        "why": "Earnings, the profit reports companies publish, are now the test of the AI rally, and they are the numbers auditors verify."
+        "id": "f4eda6a7cc8e",
+        "title": "Warsh says Fed is focused on taming rising prices, but gives no hint about next rate hike",
+        "publisher": "NBC News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5",
+        "why": "Fed official Warsh says the focus is on taming rising prices but gave no hint on the next rate hike, so rate moves remain uncertain for businesses."
       }
     ]
   },
   "stories": [
+    {
+      "id": "60db325eff84",
+      "title": "US Stock Market today: Why have S&P 500, Nasdaq, Dow Jones suffered biggest drops since June? Top, worst p",
+      "publisher": "The Economic Times",
+      "seen_in": [
+        "Wall Street"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOU1VxRTVjdFlSNW1DX0lQTWJlTEFHYVpObjE0V3U4OEc2RHhJcERvcDZCRm1BYjJSWHpobXJuazBLV3VYQk9vT05vSDdlYlFmNjJzU2lydTJqRXJqakxuMGZZSTFLZVp2UThRM0JXT1lPRW02dGxwWndlLW1fSnIwV0NXbUpLemtGVG01aXdEWV92a0YyZUI2Q2lrZjR3OWlSY0s5MWpVR3VMVW9CUXl6aGo3cWdhQ3c3LVdYNXhrVExoX3VZZ0pkR3U3M1I1R21hV19UQWpPSGthTFdJN1JiV1lLRHFqb3BmaFI4aDlOX1NWVXFSeWxHWDdmeUxLd0VkQlB1dmhOZXgxTWhsajVQaEljRElxallaMEVzejd1eXZtNzRZYUNYbXJGWlZtMHZJ0gG2AkFVX3lxTE5jNTVYSF92YUxCTURKRnByT1NHS2VMTjE2SDI2amdzMm01VHQ5ZXhzdkphLXRlaW5ydXo0Q05qVkJmOWVlSFhpX1dldHp4dDlEM1FRcW80Y3BVN05aOU5Ic1IzYWVONWg4dHgtOXNGZlpwZWNscTBMbnEyZHBVd2c3SDY1MHExMzBIeWlBU3RBUXRmQkNrRDRhVnJQeXczczRCV3dsdTVWekxzcVFLVjIxa3l6RGxsUTlpbVY3WWpBZzcyemc1bWZfLUVEZmdXcllreF85VmZWNzg4U3NNVHhCZnRhNnlWRHhIVEZKZE9LcUhDTGRYaTlEbVFhTk82WUJHOVIwUnRVRjRXU09oWjFlOEJuWlVBY2lTSlppcVlTVEUtQ2UxTWhtakQ2WW9YYldOZ2JSb3c?oc=5",
+      "snippet": "US Stock Market today: Why have S&P 500, Nasdaq, Dow Jones suffered biggest drops since June? Top, worst p The Economic Times",
+      "published": "2026-10-16T23:43:22+00:00",
+      "themes": [
+        "Markets & stocks"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
+    },
+    {
+      "id": "282a49c01cae",
+      "title": "The Kiwi defies hot US inflation as Fed pause bets weaken the USD",
+      "publisher": "FXStreet",
+      "seen_in": [
+        "Economy"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0x6RzBMQkNpVVFKVTQ4UTl1MldrRVppQ1c3RGtvOVpqbGlMcFhuOUFSZGFjYlRjaDRwT3BIWngyeTBRU0RjV3FPLUdnZnZaZ2dqNlR5VGQtQnNXMnRvZWswTTMtVXhRWTlOUG1fbWVVbk5WdEI5aFVfMHo5dWkxX3ItdXV3T0lDdkQ4aFVaOEoxSDNqMktCS3ZlWEZTN0VKbUhCeXd6VXVjMzRR?oc=5",
+      "snippet": "The Kiwi defies hot US inflation as Fed pause bets weaken the USD FXStreet",
+      "published": "2026-10-16T23:40:45+00:00",
+      "themes": [
+        "Economy & the Fed"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
+    },
     {
       "id": "8dacadc1e346",
       "title": "Juno Industries lists on TSXV after $12M raise and shell-company merger",
@@ -406,6 +436,21 @@
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
     },
     {
+      "id": "b4903f344c4c",
+      "title": "Why Innovative Industrial Properties (IIPR) Dipped More Than Broader Market Today",
+      "publisher": "Yahoo Finance",
+      "seen_in": [
+        "Stock market"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOE1RV3pPZlhwekVKejdmOWxvQWVIZldVdWdQeDllekRWWUd6LWl0WkFFajRNandza2NDOXhlWnA3ckhxM3NVQTFoeHU1RkZjZHY4RENJT3FSakRYSlhQUFNOSHJEa3pISjdzODEzc2t2dXZseVREeHROajdRT25HNkFfMHFHdUR5aUIxUmotYkdYajRCamVEMzNUN0g4SDZMMVFYYjNXVkFSZw?oc=5",
+      "snippet": "Why Innovative Industrial Properties (IIPR) Dipped More Than Broader Market Today Yahoo Finance",
+      "published": "2026-10-16T21:15:03+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
+    },
+    {
       "id": "35dac5d522a0",
       "title": "NY Stocks Fall on AI Investment Jitters; Crude Oil Tops $100 for First Time in a Month",
       "publisher": "BigGo Finance",
@@ -750,7 +795,8 @@
       "title": "US markets are weighed down by an extended sell-off in the tech sector",
       "publisher": "AP News",
       "seen_in": [
-        "AP"
+        "AP",
+        "Stock market"
       ],
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFFYejUyLUpIbnJydUstZS1rSXRsdFhVN1hNTHF0VDIyc0FUZzFObERkVURrWFhyOVJrNmlSVExieWlKYlR2U1ByRTBxVVhGbjJrZzYxOEJzZVNJTVd2d3BCaXlaV29oNTJCVVkxRXJIbDUtR2poTXBMblhETkNlV1c1R3Vrck9RaHg0dXRCd0NUTmFDcFNkbUlVNA?oc=5",
       "snippet": "US markets are weighed down by an extended sell-off in the tech sector AP News",
@@ -781,7 +827,8 @@
       "title": "Wall Street ends down sharply, worries about AI trade and high oil prices weigh",
       "publisher": "Yahoo Finance",
       "seen_in": [
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "Wall Street"
       ],
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc0xJZDhoTHdCbXFuWjRsZGlQVHlDbUgwNWNQbTNXamJDWmlqaEkxc2pRV1FjVzRWU2lwbGl0elNTY2YzcGNCTUtTTFhuOWl5ZngydHpNTHlpSDNaSzZ3ellNUDVELUd1Wkp5QkxLZHV5LVItMTR1bGlVdU9ZN0ZhalZ0VFRJeTRpMTVmNk9HMXpqT29tQ1E?oc=5",
       "snippet": "Wall Street ends down sharply, worries about AI trade and high oil prices weigh Yahoo Finance",
@@ -1389,6 +1436,21 @@
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
     },
     {
+      "id": "1c31e45eb48c",
+      "title": "Why is Snowflake stock tumbling today? By Investing.com",
+      "publisher": "Investing.com Nigeria",
+      "seen_in": [
+        "Stock market"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYXJNdFlQSS1BYmthTGVwM3RYQUg3d2xWRjV4Z3hZcTI4dEx3QTBBaEFJTmM3QmhhUXVPSktpZVVPQnV6QzJienNQdVZZODFZVVhPbWVieHZXQ05wc0o2dDdMZzF0VHp4ZmFEVUlJTy1PSU5Cb3h3c1lRZ1dpTk8tOF9mMTg0bnFjVkF1allpSHYxa1EtV0Fhdlo3VDdLY2M?oc=5",
+      "snippet": "Why is Snowflake stock tumbling today? By Investing.com Investing.com Nigeria",
+      "published": "2026-10-16T18:23:11+00:00",
+      "themes": [
+        "Markets & stocks"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
+    },
+    {
       "id": "3648d40211a3",
       "title": "Why is Snowflake stock tumbling today?",
       "publisher": "Investing.com",
@@ -1729,6 +1791,21 @@
         "Deals & IPOs"
       ],
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
+    },
+    {
+      "id": "162f2d894342",
+      "title": "AbbVie vs. Merck: Which Pharma Stock Offers Better Value?",
+      "publisher": "Yahoo Finance",
+      "seen_in": [
+        "Yahoo Finance"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2xCajZNMTgxUFkwaURFMnlBd2JManJLMjN4VGpXbDV6RkhxTHdsM0pELVhvQVkzSGo5TUVxTGstaVkxdlNlS3d4TXY3cHVPZ2c2VkpTN1Z1MndXeEdGeW1WVTJnaWl2dlBtVWhzUTFGUjlOTEhmNkdSOEVKU1dUVVNjRF9VOWV6OERvREhkTVVPekk?oc=5",
+      "snippet": "AbbVie vs. Merck: Which Pharma Stock Offers Better Value? Yahoo Finance",
+      "published": "2026-10-16T17:36:15+00:00",
+      "themes": [
+        "Markets & stocks"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
     },
     {
       "id": "fd1348564475",
@@ -2496,6 +2573,22 @@
         "Tech & AI"
       ],
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
+    },
+    {
+      "id": "5cc0b45df35e",
+      "title": "Energy Stocks And Industry News: Oil, Gas, Solar, Coal And Nuclear Energy",
+      "publisher": "Investor's Business Daily",
+      "seen_in": [
+        "Stock market"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa3EtY3RUQXZhMi1nQTQyVmxac0p4dEhmR1pTSmFJV1VuYi1LQXZYZmI5cUY1QXhtZDh1dF9ieHdXUWYwektoRDRLNlV5cU5yODc3OXFJTHF5SjMwTHBQNDRuVHl4dVI0TkJUb3N5TWtlUFVLYkxXR29FTnhoX1JOQUNLcUNsMEsyQjBCUXhRLUtYQmttNEFDV1R6Sm82UmREdkt0NWotUjQ2NUpINVN1TUhZUE1rdmR6VEtYdDgzQVBYVDNXc0lCdXZFU29JVWhTcGc?oc=5",
+      "snippet": "Energy Stocks And Industry News: Oil, Gas, Solar, Coal And Nuclear Energy Investor's Business Daily",
+      "published": "2026-10-16T16:13:00+00:00",
+      "themes": [
+        "Markets & stocks",
+        "Crypto & commodities"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
     },
     {
       "id": "bca050549232",
@@ -3900,7 +3993,8 @@
       "title": "Stock Market Today (Oct. 16, 2026): S&P 500 edges higher as tech stocks struggle",
       "publisher": "Yahoo Finance Singapore",
       "seen_in": [
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "Wall Street"
       ],
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXM0JtQld5Nm5FcHRWME14bWZWanVJUVJxNzR2ZzRHbko1aHlJSFgxR1ZKa0NiRXNQS3NpeERJN21oTU8zdE9qdDRQR2RUaU1JQm5USENLT3QtdWxtSWxGNWlmMDVzQS0yaGw2R2NZMlRtV2NtcnVPSllXY3UzT1E?oc=5",
       "snippet": "Stock Market Today (Oct. 16, 2026): S&P 500 edges higher as tech stocks struggle Yahoo Finance Singapore",
@@ -4442,6 +4536,22 @@
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
     },
     {
+      "id": "83f76521924b",
+      "title": "ELA Q2 2026 Earnings: EPS of $0.16 Beats Estimate by 32%, Shares Tick Higher - Cost Structure Review",
+      "publisher": "https://www.siam.in/",
+      "seen_in": [
+        "Earnings"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMG9BbzJqUk5RWmg5Uk5peUV1ZHRINThFcHpNM3BUZng0UmtjTHFkZnNKd19yd3FLM25RTzNPZFBKUUNKOW0zRjRIaHJUWXZOMXlSbTR1aFNwOHdDMWtranpQTjdtMl9lQmE2bUZtN3VlOWlXZm44dW1yamNvMXc1cDdzTWQxdU9LSmc3ZTNrdUU1UWRMV2U0NWU4YnBOR1lUMWdGN2VTRlg2YTFVWFpraG1MRTA?oc=5",
+      "snippet": "ELA Q2 2026 Earnings: EPS of $0.16 Beats Estimate by 32%, Shares Tick Higher - Cost Structure Review https://www.siam.in/",
+      "published": "2026-10-16T13:31:17+00:00",
+      "themes": [
+        "Markets & stocks",
+        "Companies & earnings"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
+    },
+    {
       "id": "779959055677",
       "title": "Bonds Are Breaking, the Fed Is Boxed In: Why Stocks Can Keep Rising",
       "publisher": "I/O Fund",
@@ -4750,6 +4860,22 @@
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
     },
     {
+      "id": "3dac4292020b",
+      "title": "CRWV Stock\u2019s Weekly Sell-Off 'Overdone,' JPMorgan Says \u2014 Sees Robust AI Demand, Healthy Returns",
+      "publisher": "Yahoo Finance",
+      "seen_in": [
+        "Yahoo Finance"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY1FPZWhxaWRYaEg3clVhdXo3bzJuZ1RhcVQ4YkQ1ZjRpaDBQVUhkRy1faHVQS0JSNmlKNDNZWGhsbTZSbk5RRVFkYnVFQzA4REc3TEdOTW1VTVB5dVNuTEVyZzBJZVBHbVRKTHJ3WENhNTRxS3JxaTQ5ZHpITC16RFN6dnA1MTZnVk1maWRJWU1GWWd5UUE?oc=5",
+      "snippet": "CRWV Stock\u2019s Weekly Sell-Off 'Overdone,' JPMorgan Says \u2014 Sees Robust AI Demand, Healthy Returns Yahoo Finance",
+      "published": "2026-10-16T13:11:52+00:00",
+      "themes": [
+        "Markets & stocks",
+        "Tech & AI"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
+    },
+    {
       "id": "6598404185b6",
       "title": "Volatus Aerospace: Two Price-Target Nudges, One Unfinished Acquisition, and a Contract That Is Only",
       "publisher": "ad-hoc-news.de",
@@ -4905,6 +5031,21 @@
         "Companies & earnings"
       ],
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
+    },
+    {
+      "id": "78e432edab2e",
+      "title": "2 of Wall Street\u2019s Favorite Stocks to Target This Week and 1 We Ignore",
+      "publisher": "Yahoo Finance",
+      "seen_in": [
+        "Yahoo Finance"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenVRd1pTZHhqWDVCaDU4YndFRmNwc09WS2FnS3pEVkZmVHdrX0N1ME9kbUozQXI2WEhRa0FKX3pUQ1lsTkM4cUFpcUZwVHFId0htUWJWZnNDbkVDRDV0clktXzQ0OTRrWExMREc2ZkZnZkFXbm9iU0VrVUNRUE5TSkp0N05JNWJYd2FSMTdSZWRNemxPeTNiM1ZB?oc=5",
+      "snippet": "2 of Wall Street\u2019s Favorite Stocks to Target This Week and 1 We Ignore Yahoo Finance",
+      "published": "2026-10-16T12:59:39+00:00",
+      "themes": [
+        "Markets & stocks"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
     },
     {
       "id": "8bc7e806bf9d",
@@ -5578,6 +5719,21 @@
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
     },
     {
+      "id": "5bab86b8fe93",
+      "title": "Check out United Airlines Holdings's stock price (UAL) in real time",
+      "publisher": "CNBC",
+      "seen_in": [
+        "CNBC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MUGJlS2ZsTTJaaWNKb2pjS2dHNDd6S3lsbzBNNWRKaVdveC12NzY2RmxRYndPUklRTHllN2gtb3pwZE5kSmc?oc=5",
+      "snippet": "Check out United Airlines Holdings's stock price (UAL) in real time CNBC",
+      "published": "2026-10-16T11:43:20+00:00",
+      "themes": [
+        "Markets & stocks"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
+    },
+    {
       "id": "6cbfcdf9d47d",
       "title": "CoinShares reports $434M crypto fund outflows after hot U.S. CPI",
       "publisher": "Crypto News",
@@ -5640,6 +5796,22 @@
         "Markets & stocks"
       ],
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
+    },
+    {
+      "id": "f97491e7df79",
+      "title": "FOREX-Dollar heads for weekly fall as investors gauge AI selloff impact",
+      "publisher": "Devdiscourse",
+      "seen_in": [
+        "Tech & AI business"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZEdxc3JOSmxzdmRwT3EtTmJTZWsxWmY1MkdhRUxsZTFVV3YtRmFlSTk1LUZJOUlicExYbGlTVlhuTmM0Nmwzd0Y1UTBQWGRUdHhnTlpLS3R1NHZ0NHhURXIyWThVUXVWTlRuSS1vS1JBZWhTdmIzS1BpYXc3SVUtdHJ5NmM2Z0Q5dnRqQnlQYU40WE5OTWo1Q1NFb0JyRWRsc3FNV0l0ZE5qdWxYcGE0TFFBT0lsRk5sWWpmLWE5RmlaTDB5R1lEUVFfaDVqM3PSAc8BQVVfeXFMTWRHcXNyTkpsc3ZkcE9xLU5iU2VrMVpmNTJHYUVMbGUxVVd2LUZhZUk5NS1GSTlJYnBMWGxpU1ZYbk5jNDZsM3dGNVEwUFhkVHR4Z05aS0t0dTR2dDR4VEVyMlk4VVF1Vk5Ubkktb0tSQWVoU3ZiM0tQaWF3N0lVLXRyeTZjNmdEOXZ0akJ5UGFONFhOTk1qNUNTRW9CckVkbHNxTVdJdGROanVsWHBhNExRQU9JbEZObFlqZi1hOUZpWkwweUdZRFFRX2g1ajNz?oc=5",
+      "snippet": "FOREX-Dollar heads for weekly fall as investors gauge AI selloff impact Devdiscourse",
+      "published": "2026-10-16T11:36:59+00:00",
+      "themes": [
+        "Markets & stocks",
+        "Tech & AI"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
     },
     {
       "id": "aa4ed3d1c37b",
@@ -6248,6 +6420,21 @@
         "Markets & stocks"
       ],
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
+    },
+    {
+      "id": "60cfa8d81867",
+      "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
+      "publisher": "Yahoo Finance",
+      "seen_in": [
+        "Yahoo Finance"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5",
+      "snippet": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News Yahoo Finance",
+      "published": "2026-10-16T10:19:50+00:00",
+      "themes": [
+        "Markets & stocks"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
     },
     {
       "id": "e60d260b4c73",
@@ -7847,6 +8034,21 @@
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
     },
     {
+      "id": "84c1b41a5ad5",
+      "title": "10-Year Treasury Yield Hits 5% \u2014 Here\u2019s Why It Matters Uva (q2YTj30sgT)",
+      "publisher": "Unisba Media",
+      "seen_in": [
+        "Fed & rates"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1oyQmQyWTlFbXJjalFESTlvcHRaT3ZjanZIQWY3Q09vNERsbXJSQkZqc215QWRYQXhVejZHNHlkUjhXZFlvdnVscURoSlRIbXQzQ244MXhac2R2bVFySGVQdXhIbHVjVnVqLVdsOC1WX2FyQVd2UnVhdDVfT201YTBB?oc=5",
+      "snippet": "10-Year Treasury Yield Hits 5% \u2014 Here\u2019s Why It Matters Uva (q2YTj30sgT) Unisba Media",
+      "published": "2026-10-16T06:35:17+00:00",
+      "themes": [
+        "Economy & the Fed"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
+    },
+    {
       "id": "94056350faec",
       "title": "Shankesh Jewellers raises $38.7M in IPO with Kanga & Co advising",
       "publisher": "Dealroom",
@@ -7877,6 +8079,21 @@
         "Tech & AI"
       ],
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
+    },
+    {
+      "id": "6888c6a34a45",
+      "title": "Gold gains on softer dollar, but heads for weekly fall",
+      "publisher": "Business Recorder",
+      "seen_in": [
+        "Fed & rates"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iNHBGODZuQ0Q3bmV3dnRpTHZMOS1MT2xCOU9NU29wRUVlU2E0TTllN291cDNKXzJ4MHJpdlZSd3Mzc1U1QkpzRmNlTW1LS3F0WEdoTXdn0gFWQVVfeXFMT2I0cEY4Nm5DRDduZXd2dGlMdkw5LUxPbEI5T01Tb3BFRWVTYTRNOWU3b3VwM0pfMngwcml2VlJ3czNzVTVCSnNGY2VNbUtLcXRYR2hNd2c?oc=5",
+      "snippet": "Gold gains on softer dollar, but heads for weekly fall Business Recorder",
+      "published": "2026-10-16T06:31:11+00:00",
+      "themes": [
+        "Crypto & commodities"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
     },
     {
       "id": "ab6406028788",
@@ -8187,6 +8404,21 @@
         "Economy & the Fed"
       ],
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
+    },
+    {
+      "id": "f4eda6a7cc8e",
+      "title": "Warsh says Fed is focused on taming rising prices, but gives no hint about next rate hike",
+      "publisher": "NBC News",
+      "seen_in": [
+        "Fed & rates"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5",
+      "snippet": "Warsh says Fed is focused on taming rising prices, but gives no hint about next rate hike NBC News",
+      "published": "2026-10-16T05:04:00+00:00",
+      "themes": [
+        "Economy & the Fed"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
     },
     {
       "id": "42670f2c8333",
@@ -8562,6 +8794,22 @@
         "Deals & IPOs"
       ],
       "first_seen": "2026-10-16T23:40:48.685106+00:00"
+    },
+    {
+      "id": "633131b9622f",
+      "title": "Quantum computing stocks rally as IonQ, D-Wave and Rigetti post record earnings",
+      "publisher": "Startup Fortune",
+      "seen_in": [
+        "Earnings"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0xhY0IyZ0szWDhIUUpXQ1Fvak1LdXlRWHQ5a1JrSmp3SU11OEtMbWlkTUdPRVhtZnpkN181TnZIa3NJOXBNWkxvMldWRVZ6dkZTOU9acF96UEkwZzVtMUF3Sk1KUW1tNEU5R2syZmt4MUNCTlQ4RUVIMGY4Y2U1UzBRbkU0WUw4djRlSGFCRm1IaTJfV3d5dEpCUWlwWFpSbXEzVVE4VzZBQQ?oc=5",
+      "snippet": "Quantum computing stocks rally as IonQ, D-Wave and Rigetti post record earnings Startup Fortune",
+      "published": "2026-10-16T03:19:32+00:00",
+      "themes": [
+        "Markets & stocks",
+        "Companies & earnings"
+      ],
+      "first_seen": "2026-10-16T23:52:47.101903+00:00"
     },
     {
       "id": "c843144dd172",
