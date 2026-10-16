@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Daily Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f6f5f1; --card: #ffffff; --ink: #1d2733; --muted: #66707c;
+    --line: #e2dfd6; --accent: #1f5c4a; --accent-soft: #e3efe9; --new: #b4541a;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #12161b; --card: #1a2027; --ink: #e8eaed; --muted: #9aa3ad;
+      --line: #2b333c; --accent: #6fc2a4; --accent-soft: #1d3530; --new: #f0a36b;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 15px/1.5 Inter, system-ui, sans-serif; }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 32px 16px 64px; }
+  header { border-bottom: 2px solid var(--ink); padding-bottom: 14px; margin-bottom: 20px; }
+  h1 { font-family: "Source Serif 4", Georgia, serif; font-size: 30px; margin: 0; letter-spacing: -0.01em; }
+  .meta { color: var(--muted); font-size: 13px; margin-top: 4px; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+           gap: 8px; margin-bottom: 18px; }
+  .stat { background: var(--card); border: 1px solid var(--line); border-radius: 8px;
+          padding: 10px 12px; cursor: pointer; text-align: left; color: inherit; font: inherit; }
+  .stat:hover { border-color: var(--accent); }
+  .stat.active { border-color: var(--accent); background: var(--accent-soft); }
+  .stat b { display: block; font-size: 22px; font-variant-numeric: tabular-nums; }
+  .stat span { font-size: 12px; color: var(--muted); }
+  .controls { display: flex; gap: 8px; margin-bottom: 18px; flex-wrap: wrap; }
+  input[type=search] { flex: 1; min-width: 200px; padding: 9px 12px; border: 1px solid var(--line);
+                       border-radius: 8px; background: var(--card); color: var(--ink); font: inherit; }
+  label.toggle { display: flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); }
+  .story { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+           padding: 14px 16px; margin-bottom: 10px; }
+  .story a { color: var(--ink); text-decoration: none; font-weight: 600; font-size: 16px; }
+  .story a:hover { color: var(--accent); text-decoration: underline; }
+  .byline { font-size: 12.5px; color: var(--muted); margin: 3px 0 6px; }
+  .snippet { font-size: 14px; color: var(--muted); margin: 0 0 8px; }
+  .tags { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tag { font-size: 11.5px; padding: 2px 8px; border-radius: 99px;
+         background: var(--accent-soft); color: var(--accent); font-weight: 500; }
+  .tag.new { background: transparent; color: var(--new); border: 1px solid var(--new); }
+  .day { font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted);
+         margin: 22px 0 8px; font-weight: 600; }
+  .tabs { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px; }
+  .tab { border: 1px solid var(--line); background: var(--card); color: var(--ink); font: inherit;
+         font-size: 14px; padding: 6px 14px; border-radius: 99px; cursor: pointer; }
+  .tab.active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .tab small { opacity: .7; margin-left: 4px; }
+  .recap { background: var(--accent-soft); border: 1px solid var(--accent); border-radius: 10px;
+           padding: 14px 16px; margin-bottom: 18px; }
+  .recap h2 { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; margin: 0 0 6px; color: var(--accent); }
+  .recap p { margin: 0 0 8px; }
+  .recap ol { margin: 0; padding-left: 20px; }
+  .recap li { margin-bottom: 6px; }
+  .recap li a { color: var(--ink); font-weight: 600; }
+  .recap .why { color: var(--muted); font-size: 14px; display: block; }
+  @media (max-width: 600px) {
+    .stats { grid-template-columns: repeat(3, 1fr); gap: 6px; }
+    .stat { padding: 7px 9px; }
+    .stat b { font-size: 17px; }
+    .stat span { font-size: 11px; line-height: 1.25; display: block; }
+  }
+  .empty { text-align: center; color: var(--muted); padding: 40px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1 id="title">Daily Brief</h1>
+    <div class="meta" id="updated">Loading…</div>
+  </header>
+
+  <nav class="tabs" id="tabs"></nav>
+  <section class="recap" id="recap" hidden></section>
+  <div class="stats" id="stats"></div>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search headlines (e.g. PCAOB, KPMG, fraud)">
+    <label class="toggle"><input type="checkbox" id="newOnly"> New today only</label>
+  </div>
+
+  <div id="list"></div>
+</div>
+
+<script>
+let data = { stories: [], themes: [] };
+let activeTheme = "All";
+
+const fmtDay = d => d.toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
+const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function isNew(story) {
+  return Date.now() - new Date(story.first_seen) < 24 * 3600 * 1000;
+}
+
+function renderStats() {
+  const counts = { All: data.stories.length };
+  data.themes.forEach(t => counts[t] = data.stories.filter(s => s.themes.includes(t)).length);
+  document.getElementById("stats").innerHTML = Object.entries(counts)
+    .filter(([t, n]) => t !== "Other" || n > 0)
+    .map(([t, n]) => `<button class="stat ${t === activeTheme ? "active" : ""}" data-theme="${esc(t)}">
+        <b>${n}</b><span>${esc(t === "All" ? "All stories" : t)}</span></button>`).join("");
+  document.querySelectorAll(".stat").forEach(b =>
+    b.onclick = () => { activeTheme = b.dataset.theme; render(); });
+}
+
+function renderList() {
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  const newOnly = document.getElementById("newOnly").checked;
+  const shown = data.stories.filter(s =>
+    (activeTheme === "All" || s.themes.includes(activeTheme)) &&
+    (!newOnly || isNew(s)) &&
+    (!q || (s.title + " " + s.publisher + " " + s.snippet).toLowerCase().includes(q)));
+
+  if (!shown.length) {
+    document.getElementById("list").innerHTML = `<div class="empty">No stories match.</div>`;
+    return;
+  }
+
+  let html = "", lastDay = "";
+  for (const s of shown) {
+    const day = fmtDay(new Date(s.published));
+    if (day !== lastDay) { html += `<div class="day">${day}</div>`; lastDay = day; }
+    html += `<article class="story">
+      <a href="${esc(s.link)}" target="_blank" rel="noopener">${esc(s.title)}</a>
+      <div class="byline">${esc(s.publisher)}</div>
+      ${s.snippet && s.snippet !== s.title ? `<p class="snippet">${esc(s.snippet)}</p>` : ""}
+      <div class="tags">
+        ${isNew(s) ? `<span class="tag new">New</span>` : ""}
+        ${s.themes.map(t => `<span class="tag">${esc(t)}</span>`).join("")}
+      </div>
+    </article>`;
+  }
+  document.getElementById("list").innerHTML = html;
+}
+
+function render() { renderStats(); renderList(); }
+
+let topics = [];
+
+function renderTabs(current) {
+  const el = document.getElementById("tabs");
+  el.hidden = topics.length < 2;   // tabs only appear once you have 2+ topics
+  el.innerHTML = topics.map(t => `<button class="tab ${t.slug === current ? "active" : ""}" data-slug="${esc(t.slug)}">
+      ${esc(t.name)}${t.new_count ? `<small>${t.new_count} new</small>` : ""}</button>`).join("");
+  el.querySelectorAll(".tab").forEach(b => b.onclick = () => { location.hash = b.dataset.slug; });
+}
+
+function renderRecap(r) {
+  const el = document.getElementById("recap");
+  if (!r) { el.hidden = true; return; }
+  el.hidden = false;
+  el.innerHTML = `<h2>Morning recap${r.written_by === "ai" ? " · AI-written" : ""}</h2>
+    <p>${esc(r.quick_take)}</p>
+    ${r.standouts.length ? `<ol>${r.standouts.map(s => `<li><a href="${esc(s.link)}" target="_blank" rel="noopener">${esc(s.title)}</a>
+      <span class="why">${esc(s.why)}</span></li>`).join("")}</ol>` : ""}`;
+}
+
+function loadTopic(slug) {
+  activeTheme = "All";
+  renderTabs(slug);
+  fetch(`data/${slug}.json`, { cache: "no-store" })
+    .then(r => r.json())
+    .then(d => {
+      data = d;
+      document.getElementById("title").textContent = `${d.name} — Daily Brief`;
+      document.title = `${d.name} — Daily Brief`;
+      document.getElementById("updated").textContent =
+        `Updated ${new Date(d.updated).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" })} · ` +
+        `${d.stories.filter(isNew).length} new today`;
+      renderRecap(d.recap);
+      render();
+    });
+}
+
+function route() {
+  const slug = location.hash.slice(1);
+  loadTopic(topics.some(t => t.slug === slug) ? slug : topics[0].slug);
+}
+
+fetch("data/topics.json", { cache: "no-store" })
+  .then(r => r.json())
+  .then(d => { topics = d.topics; route(); window.onhashchange = route; })
+  .catch(() => document.getElementById("updated").textContent =
+    "No data yet. Run the workflow once from the Actions tab.");
+
+document.getElementById("q").oninput = renderList;
+document.getElementById("newOnly").onchange = renderList;
+</script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+# TEMPLATE: copy this file to add a new topic.
+#   1. Copy it and rename the copy, e.g. topics/cpa-exam.yaml
+#      (short name, no spaces, and NOT starting with "_";
+#       files starting with "_" are ignored, which is why this one is skipped)
+#   2. Fill in the fields below.
+#   3. Upload it to GitHub. It shows up as a new tab on the dashboard after the
+#      next morning run, or right away if you click "Run workflow".
+
+name: My New Topic          # Tab name on the dashboard
+
+notify: true                # true = include in the morning push; false = dashboard only
+
+recap_focus: >
+  One or two sentences on what you want to know about this topic and why.
+
+# A story must mention at least one word from EVERY group.
+# One group = "mentions any of these". Two groups = "mentions one from each".
+must_mention:
+  - [keyword one, keyword two, keyword three]
+
+sources:
+  - name: Example search
+    query: your search words here
+  - name: Example publication
+    query: site:example.com your search words
+
+priority_sources: []        # Names from the list above to favor in the recap
+
+themes:
+  First theme: [word, another word]
+  Second theme: [word, another word]

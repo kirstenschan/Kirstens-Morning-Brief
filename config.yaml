@@ -1,0 +1,25 @@
+# Settings shared by every topic.
+# Each topic you follow lives in its own file in the topics/ folder.
+
+# Your dashboard's web address. Fill this in once GitHub Pages is on,
+# so tapping the morning notification opens it.
+dashboard_url: ""
+
+# How many days of stories to keep on the dashboard
+keep_days: 30
+
+# Who the morning recap is written for. The AI uses this to explain
+# why each story matters to you.
+reader_profile: >
+  A recent accounting graduate and aspiring CPA starting a career in
+  public accounting audit, with internship experience but no full-time
+  work experience yet. Wants to understand what's changing in the
+  profession, sound informed in interviews and on the job, and know
+  which skills to build.
+
+# The AI model that writes the recap. claude-haiku-5-5 is cheaper;
+# claude-sonnet-5-5 writes a bit better. Either costs pennies a day.
+recap_model: claude-sonnet-5-5
+
+# Max number of stand-out stories in each morning recap
+recap_top_stories: 3

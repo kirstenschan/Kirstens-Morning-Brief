@@ -1,0 +1,72 @@
+# Topic: AI in public accounting audit
+# The file name (ai-in-audit) becomes this topic's ID; keep it short, no spaces.
+
+name: AI in Audit
+
+# Send a morning push notification for this topic?
+notify: true
+
+# What this topic is about, in plain words. Given to the AI writing the recap.
+recap_focus: >
+  How artificial intelligence is changing public accounting audit:
+  firm tools, regulator and standard-setter actions, risk and controls,
+  and what it means for entry-level auditors.
+
+# A story must mention at least one word from EVERY group below.
+# Here: something about AI, AND something about audit/accounting.
+must_mention:
+  - [artificial intelligence, " ai ", "ai-", generative, genai, machine learning,
+     large language model, llm, chatgpt, copilot, agentic, automation]
+  - [audit, auditor, assurance, cpa, accounting, accountant, pcaob, aicpa, iaasb,
+     internal control, sox, big four, big 4, deloitte, pwc, kpmg, ernst & young, " ey "]
+
+# Searches. Each becomes a Google News feed. "site:" limits to one publication.
+sources:
+  # Regulators and standard setters
+  - name: PCAOB
+    query: PCAOB artificial intelligence OR "generative AI" OR technology
+  - name: AICPA
+    query: AICPA artificial intelligence OR AI
+  - name: IAASB
+    query: IAASB technology OR "artificial intelligence"
+  - name: IIA
+    query: '"Institute of Internal Auditors" AI'
+  # Big 4
+  - name: Deloitte
+    query: Deloitte audit AI
+  - name: PwC
+    query: PwC audit AI
+  - name: EY
+    query: EY audit "artificial intelligence" OR AI
+  - name: KPMG
+    query: KPMG audit AI
+  # Trade press
+  - name: Journal of Accountancy
+    query: site:journalofaccountancy.com AI
+  - name: Accounting Today
+    query: site:accountingtoday.com AI audit
+  - name: CPA Practice Advisor
+    query: site:cpapracticeadvisor.com AI
+  - name: CFO Dive
+    query: site:cfodive.com AI audit OR accounting
+  # Broad catch-all
+  - name: General
+    query: '"AI" "audit" accounting firm'
+
+# Sources whose stories get a boost when picking stand-outs for the recap
+priority_sources: [PCAOB, AICPA, IAASB, IIA, Deloitte, PwC, EY, KPMG]
+
+# Themes. A story gets every theme whose keywords it mentions.
+# Stories that match none land in "Other".
+themes:
+  Firm tools:
+    [deloitte, pwc, kpmg, " ey ", big four, big 4, platform, launch, rollout,
+     tool, agent, copilot, invest]
+  Regulation & standards:
+    [pcaob, aicpa, iaasb, " sec ", standard, guidance, rule, inspection,
+     regulator, board]
+  Risk & controls:
+    [risk, control, fraud, sox, governance, assurance, cyber, internal audit]
+  Skills & careers:
+    [cpa exam, career, talent, hiring, graduate, entry-level, staff accountant,
+     training, skills, pipeline, workforce, jobs]
