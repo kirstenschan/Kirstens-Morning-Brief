@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-16T23:52:47.101903+00:00",
+  "updated": "2026-10-17T14:20:12.041106+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,18 +10,62 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Only one new story today: the AICPA has released guidance on using AI in financial reporting and auditing, a notable standards-side signal.",
+    "quick_take": "Today's stories cover trust in AI assistants, AI-driven fraud risk, and an AI-company auditor change. Together they show verification and skepticism staying central as AI use grows.",
     "standouts": [
       {
-        "id": "5ca63482552b",
-        "title": "AICPA Releases Guidance on the Use of AI in Financial Reporting and Auditing",
-        "publisher": "CPA Practice Advisor",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPalZLbUJDRzZQQjlScGxEME9FdzhrQkNVLS14TjByNWtlRWl0a0F3OXRoeGRCU2JTM0RLS09kTE80WmEzX1o3TnlfeWIzcUdTVW9fd2VqcUpBTEZJNExJTUZHcU1yYXpaQUZFUUJCYnFkMUd4dUdkSTdtZnpqREJYR0RrdmhEbnk4S0NydHFzUlI4cjQ3aEtqajNsNXMyOTdLTVlJMlg2SG9DcFV6REk4UDVGVGVTSmk5eFpYbTM1MUwxV1FGc2Npd3BR?oc=5",
-        "why": "The AICPA is the profession's standard-setter, so its AI guidance on reporting and auditing is worth knowing for interviews and your first busy season."
+        "id": "bb34608a895d",
+        "title": "The AI Assistant Paradox: The More You Use It, the Less You Should Trust It?",
+        "publisher": "kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTXc4T3dIalFUQXpnSFZDZlRDeVVxM2JNVFZIMEtKdG9uallUWi1aN19UNDU2LUJsdktHSzZYelF0UjFVekhfczhpckgxdnNhanJpWlJCMnNNdWdzNkpnRXNuNzlGN2U2aHlZdVdqR204ZU94MUF6SzBkS0NZX01PaGZmWmMtdw?oc=5",
+        "why": "A KPMG piece on trusting AI assistants less the more you use them speaks to the professional skepticism you'll need when using firm AI tools."
+      },
+      {
+        "id": "b0d84304b26e",
+        "title": "AI vs Fraud: how accountants can stay ahead of emerging threats",
+        "publisher": "Accountancy Today",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWJwVjVmV0NRanNXdVF1dTdxcE91SF83TE1kNlVRNlJueDRRTXB6bF9jUUlTYnVNQm9rWXo1ZEE5X1E4QVlWZDVHYWpvV2JvQVJmYW0yRjZDSzVoWF82R01WZ1EzNUVNZkRpRHRxVWtsMlRhXzQxa1VvNFpkbEg2cUM2VGJSempySVhZUFZlVUNuak80UmdoMXdZeE8xNGRDX0ptT1lwX05udF9YYVE?oc=5",
+        "why": "Covers how accountants can stay ahead of AI-enabled fraud threats, a useful angle for fraud-risk discussions in interviews and on engagements."
+      },
+      {
+        "id": "3c92f4627a50",
+        "title": "Arrive AI Auditor Stephano Slack Resigns; M&K CPAS Engaged Same Day",
+        "publisher": "Minichart",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjUyVFdCN2FVUWRJTnZYOHdGX3dSaW1oU0ROeVJGNWU0ZmlDYUZXU1Z2Y3JCeVZ1cmlNNFpQWkdpa1lfUk12Rmk1V19DU3JDOGs4NndfN3lQM3RHREJVRFlSQnRwRV9XdDFIUmZXRlJzSGc2UmhxaW5XaXMwc0JWVVRZelU1cDB5ZHFxUEx4b1loSHJaREVuRWVwTlZ1d1F6SjQxWk5uX0VQdw?oc=5",
+        "why": "An AI company's auditor resigned and a new firm was engaged the same day, a real-world example of auditor changes at AI-focused clients."
       }
     ]
   },
   "stories": [
+    {
+      "id": "3c92f4627a50",
+      "title": "Arrive AI Auditor Stephano Slack Resigns; M&K CPAS Engaged Same Day",
+      "publisher": "Minichart",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjUyVFdCN2FVUWRJTnZYOHdGX3dSaW1oU0ROeVJGNWU0ZmlDYUZXU1Z2Y3JCeVZ1cmlNNFpQWkdpa1lfUk12Rmk1V19DU3JDOGs4NndfN3lQM3RHREJVRFlSQnRwRV9XdDFIUmZXRlJzSGc2UmhxaW5XaXMwc0JWVVRZelU1cDB5ZHFxUEx4b1loSHJaREVuRWVwTlZ1d1F6SjQxWk5uX0VQdw?oc=5",
+      "snippet": "Arrive AI Auditor Stephano Slack Resigns; M&K CPAS Engaged Same Day Minichart",
+      "published": "2026-10-17T02:34:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-17T14:20:12.041106+00:00"
+    },
+    {
+      "id": "bb34608a895d",
+      "title": "The AI Assistant Paradox: The More You Use It, the Less You Should Trust It?",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTXc4T3dIalFUQXpnSFZDZlRDeVVxM2JNVFZIMEtKdG9uallUWi1aN19UNDU2LUJsdktHSzZYelF0UjFVekhfczhpckgxdnNhanJpWlJCMnNNdWdzNkpnRXNuNzlGN2U2aHlZdVdqR204ZU94MUF6SzBkS0NZX01PaGZmWmMtdw?oc=5",
+      "snippet": "The AI Assistant Paradox: The More You Use It, the Less You Should Trust It? kpmg.com",
+      "published": "2026-10-16T23:11:30+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-17T14:20:12.041106+00:00"
+    },
     {
       "id": "705144a766d8",
       "title": "Friday Footnotes: Career Ladder is Out, Career Playground Is In; AI Ranks as Leading Ethical Challenge Facing Accountants | 10.16.26",
@@ -44,7 +88,8 @@
       "title": "AI beats human accountants at monthly close, transaction categorization",
       "publisher": "Accounting Today",
       "seen_in": [
-        "Accounting Today"
+        "Accounting Today",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUhMRUpFQ1BXSnBXeGpXVldPa1daZVJTRFljZWZnc3JNa1NSSnhBY0Fwb2JwVkYxakNxemZyNlo0M0Q1aDNNR0NmMTUtZW9oaWRsbDVoUjU2amU0Z05kSzQyR1VVc25JZ1hsdXNpQlNuWlN3cUllQ3VZSDNRUVI4TmJfNEkweV9LRTMzSk1UU0dJdkhIRTMzM29JUWNoLXMwYTNua1E1TUY4UGs?oc=5",
       "snippet": "AI beats human accountants at monthly close, transaction categorization Accounting Today",
@@ -799,6 +844,21 @@
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
     },
     {
+      "id": "b0d84304b26e",
+      "title": "AI vs Fraud: how accountants can stay ahead of emerging threats",
+      "publisher": "Accountancy Today",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWJwVjVmV0NRanNXdVF1dTdxcE91SF83TE1kNlVRNlJueDRRTXB6bF9jUUlTYnVNQm9rWXo1ZEE5X1E4QVlWZDVHYWpvV2JvQVJmYW0yRjZDSzVoWF82R01WZ1EzNUVNZkRpRHRxVWtsMlRhXzQxa1VvNFpkbEg2cUM2VGJSempySVhZUFZlVUNuak80UmdoMXdZeE8xNGRDX0ptT1lwX05udF9YYVE?oc=5",
+      "snippet": "AI vs Fraud: how accountants can stay ahead of emerging threats Accountancy Today",
+      "published": "2026-10-14T12:51:10+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-17T14:20:12.041106+00:00"
+    },
+    {
       "id": "770db19eca75",
       "title": "2026 Innovation Awards Announced: AI Tech Drives Advancements for Accounting Firms",
       "publisher": "CPA Practice Advisor",
@@ -943,7 +1003,8 @@
       "seen_in": [
         "AICPA",
         "CFO Dive",
-        "General"
+        "General",
+        "PwC"
       ],
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQXlQWV9sOWdIekdrVl9SWTE3aFNvYjZnSXVMSnRIWUZoSDBGcVdzV0w2cG5qUlUzaERxcnA3US1lMGpya3RkOWQxY3pFVXo3dzhoOV91OW5uNnZiMjRMZ2hITUR4LW5vODJXZjVMbnBNQUsyX0lTQUR4VVJlWlo0TXJFa1J1UQ?oc=5",
       "snippet": "AICPA issues guidance for AI-assisted auditing CFO Dive",
@@ -1138,6 +1199,21 @@
         "Regulation & standards"
       ],
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
+    },
+    {
+      "id": "c16b868b9d28",
+      "title": "Canadian AI procurement a priority as public sector pushes ahead with adoption",
+      "publisher": "KPMG International",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWC1vZmNvTURTakNIVG5HbFdnMEFidjBPNXhrQmhlTGQ3VGFFbG0wR0pXeWNGa0Q5TmgyNUl5WndiOEpUZnNVakVjQ1RQQVpPaXZHR05YR21iNzVERk5nZ3lNNHNscVpoMXdSaTBha041bVhaYm1RVnllQ2h5UWJkZ1QtSGVaOUhuTnBqRWpTUm80bEhH?oc=5",
+      "snippet": "Canadian AI procurement a priority as public sector pushes ahead with adoption KPMG International",
+      "published": "2026-10-13T11:27:07+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-17T14:20:12.041106+00:00"
     },
     {
       "id": "e55d39f9c716",
