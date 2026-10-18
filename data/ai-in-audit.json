@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-17T14:20:12.041106+00:00",
+  "updated": "2026-10-18T14:20:09.062308+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,47 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's stories cover trust in AI assistants, AI-driven fraud risk, and an AI-company auditor change. Together they show verification and skepticism staying central as AI use grows.",
+    "quick_take": "Big Four firms keep publishing guidance on AI's upside and risks, and KPMG is investing in trusted AI. Today's items are mostly thought leadership, so details are thin.",
     "standouts": [
       {
-        "id": "bb34608a895d",
-        "title": "The AI Assistant Paradox: The More You Use It, the Less You Should Trust It?",
-        "publisher": "kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTXc4T3dIalFUQXpnSFZDZlRDeVVxM2JNVFZIMEtKdG9uallUWi1aN19UNDU2LUJsdktHSzZYelF0UjFVekhfczhpckgxdnNhanJpWlJCMnNNdWdzNkpnRXNuNzlGN2U2aHlZdVdqR204ZU94MUF6SzBkS0NZX01PaGZmWmMtdw?oc=5",
-        "why": "A KPMG piece on trusting AI assistants less the more you use them speaks to the professional skepticism you'll need when using firm AI tools."
+        "id": "365e295b75bb",
+        "title": "AI's potential, AI's risk: What CAEs should know",
+        "publisher": "PwC",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMFplR2pmSGQ0d0tEQy1Oa1pmVjNBd2hWVXB0TUEwbnExcndMaXJ2Z3lrLTI3eVBXTjgzZjRsTlZvXy1tUFFvZ3JFeTBCdHh3clZvbzBmNUF0cmdhWWl3ZGF4cWxpa0kxbjNVNGhwT25UTVZwbzVCQjJIR3RmYU1sSFhhRW9IaV9hU0lj?oc=5",
+        "why": "PwC's view on AI's potential and risks for chief audit executives shows what audit leaders will expect on AI risk and controls."
       },
       {
-        "id": "b0d84304b26e",
-        "title": "AI vs Fraud: how accountants can stay ahead of emerging threats",
-        "publisher": "Accountancy Today",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWJwVjVmV0NRanNXdVF1dTdxcE91SF83TE1kNlVRNlJueDRRTXB6bF9jUUlTYnVNQm9rWXo1ZEE5X1E4QVlWZDVHYWpvV2JvQVJmYW0yRjZDSzVoWF82R01WZ1EzNUVNZkRpRHRxVWtsMlRhXzQxa1VvNFpkbEg2cUM2VGJSempySVhZUFZlVUNuak80UmdoMXdZeE8xNGRDX0ptT1lwX05udF9YYVE?oc=5",
-        "why": "Covers how accountants can stay ahead of AI-enabled fraud threats, a useful angle for fraud-risk discussions in interviews and on engagements."
+        "id": "99381d341c11",
+        "title": "KPMG Launches Trusted AI Centre of Excellence in Singapore",
+        "publisher": "Singapore Economic Development Board (EDB)",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHNIbnZaM29ZOWs1d3ZGSDZoWkxSUDBsa2dnLUZvVHlpdk93NzgyRzRTd0ZmOVJsdWRjUlQzclM0VXZhaTlsMlZiZkRJMDFET3NaeVk0TU16RGUtY2xxTWxpZkZDY1BiV2tFd0w4Wm5lcWpJb01fZUF4YVkxRzFoeEtGWl8xZUtmaE1EdVZoU2c5LVdIQlVpV3ZIR3hJQUVB?oc=5",
+        "why": "KPMG's Trusted AI Centre of Excellence shows a Big Four firm investing in governed AI, which is useful to cite in interviews."
       },
       {
-        "id": "3c92f4627a50",
-        "title": "Arrive AI Auditor Stephano Slack Resigns; M&K CPAS Engaged Same Day",
-        "publisher": "Minichart",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjUyVFdCN2FVUWRJTnZYOHdGX3dSaW1oU0ROeVJGNWU0ZmlDYUZXU1Z2Y3JCeVZ1cmlNNFpQWkdpa1lfUk12Rmk1V19DU3JDOGs4NndfN3lQM3RHREJVRFlSQnRwRV9XdDFIUmZXRlJzSGc2UmhxaW5XaXMwc0JWVVRZelU1cDB5ZHFxUEx4b1loSHJaREVuRWVwTlZ1d1F6SjQxWk5uX0VQdw?oc=5",
-        "why": "An AI company's auditor resigned and a new firm was engaged the same day, a real-world example of auditor changes at AI-focused clients."
+        "id": "d708bf9ef9b8",
+        "title": "AI in Finance: What Controllers Need to Know",
+        "publisher": "Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWVZNXQxNTNaeTNGMkM5VDA2bmFtS05aSmRJLURJR2hHQnZOSkNkRy1OYXFoc1dvMDJ1c2duZjF6a05fUmg0TEJsZ19hRGJFc2c1alZEQ2ZLNHRSOTJBakVpUE9uT0R4NHpYTklYTFIwT19UenpSNkV2V0lsOGpCMUt5MWhLakg2Z0hLUmpKdnR5QU1fc3V2OWpOYVFHQQ?oc=5",
+        "why": "Deloitte's AI guidance for controllers shows how clients are approaching AI in finance, which shapes the controls you'll audit."
       }
     ]
   },
   "stories": [
+    {
+      "id": "550730725eba",
+      "title": "The new economics of AI: Understanding what AI Is worth",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1POEVJT1ZjWUhMdDBZNnpmajFnVUE5YVlZUFJUUUdQa3hsS25CSjZiN2V3ZHJHcV81OFRmdXF3OHBPME1rU1VxX3ZoaktQNHM0ckJNTUpKSzlYemw3MlVhRE9pSVBfYm9Od1Q5ajJR?oc=5",
+      "snippet": "The new economics of AI: Understanding what AI Is worth kpmg.com",
+      "published": "2026-10-17T18:31:36+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-18T14:20:09.062308+00:00"
+    },
     {
       "id": "3c92f4627a50",
       "title": "Arrive AI Auditor Stephano Slack Resigns; M&K CPAS Engaged Same Day",
@@ -377,7 +392,8 @@
       "title": "Not all AI is built for auditing \u2014 here\u2019s the difference",
       "publisher": "Thomson Reuters tax",
       "seen_in": [
-        "General"
+        "General",
+        "PwC"
       ],
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0xHbnFoRFJiWFdXVWd4dDFBSUoySDlIUDNMVmE5UmxBOF9UeTBseV9mNFNOamgxWm9RZTAwbFZ6S0s2SkxJYm9lalRKQVRxbVR1cFE3aGZFMVBkVENWaTdYYWh2dl9uVWtTNlFSM2pzaHBmbGJWNjU2bm40R0JPTWEzUHNpXzBaV0E5TENZNFQ3QThO?oc=5",
       "snippet": "Not all AI is built for auditing \u2014 here\u2019s the difference Thomson Reuters tax",
@@ -718,6 +734,37 @@
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
     },
     {
+      "id": "365e295b75bb",
+      "title": "AI's potential, AI's risk: What CAEs should know",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMFplR2pmSGQ0d0tEQy1Oa1pmVjNBd2hWVXB0TUEwbnExcndMaXJ2Z3lrLTI3eVBXTjgzZjRsTlZvXy1tUFFvZ3JFeTBCdHh3clZvbzBmNUF0cmdhWWl3ZGF4cWxpa0kxbjNVNGhwT25UTVZwbzVCQjJIR3RmYU1sSFhhRW9IaV9hU0lj?oc=5",
+      "snippet": "AI's potential, AI's risk: What CAEs should know PwC",
+      "published": "2026-10-14T16:00:00+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-18T14:20:09.062308+00:00"
+    },
+    {
+      "id": "594846a12d17",
+      "title": "Artificial Intelligence Archives - Page 112 of 113",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXZ6aDF1bHEyZ05aWjM0WnZOVmVGNTJ6WHJmcVRJSkV1Y0VyN2V4eVAtZzBsY0lTR3lrbUZLX0J3Y2NIdXk4T1dSTFdCZDlaQUQ3UHhQSkZFLTRDTTJNbjZ1MkxpQ1BrQmRDY19aMzZfd2NHdDdDMVMyOHpSSlVPMGF3?oc=5",
+      "snippet": "Artificial Intelligence Archives - Page 112 of 113 CPA Practice Advisor",
+      "published": "2026-10-14T15:50:36+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-18T14:20:09.062308+00:00"
+    },
+    {
       "id": "5d4d1e01e59d",
       "title": "Inside EY's $57bn Year: AI Growth, Changing Workforce and the Economics of the Big Four",
       "publisher": "https://www.big4news.com/",
@@ -734,6 +781,22 @@
         "Skills & careers"
       ],
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
+    },
+    {
+      "id": "d708bf9ef9b8",
+      "title": "AI in Finance: What Controllers Need to Know",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWVZNXQxNTNaeTNGMkM5VDA2bmFtS05aSmRJLURJR2hHQnZOSkNkRy1OYXFoc1dvMDJ1c2duZjF6a05fUmg0TEJsZ19hRGJFc2c1alZEQ2ZLNHRSOTJBakVpUE9uT0R4NHpYTklYTFIwT19UenpSNkV2V0lsOGpCMUt5MWhLakg2Z0hLUmpKdnR5QU1fc3V2OWpOYVFHQQ?oc=5",
+      "snippet": "AI in Finance: What Controllers Need to Know Deloitte",
+      "published": "2026-10-14T14:47:38+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-18T14:20:09.062308+00:00"
     },
     {
       "id": "d6f891d2868b",
@@ -934,6 +997,22 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
+    },
+    {
+      "id": "99381d341c11",
+      "title": "KPMG Launches Trusted AI Centre of Excellence in Singapore",
+      "publisher": "Singapore Economic Development Board (EDB)",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHNIbnZaM29ZOWs1d3ZGSDZoWkxSUDBsa2dnLUZvVHlpdk93NzgyRzRTd0ZmOVJsdWRjUlQzclM0VXZhaTlsMlZiZkRJMDFET3NaeVk0TU16RGUtY2xxTWxpZkZDY1BiV2tFd0w4Wm5lcWpJb01fZUF4YVkxRzFoeEtGWl8xZUtmaE1EdVZoU2c5LVdIQlVpV3ZIR3hJQUVB?oc=5",
+      "snippet": "KPMG Launches Trusted AI Centre of Excellence in Singapore Singapore Economic Development Board (EDB)",
+      "published": "2026-10-14T07:00:00+00:00",
+      "themes": [
+        "Firm tools",
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-10-18T14:20:09.062308+00:00"
     },
     {
       "id": "29dda5378974",
