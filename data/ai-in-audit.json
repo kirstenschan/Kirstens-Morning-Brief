@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-18T14:20:09.062308+00:00",
+  "updated": "2026-10-19T14:32:40.878056+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,96 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Big Four firms keep publishing guidance on AI's upside and risks, and KPMG is investing in trusted AI. Today's items are mostly thought leadership, so details are thin.",
+    "quick_take": "AI is moving from audit tool to audit subject: the AICPA is launching assurance for AI systems, and reports warn that governance is lagging adoption.",
     "standouts": [
       {
-        "id": "365e295b75bb",
-        "title": "AI's potential, AI's risk: What CAEs should know",
-        "publisher": "PwC",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMFplR2pmSGQ0d0tEQy1Oa1pmVjNBd2hWVXB0TUEwbnExcndMaXJ2Z3lrLTI3eVBXTjgzZjRsTlZvXy1tUFFvZ3JFeTBCdHh3clZvbzBmNUF0cmdhWWl3ZGF4cWxpa0kxbjNVNGhwT25UTVZwbzVCQjJIR3RmYU1sSFhhRW9IaV9hU0lj?oc=5",
-        "why": "PwC's view on AI's potential and risks for chief audit executives shows what audit leaders will expect on AI risk and controls."
+        "id": "281534c94b46",
+        "title": "AICPA partners on new offering that assures AI systems and agents",
+        "publisher": "Journal of Accountancy",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORlowZ1Y0RGhWU1VqM3YwMndFV0ZEcWNIRFpuYTlTRkpKR0ZXQ1kxX2QxRXFUY25GRUtvc0NaVWRBWmlLdmYzWGNPeXFsS3o1djJkOXJSRUJQdG5FZGdoSUZ2Q0wwdFJnYXJzc2Y4MTN1dWNTMjR3cWFfVWIzYnp0clVqSFVLSF9nZ1hkNDY0WmQteXZWS2tSamxQV25zTjV3MngzbjlLdUpiSGNvdWFRSGNubnZvYnZJ?oc=5",
+        "why": "The AICPA is partnering on an offering to assure AI systems and agents, a sign of new attest work CPAs may do."
       },
       {
-        "id": "99381d341c11",
-        "title": "KPMG Launches Trusted AI Centre of Excellence in Singapore",
-        "publisher": "Singapore Economic Development Board (EDB)",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHNIbnZaM29ZOWs1d3ZGSDZoWkxSUDBsa2dnLUZvVHlpdk93NzgyRzRTd0ZmOVJsdWRjUlQzclM0VXZhaTlsMlZiZkRJMDFET3NaeVk0TU16RGUtY2xxTWxpZkZDY1BiV2tFd0w4Wm5lcWpJb01fZUF4YVkxRzFoeEtGWl8xZUtmaE1EdVZoU2c5LVdIQlVpV3ZIR3hJQUVB?oc=5",
-        "why": "KPMG's Trusted AI Centre of Excellence shows a Big Four firm investing in governed AI, which is useful to cite in interviews."
+        "id": "5c40379c0372",
+        "title": "With AI adoption outpacing governance, audit faces new risks",
+        "publisher": "Accounting Today",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPclVkUERfVVRWcW1UTXMtR0RScUV3bEZJQUZvS050WkQ1enNFT0ptQUlReWxZMjhpY3c0bUNKczBKQUw2NW9yZkJNRzY5VVlrQnJodUlyaGdHZnpFYzJVcE5Xc0tXaVlERGJobmgxeXJiZUZEZnluVE8wVlk5MlFOaC1zbTllMlZYU0d3T0xydEZjd3gyOUczbE1DemtrZllISUVURQ?oc=5",
+        "why": "Adoption is outpacing governance, creating new audit risks and control questions you can raise credibly in interviews."
       },
       {
-        "id": "d708bf9ef9b8",
-        "title": "AI in Finance: What Controllers Need to Know",
-        "publisher": "Deloitte",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWVZNXQxNTNaeTNGMkM5VDA2bmFtS05aSmRJLURJR2hHQnZOSkNkRy1OYXFoc1dvMDJ1c2duZjF6a05fUmg0TEJsZ19hRGJFc2c1alZEQ2ZLNHRSOTJBakVpUE9uT0R4NHpYTklYTFIwT19UenpSNkV2V0lsOGpCMUt5MWhLakg2Z0hLUmpKdnR5QU1fc3V2OWpOYVFHQQ?oc=5",
-        "why": "Deloitte's AI guidance for controllers shows how clients are approaching AI in finance, which shapes the controls you'll audit."
+        "id": "439c93736f19",
+        "title": "Why the biggest returns for AI sit between business functions",
+        "publisher": "EY",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlBWQUN5cVlTNEpuVDR0TUhuRzdTU3huOHlSTFBTYlZFWWR0MzlpT1hEdnJxaUlZM08yNk9pdlU5N1dCdjRNUENyVDJCREhzYUJSM0xwdVhJVGJoNnM3U1AyLUVyc1ZOOEQzNF9qdk1zM2hkV1FkalNjR2tWOVpHdHA5dV9zMG1wWWpuTDNzY3JiWktYck1Xb2lDZWZoZHlSWXdsWFpSXzV4UQ?oc=5",
+        "why": "EY's view on where AI returns sit shows how a Big Four firm frames AI value, useful context for interviews and client talk."
       }
     ]
   },
   "stories": [
+    {
+      "id": "5c40379c0372",
+      "title": "With AI adoption outpacing governance, audit faces new risks",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPclVkUERfVVRWcW1UTXMtR0RScUV3bEZJQUZvS050WkQ1enNFT0ptQUlReWxZMjhpY3c0bUNKczBKQUw2NW9yZkJNRzY5VVlrQnJodUlyaGdHZnpFYzJVcE5Xc0tXaVlERGJobmgxeXJiZUZEZnluVE8wVlk5MlFOaC1zbTllMlZYU0d3T0xydEZjd3gyOUczbE1DemtrZllISUVURQ?oc=5",
+      "snippet": "With AI adoption outpacing governance, audit faces new risks Accounting Today",
+      "published": "2026-10-19T13:38:00+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-19T14:32:40.878056+00:00"
+    },
+    {
+      "id": "a2266f0aedd1",
+      "title": "AICPA and AIUC Pair SOC 2 Reports With AIUC-1 Certification",
+      "publisher": "Unite.AI",
+      "seen_in": [
+        "AICPA"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVBHUW5feDZxc0wxOEc2NkIxaUZZaU0wa1R4RnFuS25vZ2s5R2JVajBrMkptbGpwMGhYZEpES0xISEpCd085bW9lN292UTlMM0V2V2FBUTc0bnBuYTF6RmRYaVEyQkpuVDZnRm5rZ0ljb3pEamRXR21MTldrc3R4b092UG9DOFcw?oc=5",
+      "snippet": "AICPA and AIUC Pair SOC 2 Reports With AIUC-1 Certification Unite.AI",
+      "published": "2026-10-19T13:09:10+00:00",
+      "themes": [
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-10-19T14:32:40.878056+00:00"
+    },
+    {
+      "id": "281534c94b46",
+      "title": "AICPA partners on new offering that assures AI systems and agents",
+      "publisher": "Journal of Accountancy",
+      "seen_in": [
+        "AICPA",
+        "Journal of Accountancy",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORlowZ1Y0RGhWU1VqM3YwMndFV0ZEcWNIRFpuYTlTRkpKR0ZXQ1kxX2QxRXFUY25GRUtvc0NaVWRBWmlLdmYzWGNPeXFsS3o1djJkOXJSRUJQdG5FZGdoSUZ2Q0wwdFJnYXJzc2Y4MTN1dWNTMjR3cWFfVWIzYnp0clVqSFVLSF9nZ1hkNDY0WmQteXZWS2tSamxQV25zTjV3MngzbjlLdUpiSGNvdWFRSGNubnZvYnZJ?oc=5",
+      "snippet": "AICPA partners on new offering that assures AI systems and agents Journal of Accountancy",
+      "published": "2026-10-19T12:03:59+00:00",
+      "themes": [
+        "Firm tools",
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-10-19T14:32:40.878056+00:00"
+    },
+    {
+      "id": "cc233af4b5d6",
+      "title": "Auditable AI: Luxembourg\u2019s new challenge for the insurance sector",
+      "publisher": "Paperjam.lu",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaDRhZWI0dXhPZnFWNXE4LWkwSGxrS2xHd0dqblozUy1oeG5IUDRBRDBNa1hUZndHb1R2TWRxSHl5ZnZ4OG44c09ad2Q2aGV1MC0xZ1hLSDAzWkJGLUxzTnlkeWZUclBtSTBZdk1lNERsWUpUbDZvam1UWjcyb0tqT3hJTERtbERYRC0zNms2NHFEeDQ?oc=5",
+      "snippet": "Auditable AI: Luxembourg\u2019s new challenge for the insurance sector Paperjam.lu",
+      "published": "2026-10-19T04:45:36+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-19T14:32:40.878056+00:00"
+    },
     {
       "id": "550730725eba",
       "title": "The new economics of AI: Understanding what AI Is worth",
@@ -50,6 +114,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-18T14:20:09.062308+00:00"
+    },
+    {
+      "id": "439c93736f19",
+      "title": "Why the biggest returns for AI sit between business functions",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlBWQUN5cVlTNEpuVDR0TUhuRzdTU3huOHlSTFBTYlZFWWR0MzlpT1hEdnJxaUlZM08yNk9pdlU5N1dCdjRNUENyVDJCREhzYUJSM0xwdVhJVGJoNnM3U1AyLUVyc1ZOOEQzNF9qdk1zM2hkV1FkalNjR2tWOVpHdHA5dV9zMG1wWWpuTDNzY3JiWktYck1Xb2lDZWZoZHlSWXdsWFpSXzV4UQ?oc=5",
+      "snippet": "Why the biggest returns for AI sit between business functions EY",
+      "published": "2026-10-17T04:40:15+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-19T14:32:40.878056+00:00"
     },
     {
       "id": "3c92f4627a50",
@@ -219,6 +298,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
+    },
+    {
+      "id": "335ad1f6aa1e",
+      "title": "Deloitte\u2019s involvement in the AI Summit | Impact Report 2025 | Deloitte Ireland",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPemVlTE1ZUU1EVTd4bVdDbm5Va1NtSUdIVXF1REIwNkg1dUVUYk5qZDNid0dvRjNlWWh2S1Y1V0ljNkp4eDB2djRVUVJFWEcwT0hDNG51bmowRWExcW9EVmVVUDhFSk9UZDlBNmYtcVN5V2xBSHVtVkQ5dmhaVkFublFxT0VxZXZLLVIweWVKY0NORGdKbkFGYmJtSmVLRk9hSld0RUNmUkZKbnlDaDFqQTduY1RMTC1LSEp5RDhJTzk5NGpJ?oc=5",
+      "snippet": "Deloitte\u2019s involvement in the AI Summit | Impact Report 2025 | Deloitte Ireland Deloitte",
+      "published": "2026-10-16T11:51:58+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-19T14:32:40.878056+00:00"
     },
     {
       "id": "dc6a92b1c991",
@@ -771,7 +865,8 @@
       "seen_in": [
         "Deloitte",
         "PwC",
-        "EY"
+        "EY",
+        "KPMG"
       ],
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FdDlJZFZjZWV5ZnFRWEl3S21vaHJnXzlpV0FOTkZTTWVRMExISm9UdG93S1dlVjBqcl9fN0NLVVBReEVSVTNaN2o0eV9DbFJpdEdBaGNNOGFFSGU5bWY2b3dSb1MyUWVZMUpqQmtGaEtld3F0bmN3VzBWOUo?oc=5",
       "snippet": "Inside EY's $57bn Year: AI Growth, Changing Workforce and the Economics of the Big Four https://www.big4news.com/",
