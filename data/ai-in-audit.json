@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-19T14:32:40.878056+00:00",
+  "updated": "2026-10-20T14:27:35.204085+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,240 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "AI is moving from audit tool to audit subject: the AICPA is launching assurance for AI systems, and reports warn that governance is lagging adoption.",
+    "quick_take": "AICPA is moving into AI assurance by certifying AI agents, and big firms keep launching AI-native tools. Together these point to new audit work and new skills for juniors.",
     "standouts": [
       {
-        "id": "281534c94b46",
-        "title": "AICPA partners on new offering that assures AI systems and agents",
-        "publisher": "Journal of Accountancy",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORlowZ1Y0RGhWU1VqM3YwMndFV0ZEcWNIRFpuYTlTRkpKR0ZXQ1kxX2QxRXFUY25GRUtvc0NaVWRBWmlLdmYzWGNPeXFsS3o1djJkOXJSRUJQdG5FZGdoSUZ2Q0wwdFJnYXJzc2Y4MTN1dWNTMjR3cWFfVWIzYnp0clVqSFVLSF9nZ1hkNDY0WmQteXZWS2tSamxQV25zTjV3MngzbjlLdUpiSGNvdWFRSGNubnZvYnZJ?oc=5",
-        "why": "The AICPA is partnering on an offering to assure AI systems and agents, a sign of new attest work CPAs may do."
+        "id": "e09758c665b2",
+        "title": "AICPA, assurance firm team up to certify AI agents",
+        "publisher": "CFO Dive",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVEUzczRlYmtVNTBRdUk3N0pBWjJvbzNTX1c5Y0ZaaWlsaXdNb25PYUhiVFRIbGZHYmJJS1hRR291R1JfWVlCWTgyNWpvVWJWMnVaTG0xWXltbW9IYy1lcTZDTXljblBqeEhrTlotcUVmeENYUnJZc0hlOTI1UFZIdW53QUZ5UGhuZlB3?oc=5",
+        "why": "AICPA and an assurance firm will certify AI agents, which could create a new kind of audit work you can mention in interviews."
       },
       {
-        "id": "5c40379c0372",
-        "title": "With AI adoption outpacing governance, audit faces new risks",
-        "publisher": "Accounting Today",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPclVkUERfVVRWcW1UTXMtR0RScUV3bEZJQUZvS050WkQ1enNFT0ptQUlReWxZMjhpY3c0bUNKczBKQUw2NW9yZkJNRzY5VVlrQnJodUlyaGdHZnpFYzJVcE5Xc0tXaVlERGJobmgxeXJiZUZEZnluVE8wVlk5MlFOaC1zbTllMlZYU0d3T0xydEZjd3gyOUczbE1DemtrZllISUVURQ?oc=5",
-        "why": "Adoption is outpacing governance, creating new audit risks and control questions you can raise credibly in interviews."
+        "id": "3bcbe7260b86",
+        "title": "Monday Morning Accounting News Brief: Deloitte Starts the Week With Layoffs; AI Agent Audits Are Here | 10.19.26",
+        "publisher": "Going Concern",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNjRKd3hONWJjLWtRQVBqc1lrc3VvTmgwVWxUeVJrSEtxNUthbjJ2Y2pJLVo0ZXM4VmMtU2JlRFZKMXFGeV93VlBmQWFrUm50Szg4ZFVZVnFPd0JKSVg3ZlhoSDJGLVJaT245ZUlWekItV1FzU3ViQnJ5S05BcFBYSVhITzNMQTBkc0RpTmxGWGFtWGc2eVhYbUxQQzB1WktISTU0amw4b21CMmNieGNxT29GaGl2THJ4NEp1SHZGdktfX3JnTnA5TEkwM1RSTlphNGtUTA?oc=5",
+        "why": "This brief pairs Deloitte layoffs with 'AI agent audits are here', a useful read on how the job market and the work are shifting."
       },
       {
-        "id": "439c93736f19",
-        "title": "Why the biggest returns for AI sit between business functions",
-        "publisher": "EY",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlBWQUN5cVlTNEpuVDR0TUhuRzdTU3huOHlSTFBTYlZFWWR0MzlpT1hEdnJxaUlZM08yNk9pdlU5N1dCdjRNUENyVDJCREhzYUJSM0xwdVhJVGJoNnM3U1AyLUVyc1ZOOEQzNF9qdk1zM2hkV1FkalNjR2tWOVpHdHA5dV9zMG1wWWpuTDNzY3JiWktYck1Xb2lDZWZoZHlSWXdsWFpSXzV4UQ?oc=5",
-        "why": "EY's view on where AI returns sit shows how a Big Four firm frames AI value, useful context for interviews and client talk."
+        "id": "58f546a1a522",
+        "title": "Deloitte launches AI-native Risk Clarity platform",
+        "publisher": "International Accounting Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVhrekJBRjB2aWdMX0NiS2F2R1VpS3lSZGFsbDFPZWpBc3JKeE1YZXI2aThpWTJMY2d6ZjJtdVZjWXBGWXd1QlNWdlp4NjExMTRSNmRjbXBINGo2NWpGSzU2Q3hMZzN1WG9fdW80MkhUeTZQcmltWHFBX2lhdUMyQWxSMGQwN3VNUWpub2M2dlVRejBMdXIxaTBIa1hLRWsxVG5hbjd3?oc=5",
+        "why": "Deloitte's new AI-native Risk Clarity platform is a concrete example of firm tooling you may use or be asked about."
       }
     ]
   },
   "stories": [
+    {
+      "id": "2faff98c11ae",
+      "title": "Gradient raises $4M to build an AI-native accounting firm for startups",
+      "publisher": "Dealroom",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHRCTWJZS09EajNfanV3aXBmb3hpd3Nxb2p0aXZSMjBoUm9UbWZUUktvbXNuVWQ2a1lyQnVTc002bVg4RGlMbWVLdlN3Zk5SbDFzelBVeDJULWhOZ1ZzQTh2TUFRM1FjVHo1ODR5WFFBSl9VZ3QwdUJ4SVJkV0dKY0czZ3Vnc0ttUVRTOXdwTmREUFVVUkpCTHdsQUMwVmlZQXkwaHF3?oc=5",
+      "snippet": "Gradient raises $4M to build an AI-native accounting firm for startups Dealroom",
+      "published": "2026-10-20T13:42:17+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "067b48443338",
+      "title": "Frontier AI is changing the cybersecurity landscape. Are you prepared?",
+      "publisher": "PwC Nederland",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNERacDhGOVFXTFFyaTFiNVA2NzBnakZlRlBiQWY0NFdUclk3cWljWjI1LUVBaHBZbi1tTGNzb21tV0dTVEh3emx6QlZkV1RKZkhMSG1YZHlQcU5nM21WY0ctVHB4ZVdLdTFNZmZweGpvTmp5VXdUc2loSXF2b3ROWjU1UlJ3VVBFVGRybnFSQ2NmMEgxYVFmZk11M09hSDBIRGYyRVptZ2Y3R2RnLXluU3JWRlBCM28wS0ktZHVaSVlxdDZaV3Y3U0FCTzNWQlFVZG1Sazk3c2xMTEU?oc=5",
+      "snippet": "Frontier AI is changing the cybersecurity landscape. Are you prepared? PwC Nederland",
+      "published": "2026-10-20T09:17:52+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "5027d5b034a1",
+      "title": "Medicaid\u2019s AI moment: Turning operational friction into measurable outcomes",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeFlVbVlIS2ZwMzBPRVR5akY1VlE1X1hkbUpQajYyWjdRVkJhb0U3SF8yamI2ZmROb0JYYXFaVEZMcENUU3FlUjdnajV0UWVmTTVaQ2RnMzdyaVJIemg3ZWplX0ZhbFpEQTkwZ1J5SEJibHZkcjliS25hMjlQdkRSS0RGaGxzMmZGZTlkR3JlVVVRa01Za29Kb015MUdNQ0ZaeWlUQS1FSmNhbHJuMjdoa0pmMTdwejhDazZPaFZLM0IwU0I3Z2lvWWh1eW92X2M?oc=5",
+      "snippet": "Medicaid\u2019s AI moment: Turning operational friction into measurable outcomes Deloitte",
+      "published": "2026-10-20T06:34:17+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "c6a7a6e8bfda",
+      "title": "New AI assurance certification combines SOC 2, AIUC-1",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "AICPA",
+        "PwC",
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2s2QWpZU3UzNnRCNGdLOWtiM0twUHdXTEdNRXdNcmFnYTZSXzcwcE5OWGpZS2JiN3N4YUU3LWpHRUNXdEFzU3NHWFlfZklDQm52RHBjQ0tmUVBfaVhvenZfaVJIbUJZOFRwOEUwcEpNc1FITWNuNWtESzNKbHB6NFRMTXhrMWxsOXJ6WE00d0FMWHM?oc=5",
+      "snippet": "New AI assurance certification combines SOC 2, AIUC-1 Accounting Today",
+      "published": "2026-10-19T21:16:00+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "e09758c665b2",
+      "title": "AICPA, assurance firm team up to certify AI agents",
+      "publisher": "CFO Dive",
+      "seen_in": [
+        "AICPA",
+        "CFO Dive"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVEUzczRlYmtVNTBRdUk3N0pBWjJvbzNTX1c5Y0ZaaWlsaXdNb25PYUhiVFRIbGZHYmJJS1hRR291R1JfWVlCWTgyNWpvVWJWMnVaTG0xWXltbW9IYy1lcTZDTXljblBqeEhrTlotcUVmeENYUnJZc0hlOTI1UFZIdW53QUZ5UGhuZlB3?oc=5",
+      "snippet": "AICPA, assurance firm team up to certify AI agents CFO Dive",
+      "published": "2026-10-19T21:01:17+00:00",
+      "themes": [
+        "Firm tools",
+        "Regulation & standards",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "14b4c084b50f",
+      "title": "More Accountants Say AI is Profession\u2019s Biggest Ethical Challenge",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVTdaVk9aakdCbHJjNV9wMlB6ZWVidjQ0bHRKbExhYzBLc3VGNV9Hcm1mT1oyZlhBUGVhZUZFbXR4S2xGRFVrcTJhcGt5MUFBZVZfb0MtaTU3azlxY3lSRV9uWlF0Tmp3ZjVidlotU1B5bVlhVzRuWjNCbTJWNHlxMWhFdVVmUUQ4dkNFMzlpNVVRY19rMDFqZjRvd0wtSWw0dXBRQVEwOFR5TkI3VjlvbWV1anJWQnBjdmc?oc=5",
+      "snippet": "More Accountants Say AI is Profession\u2019s Biggest Ethical Challenge CPA Practice Advisor",
+      "published": "2026-10-19T20:34:55+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "03476e20a888",
+      "title": "PwC's agentic AI solution wins T-Mobile Business innovation award",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVk0yZENmNWNhSHlSMDJsdW1NVWFEbU1LNmR6WTRwNEY0QjViZDRnQ2ZIT3pwbEMwY1BmalpIUDBuQkw1eXpEV1RwbHJXYVNkREhKbHdtZXc0UzRBc1F4QWNYOU1JMnVGRGJZNUVkelBXa0FhRXluN3lJUHhSeHBKNg?oc=5",
+      "snippet": "PwC's agentic AI solution wins T-Mobile Business innovation award PwC",
+      "published": "2026-10-19T19:46:04+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "278b14ef0c34",
+      "title": "All-In: what Guernsey\u2019s AI Sprint is telling us about the future of work",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU2ZTdTQ3UnhVRW9tUlY5dnpoVnB5aFlMWDdWNnBiZjVoOG9CWFdrZVdMelJTclhRYi1MQzlyOVRjZEZkSkUxSGZ0UkI5Zy1DWUIyTmZtMlVQRF9mQ203anlvQ2tZdXgzNDV4dWZEOUxpb281S2l5UVZ6Q1ZrTjk1Y2FkN2ZmMWhKaHNOYWVld1RwRGxwWjBCUW5NQ2lCSWZtVy1pNlpXYkJ5UEZQb0dpSHVUbDRRZlBJekE?oc=5",
+      "snippet": "All-In: what Guernsey\u2019s AI Sprint is telling us about the future of work PwC",
+      "published": "2026-10-19T19:30:48+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "487f2e0fc6a5",
+      "title": "AICPA and AIUC Partner on New AI Assurance Offering",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "AICPA",
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY1pOOUl2R1h4ZmRnaGJKd0JRM2hzalIwY3l1TzRfM1FHMXlsR0dOLWd1OGlkUjZ3M1FxbEdOSUJoekFwRzNYU1Etamw3NkhjdFJ2RWRlUHJDWWIwR3VJLUZmdXF0Rk12QUFyZWxoU3pFQUp4cE92bUExdTJ6MXVGZE1iOTZXYTdtVExpNnkzTWZnM1k2QnhvZFk3bGd1bm95RWJ6NFpyZ1lkeW1URWdkRXpFUVZWWUpXclZJcWtfNnU4NDJReHk4Q1NTZ09hQjZmU1RCWVF2WDhBRTQ1ZHI3YlhKUQ?oc=5",
+      "snippet": "AICPA and AIUC Partner on New AI Assurance Offering CPA Practice Advisor",
+      "published": "2026-10-19T19:28:59+00:00",
+      "themes": [
+        "Regulation & standards",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "5b811c6f1118",
+      "title": "The automation paradox in finance",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFdXS1ZKZ0RXakdRcEZIcXZBX1RMNlZWNWIyOVk0bVNDQTJMQ2VJQWhPNFcyN0Q5NVU4MEJoT2dSN0Z3ZnphcmlWbDdacDIyUWpLRWUyS0tNbkJueDQ0cXpUSUhIWl81UjRmWU9NdWFiZFJTM1NJeUFsWEhGenNQTm1FM1N3OENwQmF2T0lqYkxWWTFhTGpv?oc=5",
+      "snippet": "The automation paradox in finance Accounting Today",
+      "published": "2026-10-19T17:46:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "4af438082e32",
+      "title": "Problem solved: A math example of CPA-led assurance using AI agents",
+      "publisher": "Journal of Accountancy",
+      "seen_in": [
+        "Journal of Accountancy",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlQ2d1o4MzQ5Tl8tX3pUTXlYWElEUUZyajNkb0U1TDNYYndVdFc2Q2g5alZwU1FtTTZhZW9RcHAzN09vY2xuekZpdU93MzcxSDloVGtsa21ySlVld3FkRkR1b0NWRzk5Xzl5a3ZaN0x1VnJDYWR2Ml9NV1AzSHA3R2NmVVk0ekN0RTlSSUJrdnlFaVJNVUYyWm56dU5YZlZsaDYxMlJ5TW81MWxsZm1OdGxOQ0RadkxDTVE?oc=5",
+      "snippet": "Problem solved: A math example of CPA-led assurance using AI agents Journal of Accountancy",
+      "published": "2026-10-19T17:14:14+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "3bcbe7260b86",
+      "title": "Monday Morning Accounting News Brief: Deloitte Starts the Week With Layoffs; AI Agent Audits Are Here | 10.19.26",
+      "publisher": "Going Concern",
+      "seen_in": [
+        "AICPA",
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNjRKd3hONWJjLWtRQVBqc1lrc3VvTmgwVWxUeVJrSEtxNUthbjJ2Y2pJLVo0ZXM4VmMtU2JlRFZKMXFGeV93VlBmQWFrUm50Szg4ZFVZVnFPd0JKSVg3ZlhoSDJGLVJaT245ZUlWekItV1FzU3ViQnJ5S05BcFBYSVhITzNMQTBkc0RpTmxGWGFtWGc2eVhYbUxQQzB1WktISTU0amw4b21CMmNieGNxT29GaGl2THJ4NEp1SHZGdktfX3JnTnA5TEkwM1RSTlphNGtUTA?oc=5",
+      "snippet": "Monday Morning Accounting News Brief: Deloitte Starts the Week With Layoffs; AI Agent Audits Are Here | 10.19.26 Going Concern",
+      "published": "2026-10-19T15:30:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "f97a6173cce9",
+      "title": "The 'AI Native' firm",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FYVY3VjBTZ3I1eUQydm9vZlJaczVZRThwUUZxeUx4S2NlTTRjYkcxZEwtRW1TN2RDMGstd3VFRzVlZnRPYVZYYzJuN3V3NzF4MnpQbVQzZUZubk81cWQ0WXNkS0JaMVJCSlE?oc=5",
+      "snippet": "The 'AI Native' firm Accounting Today",
+      "published": "2026-10-19T15:22:31+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
     {
       "id": "5c40379c0372",
       "title": "With AI adoption outpacing governance, audit faces new risks",
@@ -68,6 +276,22 @@
       "first_seen": "2026-10-19T14:32:40.878056+00:00"
     },
     {
+      "id": "7b464538baa0",
+      "title": "Auditors Meet Urgent Demand for AI Assurance with New Offering from AICPA and AIUC",
+      "publisher": "Yahoo Finance",
+      "seen_in": [
+        "AICPA"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2NJS29admZFSVd3TzRvQ0w2eW52SDM1NDloc2VBRlltc09raTRjeXVDWktKanRJM0l0THRuVXg5aXBfRG1CV19aMXlUUEEzNUthTDRDOGlUdzQxX1VfOTg3bDJZeS1XazlqNEJGSEVjUXRFTWZXMXpGLWk2d3BScGlwaUpyMlN3V3ZLcy13WDIyN01pdGlxQkhn?oc=5",
+      "snippet": "Auditors Meet Urgent Demand for AI Assurance with New Offering from AICPA and AIUC Yahoo Finance",
+      "published": "2026-10-19T12:34:00+00:00",
+      "themes": [
+        "Regulation & standards",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
       "id": "281534c94b46",
       "title": "AICPA partners on new offering that assures AI systems and agents",
       "publisher": "Journal of Accountancy",
@@ -84,6 +308,21 @@
         "Regulation & standards"
       ],
       "first_seen": "2026-10-19T14:32:40.878056+00:00"
+    },
+    {
+      "id": "68a59ed627b7",
+      "title": "How confidence in AI can become a business advantage",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94eEwydVp4aW53Uktnd1doM0N3QkJMR1BtN0NFTDlFdE8wdDh5T1BBZ1o1NE1oVXpLS3lEdUthWHpmWTZ4SVNMVzZrNzF6a3RyVUJLQ0Mwb3FUTF8xdVZOVkZ4WW41ejVKZVZuUlpfUzI2R2tGbXJrRg?oc=5",
+      "snippet": "How confidence in AI can become a business advantage PwC",
+      "published": "2026-10-19T12:02:13+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
     },
     {
       "id": "cc233af4b5d6",
@@ -361,6 +600,22 @@
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
     },
     {
+      "id": "41dc6610b46e",
+      "title": "How CFOs are addressing AI economics, risk and governance",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQk9DbC0zMUE2ejRQNThFWFlZa0NyZ1Y0Um1IZm15WThhRV9OYmlKRWt2dlVoaFRzOGZMWW5sbXYwamw4VjhkSnl5Y2h3cENJVVVJXzZvMEp6bjUwNEdlSHR5a3JBdkJTMGtOUDl6a3NaMVpDZi1kVmdFTEl0NE1wUFEzT2drM0tWNF9fRWVmZVluN1RYUGZCdXVMNXdCYlI5RjR4T0ZCM25LYTZ3d3pfZFJxV24?oc=5",
+      "snippet": "How CFOs are addressing AI economics, risk and governance EY",
+      "published": "2026-10-16T07:00:00+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
       "id": "51d2173c4b3a",
       "title": "Scaling AI personalization with small language models",
       "publisher": "EY",
@@ -527,6 +782,22 @@
         "Other"
       ],
       "first_seen": "2026-10-16T23:20:51.975638+00:00"
+    },
+    {
+      "id": "58f546a1a522",
+      "title": "Deloitte launches AI-native Risk Clarity platform",
+      "publisher": "International Accounting Bulletin",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVhrekJBRjB2aWdMX0NiS2F2R1VpS3lSZGFsbDFPZWpBc3JKeE1YZXI2aThpWTJMY2d6ZjJtdVZjWXBGWXd1QlNWdlp4NjExMTRSNmRjbXBINGo2NWpGSzU2Q3hMZzN1WG9fdW80MkhUeTZQcmltWHFBX2lhdUMyQWxSMGQwN3VNUWpub2M2dlVRejBMdXIxaTBIa1hLRWsxVG5hbjd3?oc=5",
+      "snippet": "Deloitte launches AI-native Risk Clarity platform International Accounting Bulletin",
+      "published": "2026-10-15T14:29:46+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-20T14:27:35.204085+00:00"
     },
     {
       "id": "3ae1b432aae2",
