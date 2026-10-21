@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-20T14:27:35.204085+00:00",
+  "updated": "2026-10-21T14:29:14.130887+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,162 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "AICPA is moving into AI assurance by certifying AI agents, and big firms keep launching AI-native tools. Together these point to new audit work and new skills for juniors.",
+    "quick_take": "Today's news is mostly firm and vendor AI tools. The most useful items for you cover how AI is being governed and validated, and how new AI-native firms may reshape accounting work.",
     "standouts": [
       {
-        "id": "e09758c665b2",
-        "title": "AICPA, assurance firm team up to certify AI agents",
-        "publisher": "CFO Dive",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVEUzczRlYmtVNTBRdUk3N0pBWjJvbzNTX1c5Y0ZaaWlsaXdNb25PYUhiVFRIbGZHYmJJS1hRR291R1JfWVlCWTgyNWpvVWJWMnVaTG0xWXltbW9IYy1lcTZDTXljblBqeEhrTlotcUVmeENYUnJZc0hlOTI1UFZIdW53QUZ5UGhuZlB3?oc=5",
-        "why": "AICPA and an assurance firm will certify AI agents, which could create a new kind of audit work you can mention in interviews."
+        "id": "04ecaee56699",
+        "title": "Internal audit leans more on external partners and AI",
+        "publisher": "Accounting Today",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNWJXZlJWRmtiQWFacmlwaHJQcm4zQ3Y1ZE9EdThxQWVLajRqbllHcmR0TFNwM2JkdU5FcXFDN2pWUWNYYWZ4ZzR5UVVIeTc5QW5zTW5XX01RdTVLSFJaSVFEbnhCcEYxM2RmUHhGaEx1NGV1ZU56bFk5alVienJBQjh2THlaYXFjM3N6Vmg3cE5tTUx0?oc=5",
+        "why": "Internal audit is leaning more on AI and outside partners, a preview of the tools and skills audit teams may expect from you."
       },
       {
-        "id": "3bcbe7260b86",
-        "title": "Monday Morning Accounting News Brief: Deloitte Starts the Week With Layoffs; AI Agent Audits Are Here | 10.19.26",
-        "publisher": "Going Concern",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNjRKd3hONWJjLWtRQVBqc1lrc3VvTmgwVWxUeVJrSEtxNUthbjJ2Y2pJLVo0ZXM4VmMtU2JlRFZKMXFGeV93VlBmQWFrUm50Szg4ZFVZVnFPd0JKSVg3ZlhoSDJGLVJaT245ZUlWekItV1FzU3ViQnJ5S05BcFBYSVhITzNMQTBkc0RpTmxGWGFtWGc2eVhYbUxQQzB1WktISTU0amw4b21CMmNieGNxT29GaGl2THJ4NEp1SHZGdktfX3JnTnA5TEkwM1RSTlphNGtUTA?oc=5",
-        "why": "This brief pairs Deloitte layoffs with 'AI agent audits are here', a useful read on how the job market and the work are shifting."
-      },
-      {
-        "id": "58f546a1a522",
-        "title": "Deloitte launches AI-native Risk Clarity platform",
-        "publisher": "International Accounting Bulletin",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVhrekJBRjB2aWdMX0NiS2F2R1VpS3lSZGFsbDFPZWpBc3JKeE1YZXI2aThpWTJMY2d6ZjJtdVZjWXBGWXd1QlNWdlp4NjExMTRSNmRjbXBINGo2NWpGSzU2Q3hMZzN1WG9fdW80MkhUeTZQcmltWHFBX2lhdUMyQWxSMGQwN3VNUWpub2M2dlVRejBMdXIxaTBIa1hLRWsxVG5hbjd3?oc=5",
-        "why": "Deloitte's new AI-native Risk Clarity platform is a concrete example of firm tooling you may use or be asked about."
+        "id": "89eec3884c2a",
+        "title": "AI Validation in Financial Institutions",
+        "publisher": "Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHhpMm8wSDVjYU1EbHF6WUtWVC1ZY2FDb292Z2tTOXZWWlhVZG5UdGpuQ1lId0hEb09qemR5LTBMc0QweGl1UHVIREl6RmN5X0tPbXdzQ0dCRzBXNG5UaUIwNE9hd0JIVlZ0aC14Umhwb01ZSWJod0Q0RGtVZjdnWTJGN3lNZXJsTVhTdHVxSnRERVhnSnFDZTFIWWl3RUx2Si11dnFEMFhsUk1W?oc=5",
+        "why": "Deloitte's focus on validating AI in financial institutions points to a skill worth building: testing and assessing AI models and their controls."
       }
     ]
   },
   "stories": [
+    {
+      "id": "5d783fec4229",
+      "title": "Accelerating physical AI for the enterprise",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81VkNqYTNzdldzT0lYd2FYUWVHWlZ2ZERMTHhUQU1oSXdFbC15a2xsaGNPMHZpcHNLcGtiNURrOGpZRG9YcVlSMzVDODRyRk9KWTVudFpVb09Ydmt4X2JOQV9SQQ?oc=5",
+      "snippet": "Accelerating physical AI for the enterprise EY",
+      "published": "2026-10-21T10:19:25+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-21T14:29:14.130887+00:00"
+    },
+    {
+      "id": "89eec3884c2a",
+      "title": "AI Validation in Financial Institutions",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHhpMm8wSDVjYU1EbHF6WUtWVC1ZY2FDb292Z2tTOXZWWlhVZG5UdGpuQ1lId0hEb09qemR5LTBMc0QweGl1UHVIREl6RmN5X0tPbXdzQ0dCRzBXNG5UaUIwNE9hd0JIVlZ0aC14Umhwb01ZSWJod0Q0RGtVZjdnWTJGN3lNZXJsTVhTdHVxSnRERVhnSnFDZTFIWWl3RUx2Si11dnFEMFhsUk1W?oc=5",
+      "snippet": "AI Validation in Financial Institutions Deloitte",
+      "published": "2026-10-21T04:48:38+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-21T14:29:14.130887+00:00"
+    },
+    {
+      "id": "1817a70f199e",
+      "title": "ey.ai Value Blueprints",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92cHN6NU4zQWphRFBsaTJZc29lSlJwUTRIb0FxVVhkUENsNUREQVRKU0dYUnppWGVkcnhndU1hRXNrVVp5ZmgzdFpZMUg1X1JVX0xQUllsNWRlQTFqeGZsQlJHRQ?oc=5",
+      "snippet": "ey.ai Value Blueprints EY",
+      "published": "2026-10-21T01:04:14+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-21T14:29:14.130887+00:00"
+    },
+    {
+      "id": "c4d035e9d311",
+      "title": "Korea Investment Securities to expand AI infrastructure finance, teams up with Samil PwC on GPU financing",
+      "publisher": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdW1adEswU2NYdzBueXg5VWpoV09maFZHSHVQMHZGZDg2djNsRGl2LXBpTTJCaUhHMVdRdkdsSGtaNkFhRkJONU55NGhmOGdhTkJNZkx3aXlseTN5eHVKS2g0TFZzRDYxcS10UENJV3NyM2lsRWE2N1B4cnpSMlQ4VGQxSVFmOUs2MTNLOWVYWno4Ym92blUyaTdiS3NsVGZ3czJ4Y0E2c3hSWktxbThjaWNrV2NfeXBBX01rTTZTcE1GSml0XzhWWEhKd0JrT2U5NkNFNlNVb3NmbkYyMUl3OFNXVQ?oc=5",
+      "snippet": "Korea Investment Securities to expand AI infrastructure finance, teams up with Samil PwC on GPU financing \ub514\uc9c0\ud138\ud22c\ub370\uc774",
+      "published": "2026-10-21T00:29:28+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-21T14:29:14.130887+00:00"
+    },
+    {
+      "id": "42433c8dc55a",
+      "title": "BILL Unveils New Agentic Capabilities for Finance Teams",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR2xWMWZxa1VOUUZYUWlZUXFKYUgySm5wam5kRTk5MDZCZTYwcjhBY1dkQUVsQjBqZGQwQzZtWG1UVXVUbGVKclJkUG1MYUxEem9CRGQ4S00xY3E2ZWZmUUZKcHF2aUQ0V0ZqT09nTHF0RC1sUXNRdHI3ZURsXzdVSGJLOUpPbUpzRjN1eldJQllrTTZGT2JTc1NMV281QlI0Qmk5bkdtMHRRdUJXQlE?oc=5",
+      "snippet": "BILL Unveils New Agentic Capabilities for Finance Teams CPA Practice Advisor",
+      "published": "2026-10-20T20:34:43+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-21T14:29:14.130887+00:00"
+    },
+    {
+      "id": "880c65afd1fc",
+      "title": "Stout acquires agentic AI company",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pa1h3alhnYXRPSWFKc1U4c3Ewei00ckg4TDJqR0N0b0tSWnhtNVVUQ2haNmFwb1VldDc2WE1Ebl9xSjdPNFhJZjEweVNONk5CYkEzVWFrVkVkWU03V0VzY0dxLURXZ2VwNk5XbDNqWQ?oc=5",
+      "snippet": "Stout acquires agentic AI company Accounting Today",
+      "published": "2026-10-20T19:36:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-21T14:29:14.130887+00:00"
+    },
+    {
+      "id": "107acf8bbb62",
+      "title": "Is AI Safe for Accounting Practices? What You Need to Know (in Plain English)",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlU3OEJVZk9LRFZpV3FpYmtuQ1hyVDdUcnFKZWRSX28zdjRCaGwwWTdORVVpNkg2dXRjTi1ZNDRqWGZUYU5OX044STlyNk5qaGxlSURCallzb1BOMGNwR3ZDOHJJeTNRVkZ0TDRxZkNPbWsyOFB2TUVraTAxcHM0RkhUalRuNGlpLVhTcmtCMWxocGdDZnBHWnU2Wjd1anV6c1l3Mkw2UWRVREdJNkViQXZmd0h1aDZBT0NtMWhhMV8yNG5FUXlV?oc=5",
+      "snippet": "Is AI Safe for Accounting Practices? What You Need to Know (in Plain English) CPA Practice Advisor",
+      "published": "2026-10-20T17:44:49+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-21T14:29:14.130887+00:00"
+    },
+    {
+      "id": "04ecaee56699",
+      "title": "Internal audit leans more on external partners and AI",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNWJXZlJWRmtiQWFacmlwaHJQcm4zQ3Y1ZE9EdThxQWVLajRqbllHcmR0TFNwM2JkdU5FcXFDN2pWUWNYYWZ4ZzR5UVVIeTc5QW5zTW5XX01RdTVLSFJaSVFEbnhCcEYxM2RmUHhGaEx1NGV1ZU56bFk5alVienJBQjh2THlaYXFjM3N6Vmg3cE5tTUx0?oc=5",
+      "snippet": "Internal audit leans more on external partners and AI Accounting Today",
+      "published": "2026-10-20T17:16:00+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-21T14:29:14.130887+00:00"
+    },
+    {
+      "id": "aef77d69f8df",
+      "title": "Top 5 Popular AI Accounting Software for Public Companies in Singapore",
+      "publisher": "TyN Magazine",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRldrMGYzTWE0bEprRkZvWUJqRG1rMXM1SW5JOGh4S2FLOGhlUUtqZ2VtdExUc0tDZ0JpYlVuV01oNUJCeEJPZ054SW9udXFhUUVzbUZMb1l2TDZGaDJvTEUxeHQ2a1l1OE13VkdBdnhJYnV0OV9ILUtjbTJmNEJpY2U3WndlMlFTd2w3M1VEYkxqVzRKU1U0OUhpdw?oc=5",
+      "snippet": "Top 5 Popular AI Accounting Software for Public Companies in Singapore TyN Magazine",
+      "published": "2026-10-20T16:26:31+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-21T14:29:14.130887+00:00"
+    },
     {
       "id": "2faff98c11ae",
       "title": "Gradient raises $4M to build an AI-native accounting firm for startups",
@@ -50,6 +180,21 @@
         "Other"
       ],
       "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "97be86d66eaa",
+      "title": "Exclusive: Gradient raises $4M for AI-native startup accounting firm",
+      "publisher": "Tech Funding News",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRTRWZzBvV0JzQmtPYUZJbkNxUkE0M0MySHREbGtTWkFDZGc4ZnhzdzAzZFBFTUtxYm1zLU9CRWFGMFFScG5jSGxqRldxalRhZDg5NXlXZk5CYzNaMXNJSktMdG1teExwUkFVQW8zd2w2cE44UVI0VmNrMlk1LTdteURUZ2U1RWtvc1ZBS1JxR0ljZm5fYTJhSXBNNA?oc=5",
+      "snippet": "Exclusive: Gradient raises $4M for AI-native startup accounting firm Tech Funding News",
+      "published": "2026-10-20T13:04:27+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-21T14:29:14.130887+00:00"
     },
     {
       "id": "067b48443338",
@@ -185,7 +330,8 @@
       "title": "The automation paradox in finance",
       "publisher": "Accounting Today",
       "seen_in": [
-        "Accounting Today"
+        "Accounting Today",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFdXS1ZKZ0RXakdRcEZIcXZBX1RMNlZWNWIyOVk0bVNDQTJMQ2VJQWhPNFcyN0Q5NVU4MEJoT2dSN0Z3ZnphcmlWbDdacDIyUWpLRWUyS0tNbkJueDQ0cXpUSUhIWl81UjRmWU9NdWFiZFJTM1NJeUFsWEhGenNQTm1FM1N3OENwQmF2T0lqYkxWWTFhTGpv?oc=5",
       "snippet": "The automation paradox in finance Accounting Today",
@@ -323,6 +469,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "58a42dc9a066",
+      "title": "Scaling agentic AI across your enterprise with Amazon Quick",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTloUlZna1h6ZVd1QzJ2QWhLNUNqNWFjNF9tNnVYa3lKbmRSTER2bWNmZXdhaDNodUhCaWE2eDVBdmU2TjRVYjNUYnRJRS1fWWJLOTJZWTRDYndrRS11S0hMa25NY1FWRkRVM0F1VXltaHphT2p3R0NTdHpTWWY4OHZ6cmRvRUVOS0c0Yi1LaFpZOWUtZWJoeFR5em5pZFo2TEY0N1QxLVQwUEg2UUlieXpCZk05dzhtQlE?oc=5",
+      "snippet": "Scaling agentic AI across your enterprise with Amazon Quick PwC",
+      "published": "2026-10-19T07:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-21T14:29:14.130887+00:00"
     },
     {
       "id": "cc233af4b5d6",
@@ -614,6 +775,21 @@
         "Risk & controls"
       ],
       "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "a773aad1a56d",
+      "title": "The lifecycle economics of AI",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0lwdEloUy0yM05NYkZObk1GOHBfNUJOMkFsdTByYnVseEVHdWpnRVpIZkItWl9tNEtxMmV3cG4yRHg2WlJhZnFwc1VfODdRVC11YXo2OTc1QXhpX1dCYnhRRTRyb3RPR3NHTFl4cGRqZjJVMmZBX0FsOW9OZjVqNTB2NHd5dlVDcXEtWjlNR1dybm40VnZLbUhaYzhaY2RibUE?oc=5",
+      "snippet": "The lifecycle economics of AI Deloitte",
+      "published": "2026-10-16T07:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-21T14:29:14.130887+00:00"
     },
     {
       "id": "51d2173c4b3a",
