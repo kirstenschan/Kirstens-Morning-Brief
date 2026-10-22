@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-21T14:29:14.130887+00:00",
+  "updated": "2026-10-22T14:30:14.802560+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,25 +10,297 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's news is mostly firm and vendor AI tools. The most useful items for you cover how AI is being governed and validated, and how new AI-native firms may reshape accounting work.",
+    "quick_take": "Credentialing and governance are catching up with AI: AICPA is launching an AI assurance certification, while firms and CFOs focus on trust and cost controls.",
     "standouts": [
       {
-        "id": "04ecaee56699",
-        "title": "Internal audit leans more on external partners and AI",
-        "publisher": "Accounting Today",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNWJXZlJWRmtiQWFacmlwaHJQcm4zQ3Y1ZE9EdThxQWVLajRqbllHcmR0TFNwM2JkdU5FcXFDN2pWUWNYYWZ4ZzR5UVVIeTc5QW5zTW5XX01RdTVLSFJaSVFEbnhCcEYxM2RmUHhGaEx1NGV1ZU56bFk5alVienJBQjh2THlaYXFjM3N6Vmg3cE5tTUx0?oc=5",
-        "why": "Internal audit is leaning more on AI and outside partners, a preview of the tools and skills audit teams may expect from you."
+        "id": "37eb2ebd7cf0",
+        "title": "AICPA launches AI assurance certification with PwC and KPMG involvement",
+        "publisher": "www.big4news.com",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5aWI3MC1nU2dkTXNNOTdhbnNFdEhlSDhWLTNwNHJOc193QnRIekFhcmFJWUo0QTZBSUpGbVoxYnhYc0ozZXpPa29OdXVEWXh6bVRjQnpKaDZUQ2QwWF9XZjFuWmdxUWMtNzVEUnNrWHBsY2E5OW5z?oc=5",
+        "why": "AICPA's new AI assurance certification, with PwC and KPMG involved, hints at a skill you could build and cite in interviews."
       },
       {
-        "id": "89eec3884c2a",
-        "title": "AI Validation in Financial Institutions",
+        "id": "ef6934a7710c",
+        "title": "AI governance and assurance: Six actions to build trust",
+        "publisher": "PwC",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TQVZVcnpQcDFWUHJaS2prSjBLeXdmZ1F2amFoQVZJb0wxeG95bGI5em9hengxcTNCN1ZmWnJlcHN6NTVBeFZQX3NJam1kVEZ0RGV2TkFlOFZMUHpZMFVEd3pYaUtFVmFvNzVsY3h4WGZCWEJhOWVjNnhmWGU?oc=5",
+        "why": "PwC's six actions on AI governance and assurance show how a Big 4 firm frames AI risk and controls, useful interview talking points."
+      },
+      {
+        "id": "d4b2be3b0717",
+        "title": "North American CFOs cite AI cost-governance gaps in third-quarter 2026 survey",
         "publisher": "Deloitte",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHhpMm8wSDVjYU1EbHF6WUtWVC1ZY2FDb292Z2tTOXZWWlhVZG5UdGpuQ1lId0hEb09qemR5LTBMc0QweGl1UHVIREl6RmN5X0tPbXdzQ0dCRzBXNG5UaUIwNE9hd0JIVlZ0aC14Umhwb01ZSWJod0Q0RGtVZjdnWTJGN3lNZXJsTVhTdHVxSnRERVhnSnFDZTFIWWl3RUx2Si11dnFEMFhsUk1W?oc=5",
-        "why": "Deloitte's focus on validating AI in financial institutions points to a skill worth building: testing and assessing AI models and their controls."
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEQ1NE9SS1JIZEpuaEJNMUVFU1ptTUlLUVE3RTVMYjM5SXRPN1pHM0Q2ZEwyOE56SV9qVFlnTVdodk10SnladDdHVXI4ODdxMXZzejFLb3k2c3FtY3JlbkduNlFvRVpwQlZiUzR3QlZ0Rk9DMGtUelUwTE5ZUFNqNFRpZXZCSFpLaWprcDdEU0V1VXF2MEh2cXFUVVBtdFhqeFcxN1c3ZV9HMGM?oc=5",
+        "why": "CFOs citing AI cost-governance gaps points to control weaknesses you may test or ask about on client engagements."
       }
     ]
   },
   "stories": [
+    {
+      "id": "66fba6522632",
+      "title": "Thomson Reuters folds AI into its professional tax and audit software",
+      "publisher": "SiliconANGLE",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkVDUjEyaW00M1BIZGxTTi1DQi12SkFlX2ZQYTRPUXFsOEhjTkVxUEs1d0dTeWY0ZzFXeEoxSDRXQU1rT1FfWHd5SGRzSWNUcllIbnBLMmdxMkZrSlZNSUJXMm1RYkUtTFROTnRKZ1A1clFBWmFJTnRNVkh5Nmh6MlRfMXNkSUc4XzJtOUtySUpGWW1vNjBRelJSamhEejBJa0NyV24zSlZTQQ?oc=5",
+      "snippet": "Thomson Reuters folds AI into its professional tax and audit software SiliconANGLE",
+      "published": "2026-10-22T13:00:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "eccc6fc45ecc",
+      "title": "Thomson Reuters Launches AI for Tax and Audit That Knows the Answer, and Why It's Right",
+      "publisher": "PR Newswire",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONXkzYm56RkRJMXBTNzB4QlZsc0tYc1VEcFp4NU8xSW5KSTk1U2h6YUttazF4bUo2dzU4NlVHbjB0SWpZY1p5cEllR0NuOE9jMWIycU1lVEYzUGhXeEJ3ZnNHelRMNUNWOGkzQ3BjNG43c0wtcXdMRVhHQkt6YVdvSjhpbnEzaGpCaUtoN0lLbDVXcDZYZ0Ztd044QVl3cWtnd0dvRU9vdFp6eUUta0xIUm45cWx1cDBoVUlIM054Rno3WFpBdmRFb0FteUU3djFmRXZFZHA0eXQ?oc=5",
+      "snippet": "Thomson Reuters Launches AI for Tax and Audit That Knows the Answer, and Why It's Right PR Newswire",
+      "published": "2026-10-22T13:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "b0416def9fe2",
+      "title": "Generative AI will not solve Switzerland\u2019s workforce problem: it will only partially cushion the retirement wave",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQjczbkUtd0VRNldzdlZzaE9qTE5MUlJlczdjSkJMaTdjcVZubjhsWnVoTVV0MlJMRlhlTmtTRTFBQkQ1R0VLWDNDejJjYm9oaWhnTU1UakQ2Z0xDTkg4eU9IVTM3cWp6V3hWdnpiWERLS0ZEVE9DdmVPQmNvSVA2NTRSd2dTSzhwRjY3VkpoSm9nSDFVYTFZNnVhRTdYY3l0UDFfQXYyWjc4Z1hmMVZXZm1kZlFDVXpJWXdjNTAzNFJhellRVGZubWFUZk5VbWt0ODhSbTlRTVl1ZVZiWUh0UWkzQU5hd3g1NEF6R0xPLWJiVjhia3c?oc=5",
+      "snippet": "Generative AI will not solve Switzerland\u2019s workforce problem: it will only partially cushion the retirement wave Deloitte",
+      "published": "2026-10-22T06:18:28+00:00",
+      "themes": [
+        "Firm tools",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "ee6f4cad83b6",
+      "title": "How INSEAD is transforming student engagement with AI",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYl9UZHo5Ml8xaWFmOE5ObHdoWmhUcW1KX08yWm1WNjZsbFZTaE5PRnZweEo2dE1UNTRDQ2FGajhtaG8xUzR1U3FLamdGZ1psQjBhOWU0THZ4Qmx3NkxIamFvWmo5Tmc5dTc4X2NHamZWMEJ5dGg0REVVN2tycUtjczBtdmMyTl8zcGMwT0M5N0JtQQ?oc=5",
+      "snippet": "How INSEAD is transforming student engagement with AI PwC",
+      "published": "2026-10-22T01:45:34+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "294fcb86d9fc",
+      "title": "Agentic L1 Copilot Support",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWszWnRNQ1hsSU40eGZyNTZVV3pEeThVNkF5Rlg4T284MWUycllyRXI4QjdBYVpydzRfQ1hhRDdkbXlEQ2dURXBoS3haMU9GVXVLUlBaTVFuOW5hdFMtOFVUS3lnWXhXSmhrcDZpU1gzNHRJQVdNV0pvSTloNldYeHRMczlTb3ItY2RqSW9jS21nS01iQjlSN0tyZ0U1TGI1U1pmTkllTHJpRzQ?oc=5",
+      "snippet": "Agentic L1 Copilot Support PwC",
+      "published": "2026-10-21T23:44:20+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "8b711db15b02",
+      "title": "CBK's Draft Guidance Note on Artificial Intelligence in the Banking Sector\u200b",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUWZNQllSUjdRakFzYXJSemkxVDlLR290SmpkR1JTWUdfM3ptWTV1ckVRdmlraWtGQU80WHQxNU44U3ZnS2IyaEcyTDBGTFRaVUREU2h5QnQzT3ZPNHVNR2hVVllqMXRsVUNKak9XVEZUdmNaYUZWa0VJYkd3eGcySERDc0RQZlRmN3VXYnA3dUdiMlMxSGhSdzlmSWRsdWk1Zlk3VF9QaUVzeHlzb2VCSEV5aUJMYmpZUk4xbG5nLUJjeUFfa2RlTzk4a0ZleUtJLU5ONWtVdElWb21TTjRGNTZKalk?oc=5",
+      "snippet": "CBK's Draft Guidance Note on Artificial Intelligence in the Banking Sector\u200b Deloitte",
+      "published": "2026-10-21T23:25:08+00:00",
+      "themes": [
+        "Firm tools",
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "774214fc4b7a",
+      "title": "Will you shape the future of AI, or will it shape you?",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zZGIzazhyQ2NwRlhoR3hTbm1tX0x2TXdjRDhlQU1MWHpNWHJlRGVjaTdINXpvZ1pPdWswaXhGREZCVWMyTWc4SkNuZklRVGFhRGEySFlSb1pNSVJXdjBiYkpKNjBTSWxYN0RzOHZKWHE0U25BbXdV?oc=5",
+      "snippet": "Will you shape the future of AI, or will it shape you? EY",
+      "published": "2026-10-21T23:24:16+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "4871f30cf1e8",
+      "title": "AI-enabled Tax Transformation",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbnZobnI5ZHlCSUpIclp5Ny0wVFJSOWhvVjRHbjBjbjhhRWJZbUVyWE9sYk9XU3VjVUdhNDdUb0xmYUkydjdRc0d3ajE1QjluYTY3Z2JLSG9ta1B4ajJKZjhVQUVYQlRGaGdBLTQxU0k1VUt1ZWtjS1liOVVRc1BhRE5KN0c2VGQ5WHlIWmJ0Y3k?oc=5",
+      "snippet": "AI-enabled Tax Transformation Deloitte",
+      "published": "2026-10-21T20:42:59+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "9dab11eab009",
+      "title": "Tax Pros: After the Oct. 15 Deadline, Time to Update Your Security Plan to Include AI",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNWN6LVhnVWlZUWhxS2RDNWFyWjFKa1NPRXhtUFhpZnN2LXJKUGJGdHJ4LWJlTWFuNUU0T01RNlI1Rll2TFBXd2hyeXZZSEc1NV9JOXViYnU4aWRJcE1VeTRIYnI5UW5zRlVWZlItVjBZcWJaTS1rQ2ZrNXVfb2sxTWVZODVQWVo2RWJGaHI4NWhNMjN1bkNObTFyQ2Q3SHZGb1VqUy1ZYW9SbDBqcjg0LXI4ZmRSSloxNlZnV0t3ZUtXSk0tMEx3ekhUQUluaG5nc0E?oc=5",
+      "snippet": "Tax Pros: After the Oct. 15 Deadline, Time to Update Your Security Plan to Include AI CPA Practice Advisor",
+      "published": "2026-10-21T20:27:42+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "6e57677be395",
+      "title": "KPMG Consumer Pulse: Using AI to find savings, consumers plan to treat themselves this holiday season",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Lcy1PTkczMHcweWJOWU1KOGdvbGoyQ195Qkx1QzZHMjFQYmgtcUxxSmlOY1V6TV9uOVRfU09yOFlVT09RcHpBUVVWYTdoV1FVQ29FR1NPa21oeFkwVUJaNGpFZGFBUy1taTV0azBXS0s?oc=5",
+      "snippet": "KPMG Consumer Pulse: Using AI to find savings, consumers plan to treat themselves this holiday season kpmg.com",
+      "published": "2026-10-21T20:04:16+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "acbb98975a18",
+      "title": "KPMG and Microsoft Launch Frontier Innovation Hub to Accelerate Trusted Agentic AI at Enterprise Scale",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMm5sekZiS05TclF4dXBnTlJOV0hkV1c1RU1KSTd0RzNVOHBlc05qc3NoRUVhT0Q1cFVERVVhSVE1alZ6cm1ad2V5eEpzTVhuZ1lHQjQ2ZU5abmkxU3VSb3lSTUxEeGNKQnpiMTlsRUhLdnBmTGd5bGxqVHgxRHkwWXRZaXhycjBEaU5rVDl0ZF9jWGl6WjltQklXV0V1Zkw0NFNzUklLYklPYXJZRWFyUEpyTGZ5elNTbVRxYVNpMXpGSHpSYXc1bUJmTTJMRzA?oc=5",
+      "snippet": "KPMG and Microsoft Launch Frontier Innovation Hub to Accelerate Trusted Agentic AI at Enterprise Scale kpmg.com",
+      "published": "2026-10-21T20:04:15+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "ef6934a7710c",
+      "title": "AI governance and assurance: Six actions to build trust",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TQVZVcnpQcDFWUHJaS2prSjBLeXdmZ1F2amFoQVZJb0wxeG95bGI5em9hengxcTNCN1ZmWnJlcHN6NTVBeFZQX3NJam1kVEZ0RGV2TkFlOFZMUHpZMFVEd3pYaUtFVmFvNzVsY3h4WGZCWEJhOWVjNnhmWGU?oc=5",
+      "snippet": "AI governance and assurance: Six actions to build trust PwC",
+      "published": "2026-10-21T19:52:30+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "37eb2ebd7cf0",
+      "title": "AICPA launches AI assurance certification with PwC and KPMG involvement",
+      "publisher": "www.big4news.com",
+      "seen_in": [
+        "AICPA",
+        "Deloitte",
+        "PwC",
+        "KPMG",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5aWI3MC1nU2dkTXNNOTdhbnNFdEhlSDhWLTNwNHJOc193QnRIekFhcmFJWUo0QTZBSUpGbVoxYnhYc0ozZXpPa29OdXVEWXh6bVRjQnpKaDZUQ2QwWF9XZjFuWmdxUWMtNzVEUnNrWHBsY2E5OW5z?oc=5",
+      "snippet": "AICPA launches AI assurance certification with PwC and KPMG involvement www.big4news.com",
+      "published": "2026-10-21T17:24:08+00:00",
+      "themes": [
+        "Firm tools",
+        "Regulation & standards",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "bf6784a0655a",
+      "title": "Did Windscribe use AI for the first-ever VPN security audit?",
+      "publisher": "Mezha.net",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOekVKaE5Kdm1NSXFoOW1DTG9lRkVRM0lqNnRUdGxHYThCMmZQeFJzcHJrYmNKTk1BZTZnamZ1Y2VRMjliTFpBV1NqcmFSSl96VXVZRmk2RWtLN2lTako1dHNNWVlVYkhETjU1UTdmQ1pmM3ViQTRrWk05RGtSOGozUUJlRQ?oc=5",
+      "snippet": "Did Windscribe use AI for the first-ever VPN security audit? Mezha.net",
+      "published": "2026-10-21T15:36:20+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "0096eabdace5",
+      "title": "Has Windscribe quietly completed the first-ever AI VPN audit?",
+      "publisher": "TechRadar",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXhfcVZLSUUwczY4TThKWHNhNG9VVTU0blF3Q3hPclRFazNkMVByT2puOW9PTFF5MlBFQXp1RDRZRkZ6b0c5eDJsTTk2SFdDeWwzTkZ3WjU2Ynlka2ItS29ZNXU3WWFHaDBtUE1fQkVIckUyREx6SVROak1iRU0yLTBKRi1NdkszdjZmVXRUcElGbklPT3dOUmMxaWtmN0FUc0VaN1h3?oc=5",
+      "snippet": "Has Windscribe quietly completed the first-ever AI VPN audit? TechRadar",
+      "published": "2026-10-21T15:23:20+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "f7f53cd8fc4f",
+      "title": "superglue and Artifact Partner to Take Firms From Client Onboarding to First Close with AI",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQakFpWmtBaDNNRDE5SE9zdXBLQXRucEpkLWZxdlhGOG9xd09vUWxpa2FKR3NYTHN1Y3VZVGdQMXBGekVQRTNxZjhDTzlNallGZVNkLUxoTGU3eUgyVjNRQ3V3NmNsVl9BOHpQTzYzYkFRbkkzWk9uajJFamJhdmdTU1VndTVVWVhaUFRwSHktTGhxR0o2dG1vSDJYSTB3ODJSMzZmVkp6MkFPdGltZmVtTldDa1V3am9XTUt3Q241a0p6RnJsNVcyekFkeExRbk03ZFJmQ0FSYmpDMUl0?oc=5",
+      "snippet": "superglue and Artifact Partner to Take Firms From Client Onboarding to First Close with AI CPA Practice Advisor",
+      "published": "2026-10-21T14:56:40+00:00",
+      "themes": [
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "d4b2be3b0717",
+      "title": "North American CFOs cite AI cost-governance gaps in third-quarter 2026 survey",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEQ1NE9SS1JIZEpuaEJNMUVFU1ptTUlLUVE3RTVMYjM5SXRPN1pHM0Q2ZEwyOE56SV9qVFlnTVdodk10SnladDdHVXI4ODdxMXZzejFLb3k2c3FtY3JlbkduNlFvRVpwQlZiUzR3QlZ0Rk9DMGtUelUwTE5ZUFNqNFRpZXZCSFpLaWprcDdEU0V1VXF2MEh2cXFUVVBtdFhqeFcxN1c3ZV9HMGM?oc=5",
+      "snippet": "North American CFOs cite AI cost-governance gaps in third-quarter 2026 survey Deloitte",
+      "published": "2026-10-21T14:22:41+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
     {
       "id": "5d783fec4229",
       "title": "Accelerating physical AI for the enterprise",
@@ -88,6 +360,36 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-21T14:29:14.130887+00:00"
+    },
+    {
+      "id": "417c5a63b426",
+      "title": "Cutting through the noise: Where AI tax transformation finds its human frequency",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhbHdYUlVOZjhxNHZQNFE3YWRPcWphRjdjbnVfWUFhN3FIVWFwaXoyamJWY1VVaWl5RjlJcXFkVzMtQkU1N3JjdDBWSDdZcFhoVGZocmZNSFVxUQ?oc=5",
+      "snippet": "Cutting through the noise: Where AI tax transformation finds its human frequency EY",
+      "published": "2026-10-20T23:52:44+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "d1aac90dbe13",
+      "title": "How retail will need to adapt for different agentic futures",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWnVZcjc0NWcwaGJvMGx2enRCVzRZSEswVFhBNm5CdkV6Q0JhQ2JibjQ3amdHM2VuZ3hvajFoNjZqaGIwcFZnMVc2ZXdnY3NKX1VsNmpkX2EtOXYtOXMyek54WjZOenVubEJZVVpBYUh0ZzJyUWRieV9OMGFDQW1Cb1BzaWlmcXpLOTF1RGJ3T3d6eXMzWVBEZmUxdS00YXNheFE?oc=5",
+      "snippet": "How retail will need to adapt for different agentic futures EY",
+      "published": "2026-10-20T22:41:57+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
     },
     {
       "id": "42433c8dc55a",
@@ -211,6 +513,21 @@
         "Risk & controls"
       ],
       "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "c4e149342774",
+      "title": "Plinto Secures 2.9 Million Euros for AI Invoice Audit Agents",
+      "publisher": "n24.com.tr",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb3Vxdl9KaC1NQ0tYaDd0czhydjRrUWtfTjdCUnI1SkRib0o2NFQzTTdxWDdpZ2tIUFFOSVZkUjhPbXVOZ2ZpOXN1OEtkWHA5NU4zWGpGLTNZc2NOMEpYbVc0dU1sVzZqSDRmbnlmekFqX3pfTXUwcTlncFBETkFVUHJtdUNFQVZRb2V6WkNuMVdWOThzNlNkeVl3?oc=5",
+      "snippet": "Plinto Secures 2.9 Million Euros for AI Invoice Audit Agents n24.com.tr",
+      "published": "2026-10-20T07:30:11+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-22T14:30:14.802560+00:00"
     },
     {
       "id": "5027d5b034a1",
