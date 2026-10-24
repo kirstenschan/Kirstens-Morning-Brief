@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-23T14:32:02.320606+00:00",
+  "updated": "2026-10-24T14:21:10.250672+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,156 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's headlines are mostly vendor launches and workforce-impact pieces, with little on regulators. AI is now routine for auditors, and the open question is how firms and people adapt.",
+    "quick_take": "Today's news centers on AI governance and risk, with a new AICPA-IRS framework and a push for new risk thinking, while firms and vendors keep rolling out agentic AI tools.",
     "standouts": [
       {
-        "id": "206ed430ffe5",
-        "title": "Thomson Reuters Launches AI for Tax and Audit That Knows Not Just the Answer, But Why It\u2019s Right",
-        "publisher": "Thomson Reuters",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaDhNVVBqV1pYVFBLZFppc2sxdlllWk53Vjl1a2Q5Zl9LaEN5dVUxTW1aUDR0bjkteVVmZXlSMmF0bFBXUW1acm85eExOQkZIaGNNVGNWNTY1Z2FiUjJSWldLYlVLdl95SVVsLW1RZlJBTXZGRXY1OTZwSmpxVjNIR2tDSEFMLWs5VDcyOXV5ZUs1YU9mS3gzeTZpWXJGWVJMTmhodzJiZHdPeWJjN1g1VU9wQ0dHZnpucV9qVUE4Z1VadThuSGtmUU9qN1dyY0xaaDNLUWtjUUpUdkNqVHd3NFJERQ?oc=5",
-        "why": "A major vendor's new AI for tax and audit stresses explainable answers, which is the traceability auditors need. Good to know for interviews."
+        "id": "82e870f0efee",
+        "title": "AICPA & IRS AI Risk Framework \u2013 Accounting Technology Lab Podcast \u2013 Oct. 2026",
+        "publisher": "CPA Practice Advisor",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmNUdTAxY2JhRm5CQjEzaTVERzc4YlJkbEZlSUFCVktocjJvcE1RYW9iZ05jMndzdGVVcGZJc0tXcTdiZG84d0M2RUNfaFdrWC1fSUtSRlhBVXFMTFhDakpheFlxd2F6bTdCWVd3WXpodVlJTE0xX2ZEZUh6X1JrdXVIaHIyZHBsNnV4bHdkYVBzb1ZYYk9Bcy1kTnFxalFxd0NjT1VpZ000aUVsN0VLX1FaYWI4UQ?oc=5",
+        "why": "An AICPA and IRS AI risk framework is the most concrete standards-side item today, and it's useful to cite in interviews."
       },
       {
-        "id": "cd5988553628",
-        "title": "90% of internal auditors now use AI",
-        "publisher": "CFO Brew",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Rc1Z2T0p1eWxlZV9Na2tvUzRUeHMzSk0wMFBFWDJJSWgwUXBMZGQ1eEpfYkl5ZVQxaHF6UXlMZHhPMmd0VGZhYVp1V0xWdzN4alpQTjN6ME5mQVlzVjVyZGNFMGRoMUpfNEVwME02RDFHb2QwRnc?oc=5",
-        "why": "If 90% of internal auditors already use AI, it is baseline for the profession, so expect to be fluent in it from day one."
+        "id": "78177e805b5e",
+        "title": "Why AI Requires CPAs to Look Beyond Traditional Risk Scores",
+        "publisher": "CPA Practice Advisor",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkhtRmlSbnpGVUJMR0NBeS14bndhNjd2bzk3cFVhMFc2V0JKT1lsUExWQTZ1S0xYT0lkWnZYX0tPYm1ZS1BYRE45THg4YnJkRk05R09OcnFSQ3NmRjhYcUpuZGItdlBLQTFrSEs4V2ZvWWpxMzcyTVRrcll3T0RyUnczUGdZSWpZS1N1SDh2cENfU1FyXzR5dXV4cVE4S3g0QVdSa2ZiMDhVdHZ1dDhzQW9Cdw?oc=5",
+        "why": "Argues CPAs must look past traditional risk scores when AI is involved, which bears on how you'll assess risk on engagements."
       },
       {
-        "id": "84de42a1f700",
-        "title": "93% of AI Spend Goes to Technology, 7% to People, Deloitte Says. Broken Trust Halves Motivation",
-        "publisher": "AICERTs",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLU5SbnJrVDBpbzNUN1BhVzhuUlpwaWRIZDlyRER3ZVpIazZMVzlIZzNVemd5NFBEQ01nQmxzWkJnYU40LXRtX2t2ejdkSk9pOTNJR05BNko1dXJlQk1lYVNhdVJ5TENlRmQ3V1RrRUY4X0YtY1pvUUh5SGZVTWlWQnVzNXBwNTlDdjFoREtndkozV1NGcl9BcGo1NF8yT2tTb01xWFExVVBuX0U0RHJ3bFFpTkFvOTktbmh5cA?oc=5",
-        "why": "Deloitte's 93% tech to 7% people spend split and the trust finding show why firms will want staff who can use AI well."
+        "id": "88664b4d2d19",
+        "title": "Why TSX:TRI jumped on the S&P/TSX Composite: Thomson Reuters launched an agentic AI platform for tax and audit",
+        "publisher": "kalkine.ca",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS001TFE1RGlhaEk1QWl3bnNQNTdpdTk4LXdYZHh0ZzJTVjdLU2hvaTR6TTV2N09Objl0cWZJZ1pqRi1LMEVMMW8ycTBoblhSN3FBMVdzOXpKZjB0NjgwaHZYRzFvSGhjZ2RPZXhqYnJaT1VZdTJqU3J1ampfOGk1QWVNZ0ZMSDVCeWVTbUc2UnFDNzN1VWZOVWgwdkIzbVdCaDh4TlJrQWFkcm83MGczbEdFUkhPR3N3Qi0yeUkweVFpRFV5eEN3X3oyTGU0WGhtLV8yY1BqRlpwellETU5wNzNKZVFQSTRvMFE?oc=5",
+        "why": "Thomson Reuters launched an agentic AI platform for tax and audit, a sign of the tools you may use in your first busy season."
       }
     ]
   },
   "stories": [
+    {
+      "id": "82e870f0efee",
+      "title": "AICPA & IRS AI Risk Framework \u2013 Accounting Technology Lab Podcast \u2013 Oct. 2026",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmNUdTAxY2JhRm5CQjEzaTVERzc4YlJkbEZlSUFCVktocjJvcE1RYW9iZ05jMndzdGVVcGZJc0tXcTdiZG84d0M2RUNfaFdrWC1fSUtSRlhBVXFMTFhDakpheFlxd2F6bTdCWVd3WXpodVlJTE0xX2ZEZUh6X1JrdXVIaHIyZHBsNnV4bHdkYVBzb1ZYYk9Bcy1kTnFxalFxd0NjT1VpZ000aUVsN0VLX1FaYWI4UQ?oc=5",
+      "snippet": "AICPA & IRS AI Risk Framework \u2013 Accounting Technology Lab Podcast \u2013 Oct. 2026 CPA Practice Advisor",
+      "published": "2026-10-24T01:48:29+00:00",
+      "themes": [
+        "Regulation & standards",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
+    },
+    {
+      "id": "74215c9098a0",
+      "title": "Friday Footnotes: Internal Auditors Are All In on AI; KPMG Australia Takes a Few More Ls | 10.23.26",
+      "publisher": "Going Concern",
+      "seen_in": [
+        "Deloitte",
+        "KPMG",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQm0tNEN0OXN2MVRwalduendpSUx5T1liWWhLcGZObkVlTU5lb21qd1o5SlA3WVFpRGpsMXp1Q1prUWZvV3lkajlzRDNXRklJUUxMZ3d0OXpjRW1ZYUYwVVZwRE52a1E5anR0N21lQmo2Y2JEQkhCZ05mYm5PemZKZ3VmNVZMSUl4QnhWU3VabkxoV0puaW41WklYdTBoUnNJbWJhZ0xaZkhqdWdxZmljUGEyVU02UEpDbW1aWmUxdFY4bUE?oc=5",
+      "snippet": "Friday Footnotes: Internal Auditors Are All In on AI; KPMG Australia Takes a Few More Ls | 10.23.26 Going Concern",
+      "published": "2026-10-23T21:00:00+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
+    },
+    {
+      "id": "6948de6f5df2",
+      "title": "CCH Axcess Adds Agentic AI for Tax Preparation",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWJYUTJHa1ozVUhTbUhyVzdmQXkySU12c2F2TTdPNXpRZFVTSjdiSVlQaGRNMUN5TEpZV2NNbThjTUYyQzVLRy1RU19VbDd3NG1Sb0Nzd3ZsOE95RmxHY2pOeUFodElhc3VqMmhTOWx2MDgxQzdXNGR3NDFxNjhSTk96QzhmaEpzMkFCU3U2OF9uN2c3M0FBVTV2Y2pMYkxpVlE?oc=5",
+      "snippet": "CCH Axcess Adds Agentic AI for Tax Preparation CPA Practice Advisor",
+      "published": "2026-10-23T19:44:39+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
+    },
+    {
+      "id": "51c27ebebb0d",
+      "title": "New Orleans accounting firms put AI to work as adoption accelerates",
+      "publisher": "New Orleans CityBusiness",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQUZ6RV91bFVDTjc4N083ZkZ3eGlVenpaT1R1SXNZWVRYUzg2b1p4SVg2Mm1qUl9pSEo2N0E2RUlSTXZ2anp6dUd5Z3BSVXNDVmdjT0RXOVlIaC1CXzgyaU5Hc000bXdSSDVzVXRuWlV2Zl95ekFoY3gxSDhwaFRVemJ0TFJDd0pVbjY0?oc=5",
+      "snippet": "New Orleans accounting firms put AI to work as adoption accelerates New Orleans CityBusiness",
+      "published": "2026-10-23T18:48:49+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
+    },
+    {
+      "id": "f0562eaf6c90",
+      "title": "CFOs Cite AI Cost-Governance Gaps in Survey",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0FSa2FacVlqc2xyRWhKYU1sNFJjVlFnUEpyNkI5MHZ0WXQ4dUZRSXNNcTFqbW1sajFYemtxdERGeUZFZlA0Z3VDaFdkN00tRmNyM3Fvcld0elpkeEJEc2I1MFVDMzFBaUxKN2tqYUpiODJJeHl1VVMtVVBhOTFQa2c4QlhqSFBkc21RLW9NaUlyQmJrV2RUWEJ2OUExZw?oc=5",
+      "snippet": "CFOs Cite AI Cost-Governance Gaps in Survey CPA Practice Advisor",
+      "published": "2026-10-23T17:49:13+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
+    },
+    {
+      "id": "22d6b5d6f599",
+      "title": "Smarsh Expands Solutions for AI, Cyber, and Third-Party Risk",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmV4MzlsY2Z5R2FkTWFOeVZfb21HQ3hKSGZha3pmUDdfWmVUaW8tVEZuZElmQy1INGFqMThIM3pIc1lrc2t1eER2alJWNGdZOFZJTXFRZ0VrY3RmNmdkdkd3NG9JaHZCWnhzX29LcWNkT003cElkR2RIekZNTDBrMlhCaUVUa25oSXpZVDZ1VVl0ZTN0dEN4c3BTRGZZWVl4QkRWSWJoVnpMdnEzYVNPaWtn?oc=5",
+      "snippet": "Smarsh Expands Solutions for AI, Cyber, and Third-Party Risk CPA Practice Advisor",
+      "published": "2026-10-23T17:34:10+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
+    },
+    {
+      "id": "78177e805b5e",
+      "title": "Why AI Requires CPAs to Look Beyond Traditional Risk Scores",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkhtRmlSbnpGVUJMR0NBeS14bndhNjd2bzk3cFVhMFc2V0JKT1lsUExWQTZ1S0xYT0lkWnZYX0tPYm1ZS1BYRE45THg4YnJkRk05R09OcnFSQ3NmRjhYcUpuZGItdlBLQTFrSEs4V2ZvWWpxMzcyTVRrcll3T0RyUnczUGdZSWpZS1N1SDh2cENfU1FyXzR5dXV4cVE4S3g0QVdSa2ZiMDhVdHZ1dDhzQW9Cdw?oc=5",
+      "snippet": "Why AI Requires CPAs to Look Beyond Traditional Risk Scores CPA Practice Advisor",
+      "published": "2026-10-23T16:18:54+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
+    },
+    {
+      "id": "c0f9770f0f20",
+      "title": "CEO priorities 2026: growth, resilience, and AI ROI",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0h1WHlIUVZCVHlnak1Jem81U2IwZ3ZZSzZWYUJlLTNmVkFxSGg3YjV1Mm40RnZwUmNaamdCekRHbGtTUHVpaXFZamduelNodVBRanVGZk9EMkwxZTlzMzF0NkIycm1hUVhxbi1EUGdDNXFYV0FwUU5sMGZiX1o0VkJsUUlPTExNVU10R0VaQ2ZxbS1QLUFaWkhCT2Y?oc=5",
+      "snippet": "CEO priorities 2026: growth, resilience, and AI ROI EY",
+      "published": "2026-10-23T15:17:16+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
+    },
     {
       "id": "665ac6f89ca4",
       "title": "Tech news: Tipalti touts AI agent to manage entire AP process",
@@ -58,7 +182,8 @@
       "publisher": "Accounting Today",
       "seen_in": [
         "Accounting Today",
-        "General"
+        "General",
+        "PwC"
       ],
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXlhUkZtZFdhQmdBa2lVWWtRWXUzZ3dEMjFGU1JCdFp4Ui1QUjdYelJObjdJYzRmdVVCekhjVlVBcFFmUy10N3JPYm1uZG01aXhZWWpMWE9uMFNMa2NFTVhTNkE1aVJTMmpWSjRzVlB0V3UxeTYzV0hlNGhPSUYyRE9XR1p6UF9TM1JGejFaNVk?oc=5",
       "snippet": "Why smaller CPA firms may have the AI advantage Accounting Today",
@@ -67,6 +192,36 @@
         "Other"
       ],
       "first_seen": "2026-10-23T14:32:02.320606+00:00"
+    },
+    {
+      "id": "a7c0ad2f2019",
+      "title": "Thomson Reuters expands CoCounsel AI for accounting professionals",
+      "publisher": "International Accounting Bulletin",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMEhvRTFSejVLOFZpSHRIcVNLMHBvU2pOTXVTX0s2MDZGRUc0XzFOc2xZN29pV1pyZzl6U2NVSWJSb182M29zU25CSFprM1VlTnV5QmxEVkNqdi1DVnpSekVlTEZZeFU0WnEtMzYyd2EtUXFscDlKUHhTV1E4UFZ2MjhsQlJQTERMUGdva2ducE53RXRmOEFVWXZBSlJqTXBieDNra2ZIdmVpbXA0QzhZMWFjOG1nN0lYMGxZ?oc=5",
+      "snippet": "Thomson Reuters expands CoCounsel AI for accounting professionals International Accounting Bulletin",
+      "published": "2026-10-23T13:22:48+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
+    },
+    {
+      "id": "88664b4d2d19",
+      "title": "Why TSX:TRI jumped on the S&P/TSX Composite: Thomson Reuters launched an agentic AI platform for tax and audit",
+      "publisher": "kalkine.ca",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS001TFE1RGlhaEk1QWl3bnNQNTdpdTk4LXdYZHh0ZzJTVjdLU2hvaTR6TTV2N09Objl0cWZJZ1pqRi1LMEVMMW8ycTBoblhSN3FBMVdzOXpKZjB0NjgwaHZYRzFvSGhjZ2RPZXhqYnJaT1VZdTJqU3J1ampfOGk1QWVNZ0ZMSDVCeWVTbUc2UnFDNzN1VWZOVWgwdkIzbVdCaDh4TlJrQWFkcm83MGczbEdFUkhPR3N3Qi0yeUkweVFpRFV5eEN3X3oyTGU0WGhtLV8yY1BqRlpwellETU5wNzNKZVFQSTRvMFE?oc=5",
+      "snippet": "Why TSX:TRI jumped on the S&P/TSX Composite: Thomson Reuters launched an agentic AI platform for tax and audit kalkine.ca",
+      "published": "2026-10-23T09:36:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
     },
     {
       "id": "ad37dd68de0d",
@@ -83,6 +238,21 @@
         "Risk & controls"
       ],
       "first_seen": "2026-10-23T14:32:02.320606+00:00"
+    },
+    {
+      "id": "ebd855b3b93d",
+      "title": "Accountants who ignore AI risk irrelevance, Ofosu-Dorte warns",
+      "publisher": "News Ghana",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMy1CcmlTZnl5eUw2bnlFRE9EM2VWcG55SGlpb1c4TVRGT0JMQ0hyOGdMWDl6TjNZQnhRcGZxWDhTSnllX3ZhbmpWamFvaU1zZ3BfUnlBWnVxd25HQmxLRWVRVkFvOWVpeDRiOVFyd3hfS2xyRG5seTR3NHVReE81QXF0eTYyeU5DRFdyeFlJOA?oc=5",
+      "snippet": "Accountants who ignore AI risk irrelevance, Ofosu-Dorte warns News Ghana",
+      "published": "2026-10-23T00:24:57+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
     },
     {
       "id": "14f07d86798a",
@@ -190,6 +360,21 @@
       "first_seen": "2026-10-23T14:32:02.320606+00:00"
     },
     {
+      "id": "7f706096bee3",
+      "title": "UK perspective: Architecting an AI-native tech organisation",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUZ5eUVabTlHZzhjM0ZuWU95c0NfLUMzb0pDcjZMNGNjclNoMWxCalVXR3EyNllhcDFSak9Hc1Z6ajBhQWRQbWNzQ1FNLS1Gb3RNcnkzUzJkNGpBcW9UbVRfdjExLUkzRmM4N09TRXdMT0tucXRuWEpFd2ZPTUFua21PbXJLU1YwV2JYOXJmYU95dnJmQzdVQTFYMGJBTW1mSW1jOUxLaGVGLXR1ZEJ5cGZ4NHBsLTk5Vk9lMmpic2VhUEFhc1E?oc=5",
+      "snippet": "UK perspective: Architecting an AI-native tech organisation Deloitte",
+      "published": "2026-10-22T13:51:07+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
+    },
+    {
       "id": "206ed430ffe5",
       "title": "Thomson Reuters Launches AI for Tax and Audit That Knows Not Just the Answer, But Why It\u2019s Right",
       "publisher": "Thomson Reuters",
@@ -203,6 +388,22 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-23T14:32:02.320606+00:00"
+    },
+    {
+      "id": "6e1f81130d03",
+      "title": "UK perspective: Securing and leveraging AI for cyber defence",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPem1EMnhPb3QtVzdVYmMxN3BFRk1MdU1CaU9qcFVwVzExSnNWc3pDSUliR05TU2NiMVJVSmdLQm1Ra0w5QXk3ejdubXBXalAxcTRMSWlYbU51T2NNMG9XdVoxVmJXQ0xaM0V3WlFEYUh5RWg0VDM4ZFJTdVo1Y1hsazRCTVJHOThuS0c3ZUZNRm9BdFd5TTFqelFkLVZzUzNuVTViSHBaOUU5VzFCbjFSd2NXbzNILU0wTEQ2bm9FRHJyREoxbkpz?oc=5",
+      "snippet": "UK perspective: Securing and leveraging AI for cyber defence Deloitte",
+      "published": "2026-10-22T13:18:18+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
     },
     {
       "id": "66fba6522632",
@@ -233,6 +434,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "4af1e5951b9a",
+      "title": "How a commercial brain builds competitive AI advantage",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYkRfZ2dNVjViT3B5VmR2MnVaWGRiQlkxRGpfTDVWN3p1UWh0cXpNcUJjYUcya095cjU5cnFlMDBZVjdxb1UzSjZaenVYdGtnZldqM1VxNFJULXByRjdzVG42dmhMN0RtY3FYNWJoU0dqWlRGalN6TzVucElzOVYwaUw4OTVxbVVZWExBMWVsOFJlaUdtOU5YRHMyYVl5M05iYWZ0LUg1MWFuZHY2YTZn?oc=5",
+      "snippet": "How a commercial brain builds competitive AI advantage PwC",
+      "published": "2026-10-22T07:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
     },
     {
       "id": "b0416def9fe2",
@@ -516,6 +732,22 @@
       "first_seen": "2026-10-23T14:32:02.320606+00:00"
     },
     {
+      "id": "86aad6bf4f20",
+      "title": "Smart glasses, AI recorders, and the new insider risk",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jbnZ4TmZRczF5TXNKRW1rdWxaa2d1OHNVTUJkbE9Bb213VDlfaU1rQVM5aUp5ZTBsbXlGbGFmME5LYVBJY2NCRlRUQkxEenF6cHg2OW5BTjJXcGI3RWRoNjdJZndKemJnRDRWWUtjYTNkcmM5Ny0tcTdpQ1N4dw?oc=5",
+      "snippet": "Smart glasses, AI recorders, and the new insider risk PwC",
+      "published": "2026-10-21T07:00:00+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
+    },
+    {
       "id": "89eec3884c2a",
       "title": "AI Validation in Financial Institutions",
       "publisher": "Deloitte",
@@ -589,6 +821,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-22T14:30:14.802560+00:00"
+    },
+    {
+      "id": "77cc56ec777b",
+      "title": "How to empower businesses with trusted conversational AI",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ05pN0VoMWtrOUUyOHZnWmVyandMLW84OXBDLVJCVmdhempTcUtXM1B0TjZucFdaM3ROZUJEb1ZuaTZtQ2VfLTk3QUlRbHY2R2J6ZndRVTdEOTlkNjBUeXh3SG5zWVRQXzJtdjNueGR6X3Nzc0ZzQ1UtMndBV3BkcWx5UTIzTEZkLUQ4LUl5clVxQQ?oc=5",
+      "snippet": "How to empower businesses with trusted conversational AI EY",
+      "published": "2026-10-20T21:26:15+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-24T14:21:10.250672+00:00"
     },
     {
       "id": "42433c8dc55a",
