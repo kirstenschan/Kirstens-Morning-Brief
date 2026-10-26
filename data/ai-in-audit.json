@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-25T14:21:05.754156+00:00",
+  "updated": "2026-10-26T15:32:35.093879+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,63 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's stories point to firms moving from AI pilots toward autonomous agents and governance, with a focus on how junior accountants stay relevant. Details are limited to headlines.",
+    "quick_take": "Today's news is all firm-side AI: managed services, strategy pieces and a survey. There are no regulator or standard-setter actions, so details are thin and come only from headlines.",
     "standouts": [
       {
-        "id": "b8e4916dcc85",
-        "title": "Three Rules for Junior Accountants Competing With AI",
-        "publisher": "CPA Practice Advisor",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbng2c0RUa000QVhuQWoyU3dmVEtTUm01VWxCM1RocklkSVhHNzVydlpvOTRudnF6RzFHR2FXeElUOVM1VU5hc2xzWU9UMVVDT3gxMzNWbnN6UV85S0JEZGktRENiREFWMjJsc1M1LVZxeXFMVkNoZzFrUEhXWFVFX0luSFFUM2x3SGFOMlJEQTYwZXJaQ0NJWW5aX0owWllfbTJ0aURuLWVOZw?oc=5",
-        "why": "Directly about how junior accountants compete with AI, so it speaks to your early-career skills and interview talking points."
+        "id": "422637245a23",
+        "title": "PwC UK and FloQast Expand Partnership to Launch AI-Powered Finance Managed Services",
+        "publisher": "FF News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVVEOW81NlBfaEJCdXllYl9laG11azk4bzRqb2hZRWFad0VOOUx5QVJDM2FFcGZ1czhJQjRfbVdZZkZQRThvVzM3RU5QVGtYTVJrZzNwSXdLeGQxYXVKVHVycnhXajh3WkdVT0RkYzd2MmNzWk5WQ0IwSWRnNnlGdGpUM3hCRWhkclNDZnl6ZWtHSnprbXllV0VjcXFiQXU1NTVQRnRhc2c3dG5S?oc=5",
+        "why": "PwC UK is expanding with FloQast into AI-powered finance managed services, a concrete sign of how a Big Four firm is packaging AI around close and finance work."
       },
       {
-        "id": "38780ed21dfd",
-        "title": "Asia Pacific firms are transitioning from scaling to building autonomous AI agents",
+        "id": "cdc923d231d2",
+        "title": "Global AI Quarterly Pulse Survey: Q3 2026",
         "publisher": "kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLW9uc3FxZzdBVkdnUzdLVGp0RlhwUzlvSklzbEZIR2FMcmFaQ3o3TTJkUkhuUFBydHluYTQ4UWlqd1ZodFVtQUliWTIzOERwaUlBNVZoekxfM3gtcE5iMVdmSmFjX0dxekxxUzY2SjFjczF2ZTM5N3BEQ09qc0lUT3FCanV6VndvbkRTR0pRclA0WnB6QnZhWkNSUnNpWmVMMHlfSHNpOEo?oc=5",
-        "why": "KPMG says firms are shifting from scaling AI to building autonomous agents, a sign of where Big Four tools may head."
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mcHNjZEpGOXNrMlNTcWhrUGN6NG10WGI3cFNOM3ZqOU9mNi0zSDlJOWtQMGFWak9EY19aMmdENUNFWndxbVB3cF9xME5xZzdPZDdlWGNUYkRhR1hNVDJsYjZtZjVaWXc?oc=5",
+        "why": "KPMG's Q3 2026 global AI pulse survey may offer data on adoption you can cite in interviews, though the headline gives no findings."
       },
       {
-        "id": "1e586a06bf2d",
-        "title": "AI governance in Luxembourg financial services",
-        "publisher": "Deloitte",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWtHRmlwVW0ycm9SZmliT0wyc0huUUE2aUIxYnZ4MVBVZHlfUHVOSUlqZzA4bzN4Qk5EaXlkNW40ZF85Q3NXemtmTVhmVHZPS2dVS1g2X2Q0V2NDYWJrYldDY1hUTngyTTU0NU9CWmtqT21HWHVSZkFaNnFvT2JNY0JiRnBBWnVnWm10ZDJSeG1Yd1huRlNKNzViOXAtR284RHNtR3phMjJzM0xZN2c?oc=5",
-        "why": "Deloitte on AI governance in financial services shows the risk and controls questions auditors will face at clients."
+        "id": "549310e46ccb",
+        "title": "The intelligent core: Why Oracle ERP matters more in the age of AI",
+        "publisher": "PwC",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOG5FT0JZZ2xSZDFPNk9zemJ5VGU2cGNNdFFEdU9hWFBSQkJScEZha0NGTUZYbmNGcGRmSWkwam1hVFBVV2Q5UFY1bFkyeHptNkZDX19wT0tpM2syTUdzcXRNbFFXN3V2T01CcjVGLVhBOVpndHpYTGVjVlFaWkV1TlNoTDNkYThYelh2RTlLX0UyeWt6TXNacDZB?oc=5",
+        "why": "PwC argues ERP systems like Oracle matter more in the AI age, which is useful context for the systems and data you'll audit."
       }
     ]
   },
   "stories": [
+    {
+      "id": "a349a6b3c826",
+      "title": "KPMG: Economic Uncertainty, AI Readiness Will Shape Next Phase of African Investment",
+      "publisher": "THISDAYLIVE",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRXB1NHByWlhNR0ZWRWZBVWhGT3U3a3hZT2JSeUI3dm9OVmJiMDRiSE0xNWY1N0ZpVGdVNzVrX2Zpd3RLQzNmcjhVWEFKMnF5eUNsQlBoZ09PWGQ3eHh3cHRuWXc0aFgzcmRMamttam9ocmIwLWpxTEU0X0V4M1hWWG5fXzRqVFVjN095cFR1bGdjZWxkblhXaHg2YlR4a01mU2c4MjR2NzVNX0FJLTJMZGdzd3gzckozWDRFOEpZYw?oc=5",
+      "snippet": "KPMG: Economic Uncertainty, AI Readiness Will Shape Next Phase of African Investment THISDAYLIVE",
+      "published": "2026-10-26T11:50:32+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-26T15:32:35.093879+00:00"
+    },
+    {
+      "id": "422637245a23",
+      "title": "PwC UK and FloQast Expand Partnership to Launch AI-Powered Finance Managed Services",
+      "publisher": "FF News",
+      "seen_in": [
+        "PwC",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVVEOW81NlBfaEJCdXllYl9laG11azk4bzRqb2hZRWFad0VOOUx5QVJDM2FFcGZ1czhJQjRfbVdZZkZQRThvVzM3RU5QVGtYTVJrZzNwSXdLeGQxYXVKVHVycnhXajh3WkdVT0RkYzd2MmNzWk5WQ0IwSWRnNnlGdGpUM3hCRWhkclNDZnl6ZWtHSnprbXllV0VjcXFiQXU1NTVQRnRhc2c3dG5S?oc=5",
+      "snippet": "PwC UK and FloQast Expand Partnership to Launch AI-Powered Finance Managed Services FF News",
+      "published": "2026-10-26T11:40:09+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-26T15:32:35.093879+00:00"
+    },
     {
       "id": "e26c9bbec2ea",
       "title": "Offer in Compromise, Installment Agreement or Currently Not Collectible: Helping Clients Pick the Right IRS Path",
@@ -52,11 +83,27 @@
       "first_seen": "2026-10-25T14:21:05.754156+00:00"
     },
     {
+      "id": "f153c3c5c479",
+      "title": "AI strategy for growth and competitive advantage",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42Uk90TFh4Z1ItRHZMai1VWTF0elJYX0ZZWV95Z3hFMXFNTVJoc1cxVWdkb0JYaXNoRHBlVV93eXg1ancyUFpDX0puNk1Dd2d3X1RPMzFfSnVTZ0lCLXRJZUxfbktma3N1aGg4ZWZIQVZqeG9VMm1KNA?oc=5",
+      "snippet": "AI strategy for growth and competitive advantage PwC",
+      "published": "2026-10-25T00:57:02+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-26T15:32:35.093879+00:00"
+    },
+    {
       "id": "fb70d8b8711b",
       "title": "ClicData Launches MCP Server to Bring Trusted Business Data to AI Assistants for Midmarket Teams",
       "publisher": "CPA Practice Advisor",
       "seen_in": [
-        "CPA Practice Advisor"
+        "CPA Practice Advisor",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSG15dWtfODZRbXY0ZXJzUlhmNnVMX25fR1B3OFJidFAtSTJYZ1l3Y1RWSXI1RkoyT0JsU0c1QXhFVFp6Q1dVTHRkeG9LNEJILUp6MVFjc3F3ejc3Y2VzaUtiRjI4UjRxUC1GOU9Ndm55ME1fUnBzVU43dVpvcE5PNTZIeXdGRWVDZWZXMnNydHB2UFN3TTdQSkNINTFNbVFmcGMtUlZzbTlhdU1OczFyU2dqVk1Gd0pvT1NfNlRFb2hWa1ZfUlN6dXhqUHhkTXRMLVpSZmdyRjV2dTAteEV1NFpTUms?oc=5",
       "snippet": "ClicData Launches MCP Server to Bring Trusted Business Data to AI Assistants for Midmarket Teams CPA Practice Advisor",
@@ -286,6 +333,21 @@
       "first_seen": "2026-10-24T14:21:10.250672+00:00"
     },
     {
+      "id": "549310e46ccb",
+      "title": "The intelligent core: Why Oracle ERP matters more in the age of AI",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOG5FT0JZZ2xSZDFPNk9zemJ5VGU2cGNNdFFEdU9hWFBSQkJScEZha0NGTUZYbmNGcGRmSWkwam1hVFBVV2Q5UFY1bFkyeHptNkZDX19wT0tpM2syTUdzcXRNbFFXN3V2T01CcjVGLVhBOVpndHpYTGVjVlFaWkV1TlNoTDNkYThYelh2RTlLX0UyeWt6TXNacDZB?oc=5",
+      "snippet": "The intelligent core: Why Oracle ERP matters more in the age of AI PwC",
+      "published": "2026-10-23T07:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-26T15:32:35.093879+00:00"
+    },
+    {
       "id": "ad37dd68de0d",
       "title": "Insurers warn over AI-enabled cyber attacks",
       "publisher": "kpmg.com",
@@ -360,6 +422,21 @@
         "Other"
       ],
       "first_seen": "2026-10-23T14:32:02.320606+00:00"
+    },
+    {
+      "id": "cdc923d231d2",
+      "title": "Global AI Quarterly Pulse Survey: Q3 2026",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mcHNjZEpGOXNrMlNTcWhrUGN6NG10WGI3cFNOM3ZqOU9mNi0zSDlJOWtQMGFWak9EY19aMmdENUNFWndxbVB3cF9xME5xZzdPZDdlWGNUYkRhR1hNVDJsYjZtZjVaWXc?oc=5",
+      "snippet": "Global AI Quarterly Pulse Survey: Q3 2026 kpmg.com",
+      "published": "2026-10-22T17:35:21+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-26T15:32:35.093879+00:00"
     },
     {
       "id": "cd5988553628",
@@ -1132,6 +1209,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-20T14:27:35.204085+00:00"
+    },
+    {
+      "id": "233f99440237",
+      "title": "Multimodal AI wins T-Mobile for Business award",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVk0yZENmNWNhSHlSMDJsdW1NVWFEbU1LNmR6WTRwNEY0QjViZDRnQ2ZIT3pwbEMwY1BmalpIUDBuQkw1eXpEV1RwbHJXYVNkREhKbHdtZXc0UzRBc1F4QWNYOU1JMnVGRGJZNUVkelBXa0FhRXluN3lJUHhSeHBKNg?oc=5",
+      "snippet": "Multimodal AI wins T-Mobile for Business award PwC",
+      "published": "2026-10-19T19:46:04+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-26T15:32:35.093879+00:00"
     },
     {
       "id": "278b14ef0c34",
