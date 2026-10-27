@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-26T15:32:35.093879+00:00",
+  "updated": "2026-10-27T14:42:50.052225+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,233 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's news is all firm-side AI: managed services, strategy pieces and a survey. There are no regulator or standard-setter actions, so details are thin and come only from headlines.",
+    "quick_take": "Big Four firms are both selling AI assurance and facing AI quality scrutiny, while vendors push agentic tools into audit workflows. Expect reviewer and oversight skills to matter.",
     "standouts": [
       {
-        "id": "422637245a23",
-        "title": "PwC UK and FloQast Expand Partnership to Launch AI-Powered Finance Managed Services",
-        "publisher": "FF News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVVEOW81NlBfaEJCdXllYl9laG11azk4bzRqb2hZRWFad0VOOUx5QVJDM2FFcGZ1czhJQjRfbVdZZkZQRThvVzM3RU5QVGtYTVJrZzNwSXdLeGQxYXVKVHVycnhXajh3WkdVT0RkYzd2MmNzWk5WQ0IwSWRnNnlGdGpUM3hCRWhkclNDZnl6ZWtHSnprbXllV0VjcXFiQXU1NTVQRnRhc2c3dG5S?oc=5",
-        "why": "PwC UK is expanding with FloQast into AI-powered finance managed services, a concrete sign of how a Big Four firm is packaging AI around close and finance work."
+        "id": "c554bf135a01",
+        "title": "Monday Morning Accounting News Brief: Deloitte In Trouble Again For AI Slop Report; Don't Embezzle to Tip Livestream Girls | 10.26.26",
+        "publisher": "Going Concern",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeTJnVUdaQmNYU0dZbVoya0gtVngwaUJMWXp3anZyeGtfQ0RtUHFXanFKMFVubXlQcDFUVVZDbUlEcXNQYkZtNlB2alc1dFhPa2ZiMFVHQ2dPZ0cxTGF5U3Z3RDdVUldnc09YLWFtSDNtMFFrWmd1cU1jV1Y3MDNWd2cwUVpQd2JhNjBieHRFSExmS1phckJQYks0cXlKcnpTem9DTXNELW91TmVHdFlzRmdYY1o2azlJcXRXTm1WLUdMc191TllSZ3Q3Wmo4Y2RveXc1QzJDNUJjeXFaRmNLVkhLYm1WUThoVnM0VEM4cw?oc=5",
+        "why": "Deloitte is reportedly in trouble again over an AI-generated report, a reminder that reviewing AI output is your job, not optional."
       },
       {
-        "id": "cdc923d231d2",
-        "title": "Global AI Quarterly Pulse Survey: Q3 2026",
-        "publisher": "kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mcHNjZEpGOXNrMlNTcWhrUGN6NG10WGI3cFNOM3ZqOU9mNi0zSDlJOWtQMGFWak9EY19aMmdENUNFWndxbVB3cF9xME5xZzdPZDdlWGNUYkRhR1hNVDJsYjZtZjVaWXc?oc=5",
-        "why": "KPMG's Q3 2026 global AI pulse survey may offer data on adoption you can cite in interviews, though the headline gives no findings."
+        "id": "209eac39b0cb",
+        "title": "Anthropic Joins Top AI Companies Turning to EY to Vet Financials",
+        "publisher": "Bloomberg Tax",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXlvakJXVzlidk12RXhJQ1ZuX0tBblRHTmN4U1RVNXVMdktSX2xiREE2eXFNcjBOT0Fmekdvd3pHdnBYaVJHcEl6d2c3UFQzUWc3dmRPa2R6UDFxWWQ2LXVfS2t3S0l4ZEJFMWhEYUVtZVcxUHB0bURuakpyd1JXbUhnVGhMdGkyTXdCZkU0dWszb2ZvRWo3UkZxdVhYOWxjcEN1cEdZT2xOZ1hkQWhGRjRLS0RDUQ?oc=5",
+        "why": "Top AI companies like Anthropic are turning to EY to vet their financials, showing demand for auditing AI-driven businesses."
       },
       {
-        "id": "549310e46ccb",
-        "title": "The intelligent core: Why Oracle ERP matters more in the age of AI",
-        "publisher": "PwC",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOG5FT0JZZ2xSZDFPNk9zemJ5VGU2cGNNdFFEdU9hWFBSQkJScEZha0NGTUZYbmNGcGRmSWkwam1hVFBVV2Q5UFY1bFkyeHptNkZDX19wT0tpM2syTUdzcXRNbFFXN3V2T01CcjVGLVhBOVpndHpYTGVjVlFaWkV1TlNoTDNkYThYelh2RTlLX0UyeWt6TXNacDZB?oc=5",
-        "why": "PwC argues ERP systems like Oracle matter more in the AI age, which is useful context for the systems and data you'll audit."
+        "id": "af7b8410bf5c",
+        "title": "Wolters Kluwer expands agentic tax and audit capabilities in CCH Axcess",
+        "publisher": "Business Wire",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLUJwV1JMcnRzTnp6ZFZaaHFha0REcmNHOXhhZHlLMVN6VXZXYzdjMXQyakRLdkp4RlZzajRBSGh0VUJuWFZSaEtxOHUydnVncS1Vb1RDMS1XMUxBR05aQWFJVlJLSUpKRWlmMVo2RHRiQmt0VDNOcmI2SGh5VEZteF83UDF3WmJuODg1dzFVS0s5WlNPZzFKbGFJb3lqUG1kM29kT3QxdTdXNlJGclBYT25ZNWhqVzJBWFJvNlJyN3dfUTdPSC0w?oc=5",
+        "why": "Wolters Kluwer is adding agentic audit capabilities to CCH Axcess, signaling the tools you may use and the tasks that get automated."
       }
     ]
   },
   "stories": [
+    {
+      "id": "fbde79be6a56",
+      "title": "Black Ore Unveils Robust Tax Automation for Small Firms",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXhhcXN1YVRQaXlKTTliVXFwa2VhdHRya2JQUGdvTzZaYWhQMS1QYVpEeXdid3MtTC1yZ0dqZ1VlOVBaTVVDd3RKVDg4SWtRY3BocUdFc2FOdUg1dlFDbmRiZWx2Qnp4S25oREFCVUdZVlpEYmlyTVlrbWR4VjBtRksxRWN4U3FPTF9LRm1QM1dmNm4xQWN0czlYUEhzcEhNc1B5YmlwY0o5aWdJZVE?oc=5",
+      "snippet": "Black Ore Unveils Robust Tax Automation for Small Firms CPA Practice Advisor",
+      "published": "2026-10-27T13:03:02+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "16e2f38ce68a",
+      "title": "Intuit plans bigger AI rollout with accountants",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnhRX0FKQU9nWXY5TUhES2xtTDBNTHBqanpZYUJlRXBzNjU5cTkwdmJ6ckpZU1RZTjJvcEZ4aGtFa3VvTU5Wb0VlZ3dHd3U4TFQ2TWZZSFV0SzFlTDhsSVpYMnVPVzZKdWhoU1Y5amlYNGtZMm1ST3JRZVFpMVdqSnhWcjBhX0F4U2o4OA?oc=5",
+      "snippet": "Intuit plans bigger AI rollout with accountants Accounting Today",
+      "published": "2026-10-27T09:12:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "209eac39b0cb",
+      "title": "Anthropic Joins Top AI Companies Turning to EY to Vet Financials",
+      "publisher": "Bloomberg Tax",
+      "seen_in": [
+        "EY",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXlvakJXVzlidk12RXhJQ1ZuX0tBblRHTmN4U1RVNXVMdktSX2xiREE2eXFNcjBOT0Fmekdvd3pHdnBYaVJHcEl6d2c3UFQzUWc3dmRPa2R6UDFxWWQ2LXVfS2t3S0l4ZEJFMWhEYUVtZVcxUHB0bURuakpyd1JXbUhnVGhMdGkyTXdCZkU0dWszb2ZvRWo3UkZxdVhYOWxjcEN1cEdZT2xOZ1hkQWhGRjRLS0RDUQ?oc=5",
+      "snippet": "Anthropic Joins Top AI Companies Turning to EY to Vet Financials Bloomberg Tax",
+      "published": "2026-10-27T08:45:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "2243f5de34c8",
+      "title": "Governing the agentic enterprise",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVdGYmFOY2FPaUFXZmJ0RXM0RUFSV3dKNzRGNnNGaUdHelEyS1hsUlJHLUdra0d5WGVHNlFVV2kweFpid29WQ3YtMUpfWTdFSlhkOXlwZjI2dDVrUVd3ZnZrbVRvUkFTVXVBNG93ZkNMS3EwRGlZdE5MYXM1bnZkNTNwTF9VdEFMenFoLVM1VW1acnA0OGc?oc=5",
+      "snippet": "Governing the agentic enterprise kpmg.com",
+      "published": "2026-10-27T04:02:38+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "40c3914526a2",
+      "title": "AI in real estate and the value of human expertise",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWXBTYU8xMlJ2VXlCcHhkQ01mRjY3Q3ZPU05nV3MyQ3ZDU2hZa2tQZ2Vma3pFaGtrTy11NUJsUEdIeWRBTDZlc2JvbG9VZEtwa2hLalc4RmF1YzJ2eE5qMGE0UGNFMTZpWmVMYmllSm96ZEtKSGtIUjdxSlo1NUYwaTlzWkFOczVZVjdTUGdNUElBTzBpUmhQeXQ4eEFMSmlGaUtueHVvT19kR2xTZy1Jc2Y4ZnBxallHcHF2OG5ydTRDMlVILVFYamNnYkoyWlBsUVVTV01ZTTE4c0RwVzZOM1hvdmNRc3o2dVMzd1JLZXRvSTlyUFFWaUE2UQ?oc=5",
+      "snippet": "AI in real estate and the value of human expertise PwC",
+      "published": "2026-10-27T03:40:57+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "c6f7fdca0639",
+      "title": "AI in institutional real estate: Adoption and impact",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTFh0UUwyS3RjV2VuTjVtZktObHc2clIxdVlPNDN0UWhsSjZ3T283alJRQmxYMGFzVEhJYURxRGNySGxRSzBReHdiV3VfZWpzalZXeGtIZGI4aVZiMDZYT1draHFxWGx0bGJZcDJrdzZPc0VSN0ZmQW9OODhHSk9paFRDMDFMSTVwM2xycXN0a2xRbTE3QXprNWdSdkdKNzN0amF6bV9TRldSaVVMZm5pRnVrVHI1Z3gzUUdFbHNaclpicTQwdFFvUFJOQ3R6TUNINVNKeC04VnEtSmRrT0g5UFl0SnlkaS1xSXVBcVJCWmRVUQ?oc=5",
+      "snippet": "AI in institutional real estate: Adoption and impact PwC",
+      "published": "2026-10-27T03:40:57+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "37a1843bdf56",
+      "title": "Oracle NetSuite Debuts Industry-Specific AI Agents",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3JKdWZqdmVWRU16NGExZjVKTGZ3VEprUi03R2E2UG5aX0tzbUV2b2VrSlVTaWdJbEVLTVJ4UU51dGY1bFdnS3JobWdmTmpwLUd1ekJNX19Kcmo2aDZiR3AtZWcydGIzMWh4cVdxR1luSkRyNkk3RXZtRTFkZ21KN1ppMzhHM2xjdDFGLWt5dUppNTFJVm1LRFhuQ1p2aEpUZXhLVE4zQQ?oc=5",
+      "snippet": "Oracle NetSuite Debuts Industry-Specific AI Agents CPA Practice Advisor",
+      "published": "2026-10-26T22:26:57+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "0b8845496c14",
+      "title": "AI in Nursing: A Framework for Safe Adoption",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSzBVS0pvU3RnYXkwZU1Udkd3a3NkalZVZU5UZkxhemZkMTJsU1k1MF8zWURqY2tZc1RaY2JWYWhDUzB1end6WlYxV2NFcDJkd05WZVptbDlKLUY0MzZ4Rmw1VzNrYXdKLWZ3THNmNDdaa3VDQ3Jnckx4NGREb1hQc3FzQ2RjaUk2aGpzUEtLQjRpclpzY2c?oc=5",
+      "snippet": "AI in Nursing: A Framework for Safe Adoption PwC",
+      "published": "2026-10-26T20:43:08+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "60b88142126e",
+      "title": "Vertex Introduces Vertex S\u014dl, a Connected, AI-Powered Tax and Compliance Experience",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdkc2Wkdaa1o0X1o0OGQ1S096Rm5qYkJhc3drUWFLNHdya1JxQlgtVEhQV3IxMDhTNW43c0VOVzY0ZXY4RDU0UTVoYTEwQW5ER0RER3Zkdm10cjFwRjBYcldGM2Q3VTRISkgzRXhGdkRXZU1YaExmd2Z6Si0zSV84N0xrVVBLQk93azV2Q1ZGbkZIVnZZTmsyMmduNmpmd2U2cnZESHl6a3g4U1NmTlZRYU9mWmNLcXlQZnFTYXNraFFuVEpWeUZyMGFrXzduQU9n?oc=5",
+      "snippet": "Vertex Introduces Vertex S\u014dl, a Connected, AI-Powered Tax and Compliance Experience CPA Practice Advisor",
+      "published": "2026-10-26T18:26:07+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "af7b8410bf5c",
+      "title": "Wolters Kluwer expands agentic tax and audit capabilities in CCH Axcess",
+      "publisher": "Business Wire",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLUJwV1JMcnRzTnp6ZFZaaHFha0REcmNHOXhhZHlLMVN6VXZXYzdjMXQyakRLdkp4RlZzajRBSGh0VUJuWFZSaEtxOHUydnVncS1Vb1RDMS1XMUxBR05aQWFJVlJLSUpKRWlmMVo2RHRiQmt0VDNOcmI2SGh5VEZteF83UDF3WmJuODg1dzFVS0s5WlNPZzFKbGFJb3lqUG1kM29kT3QxdTdXNlJGclBYT25ZNWhqVzJBWFJvNlJyN3dfUTdPSC0w?oc=5",
+      "snippet": "Wolters Kluwer expands agentic tax and audit capabilities in CCH Axcess Business Wire",
+      "published": "2026-10-26T18:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "aed0161e59cd",
+      "title": "The Work Between the Systems: Where AI in the Close Needs a Reviewer and a Record",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVWhUdkNuZnhZRkM3NzlsbnA5LXJ3b3JoeGF1MDJQZlE1OUY1ZTFYVHo2dDFSRXpJckc5ME81RWlMcHkyS0l5dlM1bHVSTzZUa1F0aFFrQlhvNWNwbDZvcWVJOXR6emdnQi1hZ19jOUhYeWFNS3dTb1VFTi1ZX3ZkX3JZcTNObWlUdFFVZ0hTRm5aSWx6bTEzNFYtdEFEUTZUWXIzME5vZEROZFd5T1FFR1BsTVBrYXN4QnZJNmViVjB4dEdDOXlLY1I0V21wUms?oc=5",
+      "snippet": "The Work Between the Systems: Where AI in the Close Needs a Reviewer and a Record CPA Practice Advisor",
+      "published": "2026-10-26T17:38:51+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "c554bf135a01",
+      "title": "Monday Morning Accounting News Brief: Deloitte In Trouble Again For AI Slop Report; Don't Embezzle to Tip Livestream Girls | 10.26.26",
+      "publisher": "Going Concern",
+      "seen_in": [
+        "Deloitte",
+        "PwC",
+        "KPMG",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeTJnVUdaQmNYU0dZbVoya0gtVngwaUJMWXp3anZyeGtfQ0RtUHFXanFKMFVubXlQcDFUVVZDbUlEcXNQYkZtNlB2alc1dFhPa2ZiMFVHQ2dPZ0cxTGF5U3Z3RDdVUldnc09YLWFtSDNtMFFrWmd1cU1jV1Y3MDNWd2cwUVpQd2JhNjBieHRFSExmS1phckJQYks0cXlKcnpTem9DTXNELW91TmVHdFlzRmdYY1o2azlJcXRXTm1WLUdMc191TllSZ3Q3Wmo4Y2RveXc1QzJDNUJjeXFaRmNLVkhLYm1WUThoVnM0VEM4cw?oc=5",
+      "snippet": "Monday Morning Accounting News Brief: Deloitte In Trouble Again For AI Slop Report; Don't Embezzle to Tip Livestream Girls | 10.26.26 Going Concern",
+      "published": "2026-10-26T15:30:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "cefd1eb74840",
+      "title": "We have introduced AI. What comes next?",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OazI3b0dMRTd2NndnN0FPMXc3c2FuV01uWHdnb2Y4T3hYc2NDYXE4OFh4TkpwU2RPWENYWHZ0NjZCeHB1anJxMHEybjZxeUVPZWtJbmM3bjNQb1NNaWxoV09yZHhHWjFjd0hpakFfRDk1WGJmd04w?oc=5",
+      "snippet": "We have introduced AI. What comes next? EY",
+      "published": "2026-10-26T15:21:45+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
     {
       "id": "a349a6b3c826",
       "title": "KPMG: Economic Uncertainty, AI Readiness Will Shape Next Phase of African Investment",
@@ -66,6 +267,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-26T15:32:35.093879+00:00"
+    },
+    {
+      "id": "525e2fe69f4c",
+      "title": "How AI is accelerating operational performance in real estate",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTmtINW9LZFNHVENlSldxcVJmZ3ZwdlpIQjRJVlhtVWpabTJUVzhtdVFpTXd0bmVLN1hqUTU1Z0RpRWVqbjdhQmpaczk5NTd2YjdhSzYxNXExSG1VazlfWnpuZXdGWC1qNVk0bkpsQmlydTVBWHBYZmhvQXFBR1VfTDNuRmJEeUpZMnlEMTNiVHY2RG5IT29TZUp6eUU1RDJoaDNZWU92dWF0RDk2czlUSzkxY2Z6eVB4ZDlYbDlxczZ4c240cGJPT242OC1zQU4xUEt6M1Z0TE1HS0ljM3NjcXFheFhwT21tTVJ4aFExQy1qaW8?oc=5",
+      "snippet": "How AI is accelerating operational performance in real estate PwC",
+      "published": "2026-10-26T03:40:57+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-27T14:42:50.052225+00:00"
     },
     {
       "id": "e26c9bbec2ea",
@@ -473,7 +689,8 @@
       "title": "Bill, Billtrust, Visa pilot AI payments without human authentication",
       "publisher": "Accounting Today",
       "seen_in": [
-        "Accounting Today"
+        "Accounting Today",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHZabkxxcFdZQ01iVUUtV293Q1Y4Uld6UlprcXBJYkNLMkJtaGFWdWwzNmc3aWF2S3FudHpIS213azVMRG0ydHRMQksxaWhKdnFhbUNNdnpVaWZWTHRubGtGZXhGbmJPMUN1TF95QVlQMUwwcVhNOFpGS2VUcnBUcjhJYTZ2WE1uMGZRcVRLUU1lT3ZmWVFhU2NBNDIydXhBdFg4YnJvY3hiUEhCdjBZ?oc=5",
       "snippet": "Bill, Billtrust, Visa pilot AI payments without human authentication Accounting Today",
