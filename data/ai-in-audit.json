@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-27T14:42:50.052225+00:00",
+  "updated": "2026-10-28T14:45:58.282290+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,244 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Big Four firms are both selling AI assurance and facing AI quality scrutiny, while vendors push agentic tools into audit workflows. Expect reviewer and oversight skills to matter.",
+    "quick_take": "Today's coverage is about where AI fits in audit, how firms must develop junior judgment, and what accountability looks like as AI takes action. Little here is regulatory.",
     "standouts": [
       {
-        "id": "c554bf135a01",
-        "title": "Monday Morning Accounting News Brief: Deloitte In Trouble Again For AI Slop Report; Don't Embezzle to Tip Livestream Girls | 10.26.26",
-        "publisher": "Going Concern",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeTJnVUdaQmNYU0dZbVoya0gtVngwaUJMWXp3anZyeGtfQ0RtUHFXanFKMFVubXlQcDFUVVZDbUlEcXNQYkZtNlB2alc1dFhPa2ZiMFVHQ2dPZ0cxTGF5U3Z3RDdVUldnc09YLWFtSDNtMFFrWmd1cU1jV1Y3MDNWd2cwUVpQd2JhNjBieHRFSExmS1phckJQYks0cXlKcnpTem9DTXNELW91TmVHdFlzRmdYY1o2azlJcXRXTm1WLUdMc191TllSZ3Q3Wmo4Y2RveXc1QzJDNUJjeXFaRmNLVkhLYm1WUThoVnM0VEM4cw?oc=5",
-        "why": "Deloitte is reportedly in trouble again over an AI-generated report, a reminder that reviewing AI output is your job, not optional."
+        "id": "94e017d3b8c7",
+        "title": "Where AI Belongs in the Audit Process (and Where It Doesn\u2019t)",
+        "publisher": "CPA Practice Advisor",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFU0UnB4X1MwNDFNbW82ckZIVTMzWmZSNHdKOFdoQmhZblplc0pzWVFpb2tGYVNmWU5FOEtuM0ZVRWRlOF9ZTXJnWWlkUjF4WlktVzZycUw2b1o1SmQxYXNRYTk2WXdaSHg0WlpvSXBmQWJhaDZ1UnJKTHpnQmduZVV1SDhHS3FDWm5ZT3dtdFRkTnRadE9DNHVQYnNFeDJwZUlSVXNHcG9OY2FZdGhEcA?oc=5",
+        "why": "Covers where AI belongs in the audit process and where it doesn't, which is useful framing for interview answers."
       },
       {
-        "id": "209eac39b0cb",
-        "title": "Anthropic Joins Top AI Companies Turning to EY to Vet Financials",
-        "publisher": "Bloomberg Tax",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXlvakJXVzlidk12RXhJQ1ZuX0tBblRHTmN4U1RVNXVMdktSX2xiREE2eXFNcjBOT0Fmekdvd3pHdnBYaVJHcEl6d2c3UFQzUWc3dmRPa2R6UDFxWWQ2LXVfS2t3S0l4ZEJFMWhEYUVtZVcxUHB0bURuakpyd1JXbUhnVGhMdGkyTXdCZkU0dWszb2ZvRWo3UkZxdVhYOWxjcEN1cEdZT2xOZ1hkQWhGRjRLS0RDUQ?oc=5",
-        "why": "Top AI companies like Anthropic are turning to EY to vet their financials, showing demand for auditing AI-driven businesses."
+        "id": "f7cb93ff6987",
+        "title": "AI in tax and audit: What firms must rethink about developing judgment, pricing & leadership",
+        "publisher": "Thomson Reuters",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HcGQ5TkotQ1E0dkMxRWx2MWdNVV94TkdlQ3Y0NEQ5ZXJXSGc0QzQ3aHVpcDRzdGMzTnpSbUhaRU45VGpsODNGLU9Ub3B6WmhUNl9ZX0xrcTcxdVBNTzRPaU5JU0ZETEE4NE9xdml6VzNXcjhqVkp1R2FzV0s?oc=5",
+        "why": "Explores how firms must rethink developing judgment in tax and audit with AI, which bears on your training and early career."
       },
       {
-        "id": "af7b8410bf5c",
-        "title": "Wolters Kluwer expands agentic tax and audit capabilities in CCH Axcess",
-        "publisher": "Business Wire",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLUJwV1JMcnRzTnp6ZFZaaHFha0REcmNHOXhhZHlLMVN6VXZXYzdjMXQyakRLdkp4RlZzajRBSGh0VUJuWFZSaEtxOHUydnVncS1Vb1RDMS1XMUxBR05aQWFJVlJLSUpKRWlmMVo2RHRiQmt0VDNOcmI2SGh5VEZteF83UDF3WmJuODg1dzFVS0s5WlNPZzFKbGFJb3lqUG1kM29kT3QxdTdXNlJGclBYT25ZNWhqVzJBWFJvNlJyN3dfUTdPSC0w?oc=5",
-        "why": "Wolters Kluwer is adding agentic audit capabilities to CCH Axcess, signaling the tools you may use and the tasks that get automated."
+        "id": "231e29eb6dd8",
+        "title": "AI for assurance",
+        "publisher": "kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMdUM1ZkFxWEtESUpqc19lVUtSUFFuQ2k2R2thM3RLaks5VmIzejBjME4xUXByNnJWX0pSeFVDOUZsdVhSci1yRk0yR1lmUzk1RThJck9na3g3WUVQdTJCUENlTElvQzBxSjRr?oc=5",
+        "why": "KPMG's piece on AI for assurance touches firm tools and risk and controls, showing how a Big Four firm approaches AI in audit."
       }
     ]
   },
   "stories": [
+    {
+      "id": "57e7c8d7dcff",
+      "title": "When AI Starts Taking Action: 4 Accountability Questions for Tax and Accounting Professionals",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZm5FODBRZFpzQ0M1elVwR3l0a0otTWhkXzYzX2ttTW4zTWhnSC0tUEh5Qml2SG9McUhYTkZ6ZzhNWFVOY29nUXJGS3ZZRlRNTVpERU1CRURHNFJHMFdqR1RHa3dUZU9fSTRPX3ptd3VKVU1GNmdKbzllWlBaZ3JuYVlNempwNHRIOF84RG1rME5xV2g0MVZmUVd3NEN1Umt3MjVmNVAwMnZYZTc2MlNobUdqd0llbnBta0NGblJpNHJMTXJocUIyWEtBemxOaWI0NzJHMFhBb3NBQWdqVUhB?oc=5",
+      "snippet": "When AI Starts Taking Action: 4 Accountability Questions for Tax and Accounting Professionals CPA Practice Advisor",
+      "published": "2026-10-28T12:48:12+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "64169461d9fd",
+      "title": "Apera AI Named One of Deloitte's 2026 Technology Fast 50 Winners for the Second Consecutive Year",
+      "publisher": "Press Release Hub",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTTZOSll5OUlDajlJdE5UZ2JURmRoZjF2M1ltX2VZNkdhR2lOb3pBQ3EyNWVFRW9pOWJMdjBrcklPNjBfNzNSUW5EVUlnNWg0WFhMd2hVZ1JSMFRtWXN2TWV2ejRYNFdtejVMTEo5QUdIRWNnN0g5X3kzNW1Sb3RZalZRVjFMVUVJd2dLUmZlU2dMNmJlZUNKb2VuSWhMSTRJSHJ1b2VST0xwVS0xVlk0OXA2T0tLSXByYmtkWkNwelRWZEJVSktfamJEc25ST0c4RVlCRXg0cHBlMFBnUmljcQ?oc=5",
+      "snippet": "Apera AI Named One of Deloitte's 2026 Technology Fast 50 Winners for the Second Consecutive Year Press Release Hub",
+      "published": "2026-10-28T12:04:34+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "00a4496af8a7",
+      "title": "Accountants are finding a new kind of work\u2026Training AI models",
+      "publisher": "The Finance Story",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWExZGJGNG5sTVRzSlpab1JXeEM3MXBiMzUwelVVaUNmVUw2UWJNQ2Y5ZnFUSkJXQ2N1N3dfd3RqLWZfclNZMFdIU2xsV18zbzg5SVJwT1Y5WE53cXdfUUhCcXBvcHhiU0lPVkNISFZlLXlyZkc0NWVCZGpUdFVlWXU4dlAzY1VsYk9TS3YzWEtnWEk?oc=5",
+      "snippet": "Accountants are finding a new kind of work\u2026Training AI models The Finance Story",
+      "published": "2026-10-28T10:22:53+00:00",
+      "themes": [
+        "Skills & careers"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "cd24cfc4db80",
+      "title": "Scaling physical AI across digital Infrastructure & key assets",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWXV6OTlZOVg1TTVMNEQwckNFd0hWcEx5YlJibGl5NnRKSkNXZ21ySUQycV9pWWIwb1NvS3BoT3l0aU5UenBucE1CTDlzRzFPdGdzYnJBRVllY2lJUkFwdTBuOWQtM0hSdWtmaGJlekRjdl9zWGxGLUhmYlczRXB3dXVfd0NVM2lqNl9YOXdndnVEU0E?oc=5",
+      "snippet": "Scaling physical AI across digital Infrastructure & key assets kpmg.com",
+      "published": "2026-10-28T09:42:13+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "d4943fb19f5a",
+      "title": "Intuit features accountants, AI and Lupita Nyong'o",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUk9pMmdsSjZDUnR3dEZmbS1KUURObXh4ZlFoM3NNQ1Bkdk1zQ05DWEJKR2dWQ2pkSzlEREtTREFvZHU4bnJDQUdRWGJyQkFlTjh3THhqaE9vNS1ERGUwVmVyT0FtRFlFSmxaWE5vcV8wWm5mUkRPNVpyLWxDbTE4SGo5Unh6MGpDLTUteGln?oc=5",
+      "snippet": "Intuit features accountants, AI and Lupita Nyong'o Accounting Today",
+      "published": "2026-10-28T07:02:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "765901b55e23",
+      "title": "Global AI Pulse: Q3 2026",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53Vk5aSUpxRkVaVVphRTZ0N3NHcURjWC1LV3NMcWdFcmYyZ3RCR00yN01LaVFDalA4Y1p0YzhSUFRVTWZvUkhHNE9CbGQtcTcwU29HNi1iQ29kdklSMDBYNjVhTnhBUl96cEs2Y1VB?oc=5",
+      "snippet": "Global AI Pulse: Q3 2026 kpmg.com",
+      "published": "2026-10-28T02:45:40+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "a65b2a5407cd",
+      "title": "2025 reset as banks double down on payments modernization and AI",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnZHZFFiVzdCMkVmN0lwel81ekdHajRiNEtwS2FFY083MTRjdVJYUTZwdHA3STNVTXFzOVhkZWswa2xOMURHek9Rb2Z2WklTTmRDNVhOc0pTSDc5M2g5aG9rVjY2enloT3hTazUwVXZlN0cxaC1xY1hzZ3c4UGhhYVk0dHBTU3huZHpTRDBZSGR6ODhTd0FyNW4wdXZ1Wm1CZVFuSC1XekdERHND?oc=5",
+      "snippet": "2025 reset as banks double down on payments modernization and AI EY",
+      "published": "2026-10-27T22:41:08+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "c44792ea1d04",
+      "title": "Meet Parkes: An AI Coworker That Helps Accounting Firms Run the Firm",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLTRnY2RwaFh0enlQeXNiOVNtaTB6NUpRMEpkR3A3M2JCS056WUtvUmFKMWNZWEhkUWsybWtwaUJ5MXdDbVk2Z1JVVk5aQlk4SkpQbEZ6anJTajNBRjl3TGwzUHB5UFpIN2Myd1M3c2hULXN4RmtVNElkQWl5OGFYeVZpeTlWYjFrWmdxQ1Z6UzM5TlAtdUpLNWktUmFQSWR5UG1OY2U4VjNvaWl2b1I1SmExbTgybHo2TGYyd2h3?oc=5",
+      "snippet": "Meet Parkes: An AI Coworker That Helps Accounting Firms Run the Firm CPA Practice Advisor",
+      "published": "2026-10-27T21:56:01+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "f7cb93ff6987",
+      "title": "AI in tax and audit: What firms must rethink about developing judgment, pricing & leadership",
+      "publisher": "Thomson Reuters",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HcGQ5TkotQ1E0dkMxRWx2MWdNVV94TkdlQ3Y0NEQ5ZXJXSGc0QzQ3aHVpcDRzdGMzTnpSbUhaRU45VGpsODNGLU9Ub3B6WmhUNl9ZX0xrcTcxdVBNTzRPaU5JU0ZETEE4NE9xdml6VzNXcjhqVkp1R2FzV0s?oc=5",
+      "snippet": "AI in tax and audit: What firms must rethink about developing judgment, pricing & leadership Thomson Reuters",
+      "published": "2026-10-27T20:45:34+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "ee634c6d7b9c",
+      "title": "Black Ore Brings Big-Firm Tax Automation to CPA Firms as Customer Base Grows 5x",
+      "publisher": "HackerNoon",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXRsYTVOdHlRT1hPVVo3N3Y4Z1BjY2F1TnlLOVVuNU5jWUs2TlowMHN5NmFDcUlkT3ZORWxpODNCaHNrbGEzT2dFbTlhbmVVclY3RFN1dUcxbUhySjZERW5BQjdpMTEzcTI5ek5TeU5jN2sxU01Gd19qM1dLb0NWVVloOEFGNzhMRTJMcUFhVHFFUDJfdzJTRV8zY1lxNE9QMzhuaA?oc=5",
+      "snippet": "Black Ore Brings Big-Firm Tax Automation to CPA Firms as Customer Base Grows 5x HackerNoon",
+      "published": "2026-10-27T19:48:46+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "b454af4dbaa3",
+      "title": "Crowe Expands Alteryx Use to Help Tax Departments Operationalize AI",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzRrUE05UmkxQmctWTlzS0hYT09EVm14RVdPSGFUSzhUV1hXaXNDbkJPUWEyZlM1d2lsX25pa1pGVkFRdDQxU2Y1cGMzOXhyZ0RPUTJwVThCUmgtTkZEVjlfZDZ6V3p5X0lCcEtoQkNONUM5bnNNX21pZGo2d0IzUXhyTjIwcXVWUTJzRDdIQTU5VWY1RHJkZnkxZmlzckpoT1VwVlVQQmxRLTBmZkRta1hZWDZ6MEZBeWZiY3Z3?oc=5",
+      "snippet": "Crowe Expands Alteryx Use to Help Tax Departments Operationalize AI CPA Practice Advisor",
+      "published": "2026-10-27T18:28:56+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "94e017d3b8c7",
+      "title": "Where AI Belongs in the Audit Process (and Where It Doesn\u2019t)",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFU0UnB4X1MwNDFNbW82ckZIVTMzWmZSNHdKOFdoQmhZblplc0pzWVFpb2tGYVNmWU5FOEtuM0ZVRWRlOF9ZTXJnWWlkUjF4WlktVzZycUw2b1o1SmQxYXNRYTk2WXdaSHg0WlpvSXBmQWJhaDZ1UnJKTHpnQmduZVV1SDhHS3FDWm5ZT3dtdFRkTnRadE9DNHVQYnNFeDJwZUlSVXNHcG9OY2FZdGhEcA?oc=5",
+      "snippet": "Where AI Belongs in the Audit Process (and Where It Doesn\u2019t) CPA Practice Advisor",
+      "published": "2026-10-27T17:55:22+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "d4bef2af79c4",
+      "title": "Structured Installment Sales Over $5 Million: What CPAs Should Model Before Closing",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeUQxTnVCRXJDSUxmX2czdVNPa05DUkk3NjZXdUNjRHpmUTlYS2VidnFPdVNUUko5aEk1cFJIRE9aZlMweExmcm5WVFU2X29KQlMyRXVTRzBKV0IxYWplajlfWVZOLW5zOHJRcWp4d2xZcHpncVkxRW1nTFduTXBnSE0zXzZpQkgyVEdaUnp1WGxWcWwwVW5vb1VxVzB4VXNEM2VLVUZWR1lXMHRPOWxHUHJjdmFoLWEzWlBfWFZSYmhSQ01QaGw0dzRTeXBaYlFq?oc=5",
+      "snippet": "Structured Installment Sales Over $5 Million: What CPAs Should Model Before Closing CPA Practice Advisor",
+      "published": "2026-10-27T16:10:03+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "d92115554fd1",
+      "title": "Intuit Launches AI-Driven Platform Uniting Businesses and Accountants",
+      "publisher": "Small Business Trends",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDJpUVViUG9ac2ZMNjNTU0FJX00yTU8zVXpGekFWMWZGLTBtQ3J1b1N6YkVEZzhWazJRYlkyTnljMFVfTUE5UVJsMU52em9yZFVqWXhZaEhGQndrNXVjaFAxUERHZURjeWxrZGZ1bnpMdnN6eUVsMWxwTjZjeU1xZDhpRFB5RVZsaTU0QTRjRFRJTnFPN293RHI2dEp6Zw?oc=5",
+      "snippet": "Intuit Launches AI-Driven Platform Uniting Businesses and Accountants Small Business Trends",
+      "published": "2026-10-27T14:45:36+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
     {
       "id": "fbde79be6a56",
       "title": "Black Ore Unveils Robust Tax Automation for Small Firms",
@@ -50,6 +262,22 @@
         "Other"
       ],
       "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "231e29eb6dd8",
+      "title": "AI for assurance",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMdUM1ZkFxWEtESUpqc19lVUtSUFFuQ2k2R2thM3RLaks5VmIzejBjME4xUXByNnJWX0pSeFVDOUZsdVhSci1yRk0yR1lmUzk1RThJck9na3g3WUVQdTJCUENlTElvQzBxSjRr?oc=5",
+      "snippet": "AI for assurance kpmg.com",
+      "published": "2026-10-27T12:20:24+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-28T14:45:58.282290+00:00"
     },
     {
       "id": "16e2f38ce68a",
