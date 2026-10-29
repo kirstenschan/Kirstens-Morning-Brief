@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-28T14:45:58.282290+00:00",
+  "updated": "2026-10-29T14:48:30.296897+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,247 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's coverage is about where AI fits in audit, how firms must develop junior judgment, and what accountability looks like as AI takes action. Little here is regulatory.",
+    "quick_take": "AI is moving into core audit platforms and squeezing entry-level roles, while governance and controls lag adoption. Knowing the tools and their risks will help you stand out.",
     "standouts": [
       {
-        "id": "94e017d3b8c7",
-        "title": "Where AI Belongs in the Audit Process (and Where It Doesn\u2019t)",
-        "publisher": "CPA Practice Advisor",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFU0UnB4X1MwNDFNbW82ckZIVTMzWmZSNHdKOFdoQmhZblplc0pzWVFpb2tGYVNmWU5FOEtuM0ZVRWRlOF9ZTXJnWWlkUjF4WlktVzZycUw2b1o1SmQxYXNRYTk2WXdaSHg0WlpvSXBmQWJhaDZ1UnJKTHpnQmduZVV1SDhHS3FDWm5ZT3dtdFRkTnRadE9DNHVQYnNFeDJwZUlSVXNHcG9OY2FZdGhEcA?oc=5",
-        "why": "Covers where AI belongs in the audit process and where it doesn't, which is useful framing for interview answers."
+        "id": "f5e4f107ea78",
+        "title": "Swiss CFOs are more optimistic than they have been for a long time, while AI is putting pressure on entry-level jobs",
+        "publisher": "Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSTVDSzNJcHNrOElKWTlRcWdwRW95WWxoN3FrS3BENW1JdGlxX1B4OTlXS1NzeGh5X0VFRDNPaURfQTVoZE14Z2hyc3Z0ZDZkUzhSZ09JdFBMdkVIbFZtYVl0Sl9LRHZFejJDd2QyS3VoSVlrdWxRNjF6U19mUmVGZkRfR1FrNmQtcW5qNVFQdjVSU00yMzVuSWhKQ0s1OERaWFFTUWxjSzBUMXh6VFlmcG1KeEx6STBPUURWajhXZjF0OV93cVVkb2hoaVJnNVFxVmlmTEQ2eWFjU3pZemxNdWN6VktaN1B4VFUxNVhOSEtLRW8yT3FPWXN4WEw?oc=5",
+        "why": "Deloitte says AI is pressuring entry-level jobs, which bears directly on your starting role and on which skills to build."
       },
       {
-        "id": "f7cb93ff6987",
-        "title": "AI in tax and audit: What firms must rethink about developing judgment, pricing & leadership",
-        "publisher": "Thomson Reuters",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HcGQ5TkotQ1E0dkMxRWx2MWdNVV94TkdlQ3Y0NEQ5ZXJXSGc0QzQ3aHVpcDRzdGMzTnpSbUhaRU45VGpsODNGLU9Ub3B6WmhUNl9ZX0xrcTcxdVBNTzRPaU5JU0ZETEE4NE9xdml6VzNXcjhqVkp1R2FzV0s?oc=5",
-        "why": "Explores how firms must rethink developing judgment in tax and audit with AI, which bears on your training and early career."
-      },
-      {
-        "id": "231e29eb6dd8",
-        "title": "AI for assurance",
+        "id": "925bdaf4d3a3",
+        "title": "KPMG Clara: The AI-powered platform behind your audit",
         "publisher": "kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMdUM1ZkFxWEtESUpqc19lVUtSUFFuQ2k2R2thM3RLaks5VmIzejBjME4xUXByNnJWX0pSeFVDOUZsdVhSci1yRk0yR1lmUzk1RThJck9na3g3WUVQdTJCUENlTElvQzBxSjRr?oc=5",
-        "why": "KPMG's piece on AI for assurance touches firm tools and risk and controls, showing how a Big Four firm approaches AI in audit."
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CdVNrbndyczlrWGMxZ3R6VWNOeW01MlhqRGU3UU1Zb1dEdnNiaFRZWjhta0R5TzQzcXFZWVpvWS11allBNmVlaFpSMF93X1BUM3dTcExrYmVCdzQ4UHBzMEJwMHloNGNE?oc=5",
+        "why": "KPMG Clara is an AI-powered audit platform, so this shows the kind of tool you may use and can discuss in interviews."
+      },
+      {
+        "id": "02bcc60e9045",
+        "title": "KPMG and MIT: AI adoption is outpacing the development of governance and control mechanisms",
+        "publisher": "kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVDdEZGlyalVpZXpUTUdvWDg1b0pubk1sTFd5VzNtSHFpa2hRZjFzSWpBcUJMd0ZrTXF4UzluMEp5Q0d5eDVhd3lCVjlsdUh3TjdYTFNycXpIMVZuUTk2NFhfdlFfZjBYRDZnaWVyT2o1OEJNeEpaYmxPbHR2OFA1Nm1MWEs4d1VZM0lnTEpjWmpUMmpydlhxWEFITjlKVEJZYXp4bmRiaDlIbFE5UUNPSVJDUWdPQlVtZktBaTBB?oc=5",
+        "why": "KPMG and MIT find AI adoption outpacing governance and controls, a key risk and controls theme auditors will need to assess."
       }
     ]
   },
   "stories": [
+    {
+      "id": "59866a377929",
+      "title": "Enterprise AI Enters an ROI Reckoning: More Use, Uneven Value, Reveals Deloitte Survey",
+      "publisher": "PR Newswire",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcGN3MzRSeXJGdGJPc3F0ZzEwQ0YyaEFELWkwWkNYcWs0Vlg3T1Q5MTVDZVRBeGQ4TGxmUkJlV3ZmMjJGRlZKSzZieXlVaVU2SGFNWk9DdVVEV0JSRXY1VlhsU1lQR216OXNoVnFaMFRjZnRwbTg4YXZlWDAyeUtfMi1uQ1poNXNwY1ZXY3hNSXBxbzd2UkdUVU12dEVyOXhqWFNEMXVPazl6VDRobTJlNjZOeE01S09OTGJ5YTVDTkhONkR5X19PNjRtTXhsZWNLeXdqN1Nn?oc=5",
+      "snippet": "Enterprise AI Enters an ROI Reckoning: More Use, Uneven Value, Reveals Deloitte Survey PR Newswire",
+      "published": "2026-10-29T10:07:20+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "f5e4f107ea78",
+      "title": "Swiss CFOs are more optimistic than they have been for a long time, while AI is putting pressure on entry-level jobs",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSTVDSzNJcHNrOElKWTlRcWdwRW95WWxoN3FrS3BENW1JdGlxX1B4OTlXS1NzeGh5X0VFRDNPaURfQTVoZE14Z2hyc3Z0ZDZkUzhSZ09JdFBMdkVIbFZtYVl0Sl9LRHZFejJDd2QyS3VoSVlrdWxRNjF6U19mUmVGZkRfR1FrNmQtcW5qNVFQdjVSU00yMzVuSWhKQ0s1OERaWFFTUWxjSzBUMXh6VFlmcG1KeEx6STBPUURWajhXZjF0OV93cVVkb2hoaVJnNVFxVmlmTEQ2eWFjU3pZemxNdWN6VktaN1B4VFUxNVhOSEtLRW8yT3FPWXN4WEw?oc=5",
+      "snippet": "Swiss CFOs are more optimistic than they have been for a long time, while AI is putting pressure on entry-level jobs Deloitte",
+      "published": "2026-10-29T06:47:42+00:00",
+      "themes": [
+        "Firm tools",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "93993f251752",
+      "title": "AICPA 2026 National Tax Conference to Spotlight AI, Tax Policy and Emerging Issues for Taxpayers",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "AICPA",
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWdSMFhrYmtvSnptWUduZ0xBRjhQUHdhc19rVFNpanN0RmtNQTRIYnVtYU5oME9iVkljcUx4aXEzMHB3TGdsQ3I5TlNrdmc5MlA5bFRjejg3RTRrbGZGTUQtQ0t4SkdiejV0VzE0Smp2VGMyTnN1RVRLb2JBRkpVTUFMbXhnR2dLdExlSm5rSHRwSHVJbzBFd29jVmkzRHp3WmQ2bDFfT2lsV05KTG9SWHFMLWtLQkdCN0ZGczgzQ3NBcDFURVFsSk51ck5MVkJXM3ZfeG8zVEJQQUVWZGFFUGJMRQ?oc=5",
+      "snippet": "AICPA 2026 National Tax Conference to Spotlight AI, Tax Policy and Emerging Issues for Taxpayers CPA Practice Advisor",
+      "published": "2026-10-28T20:29:51+00:00",
+      "themes": [
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "1b11fc193909",
+      "title": "Inside one finance leader\u2019s AI playbook",
+      "publisher": "Accounting Times",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQek9iUVBXN3oxb0U2anR2ZUptZG5vNWVHUzB5YmIzaGp1VDNKOThpa1ZlbC1LUXpmRTFUY3FVdkVsdkRUZVVkODJ2eGJpRHhFS2dzNlFVUEE2SHJCMjVyTFdOMzM4LWNHNkVTTkVmOGN0VUNob3ktYW9CTlFocjB5T0RhQ0NUc01IeTV3dGF3?oc=5",
+      "snippet": "Inside one finance leader\u2019s AI playbook Accounting Times",
+      "published": "2026-10-28T20:03:38+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "9fc28ebfb49f",
+      "title": "AI to end billing by the hour at accounting firms as private equity changes ownership, says Eisner Advisor",
+      "publisher": "The Economic Times",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOV1FidTQwMzcySWxadi1VUmw1TWI0bFRKZWlBVG1VTnREMjBFVGJqRC16NlhRU0t6Zl9iUGtrMWpRallIQWRoVnA0N09QUW5nVC00cG1FZ3dUWkk4Z3ZER1ZmR0o1dVJnTTkycnA3U2luS1Nhdm1lb3BtT0VwYkttcTdLNmtGSmoyS0FGNkhXYlhWd2ExLTJwVFhUTHI3TEJGWmNwSHptdWJiRndGNzVseGwyUHVZZWNuRmdOQVhtM3pfUmNYU2NXUXVxeHFTRHZKX0YtaEJ3WWZBSmY1VF9iZW9RZkRsNDRHaEh1VTRvLWxkVUtvYjhVVkFyMjNfdkV5UFUwZ013UGg1SDl4akpEUFpxYWFPNkh5NTlfTi1zTWRSME1qNzk3R0pRY3M0R1htTFhfZDVOUdIBvAJBVV95cUxNN2Y3Z1NIX2t4TmhKRUFBMVQ4UG5lcnlOeWdkWlM4bU5iUG9xSEwycEZlR1k5UzNaTmVZM3oyNzBrMUJxWUkzM29oVlJOZEFuS3VsU1pMaDRkdGxHVDlpTnAxdnNFek1lbzh4QTduZUlYYkpQMkRXbFE1WjdFVHlqVlF0NmRZWGlWZDVrTWlOUjVrbjZBcjYtVUo2RVdlRGpwUDBNZC02ZE9tSjF0b3d4dUpFOFc3a0l5QURhOVVvZkFlQS1DbFRHa2xUREFEU3NqazBsWTBjNjFIYmp1bXRSZ0xSTkQ2bXBNcU1qTjBWR1dfbFh6TnA2YjlpRHB4NFhRc2RnN3JXUk0zbUFjOUh3emJrRzRhS3RDbnVZVHZKZzVyUDNoYzRiZVNUbm0tcVl4R0l1elEycGVwbFQ0?oc=5",
+      "snippet": "AI to end billing by the hour at accounting firms as private equity changes ownership, says Eisner Advisor The Economic Times",
+      "published": "2026-10-28T18:58:34+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "a3bd18fdbf16",
+      "title": "Ignition launches Parkes practice management AI",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXIwaFpiRllBcWFUVENyY0Z5NzlkVVFsS3pEUnRLeDJwRGdMLXYwSVVwSUNESmI1Uk9ITzUweVZ0UWlFY3VjS19tVWVHdmVZNHAzdWJPTVhDdEU1WHdOd2lQZGRIRjgxM2ZkNWhveGFVQ2ZVWm8tYUpGVWVBZ1VRd0FMc0JsU1hWNjRWMQ?oc=5",
+      "snippet": "Ignition launches Parkes practice management AI Accounting Today",
+      "published": "2026-10-28T18:48:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "048d6728e912",
+      "title": "These three states laid the foundation for third-party audits of frontier AI models",
+      "publisher": "Transparency Coalition",
+      "seen_in": [
+        "Deloitte",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON1VSNWVRY29ZcDluTDZlb19Qak5IZE5DTVZwaVNKRGs2enprN0FLenROemFCblZzSDlLTkNqeHRDN2stN1ZnV0t4dlN2NVRDMWRLLUx3NFlRX2pzem52R05UTV90YWtleENiWGpOUHdWSmdySnNLeEVQdm1Ya0ROcEs4Qm5saXFXZG16ZmRTN1VVRmx3a3EzcEwxT0JzbHB0ZUtSRkdGTnJoT1FsYkRPcHcyMmVzeU1KclE?oc=5",
+      "snippet": "These three states laid the foundation for third-party audits of frontier AI models Transparency Coalition",
+      "published": "2026-10-28T17:19:48+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "efd86e61f446",
+      "title": "TaxDome Releases Public API and MCP Server for AI Agents and Developers",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcTQxb25DTEJCQ1dtb3Y5Mzhuei13dC1oRDZncTEwTGY1MWNtMTZ5dldXRnpRMWxILWRJdTRYTWoxQUlRMzZoQmNTeUgzbERaMzY4Z3JaX0hBb2FZT0prU3VVdDFlV2NRb19kRnhyVnpBYXBXdmE2SWFMVnFCNEFTSUp1X25kSURRRU1GTVVUcl9SWlN0eTE4ekpjeF9ROVZKTnJ2R3pKSUJ1cFJWTXlNcU4tcnFJdWx4ZE1hOUtRX0N2Zmc?oc=5",
+      "snippet": "TaxDome Releases Public API and MCP Server for AI Agents and Developers CPA Practice Advisor",
+      "published": "2026-10-28T17:19:18+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "925bdaf4d3a3",
+      "title": "KPMG Clara: The AI-powered platform behind your audit",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CdVNrbndyczlrWGMxZ3R6VWNOeW01MlhqRGU3UU1Zb1dEdnNiaFRZWjhta0R5TzQzcXFZWVpvWS11allBNmVlaFpSMF93X1BUM3dTcExrYmVCdzQ4UHBzMEJwMHloNGNE?oc=5",
+      "snippet": "KPMG Clara: The AI-powered platform behind your audit kpmg.com",
+      "published": "2026-10-28T16:53:02+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "c6293669e594",
+      "title": "Jim Rowan, US Head of AI at Deloitte \u2013 Interview Series",
+      "publisher": "Unite.AI",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44aE90cE9EYVVyS091bDFfODNDTXUtanZiWmYydEk0a3FKT3VqZ1k1dU1XcG1FUl9lMThsUGJfc09ZaFVpNWE4LWw3ZmZOX2pqeFFWdHVkRHlhbnR5VE9sWURnc3dTTHl2TVdnZDRKLXJVTFdPVzRZQnp6NDgyMHc?oc=5",
+      "snippet": "Jim Rowan, US Head of AI at Deloitte \u2013 Interview Series Unite.AI",
+      "published": "2026-10-28T15:53:32+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "02bcc60e9045",
+      "title": "KPMG and MIT: AI adoption is outpacing the development of governance and control mechanisms",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVDdEZGlyalVpZXpUTUdvWDg1b0pubk1sTFd5VzNtSHFpa2hRZjFzSWpBcUJMd0ZrTXF4UzluMEp5Q0d5eDVhd3lCVjlsdUh3TjdYTFNycXpIMVZuUTk2NFhfdlFfZjBYRDZnaWVyT2o1OEJNeEpaYmxPbHR2OFA1Nm1MWEs4d1VZM0lnTEpjWmpUMmpydlhxWEFITjlKVEJZYXp4bmRiaDlIbFE5UUNPSVJDUWdPQlVtZktBaTBB?oc=5",
+      "snippet": "KPMG and MIT: AI adoption is outpacing the development of governance and control mechanisms kpmg.com",
+      "published": "2026-10-28T15:15:30+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "99b83aaed0ae",
+      "title": "Deloitte study: Gen AI can help insurers increase profitability, optimize costs and streamline operations",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOU0xza2diRGlDT2lBOHlYQVl4UEIzelBBU0JPbjlHSVVtYUlLU2dROTIxdnlmNzdmNVpBMHVsQUUwcGJaRk42SlBtUTF2RmFHNXNBM0RidHUzcmQzVjhBZk9PTTdiOS0xLVptRUozYkZ5RVlnMFZTNzRwb3RGemFVeF94LWxBMHB6OFJ5OGlrbEZ2eGFGajlPWmN3SDZ0UmNVdTNvaGk3aVlVLXJXNDJ5am9kM3o3VEh5SWNsSFhXdlg1Q3FoYnQxUHlKYnI0bmQycl9pTGtwaVNUSFZLY0QxdVV0UUl3bVpvLUxtV2tNTzhKZE9GTzdyYmZkd041b0YyeGxDNjhYeWg3RWJLWU94OVNR?oc=5",
+      "snippet": "Deloitte study: Gen AI can help insurers increase profitability, optimize costs and streamline operations Deloitte",
+      "published": "2026-10-28T14:30:01+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "df336b59f1f2",
+      "title": "How to turn AI into measurable M&A value after close",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0dKUTAzMkV0aERJNVBLQTVmeXJwLXpxekdybXlEWWpHbW11a0s0WExyUEVHOHh0dHpsam9WcjdrRWNpUkVzN0pZSlptdzVLZXZsRFd1UjBQT28tTUFGM1FTNnQwMXRESnVMWUx5TUdoQmRPcUZZOU5qU25WQ0tWdkozeV9TdWg5VTYxTzJ4RlFqNmg5UkRpemVR?oc=5",
+      "snippet": "How to turn AI into measurable M&A value after close PwC",
+      "published": "2026-10-28T14:01:45+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "2b7faa669fed",
+      "title": "Apera AI Reappears on Deloitte\u2019s 2026 Technology Fast 50 List",
+      "publisher": "KuCoin",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGg4MDNzQ3FhdFVhNl9jREJLSVl0WXc5SzZGY3g5alFuZ2ZfQUFER3liN0NMbGRTYmFzdEpISXUwUDNkYzVJYmpGVWw4d21OY1ZYbVhxYldwRmpFd1BCOWt2TGd6ckc1NWFZQnNVbkliSDY1ckhtcmhVSVJ5TGpkRl92MHVHVmg1Vk5RZDRhakhwM1pWWUhmWA?oc=5",
+      "snippet": "Apera AI Reappears on Deloitte\u2019s 2026 Technology Fast 50 List KuCoin",
+      "published": "2026-10-28T13:27:02+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
     {
       "id": "57e7c8d7dcff",
       "title": "When AI Starts Taking Action: 4 Accountability Questions for Tax and Accounting Professionals",
@@ -65,6 +280,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "0f101fd455fc",
+      "title": "Powering AI: Building the Business Case for Compute\u2013Power Coordination",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUt6YWhybzBrYW4wZU5nR1BERF9qcXY3THFDRkY4MzdEZTZ2cE9Kc21vWVpFd0Z4QnRjeHY0aV84NUNXdkNXRXVvakFQQ1FJR2lpR3k5ZDZ2QllPMC14aEZwVHhlOVVPN19OZWozMVZHYm03NFZvaDJ6RHNPV1BYenpDRTg2TzdVbHRQWXIwV2w5STl2VzVqOURaMEoxTlY1eUk1c2duN3NTbTROMWFrcEpQQ0Q?oc=5",
+      "snippet": "Powering AI: Building the Business Case for Compute\u2013Power Coordination kpmg.com",
+      "published": "2026-10-28T10:45:07+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
     },
     {
       "id": "00a4496af8a7",
@@ -203,6 +433,21 @@
       "first_seen": "2026-10-28T14:45:58.282290+00:00"
     },
     {
+      "id": "691d7a496113",
+      "title": "When auditors come for your AI algorithms",
+      "publisher": "Information Week",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkRZZnZmMEphajFWOTJBMWRKWmVtRmtCNXZzcVAyUFBwbWF5aVpfOHJJaDYwb1RjYXdKMEF1N1hxQU53WHRlOTBRQ01JUUczWF8tenpPUVZDQTFTeVFiYV9qLTZPRnEtOG5RN1ZRQzNVTlktckdIa0Zibm5oUFp4QkVtdDluTEhzTXJPczNiMjAzVkE?oc=5",
+      "snippet": "When auditors come for your AI algorithms Information Week",
+      "published": "2026-10-27T18:27:31+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
       "id": "94e017d3b8c7",
       "title": "Where AI Belongs in the Audit Process (and Where It Doesn\u2019t)",
       "publisher": "CPA Practice Advisor",
@@ -301,7 +546,9 @@
       "publisher": "Bloomberg Tax",
       "seen_in": [
         "EY",
-        "General"
+        "General",
+        "Deloitte",
+        "PwC"
       ],
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXlvakJXVzlidk12RXhJQ1ZuX0tBblRHTmN4U1RVNXVMdktSX2xiREE2eXFNcjBOT0Fmekdvd3pHdnBYaVJHcEl6d2c3UFQzUWc3dmRPa2R6UDFxWWQ2LXVfS2t3S0l4ZEJFMWhEYUVtZVcxUHB0bURuakpyd1JXbUhnVGhMdGkyTXdCZkU0dWszb2ZvRWo3UkZxdVhYOWxjcEN1cEdZT2xOZ1hkQWhGRjRLS0RDUQ?oc=5",
       "snippet": "Anthropic Joins Top AI Companies Turning to EY to Vet Financials Bloomberg Tax",
@@ -406,7 +653,8 @@
       "title": "Wolters Kluwer expands agentic tax and audit capabilities in CCH Axcess",
       "publisher": "Business Wire",
       "seen_in": [
-        "General"
+        "General",
+        "CPA Practice Advisor"
       ],
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLUJwV1JMcnRzTnp6ZFZaaHFha0REcmNHOXhhZHlLMVN6VXZXYzdjMXQyakRLdkp4RlZzajRBSGh0VUJuWFZSaEtxOHUydnVncS1Vb1RDMS1XMUxBR05aQWFJVlJLSUpKRWlmMVo2RHRiQmt0VDNOcmI2SGh5VEZteF83UDF3WmJuODg1dzFVS0s5WlNPZzFKbGFJb3lqUG1kM29kT3QxdTdXNlJGclBYT25ZNWhqVzJBWFJvNlJyN3dfUTdPSC0w?oc=5",
       "snippet": "Wolters Kluwer expands agentic tax and audit capabilities in CCH Axcess Business Wire",
@@ -464,6 +712,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-27T14:42:50.052225+00:00"
+    },
+    {
+      "id": "5d5b5b3dbf18",
+      "title": "Global growth and AI",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZE94Y0hNM1dUZ3RYVTBMaG1ydGN3amRMVzRHazB1Si1kdHh3aFhSbFlZaEpaR3Q4Y2d6bWNWYmlpTlRnX2Mzd1lSalRiYUdsa18tdFpvMW5scGpfcTBGeXBBTDZkNm1maFJVem1xMlR1TW96U0R5WjFTajVDTkp4bkxKckM?oc=5",
+      "snippet": "Global growth and AI Deloitte",
+      "published": "2026-10-26T15:11:42+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-29T14:48:30.296897+00:00"
     },
     {
       "id": "a349a6b3c826",
