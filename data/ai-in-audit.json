@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-29T14:48:30.296897+00:00",
+  "updated": "2026-10-30T14:48:49.018471+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,201 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "AI is moving into core audit platforms and squeezing entry-level roles, while governance and controls lag adoption. Knowing the tools and their risks will help you stand out.",
+    "quick_take": "Today's headlines center on AI tools reaching accounting teams and schools, plus worries about what that means for early-career accountants. Details are thin, so treat these as signals.",
     "standouts": [
       {
-        "id": "f5e4f107ea78",
-        "title": "Swiss CFOs are more optimistic than they have been for a long time, while AI is putting pressure on entry-level jobs",
-        "publisher": "Deloitte",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSTVDSzNJcHNrOElKWTlRcWdwRW95WWxoN3FrS3BENW1JdGlxX1B4OTlXS1NzeGh5X0VFRDNPaURfQTVoZE14Z2hyc3Z0ZDZkUzhSZ09JdFBMdkVIbFZtYVl0Sl9LRHZFejJDd2QyS3VoSVlrdWxRNjF6U19mUmVGZkRfR1FrNmQtcW5qNVFQdjVSU00yMzVuSWhKQ0s1OERaWFFTUWxjSzBUMXh6VFlmcG1KeEx6STBPUURWajhXZjF0OV93cVVkb2hoaVJnNVFxVmlmTEQ2eWFjU3pZemxNdWN6VktaN1B4VFUxNVhOSEtLRW8yT3FPWXN4WEw?oc=5",
-        "why": "Deloitte says AI is pressuring entry-level jobs, which bears directly on your starting role and on which skills to build."
+        "id": "bb387faffcd4",
+        "title": "Accounting\u2019s AI Boom Is Widening the Experience Gap",
+        "publisher": "The Daily Upside",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQampUbUk2Y2xJd3I3M1loQlRBVFNlekkzdWM0bkg3MGt2Q3JGTWpvNy1tUk5GZHBiQUVCazA2UmV3TDRZTWFfNXIxZ0tzY014T2c3WFpRcUJaZkhkYWh5MjRNZHE5WGp3NG5yRzdINm1GcUt1czRsUzF5Rzk3aEViRlR3Xy0yU21ESnAyekk2Rk9hcUp5UlJWZkRjV0RtckJjdmpETlFvY0ZnUERJQ1hRT2tMakdVNDFLc2ZQVnhGNkI2Z0ZlbG4tQUswVFVBRERUeXNsMGZJQWFoTm9LQllEbUxCcnRqRkU?oc=5",
+        "why": "Directly about how the AI boom is widening the experience gap, which bears on how entry-level auditors will build skills."
       },
       {
-        "id": "925bdaf4d3a3",
-        "title": "KPMG Clara: The AI-powered platform behind your audit",
-        "publisher": "kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CdVNrbndyczlrWGMxZ3R6VWNOeW01MlhqRGU3UU1Zb1dEdnNiaFRZWjhta0R5TzQzcXFZWVpvWS11allBNmVlaFpSMF93X1BUM3dTcExrYmVCdzQ4UHBzMEJwMHloNGNE?oc=5",
-        "why": "KPMG Clara is an AI-powered audit platform, so this shows the kind of tool you may use and can discuss in interviews."
+        "id": "40245dcf6723",
+        "title": "Microsoft increases Copilot capacities for audit, tax, compliance, more",
+        "publisher": "Accounting Today",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlJRZ0plSnp4WHZaUGprdzUwbU1rUUJKeXBBYUFldjcyZVlWN3ZUbG5xanV3T1lPZkxFT1FmcTJZajhRQ05uU2VCNlNxUTlzcXB0OXBTMW5QdlJETmtWQVdSckJ3bUEwQ0lxdkxtSVlTUExRcjR2dXVTUVQ1UTR4b2pOR0k5RlFtYjFBSXVnVl8wWTZjeDVrT0xyeE5uVm9NWGZJQ2VTN2E?oc=5",
+        "why": "Microsoft is expanding Copilot capacity for audit, tax and compliance, a tool you may meet on the job and can cite in interviews."
       },
       {
-        "id": "02bcc60e9045",
-        "title": "KPMG and MIT: AI adoption is outpacing the development of governance and control mechanisms",
-        "publisher": "kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVDdEZGlyalVpZXpUTUdvWDg1b0pubk1sTFd5VzNtSHFpa2hRZjFzSWpBcUJMd0ZrTXF4UzluMEp5Q0d5eDVhd3lCVjlsdUh3TjdYTFNycXpIMVZuUTk2NFhfdlFfZjBYRDZnaWVyT2o1OEJNeEpaYmxPbHR2OFA1Nm1MWEs4d1VZM0lnTEpjWmpUMmpydlhxWEFITjlKVEJZYXp4bmRiaDlIbFE5UUNPSVJDUWdPQlVtZktBaTBB?oc=5",
-        "why": "KPMG and MIT find AI adoption outpacing governance and controls, a key risk and controls theme auditors will need to assess."
+        "id": "53a32acd9d1b",
+        "title": "AI changes how accountants work, not what they do",
+        "publisher": "Journal of Accountancy",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUklWTE9obmc4M2FVYmNJUGVkZ2p4ZjZ5SUM1Njk1MEk1Z0lFSnZZd092ZWdON05ROXM3R1J4M1p5MFQ1bXk2OFRrSFpmZHRQSnlfc1lXcFRQY0d4UFBuSXRxVDJPT3dTbC03ZDRscFEzd1JIbWFUV1JFQUZTX2ozTkdrSGdxQ2RjZ2psVUpQZ0pBTUtNVU1nN19MYTBQRGFYMHc?oc=5",
+        "why": "Argues AI changes how accountants work, not what they do, a useful framing for interviews and for deciding which skills to build."
       }
     ]
   },
   "stories": [
+    {
+      "id": "92a5617b5708",
+      "title": "AI won't fix your culture. You will",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxYUpWU1pFTEk2QmctQkZNVHF1SzUtYTc2Ry1Dc1VvbzU2VW9qbVdneU5UUnhudzNqNUVIMURKQmNxWm96LWxMUmJxWWFvaEFKRGZrODlLRW1pUkxHdGZ5c0hyeUpuOWM0akpMZXZ2X1dtSC1iWGlBRUtxMnNxdw?oc=5",
+      "snippet": "AI won't fix your culture. You will Accounting Today",
+      "published": "2026-10-30T14:00:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "7a1f022de8f1",
+      "title": "Deloitte Wins Inaugural AI Leadership Honor and Ninth Consecutive 'Tax Technology Firm of the Year' Award at 2026 ITR Americas Tax Awards",
+      "publisher": "Yahoo Finance",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFo4bXQ2WE04X3ZkZnBRN2dQcFZVdUUzellkeWpNdDFLNGVEMEl3bTdhYmdOZXNUT2QxZFlaZEtpdFUtN3BRSHg2VVVPaDEyVGh3anZ3Q2t6U1lLTG5Qam9uVEQ0czBlaUhMQlh0MVM0cjk3Q0V0VUZITWFyS0E0WFJpR2JvQWhQZVQ0MEVGZ2QyU3lxSnlIQXJKQnRmUnVXcmtn?oc=5",
+      "snippet": "Deloitte Wins Inaugural AI Leadership Honor and Ninth Consecutive 'Tax Technology Firm of the Year' Award at 2026 ITR Americas Tax Awards Yahoo Finance",
+      "published": "2026-10-30T12:02:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "e8420cd4f467",
+      "title": "[News] Audits, Rejected Orders and a Shot iPod: Apple\u2019s Reported NAND Playbook Before the AI Memory Crunch",
+      "publisher": "TrendForce",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcnZFNDdVQ2U1d09DQW41a1RMZktydm4zR0c2Tl8yZFVmOWpadXZFQUVPNklZQXp6bU9lSnBVZzZRWV9OdzBwbGU5d1lnajYzb0pRR0UzS2tpM25uYnJXWENLZ3U0ZTFUOVhyQzR3VE9WVjJucFhGVHhRVXpIeGhDYWdZOHM0SDU2UWR1aVlxb1NxZ0RSb3Rra2Q0NzhObGwzOGRhWXRxVzI5ZWhIZUMzN1lJTnFuajlua2xmbFhSNzNBeGMyTzM4eE5abnZVZlQ3LTN3cDNyWHlkR2lJSldhQ2MtZ24tLUU?oc=5",
+      "snippet": "[News] Audits, Rejected Orders and a Shot iPod: Apple\u2019s Reported NAND Playbook Before the AI Memory Crunch TrendForce",
+      "published": "2026-10-30T05:08:43+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "bdb243fc39a0",
+      "title": "How retailers can win when AI agents make buying decisions",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDlNV01pb05Mdjh2ZTROLWwzSjFEZlEyM0F1UnJUaFB2SGM4b0JSTXhZd1VOSUNjTzlyalowamdrd0tWVE5DVDAxMHRDcnRMdnFkREZMYllGRVdrTHhnb1RUNzlhTDB6b0RTQk5hVUNYcHpZNHhESWZYZ2NaLWg1ZGU5NHVSMjJjSTJaTzRKYzVaWWFvWWZHVE9vcWFkQ3Uwb1J3bnlZUUNYaWM?oc=5",
+      "snippet": "How retailers can win when AI agents make buying decisions EY",
+      "published": "2026-10-29T23:16:15+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "53a32acd9d1b",
+      "title": "AI changes how accountants work, not what they do",
+      "publisher": "Journal of Accountancy",
+      "seen_in": [
+        "Journal of Accountancy"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUklWTE9obmc4M2FVYmNJUGVkZ2p4ZjZ5SUM1Njk1MEk1Z0lFSnZZd092ZWdON05ROXM3R1J4M1p5MFQ1bXk2OFRrSFpmZHRQSnlfc1lXcFRQY0d4UFBuSXRxVDJPT3dTbC03ZDRscFEzd1JIbWFUV1JFQUZTX2ozTkdrSGdxQ2RjZ2psVUpQZ0pBTUtNVU1nN19MYTBQRGFYMHc?oc=5",
+      "snippet": "AI changes how accountants work, not what they do Journal of Accountancy",
+      "published": "2026-10-29T20:28:38+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "bb387faffcd4",
+      "title": "Accounting\u2019s AI Boom Is Widening the Experience Gap",
+      "publisher": "The Daily Upside",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQampUbUk2Y2xJd3I3M1loQlRBVFNlekkzdWM0bkg3MGt2Q3JGTWpvNy1tUk5GZHBiQUVCazA2UmV3TDRZTWFfNXIxZ0tzY014T2c3WFpRcUJaZkhkYWh5MjRNZHE5WGp3NG5yRzdINm1GcUt1czRsUzF5Rzk3aEViRlR3Xy0yU21ESnAyekk2Rk9hcUp5UlJWZkRjV0RtckJjdmpETlFvY0ZnUERJQ1hRT2tMakdVNDFLc2ZQVnhGNkI2Z0ZlbG4tQUswVFVBRERUeXNsMGZJQWFoTm9LQllEbUxCcnRqRkU?oc=5",
+      "snippet": "Accounting\u2019s AI Boom Is Widening the Experience Gap The Daily Upside",
+      "published": "2026-10-29T19:33:59+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "261dfe355bcb",
+      "title": "AI risk management & controls: Internal Audit\u2019s role",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcndERkJJRWNLQU0wOG5ENDI2WXg5bmhpX3RLeV9YR0JJWTVFWERPa2dFX3ZhS0FjcF9VVjZpUEtKZ0NlTUlNcTZHRmZOcHRIS1plbFk5cFdhWERGazBjV2VZSGt5ZHB4bm9uODB4TDhjTnhXZmQ5Tko2WF92TnE1cGdIeWEyQmtFVjU2cnJjd2lGY05KRy1DMXB5Nk11Zng2WXpkTWEtQ0w3TnFnX0diZ3BURkdYNkw5T0syaHVQSGo2M2pmX01fTnV6NA?oc=5",
+      "snippet": "AI risk management & controls: Internal Audit\u2019s role Deloitte",
+      "published": "2026-10-29T18:51:38+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "40245dcf6723",
+      "title": "Microsoft increases Copilot capacities for audit, tax, compliance, more",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlJRZ0plSnp4WHZaUGprdzUwbU1rUUJKeXBBYUFldjcyZVlWN3ZUbG5xanV3T1lPZkxFT1FmcTJZajhRQ05uU2VCNlNxUTlzcXB0OXBTMW5QdlJETmtWQVdSckJ3bUEwQ0lxdkxtSVlTUExRcjR2dXVTUVQ1UTR4b2pOR0k5RlFtYjFBSXVnVl8wWTZjeDVrT0xyeE5uVm9NWGZJQ2VTN2E?oc=5",
+      "snippet": "Microsoft increases Copilot capacities for audit, tax, compliance, more Accounting Today",
+      "published": "2026-10-29T17:38:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "72b576e364a4",
+      "title": "AuditPro.ai Expands Platform Access to College Accounting Departments",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "AICPA",
+        "CPA Practice Advisor",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdmFkRUpTak1obnE5b1dqT1paRW5qc3ZTSEZjSmtTUkRPU2lrczd2ZFN6VU5XMm1adUdmTDhmV0FqdVJuQ1FZZWp5dWlaRExsRDVTNkJxUFJoSGVyeW5tVGVNY2MwclZjeEttYWJVVm5KOVM0aVVkZ2d2ME1XVTM2ajE0WHBmb0lmcDZyZzRqRklubHZLQ09lQTZXZ3IyZXhXOUZnUy05d3MtYklNXzRsMElZRXZ0Q1M3YmNxZ2pET2M?oc=5",
+      "snippet": "AuditPro.ai Expands Platform Access to College Accounting Departments CPA Practice Advisor",
+      "published": "2026-10-29T16:23:09+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "cd3036ea8bc7",
+      "title": "Collective raises $100M in new funding for AI finops system",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkpfWDBhVU55d2dlZEVNYXR6VVlrMWVzTTV3Yzc4UlpkZmUxTFJXTWhmdHJQM1dPRlpORlF6SDQ4OUZReEhTZ3VEeDA5UkMwTm9sYmJMZ01GU3Z1OUhBZlBmcThGZmhidHZJXzZxZzNIMHlxRmlWY21rZ3FCUGx1R2xGTGowLU12R0RaWWVEdklDVDlKeUJYSFdYd2ZCTkZwTHM5Yw?oc=5",
+      "snippet": "Collective raises $100M in new funding for AI finops system Accounting Today",
+      "published": "2026-10-29T15:21:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "efb414a57632",
+      "title": "AI use cases by industry, function and type",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Md1NXWENicW9pNWx3a0g3WEVfb0pYSUptT0J6QTV3ZElBMlVYcThvakt6YlV5NFRUaFRQNUNEeDlMM0Z4cml5X2E3VWlCVkRxREZ6QjhPMWU3b0ZhQzM0SmdzNVZzZWZKc2x2eTl1dG9TX1VUUmJWMQ?oc=5",
+      "snippet": "AI use cases by industry, function and type Deloitte",
+      "published": "2026-10-29T12:26:36+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
     {
       "id": "59866a377929",
       "title": "Enterprise AI Enters an ROI Reckoning: More Use, Uneven Value, Reveals Deloitte Survey",
@@ -50,6 +219,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-29T14:48:30.296897+00:00"
+    },
+    {
+      "id": "48a6abb1846b",
+      "title": "Leapfrogging to the future: Securing an AI-native Middle East",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTy11RkU1VzZKcG5TaUNnd3JNSWxaWTM0RVo3ZmMxRmpUcGlmNnJUYU83T1dXREhqV3gzTm5lc3hhMllDRkFpZGoxYUJlWkh4WVNJWWlQT2VsMGJyYTZXODhDeXpLSDBRTUdNQmpsNmd5N0dEX2lZOXFhVHJKMWxlZ1dmLXl0SUREMkRhSXhMMnp0eDdvYTJuT2JwcXA2eGpKMTk0RE8wVlAwalJjZzdLTWZGU3Z4dGQ0M2JGWQ?oc=5",
+      "snippet": "Leapfrogging to the future: Securing an AI-native Middle East Deloitte",
+      "published": "2026-10-29T09:45:59+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
     },
     {
       "id": "f5e4f107ea78",
@@ -343,6 +527,21 @@
       "first_seen": "2026-10-28T14:45:58.282290+00:00"
     },
     {
+      "id": "c1437993f4d1",
+      "title": "The human edge in AI design: Why creativity still matters",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXzZPcHd2bnhpMXB5UHpuX0N2LWZTa3hDaEdDdENmNkkxMTQycmYyLS1PRE9XUFk2VGctV2hZSzk3MDJnWnRDM3dhNEhFeS0yczhqWVBNOFV3TGZDaUpVb0s4UE96UHJSOE9ic09EYmtKRUZYdFdhaXJ2anc1bXNHZHhaU3d5N2p2OUZ6eTJ4Y1BObXhyUHhDTXJMZmZ6NXpoYXI4RVVR?oc=5",
+      "snippet": "The human edge in AI design: Why creativity still matters PwC",
+      "published": "2026-10-28T07:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
       "id": "765901b55e23",
       "title": "Global AI Pulse: Q3 2026",
       "publisher": "kpmg.com",
@@ -477,6 +676,36 @@
         "Other"
       ],
       "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "b848b595d61b",
+      "title": "From fragmentation to symphony: Why unified automation orchestration is essential",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWU1xOFFieFJHTi1RZ3NwRjlkSl9ZVGxiQmJ0VUFQUWQ0S29ma3Myakx3S3BiVDNpZFh0Vnk1YzlqY2xWT2o4d1psc2wwX3cwN2Fqdm5CSGVQRWFZemhOX1BLTlFDU19fQVUtcGFCWTZMZ0Vjc3pLVHp6bFhYdTgtRm1acUZXLWVuZXQ4VTNfX1J0UVc2QnhaenNrTGs?oc=5",
+      "snippet": "From fragmentation to symphony: Why unified automation orchestration is essential Deloitte",
+      "published": "2026-10-27T15:29:57+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "43a444e599f3",
+      "title": "Sweden's Warmare raises $900K to build an AI accounting firm",
+      "publisher": "Dealroom",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlNXc0R0MDF1WnktbVoyT2c5RGVPR0NCdlJIdTVNZkV1ZnpXUi14R0xJMkRhbWt0RFZHTVd2cTRPbVFwM2N6R1RhaHZLN2hJd2xNTnpzV3UyZDhZemlXOFJHcUxRaGtqMC1pTHBOQjB6ZTVFN01QNG0tc1EzanVlZmIweXgzbWZFRUl4cWlVVVlqa3Q3aC1feg?oc=5",
+      "snippet": "Sweden's Warmare raises $900K to build an AI accounting firm Dealroom",
+      "published": "2026-10-27T15:22:39+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
     },
     {
       "id": "d92115554fd1",
@@ -760,6 +989,21 @@
       "first_seen": "2026-10-26T15:32:35.093879+00:00"
     },
     {
+      "id": "14bad519c326",
+      "title": "Are you ready for AI colleagues?",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNmV1amR6bkxsZFVJTnZvU3hEYzRTb01hdTVwUUxKMVdneTlnWUlZLUFnb0lScEx2R0VFcnRIS2FKd2R1WDdzb2lEVFpESFQtWW5xSHpFS2hjNmlwaUY3eEFlc0tfdHJDMFJVMEFFaTlaT0lmbWZsN1hFUE8xWkhENm9iSkVFQQ?oc=5",
+      "snippet": "Are you ready for AI colleagues? EY",
+      "published": "2026-10-26T09:36:44+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
       "id": "525e2fe69f4c",
       "title": "How AI is accelerating operational performance in real estate",
       "publisher": "PwC",
@@ -875,7 +1119,9 @@
       "seen_in": [
         "Deloitte",
         "KPMG",
-        "General"
+        "General",
+        "PwC",
+        "EY"
       ],
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQm0tNEN0OXN2MVRwalduendpSUx5T1liWWhLcGZObkVlTU5lb21qd1o5SlA3WVFpRGpsMXp1Q1prUWZvV3lkajlzRDNXRklJUUxMZ3d0OXpjRW1ZYUYwVVZwRE52a1E5anR0N21lQmo2Y2JEQkhCZ05mYm5PemZKZ3VmNVZMSUl4QnhWU3VabkxoV0puaW41WklYdTBoUnNJbWJhZ0xaZkhqdWdxZmljUGEyVU02UEpDbW1aWmUxdFY4bUE?oc=5",
       "snippet": "Friday Footnotes: Internal Auditors Are All In on AI; KPMG Australia Takes a Few More Ls | 10.23.26 Going Concern",
