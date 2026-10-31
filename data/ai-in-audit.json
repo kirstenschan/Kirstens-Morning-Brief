@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-30T14:48:49.018471+00:00",
+  "updated": "2026-10-31T14:29:28.214746+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,155 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's headlines center on AI tools reaching accounting teams and schools, plus worries about what that means for early-career accountants. Details are thin, so treat these as signals.",
+    "quick_take": "Today's news is mostly vendor and Big 4 AI talk, with no new regulator or standard-setter action. The focus is moving from adopting AI to using it well and securing it.",
     "standouts": [
       {
-        "id": "bb387faffcd4",
-        "title": "Accounting\u2019s AI Boom Is Widening the Experience Gap",
-        "publisher": "The Daily Upside",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQampUbUk2Y2xJd3I3M1loQlRBVFNlekkzdWM0bkg3MGt2Q3JGTWpvNy1tUk5GZHBiQUVCazA2UmV3TDRZTWFfNXIxZ0tzY014T2c3WFpRcUJaZkhkYWh5MjRNZHE5WGp3NG5yRzdINm1GcUt1czRsUzF5Rzk3aEViRlR3Xy0yU21ESnAyekk2Rk9hcUp5UlJWZkRjV0RtckJjdmpETlFvY0ZnUERJQ1hRT2tMakdVNDFLc2ZQVnhGNkI2Z0ZlbG4tQUswVFVBRERUeXNsMGZJQWFoTm9LQllEbUxCcnRqRkU?oc=5",
-        "why": "Directly about how the AI boom is widening the experience gap, which bears on how entry-level auditors will build skills."
+        "id": "02ef798cec43",
+        "title": "EY + Microsoft: AI adoption is a milestone. It's not the destination. | EY - US",
+        "publisher": "EY",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVk1ERFJZTHQ2aUlYanQyaDdLYVVFVjFWeEZVcFlCQWs2bnVqb3hxeDN6QjI4Wl95V1JzN0hjSFlmZWF0TV81WkFXZ1hzT1k0NE1acXlUNjgxUndSeF94eHJtaFVNS2tyMlNzU0JTcFhxaVM0LUQ1VV9iRkJ3SHdKTWZCM3ZNSzFNODJyNkM4VkJCZw?oc=5",
+        "why": "EY frames AI adoption as a milestone, not the destination, a useful line for interviews on where Big 4 firms are heading."
       },
       {
-        "id": "40245dcf6723",
-        "title": "Microsoft increases Copilot capacities for audit, tax, compliance, more",
-        "publisher": "Accounting Today",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlJRZ0plSnp4WHZaUGprdzUwbU1rUUJKeXBBYUFldjcyZVlWN3ZUbG5xanV3T1lPZkxFT1FmcTJZajhRQ05uU2VCNlNxUTlzcXB0OXBTMW5QdlJETmtWQVdSckJ3bUEwQ0lxdkxtSVlTUExRcjR2dXVTUVQ1UTR4b2pOR0k5RlFtYjFBSXVnVl8wWTZjeDVrT0xyeE5uVm9NWGZJQ2VTN2E?oc=5",
-        "why": "Microsoft is expanding Copilot capacity for audit, tax and compliance, a tool you may meet on the job and can cite in interviews."
+        "id": "3aa22e56961f",
+        "title": "Microsoft Touts New Accounting Capabilities for Copilot",
+        "publisher": "CPA Practice Advisor",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGd3bC04QWtHN3UzZnpOdnE3ZjhZdWl3MVVmQXVmTDV4bkpkVUJCU3cwektFczdEenoteklwaFJ1alFuaGhnWnZGOGNZNjBnT3paZ1I1RVQtSDZ1cmlreEpHRGtDSlBWSHNVNi1MVEtac2FEZWYzbkV0Ul9QUEVvQnFTYlVSMGRaRGVkX0t2bkRfSUE3b2tfX00yWlpDaTBacTVXU2FYYndKVkh3?oc=5",
+        "why": "Microsoft is adding accounting capabilities to Copilot, a tool you may use on the job, so it's worth learning early."
       },
       {
-        "id": "53a32acd9d1b",
-        "title": "AI changes how accountants work, not what they do",
-        "publisher": "Journal of Accountancy",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUklWTE9obmc4M2FVYmNJUGVkZ2p4ZjZ5SUM1Njk1MEk1Z0lFSnZZd092ZWdON05ROXM3R1J4M1p5MFQ1bXk2OFRrSFpmZHRQSnlfc1lXcFRQY0d4UFBuSXRxVDJPT3dTbC03ZDRscFEzd1JIbWFUV1JFQUZTX2ozTkdrSGdxQ2RjZ2psVUpQZ0pBTUtNVU1nN19MYTBQRGFYMHc?oc=5",
-        "why": "Argues AI changes how accountants work, not what they do, a useful framing for interviews and for deciding which skills to build."
+        "id": "d51620898d0d",
+        "title": "Beyond compliance: Identity security in the age of AI",
+        "publisher": "Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWk1d1hPVEFHZUZCS0NWTDdvVTdGdy1ULTJSYWRZblB6VUlubVdxVUNXQUJnRHpMSm9qUGo3NXkxZXFxZGJGalRWbDF3WkFGSU11Y08yR05hMVN2Yk1ocHdfUlg0MFZEYmxOOVprcVlnUzJxVi1HRk0xWWkweWJYYU53ck9KanZSTnk0b3ln?oc=5",
+        "why": "Deloitte ties identity security to AI, a reminder that AI creates access and control risks auditors must understand."
       }
     ]
   },
   "stories": [
+    {
+      "id": "a30015cbfc3e",
+      "title": "SPYR engages PCAOB auditor to audit Ledjr AI financials",
+      "publisher": "scanx.trade",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHVBWnI1ZHhOU2pwSVVtemJqMFlXSUIwOGZJcHNlZThjdkpDUDZtTzhrMGl4d0JiNFU4OC1YclM2MFpELVVZaVlYbVdGelg0MExqRG8yYVBGMTJTanZTM1F0aHZrWXkwbGlBeVBrWXhqazh5UDc0bVowZ3NBNEx0Q3E0N2w1bW9LUU9iTlJZd1BiTVNPbWdacy1VTGhmQTlXYlFOZXRR?oc=5",
+      "snippet": "SPYR engages PCAOB auditor to audit Ledjr AI financials scanx.trade",
+      "published": "2026-10-30T22:03:11+00:00",
+      "themes": [
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-10-31T14:29:28.214746+00:00"
+    },
+    {
+      "id": "691d14a88c2a",
+      "title": "The AI tool your firm needs to navigate accounting's future",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "AICPA",
+        "IIA",
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQajB3ampVOHhlQVhYLWxOZzhob0V6Tlh2dzNscTcydUZrYjNYc1J0RURFVF9xeWpqSHg0eHNJcmlTZ2Z1OXp6TDFmRzdDdmhpRGxkamYwTWZCb3poTXVmT2xkMkRzUGJyS2phcGxSWUxWazhvWVJUTHlkb0VwcHFUcm9YR3ZFSmFESWtaTWgwTUxwRlEyUXl3YXBRUQ?oc=5",
+      "snippet": "The AI tool your firm needs to navigate accounting's future Accounting Today",
+      "published": "2026-10-30T21:31:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-31T14:29:28.214746+00:00"
+    },
+    {
+      "id": "d51620898d0d",
+      "title": "Beyond compliance: Identity security in the age of AI",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWk1d1hPVEFHZUZCS0NWTDdvVTdGdy1ULTJSYWRZblB6VUlubVdxVUNXQUJnRHpMSm9qUGo3NXkxZXFxZGJGalRWbDF3WkFGSU11Y08yR05hMVN2Yk1ocHdfUlg0MFZEYmxOOVprcVlnUzJxVi1HRk0xWWkweWJYYU53ck9KanZSTnk0b3ln?oc=5",
+      "snippet": "Beyond compliance: Identity security in the age of AI Deloitte",
+      "published": "2026-10-30T20:50:03+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-31T14:29:28.214746+00:00"
+    },
+    {
+      "id": "fe22a9b10fa8",
+      "title": "SPYR, Inc. Engages PCAOB-Registered Auditor to Audit SPYR and Ledjr AI",
+      "publisher": "The Manila Times",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZTRweHRLaGVPcGM3SGpxUEE3alJpNEpMUGlTZWM4TEFzVnAwR2RLTTBsUzBmLVlnekktemdRR3ZXOF91M3hjWGtNdmhsa0hKWTY5OVl3R00tckR6cEYtN0kzQjE4Y3d5Y0N3WTNENEtKS0dJSUlEejNPY2ZnX1I3c1R2QzhkOU5zVHFZMHFaOXpMa1lHbGtneGF1NXVHMVlwRlRxcEVSa1IzeGZZZ3JldU5FRW9CS3diRTVFM05HRm5RS2tzem9PYk5XUUh4ZG04c21PTFcxQVpYQdIB3wFBVV95cUxNZThBMzVjMDhwSF9fdXBkTXdPVVF0NFd2UzNvNTFtd0tTbnk1VHFlOHRNZXdlbFgxRjkyNkhnM0NvajZYemlfVjZ2R1ptQUJETHVkRkxVV0NJLTR2RFNRRXdlcTBxWHhVaDRldjFWVzYtYkQxN2ZxcjVybFdLcWVabEpBaXdjUzZGOWI0aUZwUmVMNjh0dGlrd3VzYTZ6UV9FZmFLWGUtR09ETWVHM01KbklmYXAyX1VDRFlldVpSR0g4eG8yS2RkUWdOV21kZ29TOGxWaU9xcFpyLU8tV0RJ?oc=5",
+      "snippet": "SPYR, Inc. Engages PCAOB-Registered Auditor to Audit SPYR and Ledjr AI The Manila Times",
+      "published": "2026-10-30T20:08:05+00:00",
+      "themes": [
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-10-31T14:29:28.214746+00:00"
+    },
+    {
+      "id": "f1c2e9555d9f",
+      "title": "Yooz Adds to Its Line-Level Automation Capabilities with Agentic AI Allocation",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVC1NQlJ0cGd1d0N1QXN3TWV3eVJMY25hRVFFNnJwckhkVGFQTlNkQVpOeS1tSHZfTUJUWmRFb3k5V0hXcTctaWJfc0IyV1I2S1dtWmFDQk0tN2NOTFVjRjRxTTRTeGZ3T2FEVFJPTVRIYzUxeFFjbW9mMzhjWlhoU1UtSXN6QWU1MjJIRDQ4R00zS0RPZTRFUWxCcUdRbkhOX0xuUUlKdFhzRGpqb3M0dWF1SjZCWWFzQmY1ZnRXdGxKVVRrODB3Z2NTdkw?oc=5",
+      "snippet": "Yooz Adds to Its Line-Level Automation Capabilities with Agentic AI Allocation CPA Practice Advisor",
+      "published": "2026-10-30T19:20:46+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-31T14:29:28.214746+00:00"
+    },
+    {
+      "id": "f50e9d64b06d",
+      "title": "Deloitte firms celebrate a decade of Transfer Pricing Advisory Firm of the Year recognition in the Americas, and become the AI Leadership Advisory Firm of the Year",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONm90b0NxTUViSHhlYzgxbkxiMklBU2NxR1lrNVlfa3h1SnRCWm42X2dXck5RVC1oWWtZdGpoWmJIR0pZWlRUYk1UNFB6akxqRmZSak5PMkhkUGZRTGpROU5tZER2c3N2TXc0ekQ4Q1gwQm93MW1HbXFya0o0MVpGVl92bjBsRzNqcDNlalYtOFNLSzZyb2pKZmlQbTYzWEFDM0VvN290TnBZQUNSeFJpT2p3?oc=5",
+      "snippet": "Deloitte firms celebrate a decade of Transfer Pricing Advisory Firm of the Year recognition in the Americas, and become the AI Leadership Advisory Firm of the Year Deloitte",
+      "published": "2026-10-30T17:34:11+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-31T14:29:28.214746+00:00"
+    },
+    {
+      "id": "c8741738ef6e",
+      "title": "Month-End Close Automation Tools \u2013 Accounting Technology Lab Podcast \u2013 Oct. 31, 2026",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajUxUXNTNEltT1c5VTlLT0dDc0R0MThYbm9RMUc3NmdnVDZ5eGtteFd0T3g0LVVVcm90SXNvR3BtcnNnLTJlTnZ5Y1gxZ1FNbC1ER2xob3JvQkxneXE0eE9XRVg1cWZyTVM1SjFZZHJ1ZXpYSmRvY2QtSkFERWRUNkl2QkJLSWtNaVBBNzdDTnJyOXFmbnp0NFpRS3J0ZHozUWVqZk14UDVqcTdvbXJDYkJZTU0yQVMtemZSNUpjcU4?oc=5",
+      "snippet": "Month-End Close Automation Tools \u2013 Accounting Technology Lab Podcast \u2013 Oct. 31, 2026 CPA Practice Advisor",
+      "published": "2026-10-30T17:14:54+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-31T14:29:28.214746+00:00"
+    },
+    {
+      "id": "3aa22e56961f",
+      "title": "Microsoft Touts New Accounting Capabilities for Copilot",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGd3bC04QWtHN3UzZnpOdnE3ZjhZdWl3MVVmQXVmTDV4bkpkVUJCU3cwektFczdEenoteklwaFJ1alFuaGhnWnZGOGNZNjBnT3paZ1I1RVQtSDZ1cmlreEpHRGtDSlBWSHNVNi1MVEtac2FEZWYzbkV0Ul9QUEVvQnFTYlVSMGRaRGVkX0t2bkRfSUE3b2tfX00yWlpDaTBacTVXU2FYYndKVkh3?oc=5",
+      "snippet": "Microsoft Touts New Accounting Capabilities for Copilot CPA Practice Advisor",
+      "published": "2026-10-30T16:50:16+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-31T14:29:28.214746+00:00"
+    },
     {
       "id": "92a5617b5708",
       "title": "AI won't fix your culture. You will",
@@ -112,6 +235,21 @@
       "first_seen": "2026-10-30T14:48:49.018471+00:00"
     },
     {
+      "id": "7a83b5a9dfe8",
+      "title": "Every AI use case wants more money. Which ones deserve it?",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTXNuNW94bDllSUN3UXBCVFRaUjV6bjVPWFIyVDZrdU1ac2FhZGh1UlMtcnR3YTVhQlZUUWZ0SkMzZ3pUVmlHaVhuUXF3NE43bWtNVHZ4Nk5RZl9FbWlacjAxZTNKRTBRUzVoaWlIdE5QeXFIUm5KOWs2b3VJR0dsd25RRGdTb1g5R0lFRlNiRTNwYW5MSzNtY1NNTTkxRmhzNThWQ2w2UXk4TUZPSWdUMmo4eVpYbkZYZjJUZ2JYcmFJc2c?oc=5",
+      "snippet": "Every AI use case wants more money. Which ones deserve it? Deloitte",
+      "published": "2026-10-29T20:17:07+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-31T14:29:28.214746+00:00"
+    },
+    {
       "id": "bb387faffcd4",
       "title": "Accounting\u2019s AI Boom Is Widening the Experience Gap",
       "publisher": "The Daily Upside",
@@ -147,7 +285,8 @@
       "title": "Microsoft increases Copilot capacities for audit, tax, compliance, more",
       "publisher": "Accounting Today",
       "seen_in": [
-        "Accounting Today"
+        "Accounting Today",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlJRZ0plSnp4WHZaUGprdzUwbU1rUUJKeXBBYUFldjcyZVlWN3ZUbG5xanV3T1lPZkxFT1FmcTJZajhRQ05uU2VCNlNxUTlzcXB0OXBTMW5QdlJETmtWQVdSckJ3bUEwQ0lxdkxtSVlTUExRcjR2dXVTUVQ1UTR4b2pOR0k5RlFtYjFBSXVnVl8wWTZjeDVrT0xyeE5uVm9NWGZJQ2VTN2E?oc=5",
       "snippet": "Microsoft increases Copilot capacities for audit, tax, compliance, more Accounting Today",
@@ -204,6 +343,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "f45a9f249c4f",
+      "title": "160 Health Seeks Auditor Switch Amid AI-Driven Expansion",
+      "publisher": "TipRanks",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWW82SzNGN2N5VXl4bGlqc0QzeUlFdUp6bmJ5d0FzTzVJZmowVzloQkk3RFBtVDUtZWkzcWxCaWJQWVpZRmJHLUxVS055N0ZRX29FSGxUNFV6UElyYXVGSmZJd3lnQWQyN3hERE5uNnVEcVBDMnc0dHN1dDZrZlVHSnBfXzVDd3J6a0dUZ283U1lBZ1d5ZkN5NHpqWElLQ3JXU3pTUE1XYTdzNjkxUnVQMU1NRG5aM3pzOTVSVENoUjA5MWZE?oc=5",
+      "snippet": "160 Health Seeks Auditor Switch Amid AI-Driven Expansion TipRanks",
+      "published": "2026-10-29T11:19:02+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-10-31T14:29:28.214746+00:00"
     },
     {
       "id": "59866a377929",
@@ -494,6 +648,21 @@
         "Skills & careers"
       ],
       "first_seen": "2026-10-28T14:45:58.282290+00:00"
+    },
+    {
+      "id": "02ef798cec43",
+      "title": "EY + Microsoft: AI adoption is a milestone. It's not the destination. | EY - US",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVk1ERFJZTHQ2aUlYanQyaDdLYVVFVjFWeEZVcFlCQWs2bnVqb3hxeDN6QjI4Wl95V1JzN0hjSFlmZWF0TV81WkFXZ1hzT1k0NE1acXlUNjgxUndSeF94eHJtaFVNS2tyMlNzU0JTcFhxaVM0LUQ1VV9iRkJ3SHdKTWZCM3ZNSzFNODJyNkM4VkJCZw?oc=5",
+      "snippet": "EY + Microsoft: AI adoption is a milestone. It's not the destination. | EY - US EY",
+      "published": "2026-10-28T10:14:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-10-31T14:29:28.214746+00:00"
     },
     {
       "id": "cd24cfc4db80",
