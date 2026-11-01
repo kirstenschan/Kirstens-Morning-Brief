@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-10-31T14:29:28.214746+00:00",
+  "updated": "2026-11-01T15:23:50.004853+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,61 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's news is mostly vendor and Big 4 AI talk, with no new regulator or standard-setter action. The focus is moving from adopting AI to using it well and securing it.",
+    "quick_take": "Only two new stories today, both from the Journal of Accountancy: one on how CPAs are using AI in audits, and one on how AI raises the stakes for auditor judgment.",
     "standouts": [
       {
-        "id": "02ef798cec43",
-        "title": "EY + Microsoft: AI adoption is a milestone. It's not the destination. | EY - US",
-        "publisher": "EY",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVk1ERFJZTHQ2aUlYanQyaDdLYVVFVjFWeEZVcFlCQWs2bnVqb3hxeDN6QjI4Wl95V1JzN0hjSFlmZWF0TV81WkFXZ1hzT1k0NE1acXlUNjgxUndSeF94eHJtaFVNS2tyMlNzU0JTcFhxaVM0LUQ1VV9iRkJ3SHdKTWZCM3ZNSzFNODJyNkM4VkJCZw?oc=5",
-        "why": "EY frames AI adoption as a milestone, not the destination, a useful line for interviews on where Big 4 firms are heading."
+        "id": "21db495f4f10",
+        "title": "How CPAs are putting AI to work in audits",
+        "publisher": "Journal of Accountancy",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnh0dDAwMElUNmxwWllxUF9lTW84U2JVMHBTNTNWZVZwUTZqV2NuOFJtOWdTU2NKa1NCdVhvWmpRQi02RWdJMUVjb19LU1haV2hKLXE1SnIzeWlrUEhkTkRsSGhDbXROS09mXzRZQ1pnUFRGMUx3U3BTamViZVdqcXYyQWJWTzFnYWw5cnR1Ny1IOEtYNS1rV0FTdw?oc=5",
+        "why": "A look at how CPAs are using AI in audits now, which gives you concrete examples to bring up in interviews."
       },
       {
-        "id": "3aa22e56961f",
-        "title": "Microsoft Touts New Accounting Capabilities for Copilot",
-        "publisher": "CPA Practice Advisor",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGd3bC04QWtHN3UzZnpOdnE3ZjhZdWl3MVVmQXVmTDV4bkpkVUJCU3cwektFczdEenoteklwaFJ1alFuaGhnWnZGOGNZNjBnT3paZ1I1RVQtSDZ1cmlreEpHRGtDSlBWSHNVNi1MVEtac2FEZWYzbkV0Ul9QUEVvQnFTYlVSMGRaRGVkX0t2bkRfSUE3b2tfX00yWlpDaTBacTVXU2FYYndKVkh3?oc=5",
-        "why": "Microsoft is adding accounting capabilities to Copilot, a tool you may use on the job, so it's worth learning early."
-      },
-      {
-        "id": "d51620898d0d",
-        "title": "Beyond compliance: Identity security in the age of AI",
-        "publisher": "Deloitte",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWk1d1hPVEFHZUZCS0NWTDdvVTdGdy1ULTJSYWRZblB6VUlubVdxVUNXQUJnRHpMSm9qUGo3NXkxZXFxZGJGalRWbDF3WkFGSU11Y08yR05hMVN2Yk1ocHdfUlg0MFZEYmxOOVprcVlnUzJxVi1HRk0xWWkweWJYYU53ck9KanZSTnk0b3ln?oc=5",
-        "why": "Deloitte ties identity security to AI, a reminder that AI creates access and control risks auditors must understand."
+        "id": "9ccc6f9b4bfd",
+        "title": "AI raises the stakes for auditor judgment",
+        "publisher": "Journal of Accountancy",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHN3em1DNEhKazhpQjZnWDBNMXdPcVk2cUFXeHdqODRMNjd6QzZ0VjNPZDU1dE96cW4zbklyWlNMcThHdDZVS2RaUHhpNFJ3S1ZkcjNodGlqSE9vVkFPbGM4N0t5QUo2YURQMHdjLXB4V2hhRHlROFp6ZVpZRWItNlhoTnRiZDB3eTVnVDdKRUZ3c3JRN29QWWw2QQ?oc=5",
+        "why": "The headline says AI raises the stakes for auditor judgment, so judgment and skepticism are skills worth building early."
       }
     ]
   },
   "stories": [
+    {
+      "id": "21db495f4f10",
+      "title": "How CPAs are putting AI to work in audits",
+      "publisher": "Journal of Accountancy",
+      "seen_in": [
+        "AICPA",
+        "Journal of Accountancy",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnh0dDAwMElUNmxwWllxUF9lTW84U2JVMHBTNTNWZVZwUTZqV2NuOFJtOWdTU2NKa1NCdVhvWmpRQi02RWdJMUVjb19LU1haV2hKLXE1SnIzeWlrUEhkTkRsSGhDbXROS09mXzRZQ1pnUFRGMUx3U3BTamViZVdqcXYyQWJWTzFnYWw5cnR1Ny1IOEtYNS1rV0FTdw?oc=5",
+      "snippet": "How CPAs are putting AI to work in audits Journal of Accountancy",
+      "published": "2026-11-01T12:00:53+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-01T15:23:50.004853+00:00"
+    },
+    {
+      "id": "9ccc6f9b4bfd",
+      "title": "AI raises the stakes for auditor judgment",
+      "publisher": "Journal of Accountancy",
+      "seen_in": [
+        "AICPA",
+        "PwC",
+        "EY",
+        "Journal of Accountancy",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHN3em1DNEhKazhpQjZnWDBNMXdPcVk2cUFXeHdqODRMNjd6QzZ0VjNPZDU1dE96cW4zbklyWlNMcThHdDZVS2RaUHhpNFJ3S1ZkcjNodGlqSE9vVkFPbGM4N0t5QUo2YURQMHdjLXB4V2hhRHlROFp6ZVpZRWItNlhoTnRiZDB3eTVnVDdKRUZ3c3JRN29QWWw2QQ?oc=5",
+      "snippet": "AI raises the stakes for auditor judgment Journal of Accountancy",
+      "published": "2026-11-01T12:00:53+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-01T15:23:50.004853+00:00"
+    },
     {
       "id": "a30015cbfc3e",
       "title": "SPYR engages PCAOB auditor to audit Ledjr AI financials",
