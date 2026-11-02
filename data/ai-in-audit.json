@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-01T15:23:50.004853+00:00",
+  "updated": "2026-11-02T15:45:55.754325+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,25 +10,64 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Only two new stories today, both from the Journal of Accountancy: one on how CPAs are using AI in audits, and one on how AI raises the stakes for auditor judgment.",
+    "quick_take": "AI is moving from pilot to practice in audit, with new tools aimed at engagement teams, rising AI costs for firms, and leaders urging quick action.",
     "standouts": [
       {
-        "id": "21db495f4f10",
-        "title": "How CPAs are putting AI to work in audits",
-        "publisher": "Journal of Accountancy",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnh0dDAwMElUNmxwWllxUF9lTW84U2JVMHBTNTNWZVZwUTZqV2NuOFJtOWdTU2NKa1NCdVhvWmpRQi02RWdJMUVjb19LU1haV2hKLXE1SnIzeWlrUEhkTkRsSGhDbXROS09mXzRZQ1pnUFRGMUx3U3BTamViZVdqcXYyQWJWTzFnYWw5cnR1Ny1IOEtYNS1rV0FTdw?oc=5",
-        "why": "A look at how CPAs are using AI in audits now, which gives you concrete examples to bring up in interviews."
+        "id": "32b98f1168e2",
+        "title": "Clark launches Clerks AI, an audit engagement team member",
+        "publisher": "Accounting Today",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR056QkdpWm94aG1LX2RnV28tS3BoSzEteXJkRXJFVnZsNTlpdkJoZUxCU3VzYTBWajhINWdwSmlOS0ZQY0lnQ2FXZkVKNUhlODFxU2hzZmZ4SWt5QTM3Qko1NjNDbmxUZXFOWnVKQml5aE5ObFlDejl2Zl9iLTA2Q1VHQ3BNdFh6d0drU2tfWm9sSk0xWFRBOG80ckpGN1ZFOGN1dlVn?oc=5",
+        "why": "An AI tool pitched as an audit engagement team member hints at tasks juniors may share with AI, so learn how it works."
       },
       {
-        "id": "9ccc6f9b4bfd",
-        "title": "AI raises the stakes for auditor judgment",
-        "publisher": "Journal of Accountancy",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHN3em1DNEhKazhpQjZnWDBNMXdPcVk2cUFXeHdqODRMNjd6QzZ0VjNPZDU1dE96cW4zbklyWlNMcThHdDZVS2RaUHhpNFJ3S1ZkcjNodGlqSE9vVkFPbGM4N0t5QUo2YURQMHdjLXB4V2hhRHlROFp6ZVpZRWItNlhoTnRiZDB3eTVnVDdKRUZ3c3JRN29QWWw2QQ?oc=5",
-        "why": "The headline says AI raises the stakes for auditor judgment, so judgment and skepticism are skills worth building early."
+        "id": "25956a75e69a",
+        "title": "Tokenomics: Firms see surging AI costs compared to last year",
+        "publisher": "Accounting Today",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGhMYUlrUmNTRHVQODVtZm5XcENTS0pyUENmMzA3SzRKTV9HempHRDJ2Z0lrU0MxdFdKQ2phMy12NDVOcUhudkJyOTZXd294RGFhQVpzMmUzUjJXUHlEa0pDWm1BTGNZbnlaU3B6cEhoTGwtWnJrSm5sb3otd1VYM3puekNFQXN2WmRwWlJ1RG5yNGdPOHB2bnRXejc?oc=5",
+        "why": "Surging AI costs show firms must justify the return on AI, which will shape which tools they adopt and how they're used."
+      },
+      {
+        "id": "74fe784e7e29",
+        "title": "Leaders from Wolters Kluwer, Microsoft, Salesforce, and McKinsey challenge accounting firms to make one AI move in the next 90 days",
+        "publisher": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmY1alhlSi1sTTBhUUs1NHhKeXV0dEhRNkZpNEx3cTlaeEhLRTRXM3dJclhJVUI3c1J5YkdNb3lIaEY1UkxjV2diR2lKdVkzSnh1cmJJOUtrSGdaMk00ZjZmaVc1Rk9PVW5FV2dBRDFvdGowMW4wUjdDSU8xVTJtWXFBQlBuWUVlQ0RwRWtaSWxtVjdFdlhHUWk3aUxjUzNfLS1GZ0hWV055R1E?oc=5",
+        "why": "Leaders at Wolters Kluwer, Microsoft, Salesforce and McKinsey urge firms to act within 90 days, a useful talking point for interviews."
       }
     ]
   },
   "stories": [
+    {
+      "id": "32b98f1168e2",
+      "title": "Clark launches Clerks AI, an audit engagement team member",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR056QkdpWm94aG1LX2RnV28tS3BoSzEteXJkRXJFVnZsNTlpdkJoZUxCU3VzYTBWajhINWdwSmlOS0ZQY0lnQ2FXZkVKNUhlODFxU2hzZmZ4SWt5QTM3Qko1NjNDbmxUZXFOWnVKQml5aE5ObFlDejl2Zl9iLTA2Q1VHQ3BNdFh6d0drU2tfWm9sSk0xWFRBOG80ckpGN1ZFOGN1dlVn?oc=5",
+      "snippet": "Clark launches Clerks AI, an audit engagement team member Accounting Today",
+      "published": "2026-11-02T14:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-02T15:45:55.754325+00:00"
+    },
+    {
+      "id": "25956a75e69a",
+      "title": "Tokenomics: Firms see surging AI costs compared to last year",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGhMYUlrUmNTRHVQODVtZm5XcENTS0pyUENmMzA3SzRKTV9HempHRDJ2Z0lrU0MxdFdKQ2phMy12NDVOcUhudkJyOTZXd294RGFhQVpzMmUzUjJXUHlEa0pDWm1BTGNZbnlaU3B6cEhoTGwtWnJrSm5sb3otd1VYM3puekNFQXN2WmRwWlJ1RG5yNGdPOHB2bnRXejc?oc=5",
+      "snippet": "Tokenomics: Firms see surging AI costs compared to last year Accounting Today",
+      "published": "2026-11-02T14:00:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-02T15:45:55.754325+00:00"
+    },
     {
       "id": "21db495f4f10",
       "title": "How CPAs are putting AI to work in audits",
@@ -55,7 +94,8 @@
         "PwC",
         "EY",
         "Journal of Accountancy",
-        "General"
+        "General",
+        "Deloitte"
       ],
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHN3em1DNEhKazhpQjZnWDBNMXdPcVk2cUFXeHdqODRMNjd6QzZ0VjNPZDU1dE96cW4zbklyWlNMcThHdDZVS2RaUHhpNFJ3S1ZkcjNodGlqSE9vVkFPbGM4N0t5QUo2YURQMHdjLXB4V2hhRHlROFp6ZVpZRWItNlhoTnRiZDB3eTVnVDdKRUZ3c3JRN29QWWw2QQ?oc=5",
       "snippet": "AI raises the stakes for auditor judgment Journal of Accountancy",
@@ -112,6 +152,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-31T14:29:28.214746+00:00"
+    },
+    {
+      "id": "74fe784e7e29",
+      "title": "Leaders from Wolters Kluwer, Microsoft, Salesforce, and McKinsey challenge accounting firms to make one AI move in the next 90 days",
+      "publisher": "Yahoo Finance",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmY1alhlSi1sTTBhUUs1NHhKeXV0dEhRNkZpNEx3cTlaeEhLRTRXM3dJclhJVUI3c1J5YkdNb3lIaEY1UkxjV2diR2lKdVkzSnh1cmJJOUtrSGdaMk00ZjZmaVc1Rk9PVW5FV2dBRDFvdGowMW4wUjdDSU8xVTJtWXFBQlBuWUVlQ0RwRWtaSWxtVjdFdlhHUWk3aUxjUzNfLS1GZ0hWV055R1E?oc=5",
+      "snippet": "Leaders from Wolters Kluwer, Microsoft, Salesforce, and McKinsey challenge accounting firms to make one AI move in the next 90 days Yahoo Finance",
+      "published": "2026-10-30T20:15:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-02T15:45:55.754325+00:00"
     },
     {
       "id": "fe22a9b10fa8",
@@ -193,7 +248,8 @@
       "title": "AI won't fix your culture. You will",
       "publisher": "Accounting Today",
       "seen_in": [
-        "Accounting Today"
+        "Accounting Today",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxYUpWU1pFTEk2QmctQkZNVHF1SzUtYTc2Ry1Dc1VvbzU2VW9qbVdneU5UUnhudzNqNUVIMURKQmNxWm96LWxMUmJxWWFvaEFKRGZrODlLRW1pUkxHdGZ5c0hyeUpuOWM0akpMZXZ2X1dtSC1iWGlBRUtxMnNxdw?oc=5",
       "snippet": "AI won't fix your culture. You will Accounting Today",
@@ -232,6 +288,21 @@
         "Other"
       ],
       "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "2b488ebf6bd2",
+      "title": "HRK beats out 7 to win FCC Mandated Audit Services contract",
+      "publisher": "OrangeSlices AI",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakxaejVBX3V1eUVPM2FSaTZXZ2xlbmFXTDRzZGhMT0l3U1hIbnlrbmRuaWJFcWRDLTY2VEhZNW1jb29rXzZRUURuZURIdmtuaWhWNnVrcUJVUVltUXJjYmppSkRDUEJFMXEtSDZiZExUTk5GTS1iVnE4Mzh4Z3d5SVNTRWlIem1Wc0FRNQ?oc=5",
+      "snippet": "HRK beats out 7 to win FCC Mandated Audit Services contract OrangeSlices AI",
+      "published": "2026-10-30T03:51:31+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-02T15:45:55.754325+00:00"
     },
     {
       "id": "bdb243fc39a0",
@@ -283,7 +354,8 @@
       "title": "Accounting\u2019s AI Boom Is Widening the Experience Gap",
       "publisher": "The Daily Upside",
       "seen_in": [
-        "KPMG"
+        "KPMG",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQampUbUk2Y2xJd3I3M1loQlRBVFNlekkzdWM0bkg3MGt2Q3JGTWpvNy1tUk5GZHBiQUVCazA2UmV3TDRZTWFfNXIxZ0tzY014T2c3WFpRcUJaZkhkYWh5MjRNZHE5WGp3NG5yRzdINm1GcUt1czRsUzF5Rzk3aEViRlR3Xy0yU21ESnAyekk2Rk9hcUp5UlJWZkRjV0RtckJjdmpETlFvY0ZnUERJQ1hRT2tMakdVNDFLc2ZQVnhGNkI2Z0ZlbG4tQUswVFVBRERUeXNsMGZJQWFoTm9LQllEbUxCcnRqRkU?oc=5",
       "snippet": "Accounting\u2019s AI Boom Is Widening the Experience Gap The Daily Upside",
@@ -298,7 +370,8 @@
       "title": "AI risk management & controls: Internal Audit\u2019s role",
       "publisher": "Deloitte",
       "seen_in": [
-        "Deloitte"
+        "Deloitte",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcndERkJJRWNLQU0wOG5ENDI2WXg5bmhpX3RLeV9YR0JJWTVFWERPa2dFX3ZhS0FjcF9VVjZpUEtKZ0NlTUlNcTZHRmZOcHRIS1plbFk5cFdhWERGazBjV2VZSGt5ZHB4bm9uODB4TDhjTnhXZmQ5Tko2WF92TnE1cGdIeWEyQmtFVjU2cnJjd2lGY05KRy1DMXB5Nk11Zng2WXpkTWEtQ0w3TnFnX0diZ3BURkdYNkw5T0syaHVQSGo2M2pmX01fTnV6NA?oc=5",
       "snippet": "AI risk management & controls: Internal Audit\u2019s role Deloitte",
@@ -343,6 +416,21 @@
       "first_seen": "2026-10-30T14:48:49.018471+00:00"
     },
     {
+      "id": "de2cef449fa1",
+      "title": "AI Agents for Accounting Firms: Top Companies Building Custom Automation (2027)",
+      "publisher": "Nerdbot",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkxBeVBoR2l3NFczdjVJUmhLa21MQ3FlWDMwdXVmSlBValVyYm9sNkpVdktHZGhUQUh6M3dvYmNvSTliRzRhWkh1THNyRlVUcFBiUXI1Y2hvaTlZR2lmSHExRWZzNTJ5NU15U015MFRINHVRSkxlLU45OEFqOE1LcDlEc3BBSEpxOWhrblgtU3lFN3RNbWpaN0dTN3JyLVVaS3Q3UmZCR1M3cDBk?oc=5",
+      "snippet": "AI Agents for Accounting Firms: Top Companies Building Custom Automation (2027) Nerdbot",
+      "published": "2026-10-29T16:12:05+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-02T15:45:55.754325+00:00"
+    },
+    {
       "id": "cd3036ea8bc7",
       "title": "Collective raises $100M in new funding for AI finops system",
       "publisher": "Accounting Today",
@@ -357,6 +445,21 @@
         "Other"
       ],
       "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "62397a3c6440",
+      "title": "Ravical Raises $17M Seed to Scale Accounting Expertise With AI",
+      "publisher": "Unite.AI",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FTlJnWC1SU2pYMmdQSnBxdzQ0cUNEYlZmSEpFaTFZWXVFZXRhOWNscnNTOFVhSElfUFFIdlFCMGsyY1IyV3BNOVlRMm41NkVHclBhejhaLU9rVDcxczRzZjdYMjdhZ1JaTW9KWk5fMFR5NFVRbWFj?oc=5",
+      "snippet": "Ravical Raises $17M Seed to Scale Accounting Expertise With AI Unite.AI",
+      "published": "2026-10-29T15:01:03+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-02T15:45:55.754325+00:00"
     },
     {
       "id": "efb414a57632",
