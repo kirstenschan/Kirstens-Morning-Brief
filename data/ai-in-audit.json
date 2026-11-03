@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-02T15:45:55.754325+00:00",
+  "updated": "2026-11-03T15:35:19.510683+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,274 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "AI is moving from pilot to practice in audit, with new tools aimed at engagement teams, rising AI costs for firms, and leaders urging quick action.",
+    "quick_take": "Autonomous AI agents are arriving in audit work, and the debate is shifting to oversight, cost and training. Where AI is used matters, but so does proving the work can be trusted.",
     "standouts": [
       {
-        "id": "32b98f1168e2",
-        "title": "Clark launches Clerks AI, an audit engagement team member",
-        "publisher": "Accounting Today",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR056QkdpWm94aG1LX2RnV28tS3BoSzEteXJkRXJFVnZsNTlpdkJoZUxCU3VzYTBWajhINWdwSmlOS0ZQY0lnQ2FXZkVKNUhlODFxU2hzZmZ4SWt5QTM3Qko1NjNDbmxUZXFOWnVKQml5aE5ObFlDejl2Zl9iLTA2Q1VHQ3BNdFh6d0drU2tfWm9sSk0xWFRBOG80ckpGN1ZFOGN1dlVn?oc=5",
-        "why": "An AI tool pitched as an audit engagement team member hints at tasks juniors may share with AI, so learn how it works."
+        "id": "7ceb9cc6be71",
+        "title": "Clark Launches Clerks\u2014Autonomous AI Audit Employees That Join a CPA Firm\u2019s Team",
+        "publisher": "CPA Practice Advisor",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOG9xUU9fYnlwdEdHdTJTZHpqZklESGtiODJmS2loS1RyV2JibW1WMDRoRmVvZ0ttNTE1SloySExSeVlwcXVXTUx1RzctU0N6bGVUUmlNMi1BQ1NXQkpPZmhoTUFDT0ZiNDM3WWRPMlV6MVMwQi02dk9fQldfVThsWkg1aDN4YURyODVmUzd6dkpxMXR6Znk3aUphM2FXSlRBZWxLWDhqdkZuVkpORnVfUTREQ1I2UnpFYV8tQWVhZU1TMFlCN2pzak41ZTg?oc=5",
+        "why": "Clark's autonomous AI 'Clerks' join CPA firm teams, which could reshape the entry-level audit tasks you'd normally start with."
       },
       {
-        "id": "25956a75e69a",
-        "title": "Tokenomics: Firms see surging AI costs compared to last year",
-        "publisher": "Accounting Today",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGhMYUlrUmNTRHVQODVtZm5XcENTS0pyUENmMzA3SzRKTV9HempHRDJ2Z0lrU0MxdFdKQ2phMy12NDVOcUhudkJyOTZXd294RGFhQVpzMmUzUjJXUHlEa0pDWm1BTGNZbnlaU3B6cEhoTGwtWnJrSm5sb3otd1VYM3puekNFQXN2WmRwWlJ1RG5yNGdPOHB2bnRXejc?oc=5",
-        "why": "Surging AI costs show firms must justify the return on AI, which will shape which tools they adopt and how they're used."
+        "id": "fcb2785af127",
+        "title": "AI Use Has Reached 90% in Internal Audit. Is Assurance Keeping Up?",
+        "publisher": "CPA Practice Advisor",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlZYWjdxNm93TU42M2lUZHh5QUpHcVBnNzE1ekUwZnowc1dBUGFTblhlRExTZlpPbnVxdzVfWDBOazJsWTFZQ2ZJYXJvNWU3RGNpbjM2M2tSb3BhQm1VdXpUaUZYM2ZOUTZsa1RrWDltZmJab2lsY0Y5OWxQTHUwaTRuVWVCS0J3OG4wSW56RzdzUFRIVVJFajhIcTFHeWRFVEtjN2NrdHBURG81cjdGU0J5SWNUTG1x?oc=5",
+        "why": "AI use hit 90% in internal audit, but assurance may lag; this gap is a useful talking point for interviews."
       },
       {
-        "id": "74fe784e7e29",
-        "title": "Leaders from Wolters Kluwer, Microsoft, Salesforce, and McKinsey challenge accounting firms to make one AI move in the next 90 days",
-        "publisher": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmY1alhlSi1sTTBhUUs1NHhKeXV0dEhRNkZpNEx3cTlaeEhLRTRXM3dJclhJVUI3c1J5YkdNb3lIaEY1UkxjV2diR2lKdVkzSnh1cmJJOUtrSGdaMk00ZjZmaVc1Rk9PVW5FV2dBRDFvdGowMW4wUjdDSU8xVTJtWXFBQlBuWUVlQ0RwRWtaSWxtVjdFdlhHUWk3aUxjUzNfLS1GZ0hWV055R1E?oc=5",
-        "why": "Leaders at Wolters Kluwer, Microsoft, Salesforce and McKinsey urge firms to act within 90 days, a useful talking point for interviews."
+        "id": "aef245183a4a",
+        "title": "Teaching The Next Generation of CPAs in the Age of AI",
+        "publisher": "The CPA Journal",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamFyeWlIdjBvWjNGMUJyaC03aVRCQzdmOC0wQzRxaEt0YXE4TkR5Sll1MXYtdGpiWVF4QVAwbU9yVGVvVmMzSDlXbU5VY2ZJRzNDRUtFTC1kM3VoaUhNWTAyd2YzS2MxQkFIbTh1dHdQZm0weF9mUHkyR2lQWllvX0NTYWZNOXI0MHJya0lsZTg2dHBiZWY0?oc=5",
+        "why": "Covers how CPA education is adapting to AI, which helps you see what skills to build as a new grad."
       }
     ]
   },
   "stories": [
+    {
+      "id": "7ceb9cc6be71",
+      "title": "Clark Launches Clerks\u2014Autonomous AI Audit Employees That Join a CPA Firm\u2019s Team",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOG9xUU9fYnlwdEdHdTJTZHpqZklESGtiODJmS2loS1RyV2JibW1WMDRoRmVvZ0ttNTE1SloySExSeVlwcXVXTUx1RzctU0N6bGVUUmlNMi1BQ1NXQkpPZmhoTUFDT0ZiNDM3WWRPMlV6MVMwQi02dk9fQldfVThsWkg1aDN4YURyODVmUzd6dkpxMXR6Znk3aUphM2FXSlRBZWxLWDhqdkZuVkpORnVfUTREQ1I2UnpFYV8tQWVhZU1TMFlCN2pzak41ZTg?oc=5",
+      "snippet": "Clark Launches Clerks\u2014Autonomous AI Audit Employees That Join a CPA Firm\u2019s Team CPA Practice Advisor",
+      "published": "2026-11-03T15:20:16+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "4636e9cfe5f9",
+      "title": "Tokenomics: How to control your firm's AI spending",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVpiLUk1VkRuRi1IdWw0VUtPc3FEUVE3bUZhZnRLMUw0OUZjekY5RGlnbUZ4VG5ubjdRQzZOQV9ZUkNubTdoYmxwZXlwUHpTUjhYT0tRY25ibG93Rjl1NWZlcU1hWnk3VjZUczc5TXBOZVZ1eGhtN2tMdjdjOFlQRzd5Q0o1bXhrdENtY24yWDNXVjIxd2hkdFk0dVBPWTc0bWRsdV93?oc=5",
+      "snippet": "Tokenomics: How to control your firm's AI spending Accounting Today",
+      "published": "2026-11-03T14:00:00+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "cdbca7f7ca30",
+      "title": "How AI-led transformation helped a major brewer grow",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nQ3lxYmlpTmlXSDJmcmhpbG1JbEF6UUlZazQ2ZEx2ZW5LVzUtbk90d0REeTBFRF83bDRjMUhLTm91SmRpUFVkT3A5bVA3cUhkUEtUbzY4bllsMXl3MTJ5WUwzUzRYNVZZc2c?oc=5",
+      "snippet": "How AI-led transformation helped a major brewer grow EY",
+      "published": "2026-11-03T12:29:26+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "60f04e896598",
+      "title": "Autonomous AI Auditors: Clark Launches Clerks to Automate Accounting Tasks",
+      "publisher": "Trend Hunter",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80cEVwTlR2RXl6Y3NkcjcyNGJTc1NFcVhjV0VXVHR5VFhELTlzaDhoRzBGTVJqaV9jZnlqcmJDU19nVV94eldrTTVKMjBGS01ueDd3Yk5MWmxYanhBdXgtSWVuTk52SW9L?oc=5",
+      "snippet": "Autonomous AI Auditors: Clark Launches Clerks to Automate Accounting Tasks Trend Hunter",
+      "published": "2026-11-03T12:04:34+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "d1988689b4de",
+      "title": "AI in financial services: why trust will determine success",
+      "publisher": "PwC Ireland",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMDZHcTV6YWRDLTVGRHBQRm9EbXlLV0pEMWZuTy1zY1pjYWVIVkJvOVIyRU95UVpaMFAycXNsZ0psWV94QWdpNXQtUVZEYllub3Vyb3NBRGpWM2FLdUw2cExRbVdtRUxsalJQcHdPNjlDS25KUHV2ZExUZEstdzlvSXFR?oc=5",
+      "snippet": "AI in financial services: why trust will determine success PwC Ireland",
+      "published": "2026-11-03T10:59:16+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "aef245183a4a",
+      "title": "Teaching The Next Generation of CPAs in the Age of AI",
+      "publisher": "The CPA Journal",
+      "seen_in": [
+        "AICPA",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamFyeWlIdjBvWjNGMUJyaC03aVRCQzdmOC0wQzRxaEt0YXE4TkR5Sll1MXYtdGpiWVF4QVAwbU9yVGVvVmMzSDlXbU5VY2ZJRzNDRUtFTC1kM3VoaUhNWTAyd2YzS2MxQkFIbTh1dHdQZm0weF9mUHkyR2lQWllvX0NTYWZNOXI0MHJya0lsZTg2dHBiZWY0?oc=5",
+      "snippet": "Teaching The Next Generation of CPAs in the Age of AI The CPA Journal",
+      "published": "2026-11-03T00:08:37+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "361045feb84d",
+      "title": "How agentic AI orchestrates restaurant operations",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1hVM0hUTE5mLTBwbGpnZ09HcWE3UVZveUxvVEwtaG1VbXNfb0J3LTFCNnR4SzZCRkNHUFBiZkdSd0dRUkhwQ1REV252UXZjVTJLOEwwWlBzcU0wZW11blhBQTBWWG4tMnBZUWNFb3BaRzBrM051d1RlbWRQVk1Nd3JwLW10ZVc0bjlyLTFQUUhhUnRNNW5ua294SkxtNVpIdFRZ?oc=5",
+      "snippet": "How agentic AI orchestrates restaurant operations PwC",
+      "published": "2026-11-02T22:43:18+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "2b8a39cb9266",
+      "title": "Shield Recognized for AI Communications Governance in 2026 Gartner Critical Capabilities Report",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYjIzeklJNHZWSTdCeURLc05BcWFUaVI3M2Vxd0IwTVhBaTZQYzNlb0JfSTA1SldrSGFmSFZUbjJqNG9Mak1GLTZSOHpTbV9TV2x2c1FyczRwMjNPUUkzRlN3VzJMLWpQQ3owV09yckhBc0VtY0F6eFFfUUNld2hud2lCdlVybV9tdHNiZFVFZ2UyXy12bmlNZ2RUZWdSMHhvOEJDdVpZSVdTYlNhTlh5ODd0dXNaMF92X1NNN3ByRC0wSUVIWVhJTXR1Q2hNTFBkY1FQeFVPalQwaG5YSHpTbVdUdw?oc=5",
+      "snippet": "Shield Recognized for AI Communications Governance in 2026 Gartner Critical Capabilities Report CPA Practice Advisor",
+      "published": "2026-11-02T21:21:54+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "bbd29ffe229d",
+      "title": "Aion Launches AI Agent for Business Finance, Banking, Payments, Cards & Credit",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzZGVTFiYzk0MTVURjl5LXh2ZUdEVDIxM2t4ZlJpR1JwRFcxd1dJS01XMnRCN0l2R0txRGY0TGQ4STAxVmN5Q1FRbTctMlRrcE9BdG1MY0h1bDF0cXowaVF0RWJiNlRKQkFXZmtkQ1FrN3dfMHJ4MXZFNzdJRjV1TmJHc09DWUczQm1sRmRzTVNLME9qRnBpeHhrZzRwZlpiQ0txa3FndVBBTDRIbDJ4QVZpVmhyXzJfdFpVdmp2WHFydG5HVVE?oc=5",
+      "snippet": "Aion Launches AI Agent for Business Finance, Banking, Payments, Cards & Credit CPA Practice Advisor",
+      "published": "2026-11-02T21:11:09+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "fcb2785af127",
+      "title": "AI Use Has Reached 90% in Internal Audit. Is Assurance Keeping Up?",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlZYWjdxNm93TU42M2lUZHh5QUpHcVBnNzE1ekUwZnowc1dBUGFTblhlRExTZlpPbnVxdzVfWDBOazJsWTFZQ2ZJYXJvNWU3RGNpbjM2M2tSb3BhQm1VdXpUaUZYM2ZOUTZsa1RrWDltZmJab2lsY0Y5OWxQTHUwaTRuVWVCS0J3OG4wSW56RzdzUFRIVVJFajhIcTFHeWRFVEtjN2NrdHBURG81cjdGU0J5SWNUTG1x?oc=5",
+      "snippet": "AI Use Has Reached 90% in Internal Audit. Is Assurance Keeping Up? CPA Practice Advisor",
+      "published": "2026-11-02T21:01:52+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "b68a19343355",
+      "title": "Security isn't the brake on your AI strategy; it's the accelerator",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXl5V2FaaDFjZFRxNG5kVzFPWE9rNnMtaUc0TWpwV2RHQVJDRGs2YXBrMWFmRm5RdGNLc3B6ZFBfNUN0SklPS01yNnRCT3RPZlJkd2VKQzBDNjlGVE41OGhVZ3JJLXJaUHlkbnZNTmRzdWN3Ui1hd0V5Uk5PVHo2b0lNNE1YUUxkNk1mY3FMalBJY1NZN3JCQi1xYnhPYkR5Y2tTQXhB?oc=5",
+      "snippet": "Security isn't the brake on your AI strategy; it's the accelerator PwC",
+      "published": "2026-11-02T20:53:49+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "400f3424d6be",
+      "title": "Your Next Client May Ask AI Who to Hire. Will It Recommend Your Firm?",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd2VhWjFUU2tZb3cyeHFOUEtxcmFGVERBYy1RcGFWbUwzdjYtQU42QVczOWxfU3ZIYlZYaFFia3VpTFBWdHlkRjI2bUgxZmppc0hmRi1oejVnTTBYci1BcmVJYUFZQ29HZW40SzYtaVE0dzZoay0yTXJYbkJmejZRMjhKOUhVN24xS0FRbkZ3VG40ZVplMzNyV0Jab20wWGZPZFVfREt3OVNTUmJwRGdsdHlXSzVua1JwWldrLVln?oc=5",
+      "snippet": "Your Next Client May Ask AI Who to Hire. Will It Recommend Your Firm? CPA Practice Advisor",
+      "published": "2026-11-02T19:49:30+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "f31749037a9e",
+      "title": "How to Get Breached, Step 5: Paste Client Data Into Any AI",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazdXRjVOajVvTW93YzhlOGVNd3ZVQm5odjN2aHJveXBIWmpFWnNQUkk3aVYwaWJxS1hrWFhPU2ZwOURiQ1hFUDJESmYyRk5USk4xcWdsYXZMNXZURHpzcS11a3dGNk1McHlVcXZvQy01TEJ1SGJ3cjNyZVhORnN5dm5tMGJDR0pDYTBkRXZKam5zVW5JT0s0WHc5bHNXcnYwbE9vRUxtVGh6U2lIT2RV?oc=5",
+      "snippet": "How to Get Breached, Step 5: Paste Client Data Into Any AI CPA Practice Advisor",
+      "published": "2026-11-02T18:19:06+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "bf9405805c83",
+      "title": "Clark Raises $11M Seed Round to Launch Autonomous AI Agents for Auditing",
+      "publisher": "citybiz",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmliNDBMQmZnZTc5UTN0QWkwcWNXNHpkUmhiN3k1a2N4eTN6ZXlselVrQ05OVEMwb2hIOVNOTG9KTThOeHc1NUF2MnN6NmdOMjZVZV9jdV81MkhjQ2xXV3BiRGYyRENCdXlPQlZwbUZpOFZMRmwtUzBLRmZpY2pqTkxUb19jd0tIaDc5emhUUWRGblBITXNibUw1eHZpc0l5SlJaU0hfRk0xeHBGS2Rv?oc=5",
+      "snippet": "Clark Raises $11M Seed Round to Launch Autonomous AI Agents for Auditing citybiz",
+      "published": "2026-11-02T18:17:18+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "50899cd9084a",
+      "title": "IRIS Expands Accountancy Portfolio with Launch of AI-Powered Document Management Solution",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMllneXpGVE5KMVotS0UwSDdBc3FIdDFQY1hlOTh5OFY0VEc3ejdOTXpXMlpPMWxfc0Z4amYzRkxsODVEZ2pGZjVnaFhpTDVvYkpBeWlnSVEtTHhvci1hMWxhTG9pd2pQVW9zQ3dSbWQ5dkhVNWRfRUhkMXg4RS1PSFA5aGNGNi1ZektUeEROZDVRZ2tKcGljcU55OENlam1KOFRGbFFrUk5uVFJZMXlobldvNV9nYXJrb2R2SHQzRHRHSlVwakVuTmlMMm9zaVF0YmpYTDhMX1Y0SFE?oc=5",
+      "snippet": "IRIS Expands Accountancy Portfolio with Launch of AI-Powered Document Management Solution CPA Practice Advisor",
+      "published": "2026-11-02T17:09:14+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "fc640599950d",
+      "title": "Clark Launches Autonomous AI Employees for Audit and Raises $11M Seed Round, Bringing Total Funding to $16M",
+      "publisher": "Yahoo Finance",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3o5WTgzYnpfakNhVk5OREp3UVVYXzlzaVpWMlNWN1VoNEJLTHhxSWZGUzNPTzBWYkROb3RxZXpNTjBhUWFZWVk3TU1HTXd6dEpwVVZUZm5oSUQtTnF6YjNHVk1ubEcwX1IwX1hpRHUydnRscDZSRGp1SUtoNG14QWRmUTF3RkF3WFpKYmNvTUxyOWNiM1VBM2xlZHlJa1ZnSFJDeg?oc=5",
+      "snippet": "Clark Launches Autonomous AI Employees for Audit and Raises $11M Seed Round, Bringing Total Funding to $16M Yahoo Finance",
+      "published": "2026-11-02T16:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
     {
       "id": "32b98f1168e2",
       "title": "Clark launches Clerks AI, an audit engagement team member",
@@ -104,6 +346,51 @@
         "Other"
       ],
       "first_seen": "2026-11-01T15:23:50.004853+00:00"
+    },
+    {
+      "id": "238c7fb4c39d",
+      "title": "Tata Motors appoints Deloitte for Iveco audit alignment",
+      "publisher": "Multibagg AI",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTNIMUp5VG9zNjZtWEVjQlE4S3lVLTkySkFTaUhkaGZyUWgyZGFiS3FfRDJvR1RjYURMUU5fUk44RkdhWjVsWEJHVWQ4Snl1RmswWUR6TXE5VmdDNWp0SGtrREliTWlob1V6azRFbHIwV3BEWVh2bDk5eFpiR0RyU2FvMVdzaG1nbE9GLTFvVncxRVdYMUdkT1BTTnNBdXBDYTVpUmU1TlJac2JxTE1sdXgyalI3ZWpKbEtz?oc=5",
+      "snippet": "Tata Motors appoints Deloitte for Iveco audit alignment Multibagg AI",
+      "published": "2026-10-31T09:07:47+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "50547307ed5f",
+      "title": "Quess auditor keeps qualified conclusion on tax deductions",
+      "publisher": "Multibagg AI",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdjdBMmhIa2ZLNjI5b3NQVlFmMzRlSEdKbU5XaVBfQXF4RTdDeklGWHJYNFowR3VqeUR3SzFnd1gyN1I0TEpCWU5icWUzWDBUR3ZWZVJwV3RJYVNWTlB0R2o0a2toaDBVN3JpLXY3V05uOV9Qb3I2MzlyZzlPbWoxQkhzeWU1MzlCV1A2dEhFdjdrQmU3bFMyYi1EMTBoTHEtMkdTaGtuYVNUMkdQeTdYUmNYemlfaEZBQ01VejJpTi1GUE9M?oc=5",
+      "snippet": "Quess auditor keeps qualified conclusion on tax deductions Multibagg AI",
+      "published": "2026-10-31T00:29:10+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "006360b9ef79",
+      "title": "Deloitte wins AI leadership honor and ninth straight ITR technology award",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmo2cE9Db1FMRC03RU9fYmJZbjdIVHNKME9fNkJNSmJVUXc5WmxFbDlpaEtQYUN4c0t1U0d0RnFLYWd5VnI0LWZDb3VTNGRweEI5eHNYWHhuLWlhRUcxdFNrRHlqeXEyS1JWR3hLTGxsZGlSb1BrMWJJdllFTzhlYWpKdUdSR2tQTWNCQ1ktNGRZdTVaQzUtMVF6SjdfR1gyS0hWSF9TbFFCdw?oc=5",
+      "snippet": "Deloitte wins AI leadership honor and ninth straight ITR technology award Deloitte",
+      "published": "2026-10-30T22:39:54+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-03T15:35:19.510683+00:00"
     },
     {
       "id": "a30015cbfc3e",
@@ -233,7 +520,8 @@
       "title": "Microsoft Touts New Accounting Capabilities for Copilot",
       "publisher": "CPA Practice Advisor",
       "seen_in": [
-        "CPA Practice Advisor"
+        "CPA Practice Advisor",
+        "AICPA"
       ],
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGd3bC04QWtHN3UzZnpOdnE3ZjhZdWl3MVVmQXVmTDV4bkpkVUJCU3cwektFczdEenoteklwaFJ1alFuaGhnWnZGOGNZNjBnT3paZ1I1RVQtSDZ1cmlreEpHRGtDSlBWSHNVNi1MVEtac2FEZWYzbkV0Ul9QUEVvQnFTYlVSMGRaRGVkX0t2bkRfSUE3b2tfX00yWlpDaTBacTVXU2FYYndKVkh3?oc=5",
       "snippet": "Microsoft Touts New Accounting Capabilities for Copilot CPA Practice Advisor",
