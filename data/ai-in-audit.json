@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-03T15:35:19.510683+00:00",
+  "updated": "2026-11-04T15:43:29.484728+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,154 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Autonomous AI agents are arriving in audit work, and the debate is shifting to oversight, cost and training. Where AI is used matters, but so does proving the work can be trusted.",
+    "quick_take": "Big Four firms are leaning hard into AI revenue and trust messaging, while audit and risk teams warn that AI and cyber risks are growing faster than their capacity to handle them.",
     "standouts": [
       {
-        "id": "7ceb9cc6be71",
-        "title": "Clark Launches Clerks\u2014Autonomous AI Audit Employees That Join a CPA Firm\u2019s Team",
-        "publisher": "CPA Practice Advisor",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOG9xUU9fYnlwdEdHdTJTZHpqZklESGtiODJmS2loS1RyV2JibW1WMDRoRmVvZ0ttNTE1SloySExSeVlwcXVXTUx1RzctU0N6bGVUUmlNMi1BQ1NXQkpPZmhoTUFDT0ZiNDM3WWRPMlV6MVMwQi02dk9fQldfVThsWkg1aDN4YURyODVmUzd6dkpxMXR6Znk3aUphM2FXSlRBZWxLWDhqdkZuVkpORnVfUTREQ1I2UnpFYV8tQWVhZU1TMFlCN2pzak41ZTg?oc=5",
-        "why": "Clark's autonomous AI 'Clerks' join CPA firm teams, which could reshape the entry-level audit tasks you'd normally start with."
+        "id": "8b2b0ac3b743",
+        "title": "EY UK's AI and data sales rose 46% while total fees rose 2%",
+        "publisher": "MarketScale",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclVycVZUdnA0R2h6MG1DUzNIbnBZQlc1T2VPQ2dlUG5ac0pidVVyX0s1VGtXUndmX1dZeXlmb0lTVmlXdWRLUklxaVNSVHVGRzZtdVVaclliYmxrV05objg5c3BRbXhOY3RMb0EwYkxZOHpIWUw0SWxQd1JnY0RERl91VWdjVHNUbmNBdEs5Z3BRV0lURkYxMzVTU2RLQzVDa2RRTWdqUE1BcVRtTmJraXVkbw?oc=5",
+        "why": "EY UK's AI and data sales rose 46% while total fees rose 2%, showing where firm growth is heading and what to mention in interviews."
       },
       {
-        "id": "fcb2785af127",
-        "title": "AI Use Has Reached 90% in Internal Audit. Is Assurance Keeping Up?",
-        "publisher": "CPA Practice Advisor",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlZYWjdxNm93TU42M2lUZHh5QUpHcVBnNzE1ekUwZnowc1dBUGFTblhlRExTZlpPbnVxdzVfWDBOazJsWTFZQ2ZJYXJvNWU3RGNpbjM2M2tSb3BhQm1VdXpUaUZYM2ZOUTZsa1RrWDltZmJab2lsY0Y5OWxQTHUwaTRuVWVCS0J3OG4wSW56RzdzUFRIVVJFajhIcTFHeWRFVEtjN2NrdHBURG81cjdGU0J5SWNUTG1x?oc=5",
-        "why": "AI use hit 90% in internal audit, but assurance may lag; this gap is a useful talking point for interviews."
+        "id": "fd45b722779b",
+        "title": "Internal Audit Budgets Rise, but Cyber & AI Risks Outpace Function\u2019s Capacity",
+        "publisher": "Corporate Compliance Insights",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Vm9BbFM4cTFkU0FROEFzTEpyd3lBNmtxRWk4Uml6N1hSckZhNGpBNDNZLW9pTjVoN3FyVXhNX09Od0hRSVVFWjkxQ2lxYnZ0c0s1b2lwYmhhUGxOaUtXeW1kZnpPbjhONDZTcnBQV01EU1MxWUp0cFkxWnRDdw?oc=5",
+        "why": "Internal audit budgets are rising, but AI and cyber risks are outpacing capacity, which points to demand for auditors with AI risk and controls skills."
       },
       {
-        "id": "aef245183a4a",
-        "title": "Teaching The Next Generation of CPAs in the Age of AI",
-        "publisher": "The CPA Journal",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamFyeWlIdjBvWjNGMUJyaC03aVRCQzdmOC0wQzRxaEt0YXE4TkR5Sll1MXYtdGpiWVF4QVAwbU9yVGVvVmMzSDlXbU5VY2ZJRzNDRUtFTC1kM3VoaUhNWTAyd2YzS2MxQkFIbTh1dHdQZm0weF9mUHkyR2lQWllvX0NTYWZNOXI0MHJya0lsZTg2dHBiZWY0?oc=5",
-        "why": "Covers how CPA education is adapting to AI, which helps you see what skills to build as a new grad."
+        "id": "e5366362e3c6",
+        "title": "Accounting got there first: The blueprint for AI verification",
+        "publisher": "Accounting Today",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUFYQ09SdXhJd3VlT2NFSlJwNXktSHNDLW9LMTE5WE91WW1jTVI3c1lVVUI0emVCMVN4cjBRV0hoZWstM2g1VjNPNXdGeERvMTF4Z2hfUXhaVzZLQkZXREtpeVBSc3ktY3dNX0FTMEU0bkhYTk5zZkFJZ0x0YVFaTTJJM3JVZ2ZFWmVDb1FGdmtfY3hOQkVtN05PZTFUZ0hPU2c?oc=5",
+        "why": "This piece frames accounting as the blueprint for verifying AI, which suggests assurance and verification skills will matter for your career."
       }
     ]
   },
   "stories": [
+    {
+      "id": "e5366362e3c6",
+      "title": "Accounting got there first: The blueprint for AI verification",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUFYQ09SdXhJd3VlT2NFSlJwNXktSHNDLW9LMTE5WE91WW1jTVI3c1lVVUI0emVCMVN4cjBRV0hoZWstM2g1VjNPNXdGeERvMTF4Z2hfUXhaVzZLQkZXREtpeVBSc3ktY3dNX0FTMEU0bkhYTk5zZkFJZ0x0YVFaTTJJM3JVZ2ZFWmVDb1FGdmtfY3hOQkVtN05PZTFUZ0hPU2c?oc=5",
+      "snippet": "Accounting got there first: The blueprint for AI verification Accounting Today",
+      "published": "2026-11-04T14:00:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
+    {
+      "id": "a60ff96cb931",
+      "title": "Tokenomics: Helping clients manage rising AI prices",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQU5MYnBqQmJDNVBBZjJnaEVOd2dwYkNaVGktNTZPY2Z3LVdVREduY1NHVy1DWUVRdHNPbHhvb1JQemNjN0x4enpIclZVZy1fVGlUTUg4VEloUWwxN05heGVLMWtWUUdlWVJEV0tlcE5TOTd6Y2ZRVG5wTXE2RDRQaUt5MWpKcTZqa19RdkxxSEM?oc=5",
+      "snippet": "Tokenomics: Helping clients manage rising AI prices Accounting Today",
+      "published": "2026-11-04T14:00:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
+    {
+      "id": "8b2b0ac3b743",
+      "title": "EY UK's AI and data sales rose 46% while total fees rose 2%",
+      "publisher": "MarketScale",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclVycVZUdnA0R2h6MG1DUzNIbnBZQlc1T2VPQ2dlUG5ac0pidVVyX0s1VGtXUndmX1dZeXlmb0lTVmlXdWRLUklxaVNSVHVGRzZtdVVaclliYmxrV05objg5c3BRbXhOY3RMb0EwYkxZOHpIWUw0SWxQd1JnY0RERl91VWdjVHNUbmNBdEs5Z3BRV0lURkYxMzVTU2RLQzVDa2RRTWdqUE1BcVRtTmJraXVkbw?oc=5",
+      "snippet": "EY UK's AI and data sales rose 46% while total fees rose 2% MarketScale",
+      "published": "2026-11-04T11:52:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
+    {
+      "id": "86e084c2ea36",
+      "title": "Building confidence in AI",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDV3Um9NUVRGS21GeFJDTGJfVGVmWDhhQkZBZUxHaDBpaW1GU3ZNSkNSal9HQVZDNXBFMlBJeTZhOElqZHREaEFucUR5X0QxYkwxeDB3RmlERmlzZTZscDRyYmR4a2t2b0QxVWo5MFVPZTFiNG5JM01KR0RlbEZtbDNZOGVpSFIyZUdoXw?oc=5",
+      "snippet": "Building confidence in AI kpmg.com",
+      "published": "2026-11-04T01:48:20+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
+    {
+      "id": "776ce8d32e14",
+      "title": "Look beyond AI headlines to limit credential exposure",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnI3ZkJJMGdTYTUzV01wVHA1RHRiOVJfSW5EQnNmbkJlMGVEbHZ2c0RxVGhkNVpNSThDMjhDcDNJX0xHS1NBdkdDTVhGaXRBVnhNNGh6cXdNRS0xeXg4b1dpZU94aUd3bjdLdzQ3dFFpNktjSk84X0dQc2xOV1F4cW5LZkZiMHBDbzVxYU42QlJZaU1qUG5xT2dBWERtUHpCcG11cExPc2VxQTlqSk9lX1Nn?oc=5",
+      "snippet": "Look beyond AI headlines to limit credential exposure PwC",
+      "published": "2026-11-03T18:51:53+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
+    {
+      "id": "a6a1c474da2f",
+      "title": "Intuit Connect 2026: AI Agents, a New Partner Program, and a Unified Platform Take Center Stage",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV0NzYmxnUHlPMTVyWXJxWER6MS10SHZITUREaWdyNXUwSWVPRTV1ZWNyZGw0M0VMZXIzLV9rTk45LWVwLTdSdzJSQUVOWGt0ODZqTjBxa29Cd21tWTJOTWZsX2x1TFRZSlg2QzZOcG1fb0JaZlhTa1FSVzFXUkotejdYeUdKSkh5UUY0dmVRZ3U5bEdrWTZCSUMwMmFnRDRnZDhIUWoyc25Bd3JmMmlOQjZlVTFRMndVRG9jenJjMHlCbDlpU2djQ1htWnNMRVdxcmFiemkzeHRYNVFQc2Zv?oc=5",
+      "snippet": "Intuit Connect 2026: AI Agents, a New Partner Program, and a Unified Platform Take Center Stage CPA Practice Advisor",
+      "published": "2026-11-03T18:25:13+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
+    {
+      "id": "2e502eaff4f5",
+      "title": "Canopy Reveals General Availability of AI Tax Workflow Automation",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM1JaZE45SEtHNVc5ZkdPMVl4Tlg3bGdIUC1ranRnV2xLN09YLTdSb1pxeFJ3MVVYRUlNTmVZWXNrbkhoMmtGT3dHRlB6MkVsQ2JkTmt4VjhjMzhhbUswV1pDdkhDdXJsZWVkeHZ2aE8xUzNlLU1reDBmX2tObXpYNXluWm5HaFFRMTJRVURqbnpRaDYyc1JLeVRDUHFPWXBOZnJ3eHZkWUpIeXNzR3YxQUVEVzkxMEwyMW9v?oc=5",
+      "snippet": "Canopy Reveals General Availability of AI Tax Workflow Automation CPA Practice Advisor",
+      "published": "2026-11-03T17:00:35+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
+    {
+      "id": "d586d4519098",
+      "title": "Levvy Announces New Connection to Claude and ChatGPT",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWFaTVRjbXZrTWdhUEhjZk5fTDNCQk1ac3JwRTEwNUZQUVRjTWVxb0Y2ZG8teEFidUt6QW9YVWZGU2luaktyRUJjdk10b1hRVlNOVmRRczNCbHJZbWpOdkZqaGdBaFpveU5zVEpkUWJyRl9jdWE5c29pS3FnZWluamlkQjBmb2JUVFIxcUszNmR1Ui1kMFJhSnZvMGowbmlTblZaZ1RsdGpYdw?oc=5",
+      "snippet": "Levvy Announces New Connection to Claude and ChatGPT CPA Practice Advisor",
+      "published": "2026-11-03T16:29:49+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
     {
       "id": "7ceb9cc6be71",
       "title": "Clark Launches Clerks\u2014Autonomous AI Audit Employees That Join a CPA Firm\u2019s Team",
@@ -111,6 +233,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "c0194f1cd1d9",
+      "title": "Making physical AI safe, secure and scalable",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0FWQmItMnZ4bF9vdmdyTnpORGZuV0VHVzFRWUluRHFoSm5SMGs5QXI1QmFoTENFajF4WWtzX2hycV8yUk5FRlJmLUJBdzlwdzVGOWsxU1NoTTZidHBTbm5zQlVwbW1LOHI2OUJlRmpINGpLczhoTUJYZnQwazI0UF9kazU4bzRiWG51el96eHZlc3NxMDAxTDFrdlhmQ0dFX0doQlZQWjA?oc=5",
+      "snippet": "Making physical AI safe, secure and scalable EY",
+      "published": "2026-11-03T10:26:40+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
     },
     {
       "id": "aef245183a4a",
@@ -311,6 +448,21 @@
       "first_seen": "2026-11-02T15:45:55.754325+00:00"
     },
     {
+      "id": "4433996ef695",
+      "title": "The AI-disrupted supply chain organization",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVpkOGszVVNXaXNCQjV4bEdhaWw4YlNWM05ldlliRVk3ME1LMkkySjV3b3FmZWFqeW9YcVA4WEp4STNidkRhbnpkVEFScE1ZUE84M3hfYUU3cEkzMGxpdFhCdWpvMmlDLVhiclQtWEE2d2pfblgxOHpwUzNPMFY1RFRoNmNmTWhGQzBmMmZQZEsyMmFXNVVNckQ5SHM4OFU?oc=5",
+      "snippet": "The AI-disrupted supply chain organization Deloitte",
+      "published": "2026-11-02T08:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
+    {
       "id": "21db495f4f10",
       "title": "How CPAs are putting AI to work in audits",
       "publisher": "Journal of Accountancy",
@@ -361,6 +513,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "1c90f05ae17b",
+      "title": "Tata Motors Limited Plans Deloitte Auditor Appointment From FY28",
+      "publisher": "Multibagg AI",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdm5RNFBFWnRCQjFKQzVoRTRmTkd0eHV4UkQ4Q3pqZk1IQTBxN2Q4ME5ib3JwM3ZqYTVBejNreGZqREwtaHNSbTJ2QVoxdGRuNW1BYkVUVzN2TUo2bmJVYmVMUHJLeHppOFlDVXN2cEFGY1FyOUp4SHJnbUZPR1VYVXFrZzd0ZnlQYkNiS1pQMGN1MUNaVEU0T1AyN2tPVGU3LTcxZi00UU9YQQ?oc=5",
+      "snippet": "Tata Motors Limited Plans Deloitte Auditor Appointment From FY28 Multibagg AI",
+      "published": "2026-10-31T09:05:44+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
     },
     {
       "id": "50547307ed5f",
@@ -546,6 +713,21 @@
         "Other"
       ],
       "first_seen": "2026-10-30T14:48:49.018471+00:00"
+    },
+    {
+      "id": "b5f8283a69ce",
+      "title": "Your AI agents are getting cheaper. Your business might not be.",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb1M1UTB3ZDNLSUhWTkgtMm1MdWhPdHlmTVZxeUZyb0l6ZWNrbnQ5bmoxQWVGUnpFQThUUjhIeVoya0YzN3haVVM3ak5WOW00LVNfQ3dIX3J4MXpIaDZYSUVJNmFLbl9UZW0wYXV1N2duV2VEZHhWQWdYWnpZTHBjdGNtS3drZEJZQVhnWG9uYVVWSVh6M2hSZVZYcC04dGhLajlLY0hUODJFSjdRTENCZHVjcmhvcjFLWUc0cGlBVzEzOHpGV2ZFc0Vn?oc=5",
+      "snippet": "Your AI agents are getting cheaper. Your business might not be. Deloitte",
+      "published": "2026-10-30T12:43:35+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
     },
     {
       "id": "7a1f022de8f1",
@@ -748,6 +930,21 @@
         "Other"
       ],
       "first_seen": "2026-11-02T15:45:55.754325+00:00"
+    },
+    {
+      "id": "fd45b722779b",
+      "title": "Internal Audit Budgets Rise, but Cyber & AI Risks Outpace Function\u2019s Capacity",
+      "publisher": "Corporate Compliance Insights",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Vm9BbFM4cTFkU0FROEFzTEpyd3lBNmtxRWk4Uml6N1hSckZhNGpBNDNZLW9pTjVoN3FyVXhNX09Od0hRSVVFWjkxQ2lxYnZ0c0s1b2lwYmhhUGxOaUtXeW1kZnpPbjhONDZTcnBQV01EU1MxWUp0cFkxWnRDdw?oc=5",
+      "snippet": "Internal Audit Budgets Rise, but Cyber & AI Risks Outpace Function\u2019s Capacity Corporate Compliance Insights",
+      "published": "2026-10-29T14:14:11+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-04T15:43:29.484728+00:00"
     },
     {
       "id": "efb414a57632",
