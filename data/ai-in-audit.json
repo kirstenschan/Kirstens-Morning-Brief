@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-04T15:43:29.484728+00:00",
+  "updated": "2026-11-05T15:46:59.050312+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,189 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Big Four firms are leaning hard into AI revenue and trust messaging, while audit and risk teams warn that AI and cyber risks are growing faster than their capacity to handle them.",
+    "quick_take": "Big firms are pushing AI deeper into audit work, startups are pitching autonomous AI auditors, and talent pipelines are already shifting. Expect AI fluency to come up in interviews.",
     "standouts": [
       {
-        "id": "8b2b0ac3b743",
-        "title": "EY UK's AI and data sales rose 46% while total fees rose 2%",
-        "publisher": "MarketScale",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclVycVZUdnA0R2h6MG1DUzNIbnBZQlc1T2VPQ2dlUG5ac0pidVVyX0s1VGtXUndmX1dZeXlmb0lTVmlXdWRLUklxaVNSVHVGRzZtdVVaclliYmxrV05objg5c3BRbXhOY3RMb0EwYkxZOHpIWUw0SWxQd1JnY0RERl91VWdjVHNUbmNBdEs5Z3BRV0lURkYxMzVTU2RLQzVDa2RRTWdqUE1BcVRtTmJraXVkbw?oc=5",
-        "why": "EY UK's AI and data sales rose 46% while total fees rose 2%, showing where firm growth is heading and what to mention in interviews."
+        "id": "feef96707ecb",
+        "title": "KPMG Tests Advanced AI on Private Company Audit Clients First",
+        "publisher": "Bloomberg Tax",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnFYclk1R0gwYnBuMU5vMnVwYlhwR2o3SzVVbjZYckFyWVJoMndzQVpheU1lNG1wOXBxaTM5UFU3dVhUS2pyV0o4SWY1dWk5SWZZdEMwXzc5NHdvaWx4NnlTaEltcHU3UXVIWWVKTXdoRVVBYmhyS0hSbExTbjd3Y3ptZl9PWWRxU3ZpNHZ1RnpPaWJHSlBIMWpTcEJfZUNwRHdYaE1TTmlCUFJpQTBhOXV3?oc=5",
+        "why": "KPMG is testing advanced AI on private company audit clients first, showing where AI is entering real engagements you may staff."
       },
       {
-        "id": "fd45b722779b",
-        "title": "Internal Audit Budgets Rise, but Cyber & AI Risks Outpace Function\u2019s Capacity",
-        "publisher": "Corporate Compliance Insights",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Vm9BbFM4cTFkU0FROEFzTEpyd3lBNmtxRWk4Uml6N1hSckZhNGpBNDNZLW9pTjVoN3FyVXhNX09Od0hRSVVFWjkxQ2lxYnZ0c0s1b2lwYmhhUGxOaUtXeW1kZnpPbjhONDZTcnBQV01EU1MxWUp0cFkxWnRDdw?oc=5",
-        "why": "Internal audit budgets are rising, but AI and cyber risks are outpacing capacity, which points to demand for auditors with AI risk and controls skills."
+        "id": "50727ce23551",
+        "title": "How EY is tackling next-gen talent in the AI age",
+        "publisher": "CFO Dive",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM0NqbXB0QjYwYkRVLXNKbTR6VE5TWmR4RXlyczhJUEgxd09BWFN3MFg3MGFKaXhrd0ZuU0FlaC1JM3Rmc3dzcFRsQVM2OVg4NUZqbkJ2WUZRMV9fcVpyNk96N1NvYm93LXZkNHpWOF96c0ppMk5mZ05HV1NtMzFKWllReFVjdGxKUmc?oc=5",
+        "why": "EY's approach to next-gen talent in the AI age hints at how entry-level training and roles are being redesigned at a Big Four firm."
       },
       {
-        "id": "e5366362e3c6",
-        "title": "Accounting got there first: The blueprint for AI verification",
-        "publisher": "Accounting Today",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUFYQ09SdXhJd3VlT2NFSlJwNXktSHNDLW9LMTE5WE91WW1jTVI3c1lVVUI0emVCMVN4cjBRV0hoZWstM2g1VjNPNXdGeERvMTF4Z2hfUXhaVzZLQkZXREtpeVBSc3ktY3dNX0FTMEU0bkhYTk5zZkFJZ0x0YVFaTTJJM3JVZ2ZFWmVDb1FGdmtfY3hOQkVtN05PZTFUZ0hPU2c?oc=5",
-        "why": "This piece frames accounting as the blueprint for verifying AI, which suggests assurance and verification skills will matter for your career."
+        "id": "8fb84ffc27ac",
+        "title": "Clark Raises $11 Million Seed Round Led By Touring Capital And Launches Autonomous AI Audit Employees",
+        "publisher": "Pulse 2.0",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlYxV2VTNEp5LXFZU3M3bUR4Y2t2U1VyQ3V5em5iNEk4TERtMWg5QXFCMG1DWmVoc2FYcllGdXRSY0hSRkdtLTY2aGpwdHJkQ1ZXaE0wbHZvWTdOcGROVmxTRG81NnppRmktMFZyV3k1VV9fRzVKczBlVEFScGVvWUx3cVp4Y2RqTDVPdnRUVHpaTGdfQXpDazZXMVRWRmVJTVR4eERYQnFPUC1qcVFkT04tSGhOVFBtQ0xvMQ?oc=5",
+        "why": "Clark's autonomous AI audit employees show tools aimed at junior-level tasks, so you should build review and judgment skills."
       }
     ]
   },
   "stories": [
+    {
+      "id": "15c607cdd93f",
+      "title": "Boomer's Blueprint: The agentic workforce is an org design problem",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEhXVTloWHVtZExmZGdxcktCVHZEUkY5bzRwSFc0cGhETk44dW01bGY1aGJHQXhId2dLb3k2QU43UlJLRkhwVXdGYTgwUW5JdVVCV3RzTERWbUJ5RVRfVTFtamVQbjRUaWdGVkwzWmgwUU1OTklvTkduZ1BKWXJDdlBrUE9Qa3lGNW9NQUpER3NrYmtYTUN5ekJlOTIwcC1MZWJfUFNwUQ?oc=5",
+      "snippet": "Boomer's Blueprint: The agentic workforce is an org design problem Accounting Today",
+      "published": "2026-11-05T14:00:00+00:00",
+      "themes": [
+        "Firm tools",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "2f12e6ae00fb",
+      "title": "Technology was the easy part: six lessons from bringing AI to banking clients",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1JZcHJKNUM0dTVxSnY3azBtNzJSdXNvSWtCWmo1UkZRWWpSN1pFRmduNHd1NFRyQ1M5SmdrX0RFZWx4SWphbExQLWx0VFkyQTlIek1vQTZlTzF4VFo1bnRFNFJ5YWJjS1djVEF4aVdIRkRxb3A1SDM5WnpJSVdnbWxVS3loMnBMQ3ZISzlEM192cFVOcnNwYThGNkc4Z2V4M21OUw?oc=5",
+      "snippet": "Technology was the easy part: six lessons from bringing AI to banking clients Deloitte",
+      "published": "2026-11-05T12:05:23+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "61226def3ae7",
+      "title": "MindBridge and Validis Partner to Automate Financial Data Collection for AI Audit Risk Analysis",
+      "publisher": "FF News",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBbmhDb3AxOFlmRUJRYjhpMWFDRXlqUkQ1ZUJXTENPRE1wdU9WeVhTa2NXbTJQclktSlJHMVItYldMUHYzYVc0U1MtTnUxSjhuZmtxZTZtQVFYZngtLXJWcUhfbw?oc=5",
+      "snippet": "MindBridge and Validis Partner to Automate Financial Data Collection for AI Audit Risk Analysis FF News",
+      "published": "2026-11-05T12:02:10+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "feef96707ecb",
+      "title": "KPMG Tests Advanced AI on Private Company Audit Clients First",
+      "publisher": "Bloomberg Tax",
+      "seen_in": [
+        "KPMG",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnFYclk1R0gwYnBuMU5vMnVwYlhwR2o3SzVVbjZYckFyWVJoMndzQVpheU1lNG1wOXBxaTM5UFU3dVhUS2pyV0o4SWY1dWk5SWZZdEMwXzc5NHdvaWx4NnlTaEltcHU3UXVIWWVKTXdoRVVBYmhyS0hSbExTbjd3Y3ptZl9PWWRxU3ZpNHZ1RnpPaWJHSlBIMWpTcEJfZUNwRHdYaE1TTmlCUFJpQTBhOXV3?oc=5",
+      "snippet": "KPMG Tests Advanced AI on Private Company Audit Clients First Bloomberg Tax",
+      "published": "2026-11-05T09:45:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "2a0719685002",
+      "title": "South Korea's Accounting Association Calls for Cutting CPA Intake to 850-1,000 a Year, Citing AI and Hiring Pullback",
+      "publisher": "BigGo Finance",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80V2lPNUxaV3VqN0pBMDRRejFFa3lOemFRMlZCd2dnZUdMcmZSc09hTjdkVmxJcjZfMjFUamJBbVB0cnBfd1hRSExpdGRvdTB0MDBQOS1SUUUtRFY5a1F6MmhBeTV5NlJaNWowbFJrYkNKN1BWcWc?oc=5",
+      "snippet": "South Korea's Accounting Association Calls for Cutting CPA Intake to 850-1,000 a Year, Citing AI and Hiring Pullback BigGo Finance",
+      "published": "2026-11-05T09:35:00+00:00",
+      "themes": [
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "b2d8f50a1c50",
+      "title": "Korea accounting bodies urge cutting CPA intake to 850\u20131,000 amid AI shift",
+      "publisher": "Chosunbiz",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR1hXS1pEUFMzYmxzcHBiMC1LZW5wdG1yWkdFQ2I2cW5GYi0yRkJxY19ZcWRmbW9sTm42R0g2U0xCbkxURG9aWHg3cWVxU25HT24xQXR5MnNldFJrWmRZbTUxNUplbmltdG9OaWpTYThLeWZyalAxdEhmLTRmUTA3ctIBlAFBVV95cUxPbThmd24yQzgtZmNyQTRNbkVfcEhWaEk3MFpxOTNIM2VIU3J0OURqRk8xWDdWa2NxYlN6Ymw4b0hGUXFQM0FmeExMTDR4WEZweHZsQlBOMkU3dzZWMGhZalgxY3B5bmpVbkxDUENuZWZlRDZQREdxU3l6X2ZXV0VrXzlQbk0wYXFMV3RQV21RUDB1bUJW?oc=5",
+      "snippet": "Korea accounting bodies urge cutting CPA intake to 850\u20131,000 amid AI shift Chosunbiz",
+      "published": "2026-11-05T08:32:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "bbaa30e07bb9",
+      "title": "Vi Launches Vi Intelligence Lab With PwC India for Agentic AI",
+      "publisher": "Elets CIO",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTZieWJaalBESFFtVmZNMFZsaWZYMUF0RFFMbkV5c2g0WkpmcXpjY3pQekhCQ2pEcnljUllQV0VTVHI0aGQtMVJQQlkzc25hQzhBNkdhUWFnVFhyUzFLbFhia2NfUUZFWThvdUNFaUU5SFo3d0RZTzVCMGtxdjlvTWFtT3ZibS1rQkNKS1d1VGxpd3c?oc=5",
+      "snippet": "Vi Launches Vi Intelligence Lab With PwC India for Agentic AI Elets CIO",
+      "published": "2026-11-05T07:38:02+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "50727ce23551",
+      "title": "How EY is tackling next-gen talent in the AI age",
+      "publisher": "CFO Dive",
+      "seen_in": [
+        "EY",
+        "CFO Dive",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM0NqbXB0QjYwYkRVLXNKbTR6VE5TWmR4RXlyczhJUEgxd09BWFN3MFg3MGFKaXhrd0ZuU0FlaC1JM3Rmc3dzcFRsQVM2OVg4NUZqbkJ2WUZRMV9fcVpyNk96N1NvYm93LXZkNHpWOF96c0ppMk5mZ05HV1NtMzFKWllReFVjdGxKUmc?oc=5",
+      "snippet": "How EY is tackling next-gen talent in the AI age CFO Dive",
+      "published": "2026-11-04T21:27:31+00:00",
+      "themes": [
+        "Firm tools",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "57bab2555419",
+      "title": "QX TaxReady combines AI and humans to manage tax prep for firms",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLS1jcllLSi13Z21Cak0zb2ZmVTFrUDBhTnFaUWVXTjducGMwZkpfNHpiSUxnMUJwMTZEZU9ic0Z0bUI4dUcyWG5nU1JMeHRGbHNya2gzWE92TVFqWVRuTGFkOU8xb3lWeGtIaTlVMW5yNVVqOUNueF9JeGlBbEdBSFZiTXNFNFdMdXB4Q2FHcjVaMlYzQnlfdHNfSU9JeTRIdGc?oc=5",
+      "snippet": "QX TaxReady combines AI and humans to manage tax prep for firms Accounting Today",
+      "published": "2026-11-04T19:53:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "b60ed1a91bb8",
+      "title": "Are you getting enough cyber security for your AI strategy?",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWFHcUJkNy1SSTNQY0VpajJra3A1UlpEMDdwbkdiV0tDcGpRRS1lOXBzc2xieTJaNW1pOXpOYTY5QlpPaG1mZjFpczB5Z19jMjhiRXRxdWt3VExSaGZuN1hnZHdZRU81NDMtaGMxLXRFS3d1bWNYYXV3Z21BbmktdzRTZ096cUFNcTZ5bEIxNFZldEttX0lCNFdSTExra2RCQzZ3VEcwN3U1Y25ubGRxYzJxOTh4Wkti?oc=5",
+      "snippet": "Are you getting enough cyber security for your AI strategy? kpmg.com",
+      "published": "2026-11-04T18:41:15+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
     {
       "id": "e5366362e3c6",
       "title": "Accounting got there first: The blueprint for AI verification",
@@ -57,7 +214,8 @@
       "title": "Tokenomics: Helping clients manage rising AI prices",
       "publisher": "Accounting Today",
       "seen_in": [
-        "Accounting Today"
+        "Accounting Today",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQU5MYnBqQmJDNVBBZjJnaEVOd2dwYkNaVGktNTZPY2Z3LVdVREduY1NHVy1DWUVRdHNPbHhvb1JQemNjN0x4enpIclZVZy1fVGlUTUg4VEloUWwxN05heGVLMWtWUUdlWVJEV0tlcE5TOTd6Y2ZRVG5wTXE2RDRQaUt5MWpKcTZqa19RdkxxSEM?oc=5",
       "snippet": "Tokenomics: Helping clients manage rising AI prices Accounting Today",
@@ -66,6 +224,36 @@
         "Other"
       ],
       "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
+    {
+      "id": "4fa879d4cb0e",
+      "title": "AI trust gap reveals distinct retail priorities: Divergent paths to consumer growth in Hong Kong and the GBA",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObGp6MVBEMTR3eVg3d2lvSXBSbWZYY1gtbk1CMURGZ2pkem9GRndQTlVTT3NsNHJ6OGl2czlVR19YZ2E0NWFsdFVzeVA3RGZvTGMycEpYUFlOU2VuUWVYZ3ZwZWtuNEhlS3Vlal9FSENtYVM3RGJ0NGRENFlGaklHUUFfTVJabzdnSGhkQkdXcEpZTkwxTnN2dTM2aFZXSml4RVRYd1hGZ1A2VGxfa2tnYV80SGZXZUlIc0VfMkpXYWVMYWJQUWtveC1KZVVnekZlMzBRM2p1OE4tdkJJWGgxYnpYWC05MGVyam1VWXVOS3kwcmd6Vndj?oc=5",
+      "snippet": "AI trust gap reveals distinct retail priorities: Divergent paths to consumer growth in Hong Kong and the GBA kpmg.com",
+      "published": "2026-11-04T13:51:04+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "8fb84ffc27ac",
+      "title": "Clark Raises $11 Million Seed Round Led By Touring Capital And Launches Autonomous AI Audit Employees",
+      "publisher": "Pulse 2.0",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlYxV2VTNEp5LXFZU3M3bUR4Y2t2U1VyQ3V5em5iNEk4TERtMWg5QXFCMG1DWmVoc2FYcllGdXRSY0hSRkdtLTY2aGpwdHJkQ1ZXaE0wbHZvWTdOcGROVmxTRG81NnppRmktMFZyV3k1VV9fRzVKczBlVEFScGVvWUx3cVp4Y2RqTDVPdnRUVHpaTGdfQXpDazZXMVRWRmVJTVR4eERYQnFPUC1qcVFkT04tSGhOVFBtQ0xvMQ?oc=5",
+      "snippet": "Clark Raises $11 Million Seed Round Led By Touring Capital And Launches Autonomous AI Audit Employees Pulse 2.0",
+      "published": "2026-11-04T13:48:59+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
     },
     {
       "id": "8b2b0ac3b743",
@@ -179,7 +367,8 @@
       "title": "Tokenomics: How to control your firm's AI spending",
       "publisher": "Accounting Today",
       "seen_in": [
-        "Accounting Today"
+        "Accounting Today",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVpiLUk1VkRuRi1IdWw0VUtPc3FEUVE3bUZhZnRLMUw0OUZjekY5RGlnbUZ4VG5ubjdRQzZOQV9ZUkNubTdoYmxwZXlwUHpTUjhYT0tRY25ibG93Rjl1NWZlcU1hWnk3VjZUczc5TXBOZVZ1eGhtN2tMdjdjOFlQRzd5Q0o1bXhrdENtY24yWDNXVjIxd2hkdFk0dVBPWTc0bWRsdV93?oc=5",
       "snippet": "Tokenomics: How to control your firm's AI spending Accounting Today",
@@ -188,6 +377,21 @@
         "Risk & controls"
       ],
       "first_seen": "2026-11-03T15:35:19.510683+00:00"
+    },
+    {
+      "id": "aaa0d74ec3e8",
+      "title": "How an insurer is moving analytics to Azure with an AI factory",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYVVNYVIwRWpLVmFYeXJ1UVFpRjJDMU9CYlRzNUNFUHVBRlJBOGkzNFIxbmxvZjIxa3kwYkN0NEFLTlpsSXJZWXlPYWNSSURHTTBJelBWTFZGbFJ6ZkUzWGREV0dHSjZfRkpPNVp5R204WEVvZGRWMXhPRUprQlp1dnpjZzdCd0tmOGFJNGE4NllLUWQ3SE1HVG40SnVzTnFDaGtYT3Z6NllvSEtnRGc?oc=5",
+      "snippet": "How an insurer is moving analytics to Azure with an AI factory EY",
+      "published": "2026-11-03T13:30:33+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
     },
     {
       "id": "cdbca7f7ca30",
@@ -461,6 +665,36 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
+    {
+      "id": "379e8c4917ee",
+      "title": "Automation creates efficiency. Work redesign creates lasting advantage.",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0xjd3JkWXFYQ2tNb244NjkyOGEyQU1Rc3FTdFYyai1GZ1A3enBEQzAzczc0VnZmYUY2QWpVYkQzTXUtb1FscWpIMFRaWjZHNWxFazNBQWowRUVOVHVpSU9ZVVNuRW9rRkN0MllVeG1ZSEtIdkw4LWRKMUY3SGFZRDhVVFRZUXZfc2R1RERLdGlDaEFBXzBGWnVTcHhPZS1KQTFudXJJbEFleklL?oc=5",
+      "snippet": "Automation creates efficiency. Work redesign creates lasting advantage. Deloitte",
+      "published": "2026-11-02T08:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "5c9a395f228d",
+      "title": "Capillary Technologies reports Q2 FY27 profit, changes auditor",
+      "publisher": "Multibagg AI",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUdENjVLS0xqWXBkUXhTOVJLcUtvdFFsNGcxeUZWN0VhMDEtc0lPSE1WYnZoVmt6ZE1wcEthYldPaTZWa1ZqNEVmX1BnanFjNXpoMWhiRGdZc19tMmNISE9GZml0OG5MM1V1bVAxRWZlc2pNWXRNWFRWTWhJbmpxX0lnQmNabE12UWdTVEwwa2k3aEhrbzM0QnYzS21xZ3prNXdBS09ldks?oc=5",
+      "snippet": "Capillary Technologies reports Q2 FY27 profit, changes auditor Multibagg AI",
+      "published": "2026-11-02T07:00:15+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-05T15:46:59.050312+00:00"
     },
     {
       "id": "21db495f4f10",
