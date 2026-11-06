@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-05T15:46:59.050312+00:00",
+  "updated": "2026-11-06T15:36:14.790374+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,228 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Big firms are pushing AI deeper into audit work, startups are pitching autonomous AI auditors, and talent pipelines are already shifting. Expect AI fluency to come up in interviews.",
+    "quick_take": "Today's news is thin on audit-specific actions. Most items are firm marketing about AI services, with a few pieces on governance and how accounting firms evaluate AI.",
     "standouts": [
       {
-        "id": "feef96707ecb",
-        "title": "KPMG Tests Advanced AI on Private Company Audit Clients First",
-        "publisher": "Bloomberg Tax",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnFYclk1R0gwYnBuMU5vMnVwYlhwR2o3SzVVbjZYckFyWVJoMndzQVpheU1lNG1wOXBxaTM5UFU3dVhUS2pyV0o4SWY1dWk5SWZZdEMwXzc5NHdvaWx4NnlTaEltcHU3UXVIWWVKTXdoRVVBYmhyS0hSbExTbjd3Y3ptZl9PWWRxU3ZpNHZ1RnpPaWJHSlBIMWpTcEJfZUNwRHdYaE1TTmlCUFJpQTBhOXV3?oc=5",
-        "why": "KPMG is testing advanced AI on private company audit clients first, showing where AI is entering real engagements you may staff."
+        "id": "fd10352f8d07",
+        "title": "AI Moves Into High-Stakes Financial Judgments, Raising the Bar for Governance",
+        "publisher": "CPA Practice Advisor",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZU1fVFlDNVBaT05DQkdlZ2lZcUZlVG14UHEzNnVZbkp5X2RhaDZvWVlaRVd1TWlDMkF6NW5VVmRXMzVuczIwQzhBeE54RkVPc0E5NVdKM05HdVNQNnFmdU9LUGNJM0lwZ3hWUEluZnhyN3NiX3ZTTXRzNVNzU1VWUU9NN0xDc0tIUWY2Y0NKaTRkYzVDd3ZSdnlUMlYtaWxlVFloNnc2QXFDWWNPSk5vUG5mMnNFeHktNFRjMlJ3OEdJYjJ6VGtBeHpR?oc=5",
+        "why": "AI is moving into high-stakes financial judgments and governance expectations are rising, which bears on the controls and risks auditors will assess."
       },
       {
-        "id": "50727ce23551",
-        "title": "How EY is tackling next-gen talent in the AI age",
-        "publisher": "CFO Dive",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM0NqbXB0QjYwYkRVLXNKbTR6VE5TWmR4RXlyczhJUEgxd09BWFN3MFg3MGFKaXhrd0ZuU0FlaC1JM3Rmc3dzcFRsQVM2OVg4NUZqbkJ2WUZRMV9fcVpyNk96N1NvYm93LXZkNHpWOF96c0ppMk5mZ05HV1NtMzFKWllReFVjdGxKUmc?oc=5",
-        "why": "EY's approach to next-gen talent in the AI age hints at how entry-level training and roles are being redesigned at a Big Four firm."
+        "id": "abd17f979be5",
+        "title": "What AI benchmarks can teach accounting firms",
+        "publisher": "Accounting Today",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0hoUGs4NlNad05oTFJNanNwSU02b0J4cUFacldFcmFWQ0JHR20xT1R1S2RJZlNIQjZGd0VGeTc2VUpkUWM4b3N6SW1TSGhZX1IyOVBUQ2RNamoxai12bjlveklEbjNSQ005N3BSZ0pGRDVweWs5T2E0djJVYlNJSWdKN0NEdGh5Sndid0JR?oc=5",
+        "why": "Benchmarks for evaluating AI give you a way to talk in interviews about how firms judge whether AI tools are reliable."
       },
       {
-        "id": "8fb84ffc27ac",
-        "title": "Clark Raises $11 Million Seed Round Led By Touring Capital And Launches Autonomous AI Audit Employees",
-        "publisher": "Pulse 2.0",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlYxV2VTNEp5LXFZU3M3bUR4Y2t2U1VyQ3V5em5iNEk4TERtMWg5QXFCMG1DWmVoc2FYcllGdXRSY0hSRkdtLTY2aGpwdHJkQ1ZXaE0wbHZvWTdOcGROVmxTRG81NnppRmktMFZyV3k1VV9fRzVKczBlVEFScGVvWUx3cVp4Y2RqTDVPdnRUVHpaTGdfQXpDazZXMVRWRmVJTVR4eERYQnFPUC1qcVFkT04tSGhOVFBtQ0xvMQ?oc=5",
-        "why": "Clark's autonomous AI audit employees show tools aimed at junior-level tasks, so you should build review and judgment skills."
+        "id": "8ed263961c99",
+        "title": "AI agents and digital trust: Building trusted autonomy",
+        "publisher": "PwC Australia",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZEJUOHNDaU9uUzkyUkpXemtvX1FDbkZEM203TlVLTEd2SjF3cGRudGJRN28zcmU5d3FxWk9oa0VtRDY1amZhOUNYNEszWUZUZkNPOEp5V0ZpM2JGRUdDN21UTU91cWg4aTFkVDFNNVZmQ1haQ1BNaUVDUGNTN2RESTA0T05temcwYVB2N1lfS1o5VFlIRlhVaA?oc=5",
+        "why": "A Big Four view on trusted autonomy for AI agents previews the digital trust and control questions you may meet on engagements."
       }
     ]
   },
   "stories": [
+    {
+      "id": "332ae77a263a",
+      "title": "Overview of Intuit AI in QuickBooks Online 2026",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFhyWl9QUDkyWGdDWkJHS0NkWFdTTFdFdXp6bGw1cmhuVkVMUmMzbXBtTHEweURVQWt4bVFRT0RXN2VqUHRMaFZSM3BSUGJLei1KWjlVRGs0Z2d4ZEVVM0xsMHAwWXBnUnNKWWIxbWVjNFFzOEtLWU9WNG9lZF9KVEs3aXhHMVh3aGJ5bFFDVm11VVQzdUxzRzU3VDlFQ1NwZTBr?oc=5",
+      "snippet": "Overview of Intuit AI in QuickBooks Online 2026 CPA Practice Advisor",
+      "published": "2026-11-06T15:22:29+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "4f78326e72da",
+      "title": "Magic AI tops Deloitte UK Technology Fast 50 ranking",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkpVM0RLZmI4OThSelFjODRaNHBqZTlKSWo0SWptb29DbUlrbXNrOVJubzdTWnd0RnJKWkJJWjk5cWxWM3RTU2YxRmZwUWpGeFlWRDU4SE5rbmVMMk81UlR4bWs5WkprZVhoWEU2WHJ0UV9oUFdyb1E5QmJWR3JDOXZOZGRTT2gyWklSN21UXzJHT1RtZ3dPek1qTHdXcUpLY0cyWVRhcTA?oc=5",
+      "snippet": "Magic AI tops Deloitte UK Technology Fast 50 ranking Deloitte",
+      "published": "2026-11-06T11:13:30+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "ded52068e8c4",
+      "title": "Growth Reimagined: Building Consumer Trust in the AI Era",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ05qTV9DR3g0ME1kcWlBc01xZU9QSnZSNFRaR0RFYzF0SElSLTFxWDBySGZnYTJjNTJoSDVuRU9ZbTBIeTAzVTFMbkRCQXdXWW1XeUJmTlBDV0x1NzMwOFdidEdJTHd4czlxdkxqT2JjdXdPYTNSazBjdXlkQjd2dGQ2TUNXM1NaUDJtQjh3Nkc3aHdZNkJhLUFCV3FPQkxnTXc?oc=5",
+      "snippet": "Growth Reimagined: Building Consumer Trust in the AI Era kpmg.com",
+      "published": "2026-11-06T08:37:34+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "5689b5f4c731",
+      "title": "How to redesign management for the agentic enterprise",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVg3S1JqeHBGZmxMWjVNdGh5bjFFeDVEbjZyVkJzaHRtUjJLbm1scXJGUzk0SGlWT2tmd3FVbGFpdUt6ZXhQeTVOTk1fVllLVERoUzdsQnB2T3dIZENBR1VZZHl4bmRjbmx1MkszV2d5NGREdE1UeEl1ZmZ6X1BKeUNTbEwxbVpfWlhmdEVMdjFUMUVGOEltZGZzcW1VaG9NVjk1TDZBRlc?oc=5",
+      "snippet": "How to redesign management for the agentic enterprise Deloitte",
+      "published": "2026-11-06T00:18:21+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "611afa714cd4",
+      "title": "Deloitte named a Leader in IDC MarketScape Worldwide AI-enabled Adobe Professional Services 2026 Vendor Assessment",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQk9OOTdRakV3TEtFWl93dTQxNkpkRFRhbVZDeVNucHZCOGR0WnBNaE1RendNMGdIYlNSd29KMHBWUWxVRm1Od2RjUjhQVl83MkNsZGJLaWk4N1BGMmN2ekl2dEN1aC1iMWt2TGU4SkxxdHlMUTd6ano0TDg4TUZCM25MOWhqR29KdWxnTXJUZUVSNFBtdkxrU2dBdHVhdlhrWUdTSTFKYV9mdkZBTXNRZ2ROQnRpel84SG1BdDdQY2pFUkx5Mk1rbmtZaURrYUt3NmV6aXpIdFlKSXVKVVZZaF9PeC1ZQkxWd2ZKbFJFdE92MTZUa3l3?oc=5",
+      "snippet": "Deloitte named a Leader in IDC MarketScape Worldwide AI-enabled Adobe Professional Services 2026 Vendor Assessment Deloitte",
+      "published": "2026-11-05T23:59:28+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "d956fadac103",
+      "title": "Scarcity is pricing the logistics model out of the market. AI is your only way out",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa3pEdktYQnR1bzJsbXU2dmhTMzFPSWpOTmszZUhpM2pveFBfN3RfUTJCWHlqdm9SajVfdzFfT3pfcUFHUE9Vc3V0Vk15NlN3ZU1TUk0wS2RCY2E2ZWZqMnlPcy1qWE9kdVFKR0JtX25jN0k0ZXBQa0k5bXhWVktra0xFQ0I2Wi1vWkM4U0JYcVpNUXJYeWxhWGJ2NERxWFF2Y1RFM0NhWDJjWU9hZVBFbGZYR0NGYkhnYWR0U2VR?oc=5",
+      "snippet": "Scarcity is pricing the logistics model out of the market. AI is your only way out PwC",
+      "published": "2026-11-05T21:05:38+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "30cf7fd3cdc2",
+      "title": "\u2018AI is Being Overlooked by Small Businesses,\u2019 Says \u2018Shark Tank\u2019 Star Daymond John",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSHVsd25yYm5Ka2JFdkR2SnlWQVlLYmJDM0Zoa3NwWEc4Q1ljVUVOWDdEODBvTERJUzVJaENtWGE5LXlWUXIwelNGVFpVZ0pDYWNxWHlGTmNJUFhxanFQTUh1YXprUEo3bGh6ZWcwZTJKdDNPc3lxZVBpS3RscmxEOWxMZkVTeDR3bDNoUWRlXzV0OUJmNkhrdExHOVIwSmg1YXROb0d4MFBJaGJHbXIyZVdPYWFIdC1PS2o5a0pqcGZJaXlSQ3RnOURB?oc=5",
+      "snippet": "\u2018AI is Being Overlooked by Small Businesses,\u2019 Says \u2018Shark Tank\u2019 Star Daymond John CPA Practice Advisor",
+      "published": "2026-11-05T19:50:38+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "abd17f979be5",
+      "title": "What AI benchmarks can teach accounting firms",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0hoUGs4NlNad05oTFJNanNwSU02b0J4cUFacldFcmFWQ0JHR20xT1R1S2RJZlNIQjZGd0VGeTc2VUpkUWM4b3N6SW1TSGhZX1IyOVBUQ2RNamoxai12bjlveklEbjNSQ005N3BSZ0pGRDVweWs5T2E0djJVYlNJSWdKN0NEdGh5Sndid0JR?oc=5",
+      "snippet": "What AI benchmarks can teach accounting firms Accounting Today",
+      "published": "2026-11-05T19:45:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "93981de96471",
+      "title": "Capital is concentrating in the largest deals, while AI and energy attract investment",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTGN2ZkNHYUViLXFua0d3NU5yVjBWWlhiZ1JCdkxaOTRFQXBibkZwbWhyVEIzNWNXRkZDbWNKYTdadEY2UXpUWGg4V0dWWG1QN0lQa2RRZzNxTEFqVE1DandvMmNZYVdaZVhucV9sYi1vMGNTb29XR1ZaX3I3VHJCT29HZGRXb1l2OG91VFlBUkRnVllfOWZJaFQ5Qi1ZaTItcTBMU2p4ZTZnRk00S3YtV0NGU1JlSnFZemcteHJtNFJ5UzRsM2RIWUdkcF9fVzRRY21qUF9HZ1dadWRnLVE?oc=5",
+      "snippet": "Capital is concentrating in the largest deals, while AI and energy attract investment kpmg.com",
+      "published": "2026-11-05T18:37:17+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "b862d57741f1",
+      "title": "Gartner Identifies Three Steps for CFOs to Turn AI Time Savings into Business Value",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXFxcW5CT0FGTzNKVzE4emJCMjZRMUFwT2xLU2YybkJCOEEyVmdKN0lVZGhZU2hEbXVDVXVRWUxoTzBrTE45cUk3VzlsTXNzZDQ0RjZ3WWQ1ek15VXZYQlZGc3RqbENhdlczV0xQMEgwTE9ERE5XVTRxamhIdTBQYmF2NW1HUjFOYWh4SUxhekFiOWRrbFJrNmM0VDVnT29BajY2TU5HV0xIa1k1Xy15VjBHSlltZkNYeE41UEcwTlJlcldma3UxYVFNRDhLM3RHLTlN?oc=5",
+      "snippet": "Gartner Identifies Three Steps for CFOs to Turn AI Time Savings into Business Value CPA Practice Advisor",
+      "published": "2026-11-05T18:24:35+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "fd10352f8d07",
+      "title": "AI Moves Into High-Stakes Financial Judgments, Raising the Bar for Governance",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZU1fVFlDNVBaT05DQkdlZ2lZcUZlVG14UHEzNnVZbkp5X2RhaDZvWVlaRVd1TWlDMkF6NW5VVmRXMzVuczIwQzhBeE54RkVPc0E5NVdKM05HdVNQNnFmdU9LUGNJM0lwZ3hWUEluZnhyN3NiX3ZTTXRzNVNzU1VWUU9NN0xDc0tIUWY2Y0NKaTRkYzVDd3ZSdnlUMlYtaWxlVFloNnc2QXFDWWNPSk5vUG5mMnNFeHktNFRjMlJ3OEdJYjJ6VGtBeHpR?oc=5",
+      "snippet": "AI Moves Into High-Stakes Financial Judgments, Raising the Bar for Governance CPA Practice Advisor",
+      "published": "2026-11-05T17:20:07+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "5a636dd82077",
+      "title": "Copilot is not an AI strategy: how infrastructure prevents standstill with AI",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWJqVDNEc1lDRUh5WUlQdGZSeklwb3NzY09uYU02MlZpek5TWjlzOF9yNFFqX00tNTFaTmxWa1hiN0ZvU2ZWTVctYVNaY0FtUG9FSURSci13SUFCUUxSdUlsTXl0aUpFTktrSWtndGxscXBNSGxrRlU0TmFBRXhCb3V5RktGdnZEVFdxeTAtNU1TSWVYb1EzNk42M3VYd0tRSzZ2VWVVWDVaYXRvU1R4UDBR?oc=5",
+      "snippet": "Copilot is not an AI strategy: how infrastructure prevents standstill with AI PwC",
+      "published": "2026-11-05T17:18:24+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "40e5b9e008d7",
+      "title": "EY launches Studio+ in Ireland, bringing 350 specialists together to turn AI and technology investment into measurable customer and business outcomes",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHpVYk00UmtfY0wzcWNWd3luZlY2WkRzdEZydVdEZDE3Yk9ZNWZzZVktdmhtZWdyYm05WURzVzlzTHd2V3lWVmhqWGZWSlZxZ1VMSHRBblhhaEI2dnJQLW5Yck0xZWRzTXZlcGIzUzhOMlROTDI2cXNBa2tqa3FwN0xPWS15bTZLanhod0QwTWRTTmY0eHVYSktydVRzTWs?oc=5",
+      "snippet": "EY launches Studio+ in Ireland, bringing 350 specialists together to turn AI and technology investment into measurable customer and business outcomes EY",
+      "published": "2026-11-05T14:51:11+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
     {
       "id": "15c607cdd93f",
       "title": "Boomer's Blueprint: The agentic workforce is an org design problem",
@@ -142,6 +338,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "16ed1468d821",
+      "title": "\u201cThere\u2019s nowhere for accountants to work, even if we hire them\u201d ... Calls grow to cut annual intake from 1,150 to 850 as AI spreads [fn Market Watch]",
+      "publisher": "\ud30c\uc774\ub0b8\uc15c\ub274\uc2a4",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zSDRaS2FlNHBwY3ZEdGFTU3QzQ29VLVJVTzd4bHBaUFJDblYzd2NveXJZcjRYQ21VbzNuVjhEcVBQTzYwaHQwblZ1SzhNQmhyV1VISFJRNGk?oc=5",
+      "snippet": "\u201cThere\u2019s nowhere for accountants to work, even if we hire them\u201d ... Calls grow to cut annual intake from 1,150 to 850 as AI spreads [fn Market Watch] \ud30c\uc774\ub0b8\uc15c\ub274\uc2a4",
+      "published": "2026-11-05T07:14:13+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
     },
     {
       "id": "50727ce23551",
@@ -269,6 +480,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
+    {
+      "id": "8ed263961c99",
+      "title": "AI agents and digital trust: Building trusted autonomy",
+      "publisher": "PwC Australia",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZEJUOHNDaU9uUzkyUkpXemtvX1FDbkZEM203TlVLTEd2SjF3cGRudGJRN28zcmU5d3FxWk9oa0VtRDY1amZhOUNYNEszWUZUZkNPOEp5V0ZpM2JGRUdDN21UTU91cWg4aTFkVDFNNVZmQ1haQ1BNaUVDUGNTN2RESTA0T05temcwYVB2N1lfS1o5VFlIRlhVaA?oc=5",
+      "snippet": "AI agents and digital trust: Building trusted autonomy PwC Australia",
+      "published": "2026-11-04T08:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
     },
     {
       "id": "86e084c2ea36",
@@ -452,6 +678,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-04T15:43:29.484728+00:00"
+    },
+    {
+      "id": "496bb239c0a6",
+      "title": "AI managed services: Agentic back- and middle-office operations",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUld0d2gxNmNSbV84bWMydmw2ajV3eGdUMlZjWnRwQTNIamNzU1RhWTU2M1g4bUVydUs0Znl5QWNKbGtEcHBTTDZ4YTJhcUZvaVByUmptdHptdThFSHBlU2xocE51NWZUYktCUnBYREN1dEdqOF9EaUlUcm1SU2d6MHE0bFB0eGNEcWIwa1dlZ0NhVm5uZDZqcjhSTmV2bFN5VmNxVzVrX1BmalcwWFFZ?oc=5",
+      "snippet": "AI managed services: Agentic back- and middle-office operations PwC",
+      "published": "2026-11-03T08:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-06T15:36:14.790374+00:00"
     },
     {
       "id": "aef245183a4a",
