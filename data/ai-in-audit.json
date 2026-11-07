@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-06T15:36:14.790374+00:00",
+  "updated": "2026-11-07T15:26:04.482579+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,92 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's news is thin on audit-specific actions. Most items are firm marketing about AI services, with a few pieces on governance and how accounting firms evaluate AI.",
+    "quick_take": "Today's headlines point to AI governance and oversight moving up the agenda, while the practical skill of reviewing AI output is emerging as a gap for new accountants.",
     "standouts": [
       {
-        "id": "fd10352f8d07",
-        "title": "AI Moves Into High-Stakes Financial Judgments, Raising the Bar for Governance",
-        "publisher": "CPA Practice Advisor",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZU1fVFlDNVBaT05DQkdlZ2lZcUZlVG14UHEzNnVZbkp5X2RhaDZvWVlaRVd1TWlDMkF6NW5VVmRXMzVuczIwQzhBeE54RkVPc0E5NVdKM05HdVNQNnFmdU9LUGNJM0lwZ3hWUEluZnhyN3NiX3ZTTXRzNVNzU1VWUU9NN0xDc0tIUWY2Y0NKaTRkYzVDd3ZSdnlUMlYtaWxlVFloNnc2QXFDWWNPSk5vUG5mMnNFeHktNFRjMlJ3OEdJYjJ6VGtBeHpR?oc=5",
-        "why": "AI is moving into high-stakes financial judgments and governance expectations are rising, which bears on the controls and risks auditors will assess."
+        "id": "76bde25350fb",
+        "title": "White House Accord: AI governance and board oversight",
+        "publisher": "EY",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWxvbGN5b1l4Sk9BRkZycXVybHpmTVdGRVVQYTdXNkl1Qm9KOWhrOXNITVZ5WjBMNzVvem9wbEg5cHZjeDNqcEZqZGQxajdFckFxZVR5LTNLa0ozdEJ2X29DaHlsdjQ0Zl9YVENONmdTRk1jTlpfa2k5QUdBQU83ZVN1UXpaUGRaOV9MMU1uYzBRMGo4cVpOMVhqdC0?oc=5",
+        "why": "Covers AI governance and board oversight, which ties to the risk and controls questions auditors will assess and discuss with clients."
       },
       {
-        "id": "abd17f979be5",
-        "title": "What AI benchmarks can teach accounting firms",
-        "publisher": "Accounting Today",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0hoUGs4NlNad05oTFJNanNwSU02b0J4cUFacldFcmFWQ0JHR20xT1R1S2RJZlNIQjZGd0VGeTc2VUpkUWM4b3N6SW1TSGhZX1IyOVBUQ2RNamoxai12bjlveklEbjNSQ005N3BSZ0pGRDVweWs5T2E0djJVYlNJSWdKN0NEdGh5Sndid0JR?oc=5",
-        "why": "Benchmarks for evaluating AI give you a way to talk in interviews about how firms judge whether AI tools are reliable."
+        "id": "5f3addbb044a",
+        "title": "The new skill nobody's teaching accountants: How to review AI's work AI review best practices for accountants",
+        "publisher": "Thomson Reuters tax",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZEFva3YwNUxOTTN2Tm53WEQxRGdvcUpaWnRVUlF1QUtOeGhpZktBRjhSWXBVZmNBZzY0MEFDbkhfTFpCc0dCWEVQYzA5MVVDUGllc2VzeHFCNE1IMzhFa1JHNXdjQWRveU5vTXBtOGl3a2o2Q29OZ3YyRVFnRUlZRGlUdw?oc=5",
+        "why": "Reviewing AI's work is a skill you can build now, and it speaks directly to what entry-level staff will be doing."
       },
       {
-        "id": "8ed263961c99",
-        "title": "AI agents and digital trust: Building trusted autonomy",
-        "publisher": "PwC Australia",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZEJUOHNDaU9uUzkyUkpXemtvX1FDbkZEM203TlVLTEd2SjF3cGRudGJRN28zcmU5d3FxWk9oa0VtRDY1amZhOUNYNEszWUZUZkNPOEp5V0ZpM2JGRUdDN21UTU91cWg4aTFkVDFNNVZmQ1haQ1BNaUVDUGNTN2RESTA0T05temcwYVB2N1lfS1o5VFlIRlhVaA?oc=5",
-        "why": "A Big Four view on trusted autonomy for AI agents previews the digital trust and control questions you may meet on engagements."
+        "id": "df8a57f61ceb",
+        "title": "Regulation (EU) 2026/1744 \u2013 Digital Omnibus on AI",
+        "publisher": "EY",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE5MWWxHNF9MUjUyMWk1S1RyX3VVbndZSXFYWDZDUnJXaGo3V3pLQ3Jzd2lOMVRGQUJWOTZLSTU4UG13dDQzdDB3RlJyTHBNdV9peDUwTUhtVnRDcWNQckZRMjBDZmE1WGoxSWNqelViZEhmQWFOQjlkU1Q4TEFzOFhCOC1qaXlCYjI0SDBONGpaNTFSUjZPQWxCSQ?oc=5",
+        "why": "An EU regulation on AI is a concrete regulatory action, useful for sounding informed on how rules are shaping AI use."
       }
     ]
   },
   "stories": [
+    {
+      "id": "3cc849d21d20",
+      "title": "Vi Intelligence 2026: Vodafone Idea + PwC AI Lab, 1 Goal",
+      "publisher": "https://tech-insider.org/",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDljSEJtYk03RXU5RDlBVWROel96U1VrQkxvVnV5UXZjdXVRdEZMb3RDN25TeVhQaktjTk5jTWQtaHBrTW1uc19ESnREZThlaUJZSkdUMGVMdjN2YldMRnBqTktudnJzUVItLXpRdWZiYV9HLVprRkM0YlNvYmozcGpSZHVGMVA1TGVxSmNIY1pjUQ?oc=5",
+      "snippet": "Vi Intelligence 2026: Vodafone Idea + PwC AI Lab, 1 Goal https://tech-insider.org/",
+      "published": "2026-11-07T00:24:58+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-07T15:26:04.482579+00:00"
+    },
+    {
+      "id": "9ca6ee7031eb",
+      "title": "Vi Intelligence Lab: 3 AI Pillars, PwC in Mumbai [2026]",
+      "publisher": "shattered.io",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0RMLW5ZVGRCMGJtZ1M0dHc3QVF0bUV6NFNpeEIxWl9tT3UxUzN0ZkpBMkdBem5GQmlNVGQyaEhEbEk3NGV1Sm5JWGxuMWtPbjE3NUVJNW5FN1RwNlhYZ1Z4ejFaWUlmYTJCeHVFT1VQT3UwNW54N3V3NlVUTVFidU9GNA?oc=5",
+      "snippet": "Vi Intelligence Lab: 3 AI Pillars, PwC in Mumbai [2026] shattered.io",
+      "published": "2026-11-07T00:02:03+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-07T15:26:04.482579+00:00"
+    },
+    {
+      "id": "4b4e7593f5d2",
+      "title": "Capturing AI\u2019s value",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUFllRTVqc1pjQlJBQ1NtTEJZSjNoYVZ2X1E5cHRfWjBDNWc0R05rT3lMT1B4cnBOYnZDcE1nVVlOUEF2YmRlNmdfS3AzeXVzdTlHamtsbzRKV3dYejJpa1BacDBwUFpVVk8wU3pPbkV4NGpZZlF1UVBRWkFublprdm91V29nOWtGRGg0WQ?oc=5",
+      "snippet": "Capturing AI\u2019s value kpmg.com",
+      "published": "2026-11-06T20:11:30+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-07T15:26:04.482579+00:00"
+    },
+    {
+      "id": "9dd3e371f7a5",
+      "title": "Highlights AI Week 2026: turning AI into business value",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1Y0bGJxM2RNby1OTFpTN3Y2czFESmZfVUdEVWZNai02WkxocG9kSEN3cnRPVVQ5LVBicE1ZWmw5REQ1ZXBldHo0WmZuTFVGTTNrQjlvaFB3a3R3bEVWbDI2U0hmd2dsaXUtYVViYnIybDEzRXpVWHA1VWtsYnRGUEpTbXAweXBfX3BxcWJlSGZ0d3BsREJBTERn?oc=5",
+      "snippet": "Highlights AI Week 2026: turning AI into business value EY",
+      "published": "2026-11-06T16:52:15+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-07T15:26:04.482579+00:00"
+    },
     {
       "id": "332ae77a263a",
       "title": "Overview of Intuit AI in QuickBooks Online 2026",
@@ -50,6 +110,21 @@
         "Other"
       ],
       "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "df8a57f61ceb",
+      "title": "Regulation (EU) 2026/1744 \u2013 Digital Omnibus on AI",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE5MWWxHNF9MUjUyMWk1S1RyX3VVbndZSXFYWDZDUnJXaGo3V3pLQ3Jzd2lOMVRGQUJWOTZLSTU4UG13dDQzdDB3RlJyTHBNdV9peDUwTUhtVnRDcWNQckZRMjBDZmE1WGoxSWNqelViZEhmQWFOQjlkU1Q4TEFzOFhCOC1qaXlCYjI0SDBONGpaNTFSUjZPQWxCSQ?oc=5",
+      "snippet": "Regulation (EU) 2026/1744 \u2013 Digital Omnibus on AI EY",
+      "published": "2026-11-06T15:03:37+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-07T15:26:04.482579+00:00"
     },
     {
       "id": "4f78326e72da",
@@ -110,6 +185,23 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "76bde25350fb",
+      "title": "White House Accord: AI governance and board oversight",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWxvbGN5b1l4Sk9BRkZycXVybHpmTVdGRVVQYTdXNkl1Qm9KOWhrOXNITVZ5WjBMNzVvem9wbEg5cHZjeDNqcEZqZGQxajdFckFxZVR5LTNLa0ozdEJ2X29DaHlsdjQ0Zl9YVENONmdTRk1jTlpfa2k5QUdBQU83ZVN1UXpaUGRaOV9MMU1uYzBRMGo4cVpOMVhqdC0?oc=5",
+      "snippet": "White House Accord: AI governance and board oversight EY",
+      "published": "2026-11-05T21:11:00+00:00",
+      "themes": [
+        "Firm tools",
+        "Regulation & standards",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-07T15:26:04.482579+00:00"
     },
     {
       "id": "d956fadac103",
@@ -387,6 +479,21 @@
         "Other"
       ],
       "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "5f3addbb044a",
+      "title": "The new skill nobody's teaching accountants: How to review AI's work AI review best practices for accountants",
+      "publisher": "Thomson Reuters tax",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZEFva3YwNUxOTTN2Tm53WEQxRGdvcUpaWnRVUlF1QUtOeGhpZktBRjhSWXBVZmNBZzY0MEFDbkhfTFpCc0dCWEVQYzA5MVVDUGllc2VzeHFCNE1IMzhFa1JHNXdjQWRveU5vTXBtOGl3a2o2Q29OZ3YyRVFnRUlZRGlUdw?oc=5",
+      "snippet": "The new skill nobody's teaching accountants: How to review AI's work AI review best practices for accountants Thomson Reuters tax",
+      "published": "2026-11-04T19:03:09+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-07T15:26:04.482579+00:00"
     },
     {
       "id": "b60ed1a91bb8",
@@ -760,7 +867,8 @@
       "title": "AI Use Has Reached 90% in Internal Audit. Is Assurance Keeping Up?",
       "publisher": "CPA Practice Advisor",
       "seen_in": [
-        "CPA Practice Advisor"
+        "CPA Practice Advisor",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlZYWjdxNm93TU42M2lUZHh5QUpHcVBnNzE1ekUwZnowc1dBUGFTblhlRExTZlpPbnVxdzVfWDBOazJsWTFZQ2ZJYXJvNWU3RGNpbjM2M2tSb3BhQm1VdXpUaUZYM2ZOUTZsa1RrWDltZmJab2lsY0Y5OWxQTHUwaTRuVWVCS0J3OG4wSW56RzdzUFRIVVJFajhIcTFHeWRFVEtjN2NrdHBURG81cjdGU0J5SWNUTG1x?oc=5",
       "snippet": "AI Use Has Reached 90% in Internal Audit. Is Assurance Keeping Up? CPA Practice Advisor",
