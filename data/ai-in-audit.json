@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-07T15:26:04.482579+00:00",
+  "updated": "2026-11-08T15:23:55.546429+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,62 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's headlines point to AI governance and oversight moving up the agenda, while the practical skill of reviewing AI output is emerging as a gap for new accountants.",
+    "quick_take": "EY rolled out agentic AI for audit, while the ECB and Thomson Reuters focus on the risk and governance side of AI. Know the tools and the guardrails.",
     "standouts": [
       {
-        "id": "76bde25350fb",
-        "title": "White House Accord: AI governance and board oversight",
+        "id": "92fd2967ab95",
+        "title": "EY launches enterprise-scale agentic AI to redefine the audit experience for the AI era | EY - Global",
         "publisher": "EY",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWxvbGN5b1l4Sk9BRkZycXVybHpmTVdGRVVQYTdXNkl1Qm9KOWhrOXNITVZ5WjBMNzVvem9wbEg5cHZjeDNqcEZqZGQxajdFckFxZVR5LTNLa0ozdEJ2X29DaHlsdjQ0Zl9YVENONmdTRk1jTlpfa2k5QUdBQU83ZVN1UXpaUGRaOV9MMU1uYzBRMGo4cVpOMVhqdC0?oc=5",
-        "why": "Covers AI governance and board oversight, which ties to the risk and controls questions auditors will assess and discuss with clients."
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2RwemhMMTdRUm5xZFByUnVnMl92QmlZT0ItV0pPdWx0NTFubmxVQTV2Q21wbEVjS2RxSEs1a0VxVzBTQ1J3R0xYRTRLNEVhME9DcmI0WmR2a19vVmwwUUUxQWJ1cmFEaU85Qm96MjFadGw3UXYzYXZoRXp5NVUyUExSMTI1TWY0SDNBQ3hud1dHRW0tWVE2S0dER3BET01iQ25nMF9zczB5cW8waVAxZXR3?oc=5",
+        "why": "EY's enterprise-scale agentic AI for audit signals how Big Four audit work, and your day-to-day tasks, may change. Good interview material."
       },
       {
-        "id": "5f3addbb044a",
-        "title": "The new skill nobody's teaching accountants: How to review AI's work AI review best practices for accountants",
+        "id": "dff185e6ad9d",
+        "title": "The audit firm\u2019s AI governance playbook: Policies, approvals, and guardrails that actually work",
         "publisher": "Thomson Reuters tax",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZEFva3YwNUxOTTN2Tm53WEQxRGdvcUpaWnRVUlF1QUtOeGhpZktBRjhSWXBVZmNBZzY0MEFDbkhfTFpCc0dCWEVQYzA5MVVDUGllc2VzeHFCNE1IMzhFa1JHNXdjQWRveU5vTXBtOGl3a2o2Q29OZ3YyRVFnRUlZRGlUdw?oc=5",
-        "why": "Reviewing AI's work is a skill you can build now, and it speaks directly to what entry-level staff will be doing."
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXoybXA2M0ZLS0FNQ1JPbUVJRkNqUGpKYzg2dXdSRnp1ZzRoRXRVUHdlbV9TRjFrUGZhelZPb19ISUdCTVpFQW9mN21MVnVtRjlJRHVvSlZWcVo1Z2VYaWxPWmJlbWlNTEtnN1NidzlEMFV2cXdZeGNPajVJRWxEdVN5b2lQN21CcWJUUkQ1WmRPSk15MFpRNElB?oc=5",
+        "why": "A practical look at AI policies, approvals and guardrails at audit firms, which shows the governance skills and questions to bring to the job."
       },
       {
-        "id": "df8a57f61ceb",
-        "title": "Regulation (EU) 2026/1744 \u2013 Digital Omnibus on AI",
-        "publisher": "EY",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE5MWWxHNF9MUjUyMWk1S1RyX3VVbndZSXFYWDZDUnJXaGo3V3pLQ3Jzd2lOMVRGQUJWOTZLSTU4UG13dDQzdDB3RlJyTHBNdV9peDUwTUhtVnRDcWNQckZRMjBDZmE1WGoxSWNqelViZEhmQWFOQjlkU1Q4TEFzOFhCOC1qaXlCYjI0SDBONGpaNTFSUjZPQWxCSQ?oc=5",
-        "why": "An EU regulation on AI is a concrete regulatory action, useful for sounding informed on how rules are shaping AI use."
+        "id": "479ba5a64bfa",
+        "title": "ECB raises the bar on AI-enabled cyber resilience",
+        "publisher": "kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORU1YbmRha2FaZ1kyd1RucHhwSno2UWpaNkUwTmJNWGRXOXdtSDhZbVNPdzQ5MEhQZ09Qc2Rjd084aXd4WDRhYUpXUnlDa2NOLUViaElEMlV3bHhwSFEtNUtzNzV2ZHN2bnowMlAxbHUyMW9UTmFabm5FU0plN0F0TUlmZFJDRFkxSnp3RGxXaG5ZU2Z5dG1lM3hiVzlMS2s5S0lqT0dLcWM5UHNyNGZBOWVVYw?oc=5",
+        "why": "The ECB raising expectations for AI-enabled cyber resilience shows regulators are tightening AI risk and controls, which affects what clients and auditors must address."
       }
     ]
   },
   "stories": [
+    {
+      "id": "eb91e214290a",
+      "title": "From megawatts to margin: AI in the Gulf enters its second phase in 2027",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZU5JUUN2Vk5qSERXb1ZMYU9hVXpZWXJIZ1ZHay15NEM2czhjX0l2cVpZTzhnQjhnTFlsdS1feDhLRHpIeVhVd0xiU0pmVF9XX2lNdE42NVJxNlVxVFpHelFBZWlaMWUzM2JFdmg0TWJKT2JEYUt2ZG9QaVBXTUFROHNLcVlBTzhHZ3V6RTE2TWlOYldMUS1kcF9LYzhtSm5JNVp0MkJfa1MxSnlLWElHMTNDZFF0WXhmV2c?oc=5",
+      "snippet": "From megawatts to margin: AI in the Gulf enters its second phase in 2027 Deloitte",
+      "published": "2026-11-08T04:19:45+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-08T15:23:55.546429+00:00"
+    },
+    {
+      "id": "92fd2967ab95",
+      "title": "EY launches enterprise-scale agentic AI to redefine the audit experience for the AI era | EY - Global",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2RwemhMMTdRUm5xZFByUnVnMl92QmlZT0ItV0pPdWx0NTFubmxVQTV2Q21wbEVjS2RxSEs1a0VxVzBTQ1J3R0xYRTRLNEVhME9DcmI0WmR2a19vVmwwUUUxQWJ1cmFEaU85Qm96MjFadGw3UXYzYXZoRXp5NVUyUExSMTI1TWY0SDNBQ3hud1dHRW0tWVE2S0dER3BET01iQ25nMF9zczB5cW8waVAxZXR3?oc=5",
+      "snippet": "EY launches enterprise-scale agentic AI to redefine the audit experience for the AI era | EY - Global EY",
+      "published": "2026-11-07T22:22:42+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-08T15:23:55.546429+00:00"
+    },
     {
       "id": "3cc849d21d20",
       "title": "Vi Intelligence 2026: Vodafone Idea + PwC AI Lab, 1 Goal",
@@ -125,6 +155,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-07T15:26:04.482579+00:00"
+    },
+    {
+      "id": "e28488d29dcf",
+      "title": "The vanishing point in agentic commerce",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNDNRUlBXVzhmMUN5NzBERmpOUUZuUk41TTh1Z2ZhcU1mcU5xU2tVLWlNM2hYekVhYmtiTWhEY2xqZGk3X1hUY0t3ODFJUXBoZDdQWVBDTmVNc2c3SjN2dXVWOFpJUHdqeXdYVUtHTTdHUlNtQmRHUFEyZ0Q3bG9ZOVo2Uzl5bkg5eHJUV3NZbGJFbGdQV0E?oc=5",
+      "snippet": "The vanishing point in agentic commerce PwC",
+      "published": "2026-11-06T13:48:52+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-08T15:23:55.546429+00:00"
     },
     {
       "id": "4f78326e72da",
@@ -284,7 +329,8 @@
       "title": "AI Moves Into High-Stakes Financial Judgments, Raising the Bar for Governance",
       "publisher": "CPA Practice Advisor",
       "seen_in": [
-        "CPA Practice Advisor"
+        "CPA Practice Advisor",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZU1fVFlDNVBaT05DQkdlZ2lZcUZlVG14UHEzNnVZbkp5X2RhaDZvWVlaRVd1TWlDMkF6NW5VVmRXMzVuczIwQzhBeE54RkVPc0E5NVdKM05HdVNQNnFmdU9LUGNJM0lwZ3hWUEluZnhyN3NiX3ZTTXRzNVNzU1VWUU9NN0xDc0tIUWY2Y0NKaTRkYzVDd3ZSdnlUMlYtaWxlVFloNnc2QXFDWWNPSk5vUG5mMnNFeHktNFRjMlJ3OEdJYjJ6VGtBeHpR?oc=5",
       "snippet": "AI Moves Into High-Stakes Financial Judgments, Raising the Bar for Governance CPA Practice Advisor",
@@ -308,6 +354,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "7a0cd18ef878",
+      "title": "Wolters Kluwer launches agentic tax preparation capabilities in CCH iFirm Taxprep for Canadian accounting firms",
+      "publisher": "Business Wire",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQM2hJUVR2cU9mZEs1cDdLMWFNTmNsckZNNHdnSlRDdW5xUlJ5anlCbG02LXpoV2F5NENabEhNbVkzWTN1bHN0dkxtQVFyV1ZISXdKeFcwa2JFUGhtYVVaZndWSW9kS1VSVW1XaUY2TWdvUjNRRzdLS0QySE1pWEZKenBvOWtEQjM2bUJwa1UxWFRadDBpUmpkdDBiekRqUmtrXzAteUdMTnhkbEl0dWg1UTFqVWVNVHZ2YzB6RzRIN2RMaTVrR1VwTTV4emtQbzB0cllIUzdjQUhiSmFQZXBJc2VOXzRBamQ1eHlOYVdfek81WUNsR1hBb0ZGT3Q?oc=5",
+      "snippet": "Wolters Kluwer launches agentic tax preparation capabilities in CCH iFirm Taxprep for Canadian accounting firms Business Wire",
+      "published": "2026-11-05T15:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-08T15:23:55.546429+00:00"
     },
     {
       "id": "40e5b9e008d7",
@@ -415,6 +476,21 @@
         "Other"
       ],
       "first_seen": "2026-11-05T15:46:59.050312+00:00"
+    },
+    {
+      "id": "dff185e6ad9d",
+      "title": "The audit firm\u2019s AI governance playbook: Policies, approvals, and guardrails that actually work",
+      "publisher": "Thomson Reuters tax",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXoybXA2M0ZLS0FNQ1JPbUVJRkNqUGpKYzg2dXdSRnp1ZzRoRXRVUHdlbV9TRjFrUGZhelZPb19ISUdCTVpFQW9mN21MVnVtRjlJRHVvSlZWcVo1Z2VYaWxPWmJlbWlNTEtnN1NidzlEMFV2cXdZeGNPajVJRWxEdVN5b2lQN21CcWJUUkQ1WmRPSk15MFpRNElB?oc=5",
+      "snippet": "The audit firm\u2019s AI governance playbook: Policies, approvals, and guardrails that actually work Thomson Reuters tax",
+      "published": "2026-11-05T08:00:00+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-08T15:23:55.546429+00:00"
     },
     {
       "id": "bbaa30e07bb9",
@@ -680,6 +756,22 @@
       "first_seen": "2026-11-04T15:43:29.484728+00:00"
     },
     {
+      "id": "479ba5a64bfa",
+      "title": "ECB raises the bar on AI-enabled cyber resilience",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORU1YbmRha2FaZ1kyd1RucHhwSno2UWpaNkUwTmJNWGRXOXdtSDhZbVNPdzQ5MEhQZ09Qc2Rjd084aXd4WDRhYUpXUnlDa2NOLUViaElEMlV3bHhwSFEtNUtzNzV2ZHN2bnowMlAxbHUyMW9UTmFabm5FU0plN0F0TUlmZFJDRFkxSnp3RGxXaG5ZU2Z5dG1lM3hiVzlMS2s5S0lqT0dLcWM5UHNyNGZBOWVVYw?oc=5",
+      "snippet": "ECB raises the bar on AI-enabled cyber resilience kpmg.com",
+      "published": "2026-11-03T15:41:33+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-08T15:23:55.546429+00:00"
+    },
+    {
       "id": "7ceb9cc6be71",
       "title": "Clark Launches Clerks\u2014Autonomous AI Audit Employees That Join a CPA Firm\u2019s Team",
       "publisher": "CPA Practice Advisor",
@@ -943,7 +1035,8 @@
       "title": "IRIS Expands Accountancy Portfolio with Launch of AI-Powered Document Management Solution",
       "publisher": "CPA Practice Advisor",
       "seen_in": [
-        "CPA Practice Advisor"
+        "CPA Practice Advisor",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMllneXpGVE5KMVotS0UwSDdBc3FIdDFQY1hlOTh5OFY0VEc3ejdOTXpXMlpPMWxfc0Z4amYzRkxsODVEZ2pGZjVnaFhpTDVvYkpBeWlnSVEtTHhvci1hMWxhTG9pd2pQVW9zQ3dSbWQ5dkhVNWRfRUhkMXg4RS1PSFA5aGNGNi1ZektUeEROZDVRZ2tKcGljcU55OENlam1KOFRGbFFrUk5uVFJZMXlobldvNV9nYXJrb2R2SHQzRHRHSlVwakVuTmlMMm9zaVF0YmpYTDhMX1Y0SFE?oc=5",
       "snippet": "IRIS Expands Accountancy Portfolio with Launch of AI-Powered Document Management Solution CPA Practice Advisor",
