@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-08T15:23:55.546429+00:00",
+  "updated": "2026-11-09T15:48:25.451694+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,153 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "EY rolled out agentic AI for audit, while the ECB and Thomson Reuters focus on the risk and governance side of AI. Know the tools and the guardrails.",
+    "quick_take": "Today's stories point to a profession adjusting to AI: firms are training for critical thinking, and commentators stress verifying client numbers and managing AI-related risk.",
     "standouts": [
       {
-        "id": "92fd2967ab95",
-        "title": "EY launches enterprise-scale agentic AI to redefine the audit experience for the AI era | EY - Global",
-        "publisher": "EY",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2RwemhMMTdRUm5xZFByUnVnMl92QmlZT0ItV0pPdWx0NTFubmxVQTV2Q21wbEVjS2RxSEs1a0VxVzBTQ1J3R0xYRTRLNEVhME9DcmI0WmR2a19vVmwwUUUxQWJ1cmFEaU85Qm96MjFadGw3UXYzYXZoRXp5NVUyUExSMTI1TWY0SDNBQ3hud1dHRW0tWVE2S0dER3BET01iQ25nMF9zczB5cW8waVAxZXR3?oc=5",
-        "why": "EY's enterprise-scale agentic AI for audit signals how Big Four audit work, and your day-to-day tasks, may change. Good interview material."
+        "id": "ba2b5aca495e",
+        "title": "PwC US to Roll Out Certification on Critical Thinking in AI Era",
+        "publisher": "Bloomberg Law News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1gzWUN2UWNaYl9mejZmNHcwLWZyZjQ3b1ZXT2tDd2lXR0ctVUIzS0huSlFOSUFTa2I1QnBDaG9UQ0UxalZndFFFWW9rVW5pVVg4Y2loUVEzR2VYdmJWZnhieWxqRHAxV3M0dERMTkdWdTVYZVhiME5zRzJGOUkyMUJwM1llQUJGaFZyU0cxZnBuRGNjdVVSYTRVNU1oSXByZ3N2TkpuUkJTdm1hakpKcVVxbGE?oc=5",
+        "why": "PwC US is rolling out a critical thinking certification for the AI era, signaling which skills big firms want from new staff."
       },
       {
-        "id": "dff185e6ad9d",
-        "title": "The audit firm\u2019s AI governance playbook: Policies, approvals, and guardrails that actually work",
-        "publisher": "Thomson Reuters tax",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXoybXA2M0ZLS0FNQ1JPbUVJRkNqUGpKYzg2dXdSRnp1ZzRoRXRVUHdlbV9TRjFrUGZhelZPb19ISUdCTVpFQW9mN21MVnVtRjlJRHVvSlZWcVo1Z2VYaWxPWmJlbWlNTEtnN1NidzlEMFV2cXdZeGNPajVJRWxEdVN5b2lQN21CcWJUUkQ1WmRPSk15MFpRNElB?oc=5",
-        "why": "A practical look at AI policies, approvals and guardrails at audit firms, which shows the governance skills and questions to bring to the job."
+        "id": "d44524115a00",
+        "title": "Audit and AI - checking the client numbers matters even more",
+        "publisher": "Business & Accountancy Daily",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0NZUE80Yjk4SUVnYnJEcmM1Y0xlUW9VVUNRZlFnNEdNMUlWOW5qTVpzY095SjZvcUpHaHJxZW5KQmR1aDRLZm94WlFBMXlnUDZPejNDRFByejJhcndzWFBiMnNzb2wtckxhYjZWaW9ERG5NYnBHMDNFVWotakNKaHhPb1l3Yi1Gc0hsMlliMA?oc=5",
+        "why": "Argues that checking client numbers matters even more with AI, a useful point for audit interviews and fieldwork."
       },
       {
-        "id": "479ba5a64bfa",
-        "title": "ECB raises the bar on AI-enabled cyber resilience",
-        "publisher": "kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORU1YbmRha2FaZ1kyd1RucHhwSno2UWpaNkUwTmJNWGRXOXdtSDhZbVNPdzQ5MEhQZ09Qc2Rjd084aXd4WDRhYUpXUnlDa2NOLUViaElEMlV3bHhwSFEtNUtzNzV2ZHN2bnowMlAxbHUyMW9UTmFabm5FU0plN0F0TUlmZFJDRFkxSnp3RGxXaG5ZU2Z5dG1lM3hiVzlMS2s5S0lqT0dLcWM5UHNyNGZBOWVVYw?oc=5",
-        "why": "The ECB raising expectations for AI-enabled cyber resilience shows regulators are tightening AI risk and controls, which affects what clients and auditors must address."
+        "id": "dc9b1fa69a2d",
+        "title": "Your client's AI subscriptions are a practice risk",
+        "publisher": "Accounting Today",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSW92MFdraDNkb0dha2FoT2dQYUl1YXQtWVktUDV5blk5Sm1DS3N1Q1VfWUVTTFludnBXSmhqQUVfX0U1VWt1ZDN1SVZkdUhST1VlRjJ2aXdaaUZTVDN4Q3FucDBHM3ViZXJscF9hR0Y1eGRRT2ROSmg1bUxZZGJFUEt2Wm9nYllRWWJCUHh0Vk41dUk?oc=5",
+        "why": "Flags clients' AI subscriptions as a practice risk, a controls and risk angle you may meet on engagements."
       }
     ]
   },
   "stories": [
+    {
+      "id": "578b00da706c",
+      "title": "Meta Builds AI Sales Team, Enlists Accenture, Deloitte, IBM",
+      "publisher": "FourWeekMBA",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUg2dUxJVURqVTFQRGdZdVA5QW5FVXI5RFF2RzM0RDl5OWR1OVRVdGdqN3NQbklmUG1FMnBIeEZsMVJFbHhUMDlyLUpxQ3JiX2FsdzAtVW9aTjRvOFRUemJNdEtYM05sVXJ0Q2tzbDEyWFJNSVpSbVdRbGtZc3kyQjBqOXRDYVk5QVRsUQ?oc=5",
+      "snippet": "Meta Builds AI Sales Team, Enlists Accenture, Deloitte, IBM FourWeekMBA",
+      "published": "2026-11-09T14:38:50+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-09T15:48:25.451694+00:00"
+    },
+    {
+      "id": "dc9b1fa69a2d",
+      "title": "Your client's AI subscriptions are a practice risk",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSW92MFdraDNkb0dha2FoT2dQYUl1YXQtWVktUDV5blk5Sm1DS3N1Q1VfWUVTTFludnBXSmhqQUVfX0U1VWt1ZDN1SVZkdUhST1VlRjJ2aXdaaUZTVDN4Q3FucDBHM3ViZXJscF9hR0Y1eGRRT2ROSmg1bUxZZGJFUEt2Wm9nYllRWWJCUHh0Vk41dUk?oc=5",
+      "snippet": "Your client's AI subscriptions are a practice risk Accounting Today",
+      "published": "2026-11-09T14:24:00+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-09T15:48:25.451694+00:00"
+    },
+    {
+      "id": "a5356c106495",
+      "title": "AI and the culture of your firm",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KVzNPTGNkY0hna3VkWUxaMTh0N3dIOFRyRjV1ckFFN2V0VU9XN29aNzdCbEV1U2g1dzdrSlcyWUhKQXBEczJjaVZsbWYxR3YzVEdHZExNVExzLWRueDBjNGhzOVhXTk16TWNpNmMzZWtUVURlZzFKM1JlWQ?oc=5",
+      "snippet": "AI and the culture of your firm Accounting Today",
+      "published": "2026-11-09T14:10:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-09T15:48:25.451694+00:00"
+    },
+    {
+      "id": "ba2b5aca495e",
+      "title": "PwC US to Roll Out Certification on Critical Thinking in AI Era",
+      "publisher": "Bloomberg Law News",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1gzWUN2UWNaYl9mejZmNHcwLWZyZjQ3b1ZXT2tDd2lXR0ctVUIzS0huSlFOSUFTa2I1QnBDaG9UQ0UxalZndFFFWW9rVW5pVVg4Y2loUVEzR2VYdmJWZnhieWxqRHAxV3M0dERMTkdWdTVYZVhiME5zRzJGOUkyMUJwM1llQUJGaFZyU0cxZnBuRGNjdVVSYTRVNU1oSXByZ3N2TkpuUkJTdm1hakpKcVVxbGE?oc=5",
+      "snippet": "PwC US to Roll Out Certification on Critical Thinking in AI Era Bloomberg Law News",
+      "published": "2026-11-09T13:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-09T15:48:25.451694+00:00"
+    },
+    {
+      "id": "720f27bac1d7",
+      "title": "Intuit stock advances AI platform for accountants and businesses",
+      "publisher": "ad-hoc-news.de",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUUg3eWdQUVowOGc1ZzJiRW5OM2dKVkNtd2Q2UFp0QjJNRUtyX2VsOTRGelF5cUluNkVNdlhVUFpQTlllZWtjQTZKX2NEekNDS0IxLWxHVEo0YW83VDU1NzlXSTVjdlJnZEU0NGpRZmREd1Bkd3BCdklScTlTMXdrUUZ6WldSSHlkLUw2ZURCWnU5MUpFakh2d2lQUzBGWm4wQlhzbll5OWtscHIySl9RMm9oN3Yzd3oydmp1RlNQdDZxZ19mMHc?oc=5",
+      "snippet": "Intuit stock advances AI platform for accountants and businesses ad-hoc-news.de",
+      "published": "2026-11-09T12:55:58+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-09T15:48:25.451694+00:00"
+    },
+    {
+      "id": "d44524115a00",
+      "title": "Audit and AI - checking the client numbers matters even more",
+      "publisher": "Business & Accountancy Daily",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0NZUE80Yjk4SUVnYnJEcmM1Y0xlUW9VVUNRZlFnNEdNMUlWOW5qTVpzY095SjZvcUpHaHJxZW5KQmR1aDRLZm94WlFBMXlnUDZPejNDRFByejJhcndzWFBiMnNzb2wtckxhYjZWaW9ERG5NYnBHMDNFVWotakNKaHhPb1l3Yi1Gc0hsMlliMA?oc=5",
+      "snippet": "Audit and AI - checking the client numbers matters even more Business & Accountancy Daily",
+      "published": "2026-11-09T08:55:05+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-09T15:48:25.451694+00:00"
+    },
+    {
+      "id": "28afee90ce85",
+      "title": "AI Accounting Unicorn Rillet Launches in UK Following $100M Series C Raise",
+      "publisher": "FF News",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNclIwU1NyaDVHWUhGVlhHNkEzSGtkcW9wekRJVHZRVUtQY01IbXllb0R0d25PRDBSZ3Q0LTVWZXRGLWZ3T1N6c3V4OVpmcG95VVB5N0p2ZXJYMUwyZnJxZWZRMVMzZmV3bmJrRmlhZzlfcjVUTVNtOEVndXFfNzhXOGVENVROdDItNmIyRnlUbFloWndXTmVGUWQxaDU?oc=5",
+      "snippet": "AI Accounting Unicorn Rillet Launches in UK Following $100M Series C Raise FF News",
+      "published": "2026-11-09T08:44:33+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-09T15:48:25.451694+00:00"
+    },
+    {
+      "id": "c644556e6dab",
+      "title": "How AI is transforming SaaS: A CIO guide",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2FnUGQzVy1TcUQ3SHMtSHp1RVR5Vmx5TGF1WElxYklFV0Fidkh4MEV4c3VGYnJQLUROMWNZR2JTM3ctNVpjZ0tEcjJZVDVFOExKTXlIV1dxVVdxTDk2TnQ4WFd5X3lXb0ptcXhoTmw5VGlPZHFVSGlzaW1FZWVVdGloZFh6QkV2WVlZamZGV2tkd3BUOEZxXzhmOHU4SzdLQnk0?oc=5",
+      "snippet": "How AI is transforming SaaS: A CIO guide EY",
+      "published": "2026-11-08T16:46:42+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-09T15:48:25.451694+00:00"
+    },
     {
       "id": "eb91e214290a",
       "title": "From megawatts to margin: AI in the Gulf enters its second phase in 2027",
@@ -200,6 +321,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "e2ce3960f36b",
+      "title": "The State of AI in the Enterprise",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkItT1BackpFcWh3NlpHUmdWYjR2Q2ROUjhWTWY4bVhuWjBPd3JVdkRRb2tGWDQ5M2xpTkV5U1YzWG1SbEU1LWdpT1RYcjF1SWtTc2dKdk5QdTlwY3hheXdOOXlRY0sxZWs1UF9CTV9iTkNvSUhXZ2F1bzREYlJTS2RtSTNHOXBaMTdqTVhCOXRxSkVrSDVVMmVBYjV1TUE?oc=5",
+      "snippet": "The State of AI in the Enterprise Deloitte",
+      "published": "2026-11-06T08:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-09T15:48:25.451694+00:00"
     },
     {
       "id": "5689b5f4c731",
@@ -892,6 +1028,36 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-06T15:36:14.790374+00:00"
+    },
+    {
+      "id": "77a1a1c91108",
+      "title": "Transforming Insurance with Data and AI",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenZkejU3QVZvTmQ2aWllX3FPSzJjMjViU2d3VTI0d2F2QVN3VThnazQ1ODdCSDFGMURWLXBOWlpRN1E3Yjgxek00aUNaMjJhc05odTVIQUZvWFNEc2taUUFLYXNGaG02aXRVaENBZVJaMExmZlFXNWlBM05MSFdCTW9CTS1VLVU0NXYxbXJFcUtaMUdIT2k4dnFiZmpBQ1gwWmlKWUpyRjVZZ0JfQWc?oc=5",
+      "snippet": "Transforming Insurance with Data and AI Deloitte",
+      "published": "2026-11-03T08:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-09T15:48:25.451694+00:00"
+    },
+    {
+      "id": "dc8fe0d56437",
+      "title": "AI\u2019s hidden costs",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wMkFkZTl3QjVyZGE5b01lMFJwSUNhanBXcEVjaThqdkhJTkRsTGlwV1FKLVZQVk9iSTZBOWM1clZxZ0cwZ2VJNlhXY3ZQcGRJTDM0TS1YTzhzTjIyamhKb3l3bklvLVJEVzA0bzJFOU5kTzJoUE13Mzlpdkg?oc=5",
+      "snippet": "AI\u2019s hidden costs kpmg.com",
+      "published": "2026-11-03T08:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-09T15:48:25.451694+00:00"
     },
     {
       "id": "aef245183a4a",
@@ -5395,21 +5561,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZE4xcUNJZnY0YTllOWNYVEMyQlhja01UODNYbEM4TEhwUzR3QUpNRGc5alduUEVNRlVpWUdGdVctb1J5bXRRaFg3ZG4xcWRVWmI4VXJPb1pyblVsTFZYWG9TTENkelRwOWJ1WVlaODZiWU9MWUFiOTlyQVR2czR5bE9jLVZMMUc1Xy1remUwcXBobWN0RVg0RjVn?oc=5",
       "snippet": "UK CEOs report AI productivity gains EY",
       "published": "2026-10-12T05:42:34+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "32f6a6e6bcc5",
-      "title": "2026 Global AI in Finance Report",
-      "publisher": "kpmg.com",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdFpkUmUwLWRVUGpLTVZRWDloQ3lmTUk3SG1xRU93RGI2ZFRwQjFIaGVFd1dxcVlDLW95Tko1Sk5xMzNpcUVuVWtTT0ZCUFFkdlhtOWxoaDQxSUxKaW1mU3VTdzFqSVNyY0RzV1c4WldjcWhYNmlpYjFheDZJVnhGZTJfYVRaQTV2V0t5dDZOYjE1c2xWMlRIQw?oc=5",
-      "snippet": "2026 Global AI in Finance Report kpmg.com",
-      "published": "2026-10-10T00:27:44+00:00",
       "themes": [
         "Firm tools"
       ],
