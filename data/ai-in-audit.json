@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-09T15:48:25.451694+00:00",
+  "updated": "2026-11-10T15:34:03.755356+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,294 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's stories point to a profession adjusting to AI: firms are training for critical thinking, and commentators stress verifying client numbers and managing AI-related risk.",
+    "quick_take": "Big Four firms are leaning on AI while stressing human judgment, and boards and CFOs are being pushed to govern the risks. Entry-level auditors will be expected to think critically, not just process data.",
     "standouts": [
       {
-        "id": "ba2b5aca495e",
-        "title": "PwC US to Roll Out Certification on Critical Thinking in AI Era",
-        "publisher": "Bloomberg Law News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1gzWUN2UWNaYl9mejZmNHcwLWZyZjQ3b1ZXT2tDd2lXR0ctVUIzS0huSlFOSUFTa2I1QnBDaG9UQ0UxalZndFFFWW9rVW5pVVg4Y2loUVEzR2VYdmJWZnhieWxqRHAxV3M0dERMTkdWdTVYZVhiME5zRzJGOUkyMUJwM1llQUJGaFZyU0cxZnBuRGNjdVVSYTRVNU1oSXByZ3N2TkpuUkJTdm1hakpKcVVxbGE?oc=5",
-        "why": "PwC US is rolling out a critical thinking certification for the AI era, signaling which skills big firms want from new staff."
+        "id": "939bbbd71501",
+        "title": "PwC to Train 85,000 Staff in Critical Thinking as AI Reshapes Work",
+        "publisher": "https://www.big4news.com/",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56bnE4Um1iZlp1VmRTUnh3QWJyLXRmV1BVWTJXX21iRjIycW5MX2lBU0V3ZEloZkxQSGhuNUFxOTdFOWRQSFVWUm5ENkNOR1hQS0JQcjYyY0FsZ19qamdQNk4zc2NLZkpvdkRDRTFCUmgyNzZj?oc=5",
+        "why": "PwC is training 85,000 staff in critical thinking as AI reshapes work, signaling the judgment skills firms want from new hires."
       },
       {
-        "id": "d44524115a00",
-        "title": "Audit and AI - checking the client numbers matters even more",
-        "publisher": "Business & Accountancy Daily",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0NZUE80Yjk4SUVnYnJEcmM1Y0xlUW9VVUNRZlFnNEdNMUlWOW5qTVpzY095SjZvcUpHaHJxZW5KQmR1aDRLZm94WlFBMXlnUDZPejNDRFByejJhcndzWFBiMnNzb2wtckxhYjZWaW9ERG5NYnBHMDNFVWotakNKaHhPb1l3Yi1Gc0hsMlliMA?oc=5",
-        "why": "Argues that checking client numbers matters even more with AI, a useful point for audit interviews and fieldwork."
+        "id": "ab5a01a20953",
+        "title": "As AI reshapes the workforce, boards face a governance challenge, says Deloitte Global Survey",
+        "publisher": "Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTTBzcS16VjEtaUotY2NaLWQ3amxZelBGRUdPc2EtQ2E0Y21FdkxScC0zYTNUZ2hwcm81cUhfYVRyNnltYVowTU5kenBWOTBsN2hsdmhHdWRsd3hhTGVTclNfR1RZYUZOWkd2VTJLOEhDNmhnVm93YVZLT2JBa3dsXzY1UE16NlhCSTRmM2pKR3hRNy00c1VKWTdjYU4?oc=5",
+        "why": "Deloitte's global survey says boards face an AI governance challenge, useful context for discussing AI risk and controls in interviews."
       },
       {
-        "id": "dc9b1fa69a2d",
-        "title": "Your client's AI subscriptions are a practice risk",
-        "publisher": "Accounting Today",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSW92MFdraDNkb0dha2FoT2dQYUl1YXQtWVktUDV5blk5Sm1DS3N1Q1VfWUVTTFludnBXSmhqQUVfX0U1VWt1ZDN1SVZkdUhST1VlRjJ2aXdaaUZTVDN4Q3FucDBHM3ViZXJscF9hR0Y1eGRRT2ROSmg1bUxZZGJFUEt2Wm9nYllRWWJCUHh0Vk41dUk?oc=5",
-        "why": "Flags clients' AI subscriptions as a practice risk, a controls and risk angle you may meet on engagements."
+        "id": "05fd8c82fcbe",
+        "title": "CFOs must rethink AI budgeting as deployment risks grow: KPMG exec",
+        "publisher": "CFO Dive",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTDhSZDJfRk1Qc2NRTVZ2MUVmRXdiVWkzZmxmNFVwRUZhUUhILUhPSW1oekVDLWlLQzZBY0xxVHFuVGVxTFJCS0kxS3dLOWhqT3RrREEzb0Z0QXJsc0E1Tm5lUFotMGhKYWxESUVkdXBIWXJ6NlFLMzVFY0RFNW1QbTVpSWpqLUFlZ3NCTzJaUzQ?oc=5",
+        "why": "A KPMG exec says CFOs must rethink AI budgeting as deployment risks grow, showing the client-side risks auditors may need to assess."
       }
     ]
   },
   "stories": [
+    {
+      "id": "4b7e925c0a67",
+      "title": "Croner Intelligence launches audit & accounting AI assistant",
+      "publisher": "Business & Accountancy Daily",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kd2xIQ3pocjg3b3RmbkNzRWNOQVNTR1VoUFFMZVNOV01xWi1FUEhodVo5UzNEZjVqLURNVGFyMGpuRm45OHlScloyTHZLenFlWU5vWV9n?oc=5",
+      "snippet": "Croner Intelligence launches audit & accounting AI assistant Business & Accountancy Daily",
+      "published": "2026-11-10T15:29:12+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "a2f185770696",
+      "title": "2027 Accounting Industry Predictions: Bennett Thrasher CEO on AI, Talent and the Evolving Business Landscape",
+      "publisher": "PR Newswire",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORzNPbjZWS0NVR09pQjhkbXVVLVR4OXFBeTE4TTVZbnpzOTNxdWVCQThQTnYyamNWUlFjNmZ1MmdLbEJJSmFqMzFYS2w5WFRrX0ZKMFdZdHp4Y3NSbXExaUxya3FjWG51UFJlekd0bDJmTTQyMkRPb1NVSTk1OHZoakprdXdXSlJEbnpzOUdZS19tMlhIVkJwS21EVnF1UWg3cjU1UlIxbW1NSWc1amZ5VjZ0UzB1MHVxaU11QVgzRnFaQ3hEOFFLSzdJVUNnMHpqelBRMWR1N0VCUklhd1V2Z2Z4LWhVaEMwVjJGVVNQaVU5bk5a?oc=5",
+      "snippet": "2027 Accounting Industry Predictions: Bennett Thrasher CEO on AI, Talent and the Evolving Business Landscape PR Newswire",
+      "published": "2026-11-10T14:07:00+00:00",
+      "themes": [
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "55610dbb88dc",
+      "title": "Artifact AI Names Rafael Casas Head of Deployment",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2xWLXVmS2R4RGcwSnpWOGtnakcyNlFwRzVYZkhIWXAta2NRQkdUdE1TT3lvOFdJdmU5TkY2MFhEMWg5OXdpdlVxUEdhYTV3QWJJTWhNbGRJdGFEamM3S2FnRVZWR1o5YXdNT0daNDdyZ1VhcVJad255UHhOWDdEcWxnc3ItcDA3bU5ZTDFweG9vN0JIeUtzTFBDQmZBNmtxdWZLM1Zn?oc=5",
+      "snippet": "Artifact AI Names Rafael Casas Head of Deployment CPA Practice Advisor",
+      "published": "2026-11-10T13:25:57+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "28129e0c2592",
+      "title": "Furever Bookkeeping Mobilizes \"Audit Defense\" Unit to Counter Surge in AI-Driven IRS Enforcement on Mid-Sized Businesses",
+      "publisher": "EIN Presswire",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSzFfY3ROanBjNldfWDVlVlR3SFNxa24xd1VzMjNVTHM1UjhKbkg2RGtXNlJHaEdJTFNORUp0d3FGZUl4QjBLV3VyNDJONXM5WWttNXBBT2pkRFY2SzJZcHR3QmdZVk1tTjBPbGxXOVFIVUJlRG1aUHhPb3ZIMGpqa0tFX3BzdlgydDBHM0JFM0ZaWFltSUhyUG04cHhiWGZnNFhFQkc1a3Y3S2lNLTYxSTJzWGF5eFFrWVJXcnl3a1Z4YU1hWDFKM0g0b3VoUXROeHdWdGpSVjA0V2NUYnNIQXNWeWZZMld6d2d4VndFRUNya3NqVnZOaw?oc=5",
+      "snippet": "Furever Bookkeeping Mobilizes \"Audit Defense\" Unit to Counter Surge in AI-Driven IRS Enforcement on Mid-Sized Businesses EIN Presswire",
+      "published": "2026-11-10T13:00:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "939bbbd71501",
+      "title": "PwC to Train 85,000 Staff in Critical Thinking as AI Reshapes Work",
+      "publisher": "https://www.big4news.com/",
+      "seen_in": [
+        "PwC",
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56bnE4Um1iZlp1VmRTUnh3QWJyLXRmV1BVWTJXX21iRjIycW5MX2lBU0V3ZEloZkxQSGhuNUFxOTdFOWRQSFVWUm5ENkNOR1hQS0JQcjYyY0FsZ19qamdQNk4zc2NLZkpvdkRDRTFCUmgyNzZj?oc=5",
+      "snippet": "PwC to Train 85,000 Staff in Critical Thinking as AI Reshapes Work https://www.big4news.com/",
+      "published": "2026-11-10T12:53:35+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "ee20cde8e237",
+      "title": "When AI Falls Short, Only 8% Blame the Technology, Latch Research Finds",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2YxTEZWdWYtZTg1enlJc3NOUEVYanc1SGZTeTcwLU5aaG1LQTNtb29MczgzXzZhUWprUDUxSUtVTl9YdUR6ZDJ0dXlyMDdZRm9GWWZTSFpFOVY5MUo0Y2xMUGxFamFPR0JYcXU3b2YtTFZTZ2FXYkFRUF9YajZyM08tU2twa1NjTWhZdVYyU3VnNkZlbkRpcUZhUGcwLWZ0dXR6SURjaUlQWnYyTGdLZHZGeXdwNW5ZSGhMVV85RQ?oc=5",
+      "snippet": "When AI Falls Short, Only 8% Blame the Technology, Latch Research Finds CPA Practice Advisor",
+      "published": "2026-11-10T12:35:50+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "ab5a01a20953",
+      "title": "As AI reshapes the workforce, boards face a governance challenge, says Deloitte Global Survey",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTTBzcS16VjEtaUotY2NaLWQ3amxZelBGRUdPc2EtQ2E0Y21FdkxScC0zYTNUZ2hwcm81cUhfYVRyNnltYVowTU5kenBWOTBsN2hsdmhHdWRsd3hhTGVTclNfR1RZYUZOWkd2VTJLOEhDNmhnVm93YVZLT2JBa3dsXzY1UE16NlhCSTRmM2pKR3hRNy00c1VKWTdjYU4?oc=5",
+      "snippet": "As AI reshapes the workforce, boards face a governance challenge, says Deloitte Global Survey Deloitte",
+      "published": "2026-11-10T08:35:21+00:00",
+      "themes": [
+        "Firm tools",
+        "Regulation & standards",
+        "Risk & controls",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "b638c87d3af2",
+      "title": "Sumary Raises $25M for AI Accounting in Europe [2026]",
+      "publisher": "shattered.io",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGh2TkJpaXd6cGlpNzU3TXV3TFRjMEJGN1ZYbHQ4VS1fNHBhNmNoMFNlME9YRk0yU1pITzZIRFlNOFg4WHFBcFg2YUVielh5OFdiUzkzWHotYlR5Y1k2VlNMMUlfa3pMNU5nQ0prbC12c2w4eV9zbXU2aUNlbUJGdk5yMDM?oc=5",
+      "snippet": "Sumary Raises $25M for AI Accounting in Europe [2026] shattered.io",
+      "published": "2026-11-10T08:29:45+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "d71bdf9df5b2",
+      "title": "Board governance of human capital in the age of AI",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTmpqNWRBb2VCM3dMREtSTXBMRFdycnJhZUZKdFRlOHVNdWJ2Z3RRZ1UwLU5DNlluaGZVbzJMVDNiM29fNy1WaXVFaFBBaDFkUmZ1dXhvcUxlWHlxMDJ4X0gwcnJzdURTQWl6SmQ0ejlnU01TV1NrTVdkaUp3eUxyQTdtWWlhSGxLMjhYSTBvdGJHRGhKZ2FpR25NNV82TFl0SXBaazNR?oc=5",
+      "snippet": "Board governance of human capital in the age of AI Deloitte",
+      "published": "2026-11-10T04:41:40+00:00",
+      "themes": [
+        "Firm tools",
+        "Regulation & standards",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "7a11dbbcc0c1",
+      "title": "PWMA and KPMG Survey Finds Rising Hong Kong Wealth Booking Demand and AI Adoption",
+      "publisher": "Hubbis",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTdKUUpka01OeG95ZUZueHdmMzNQWXdzdHlRWHdPTGNhMjhSbERwYXlBNWgzMlVEcGprdHVpRktNYjI2YXpydEpaeWdoSW5heEhlX2NvcXI5T0RJUEZEZy03OXR0OG5yMnFycnZxYTBpcVQydkZoQ0QxekV3V2ZUR3hTZzFQNXBqX0RYeUVySUxhUVdLYWJRU0tPTmhlRUNnaW8tV3JIUnhSNVBWRHc?oc=5",
+      "snippet": "PWMA and KPMG Survey Finds Rising Hong Kong Wealth Booking Demand and AI Adoption Hubbis",
+      "published": "2026-11-10T01:37:01+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "0df486446781",
+      "title": "Rillet Expands into UK, Challenging Legacy ERP with AI-Native Accounting",
+      "publisher": "Korea IT Times",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QZDJDcVloei1mYWJ1Z092a05LeUw5M0pCbTdyTFFKQnJ4cXVyM0Z6RHFLaFVtVlFlX3Zsc25PYzhrUFRfS3BBNWR4NVFKb1NMRVNsemtiZThOM0k2My1SWS1KekJkdkhXbVp2UERmVFQ?oc=5",
+      "snippet": "Rillet Expands into UK, Challenging Legacy ERP with AI-Native Accounting Korea IT Times",
+      "published": "2026-11-09T23:27:22+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "31cc896a73f0",
+      "title": "Numica raises $21M to buy firms, put them on AI platform",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbU4zejk2NXhEQnZBenk2eHRFZE9FSFNRbjRDZDcyb2Y0UjRnWnRKOU1SN2JtYnhUNXZPRUtqN2dwaHBxRmdSRFlWM1pOUFF3U1ZYOVlMTkxHaVVqRE9ZTVVLTVJwWWlpUUx3S251aWRKRmgyM1pMOWgxWGE4TU5lMTJ1TVpyY2dnemZvUXlFMVNwZXItZGZqSE8xSVF0SzFVQkpIci1aVjd0cFU?oc=5",
+      "snippet": "Numica raises $21M to buy firms, put them on AI platform Accounting Today",
+      "published": "2026-11-09T20:54:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "47b6ff1ad045",
+      "title": "AI-powered GIS remediation for ArcGIS Utility Network",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXlmV1NMLVpHX25CbHE4UEdGY0VUbV9MWUNjSTFhd0NUY3BGcW5PdE5GQnZWWDFSak1ia01yTkxPN000TGZxNk5CaFVFcDFmWk5hYWRpalBOZW1ycjBRYTB2STNZdEhZd2Noa0RSVU91MVY1Z1c4Nkxtcm1rYWY4TUV1RTN4clN4RExJYWxBb2pRVkZUOHdqNA?oc=5",
+      "snippet": "AI-powered GIS remediation for ArcGIS Utility Network PwC",
+      "published": "2026-11-09T19:12:06+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "d369b3b85631",
+      "title": "How PwC is strengthening critical thinking and judgment in the AI era",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2otM25HWm5fNEpiazhfaWYtWXR1ajlzRW9RRnkxVnQ3dEtZNTdzN1pNQ3NESmhRVTZfLWJnbFN4U0g3Z1BlQWVMNTVmQ1JNNHhPbDVNWnRRODAzQ05ibXFaMlhYaWk4TjlMS0ZFUC1NZlE0LUo1TXdTZ3NmdjJMNC1sQ0tGUFZqcTA5SWpRSUwxRGd6OGZHUlhldWRDNnpE?oc=5",
+      "snippet": "How PwC is strengthening critical thinking and judgment in the AI era PwC",
+      "published": "2026-11-09T18:17:37+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "6ab6809babc7",
+      "title": "PwC's CISO on AI, Robots & What's Next for Security",
+      "publisher": "Dark Reading",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSkFrWlN4b0pRbU14MFBsREd3S0o0Wjd0SHVTa0MtdFRIRzM1bjlkVFppSGZzSG1tSkpCOEExa1pSeEVybU5XVzBPWXkwREdTS2ZtcHpOWV95eExBaVBJY0FqR3F6ZF9OQWVkbjVJbTFqWms5Z3NqU2h4NnpSUmtaNG4zZnphWWs?oc=5",
+      "snippet": "PwC's CISO on AI, Robots & What's Next for Security Dark Reading",
+      "published": "2026-11-09T17:27:11+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "e00654744643",
+      "title": "Intuit stock expands AI platform across accounting software",
+      "publisher": "ad-hoc-news.de",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnRackJlUXFoT1licXNjUzhZenplZG40SkMtd0tRVFdMV0pvX1F3TXlQampiRnFtRjNKQkhWTjg3YUhDUzRiTkpRbXJ4MWJJTUsxRDc5TXlXb19Ga1BYUW80bFREX05ScGx5SGZhUWd3eXBlc3ZRTjc2SUd4OEZ2Q3FaeTR5UjJMTVN2el9rdG5OQURBOU5jam5rcUZkQTdNMF9VU0VqV2xHbjN0Wmd6c19IQlRsQ1p4Tl8wNWx2MA?oc=5",
+      "snippet": "Intuit stock expands AI platform across accounting software ad-hoc-news.de",
+      "published": "2026-11-09T16:05:44+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "26bab02555f8",
+      "title": "Audit in the age of AI means client numbers matters even more",
+      "publisher": "Business & Accountancy Daily",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2xxTmQxUldKLU9JQjBVVFlyVzBJM1UzSkJhRnVqVTZMcUZ1eWJNTkpJUlF2YnkxLXBqQTR3WGhjbGJhVEN4YXpqYjYxTUdmQ1E2akFhYlNVWDZ2NmN3YmhlS2U1encybDA3MkRhYkE2UXNzNXVRdjlUWUttMlVYeVl3UlRDWnI4VjZ3?oc=5",
+      "snippet": "Audit in the age of AI means client numbers matters even more Business & Accountancy Daily",
+      "published": "2026-11-09T15:46:47+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
     {
       "id": "578b00da706c",
       "title": "Meta Builds AI Sales Team, Enlists Accenture, Deloitte, IBM",
@@ -65,6 +327,21 @@
         "Risk & controls"
       ],
       "first_seen": "2026-11-09T15:48:25.451694+00:00"
+    },
+    {
+      "id": "8a22497e36e6",
+      "title": "The Big Four's AI Squeeze: A New Consulting Battle",
+      "publisher": "https://www.big4news.com/",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yTTItTy1JUlpaSXNSSUM5YVJLUGcyVTFuMjN6UHdUWjQtYThTMGdSbkhIUjBNV1NfVTNYdDlfQkEyX0JxTTc3bUU5Sk5oSEhRLXlPWUh5U3JyQTZpYkFIVXBZMFNxREQtSFJEYW9ZbzE3Z1EyX2N0ZQ?oc=5",
+      "snippet": "The Big Four's AI Squeeze: A New Consulting Battle https://www.big4news.com/",
+      "published": "2026-11-09T14:16:29+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
     },
     {
       "id": "a5356c106495",
@@ -141,6 +418,23 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-09T15:48:25.451694+00:00"
+    },
+    {
+      "id": "05fd8c82fcbe",
+      "title": "CFOs must rethink AI budgeting as deployment risks grow: KPMG exec",
+      "publisher": "CFO Dive",
+      "seen_in": [
+        "KPMG",
+        "CFO Dive"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTDhSZDJfRk1Qc2NRTVZ2MUVmRXdiVWkzZmxmNFVwRUZhUUhILUhPSW1oekVDLWlLQzZBY0xxVHFuVGVxTFJCS0kxS3dLOWhqT3RrREEzb0Z0QXJsc0E1Tm5lUFotMGhKYWxESUVkdXBIWXJ6NlFLMzVFY0RFNW1QbTVpSWpqLUFlZ3NCTzJaUzQ?oc=5",
+      "snippet": "CFOs must rethink AI budgeting as deployment risks grow: KPMG exec CFO Dive",
+      "published": "2026-11-09T08:00:00+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
     },
     {
       "id": "c644556e6dab",
@@ -336,6 +630,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-09T15:48:25.451694+00:00"
+    },
+    {
+      "id": "98b7e668dd0c",
+      "title": "How industrial products CFOs can get AI investments right",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDdUUi0wcDlFSlQyV2Q5eXVDcHgyUVlxSTM2aFBTMXZ6MDB6Zm5nX2pnSTBTclNkQU91ZmJ5TTh0b2loa2hZMWRfVFpzcWJqYnh6eVdKX3ZRbTlnS096T3QzVTkyWlVqMktzLTkwaG42clJJN3o2WXZmWUhwVkNOSTZPTmxVcWpVamljdjQ1ZlBYcGhBNTRDb3A3ZXpyQjR3S0c2U25lcHR3U0xVYXp1OHR2MA?oc=5",
+      "snippet": "How industrial products CFOs can get AI investments right PwC",
+      "published": "2026-11-06T08:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-10T15:34:03.755356+00:00"
     },
     {
       "id": "5689b5f4c731",
