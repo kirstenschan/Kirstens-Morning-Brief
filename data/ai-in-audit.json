@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-14T15:26:46.508444+00:00",
+  "updated": "2026-11-15T15:27:56.622753+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,77 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Firms are pushing AI deeper into their work while the talk shifts to human skills like critical thinking, and to what clients pay for when AI cuts hours.",
+    "quick_take": "Today's news centers on how firms are packaging AI assurance and building AI capabilities, plus signs that AI training isn't landing with staff. There are no regulator actions in this batch.",
     "standouts": [
       {
-        "id": "0b85391555a9",
-        "title": "PwC plans to certify workers in critical thinking as AI changes their jobs",
-        "publisher": "Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeDh2NF9xRzNHcnBScWRGRVI2WHFXMEpuVjU3Ql8wNnlpYVRfQzNUaUp0X3M1d0JHaERIV082dFpXVmpBWm50WmdUT19KeHdwd0JteFZDNUVPWjEzbUczTnhKMDlfd24xczdFMkJ3U1A0SDRLdW9yTEQwTEwzaEhrQTJObEg2dVU1bzgzcEEtUmVrRFJWeDgxdUZlWVllU3ZNY3ZGam9R?oc=5",
-        "why": "PwC plans to certify staff in critical thinking as AI changes jobs, a hint at which skills firms will value in new hires."
+        "id": "07b325574e48",
+        "title": "How AI assurance builds trust with SOC, attestation and certification",
+        "publisher": "EY",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcHhfU2RNWXFkTmxwanlLSlU1NWhJYXNrY293b3MzTlowV2FsbTRLR2V1a1JWeVUwVERyZ216ZURYZzNsUmtJUTZzQUg4ZkxRb3YtZHpxemFac3A4VENNRXpTY2lYVmhrNFN4SjZMaEZnaU5LWjlfQmVINjZScng2VHpnZVJoVmpabmNoYnpNWGgyejFhZmVlRVU4TQ?oc=5",
+        "why": "EY's piece on AI assurance via SOC and attestation shows a possible new audit service area and gives you a topic to raise in interviews."
       },
       {
-        "id": "96c03f1f8cca",
-        "title": "If AI Cut the Hours, What Are Clients Actually Paying For?",
-        "publisher": "CPA Practice Advisor",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODVBWFFkVEEySXRuaXpyVVRjbkp5YzROSlg5UDJTYXVwdEZDekx4a1h4THA3anhiR2FMTDhzT3VFUWFFVmtaLXdiaGJ1ZXVlaVpsNWVTcFZUa0pWUVZRaDgwY0ZIanhLdXhPd1JsYlNSa2hZM1N3STlJYWtibm5lVGRudlBQdDlZMW9yejhlTjRuWjBsdVZ5eldkeTVzdl9VVUVXTkVENlVid2szaHJj?oc=5",
-        "why": "If AI cuts hours, pricing and the value of audit work are in question, which shapes how staff are measured and what you can say in interviews."
+        "id": "625805f5c701",
+        "title": "The 20-Point Perception Gap! HR Thinks AI Training Works, Employees Don\u2019t. New PwC and Cognizant Reports Show Why",
+        "publisher": "AICERTs",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRVVUbHJ6WmRRS0w4T09NTnI3c2VWTGoxTmlaNU5LQks1dXA3X0Fhdl9OR0FEMHd0cm9MaUhGWnB6NkFqVEV6NXBPUEZ4d1Myb2szNkxUamRmUlBfUDE1MWJFQ3JDVWdkdXMwdldVLU9XUVVuVThUbGFxalFEQTFWWUZQbGxHN1JvYXI1TzNKc0xLa0Y4Z0syS1Z5ZHRFYkJqckVBenVDal9SWkZ6b1pXSXh0SDR0bDRzTzlWU1I4OHNxdU9ReU1FR0hDVmpZNVR2UXlNcjln?oc=5",
+        "why": "PwC and Cognizant reports show HR and employees disagree on whether AI training works, which hints at what upskilling you may get at a firm."
       },
       {
-        "id": "c106303ed91e",
-        "title": "Is AI contributing to CPA burnout or making us more productive?",
-        "publisher": "Accounting Today",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUC01QUlNQndtTWVJQjlKNHBtdW9TZ3YzWGotc204SnFSWWxQSkh3bmw2NjkwdU9QMVZ2S1BHVUNJSFRJSUlmVFY4Nld1YzRIZ0xtLXZIaDByOU50NWVGUWZQdE9FX3hIbmtURDBOQXNaNUF5dkgtbnRpQzZWaGtWOWNKLVF0Q2pZaXJVOWZNNjV5MGRaSi1kVlVrY1JZU3puSExUdw?oc=5",
-        "why": "Asks whether AI is adding to burnout or boosting productivity, a realistic look at the workload you may face early in your career."
+        "id": "2ae9b0a1b1e7",
+        "title": "Deloitte Acquires the Business of Wavicle, Accelerating Data and AI Engineering Capabilities",
+        "publisher": "HPCwire",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTngtV1g3aG5tc2RIYS1qcmlsemlVWklYMjNGQy01X0FPSzd4NzVGbnpGYWFRVFJGTzl5OXdVMm1LNUpCZE1CTGZSZHg4NTFONFduS2pnXzV3bTUwb3gwTDFFM01CUjVxWXZDWERjMHpyMGgzWFhKZW94WTVYdWpGMTRmRFRCRmpFMlJQUmRlaXdLTThiUlB5cTl2TnlsNnpNVjNaLXRUa1gxc0ZtSXhoMU5YTGNaS3JsLW9Zc2NMZ2RPQ184dFEwcjRQZHU4TGRnZmZrUjR3Y0Y?oc=5",
+        "why": "Deloitte buying Wavicle's business signals big firms are investing in data and AI engineering talent, which shapes the skills they will want."
       }
     ]
   },
   "stories": [
+    {
+      "id": "e7dddb6e7c96",
+      "title": "The Future of Tax: Finance, Digitalisation and Artificial Intelligence",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU1pscEcwMlZtVklOaGdPYnZJM2NrdTE0VUtTa24tQVVLa05pMHdtUWFTSjFLU3JsaFR4eWs4WUxjdEhRNGhNMUF2T3RJOVlLVmxxRzM4aHlYSlNRTTNlLWh4aEJ4UlF0ZnNKbEFEV05hNGdtZUpZVVN0V1ZQQUxkVV9XeEtUQXJLcjZURjA2R2U3MjRGbklidUVJSndsSVpqamVKZVpyazZLRTd6RW56MzVUcHlLbXF1TEVJX3VudnV3SElKRHBVdVk4a2hjWEIxT2dBRzg0OA?oc=5",
+      "snippet": "The Future of Tax: Finance, Digitalisation and Artificial Intelligence kpmg.com",
+      "published": "2026-11-14T16:18:40+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-15T15:27:56.622753+00:00"
+    },
+    {
+      "id": "a66ddf6fc22c",
+      "title": "Perspectives from the Profession: How AI Is Changing Tax Payment and Reconciliation Workflows",
+      "publisher": "Inside Public Accounting",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVkJnRHE3VmxwMFdzbFdJR0Zvd2dERUFkUDBIRG0zaERwajNOd191SFVESW5jZ2daYUY4cF9md2hZaGJPN2VrTnNsOGJpNGJSYlh5SVNaa0w0a0VxMnVBQV9tclJrT1RyUHAzeGMyNy1xUU13U2haZ1NzcFZ3R1I5aHg0NF9tbWdRVl9XZmYzTlI5R08zQmoteXJLMFhnOEJPY01SUFNwS1dwM1dNdWd4X2tnbGRtX2tVTTlLTFNjMmVWd1Y5NUpoUlRPdzBqUXZaREdDUTJ3?oc=5",
+      "snippet": "Perspectives from the Profession: How AI Is Changing Tax Payment and Reconciliation Workflows Inside Public Accounting",
+      "published": "2026-11-13T22:54:55+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-15T15:27:56.622753+00:00"
+    },
+    {
+      "id": "2ae9b0a1b1e7",
+      "title": "Deloitte Acquires the Business of Wavicle, Accelerating Data and AI Engineering Capabilities",
+      "publisher": "HPCwire",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTngtV1g3aG5tc2RIYS1qcmlsemlVWklYMjNGQy01X0FPSzd4NzVGbnpGYWFRVFJGTzl5OXdVMm1LNUpCZE1CTGZSZHg4NTFONFduS2pnXzV3bTUwb3gwTDFFM01CUjVxWXZDWERjMHpyMGgzWFhKZW94WTVYdWpGMTRmRFRCRmpFMlJQUmRlaXdLTThiUlB5cTl2TnlsNnpNVjNaLXRUa1gxc0ZtSXhoMU5YTGNaS3JsLW9Zc2NMZ2RPQ184dFEwcjRQZHU4TGRnZmZrUjR3Y0Y?oc=5",
+      "snippet": "Deloitte Acquires the Business of Wavicle, Accelerating Data and AI Engineering Capabilities HPCwire",
+      "published": "2026-11-13T22:12:54+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-15T15:27:56.622753+00:00"
+    },
     {
       "id": "5bdc3a43d16f",
       "title": "Friday Footnotes: Deloitte Cuts Health Coverage, Raises Costs; Breaking Down AI's Impact on Tax Season | 11.13.26",
@@ -67,6 +112,22 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-14T15:26:46.508444+00:00"
+    },
+    {
+      "id": "625805f5c701",
+      "title": "The 20-Point Perception Gap! HR Thinks AI Training Works, Employees Don\u2019t. New PwC and Cognizant Reports Show Why",
+      "publisher": "AICERTs",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRVVUbHJ6WmRRS0w4T09NTnI3c2VWTGoxTmlaNU5LQks1dXA3X0Fhdl9OR0FEMHd0cm9MaUhGWnB6NkFqVEV6NXBPUEZ4d1Myb2szNkxUamRmUlBfUDE1MWJFQ3JDVWdkdXMwdldVLU9XUVVuVThUbGFxalFEQTFWWUZQbGxHN1JvYXI1TzNKc0xLa0Y4Z0syS1Z5ZHRFYkJqckVBenVDal9SWkZ6b1pXSXh0SDR0bDRzTzlWU1I4OHNxdU9ReU1FR0hDVmpZNVR2UXlNcjln?oc=5",
+      "snippet": "The 20-Point Perception Gap! HR Thinks AI Training Works, Employees Don\u2019t. New PwC and Cognizant Reports Show Why AICERTs",
+      "published": "2026-11-13T19:19:20+00:00",
+      "themes": [
+        "Firm tools",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-15T15:27:56.622753+00:00"
     },
     {
       "id": "45e5b91e2b45",
@@ -407,7 +468,8 @@
       "title": "Digital Transformation in Accounting: Two-Thirds of Companies See the Greatest Need for Development in AI Skills",
       "publisher": "kpmg.com",
       "seen_in": [
-        "KPMG"
+        "KPMG",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdFo0SHZjRGxPbEVUWGlINWZSSmlOdXFEeHhsNzdYOUlpb29jZEtPbjQ3Sl82ZGRsdWdwSmM3bmZZLUYwMEZCckJ0LWE0ZzhtbGp3bFJGTjE4ZXpVN2JRU3FEUGQ0c2JBc1ptSThfTVBLeUQ0LVY3TzRNUXJ1SWxrWGZEdDhmZ0VBdWZER1NpM29pbkRJRllWcGd3aFpCNHBBSHRLNlZneE1oMUR0bEdqQXE0cGp5c2NrOG52bUpnUWhxVGVoOHE1YlpudjZGMjFKX0thNm5BdTQ3WmFPd0tSa1JUMGcydWVTN056YVpHbW42ai1HOHZieFpGSWY?oc=5",
       "snippet": "Digital Transformation in Accounting: Two-Thirds of Companies See the Greatest Need for Development in AI Skills kpmg.com",
@@ -592,7 +654,8 @@
       "title": "Measuring the true capacity of AI seats",
       "publisher": "Accounting Today",
       "seen_in": [
-        "Accounting Today"
+        "Accounting Today",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRnB3T0hEN2d1RG40ek93ZC0tWUlfR3ZpczFjc2FIQXdyckFXeko0OUhIcHQ5RUtyREhoS05QQmQzeWZZaF90SzNLVTZuM2xhRUM4VWFlVFBjSGhxSV9uWk9rMldtal8zdDByakdRd21FVjFvdW1WQWNKY1hYejVTRFB6MUJidw?oc=5",
       "snippet": "Measuring the true capacity of AI seats Accounting Today",
@@ -753,6 +816,21 @@
         "Other"
       ],
       "first_seen": "2026-11-11T15:37:24.939781+00:00"
+    },
+    {
+      "id": "c580de89df1c",
+      "title": "AI use for Black Friday deal searching stalls",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNldqYTVkTzNIWi0tUlM0Q1drQnQ2cjlyd1dHM2VNLWNYcHZGMlhBamhxcm1RVUszWF9WRzdVVEs0X1o1VGZtSVR0SDV2aE1TTVliZ3NBUldoZ01yWDJYSHAyZ1VYVVJzUnVveVk5Y0U0WThwZG5vZWFsei1UaDZmRUhIZjZYUWtyMjNuZW5PVEFGNUZRS1AySFlYR2x1WE1BaGV5Yg?oc=5",
+      "snippet": "AI use for Black Friday deal searching stalls kpmg.com",
+      "published": "2026-11-10T18:29:48+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-15T15:27:56.622753+00:00"
     },
     {
       "id": "f5cd224c77fb",
@@ -1092,6 +1170,22 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-10T15:34:03.755356+00:00"
+    },
+    {
+      "id": "07b325574e48",
+      "title": "How AI assurance builds trust with SOC, attestation and certification",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcHhfU2RNWXFkTmxwanlLSlU1NWhJYXNrY293b3MzTlowV2FsbTRLR2V1a1JWeVUwVERyZ216ZURYZzNsUmtJUTZzQUg4ZkxRb3YtZHpxemFac3A4VENNRXpTY2lYVmhrNFN4SjZMaEZnaU5LWjlfQmVINjZScng2VHpnZVJoVmpabmNoYnpNWGgyejFhZmVlRVU4TQ?oc=5",
+      "snippet": "How AI assurance builds trust with SOC, attestation and certification EY",
+      "published": "2026-11-09T17:23:10+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-15T15:27:56.622753+00:00"
     },
     {
       "id": "e00654744643",
@@ -5345,280 +5439,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMbi1NVUJlb1J4TXNwa2Y1WkFrcno2cXlKLWJpSWROa0pOeWZQeVVnam1fMDNQTzdmdmxTS2VHMzBEWjcyTmd5LU5xZDRheWY3VWhLQV9HbkxTLWdzQ191a05wN2Uwb1N1TDNF?oc=5",
       "snippet": "KPMG RealTalk - Physical AI kpmg.com",
       "published": "2026-10-16T16:38:59+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "a5606820b3cb",
-      "title": "Big Tech's AI auditors will only see what they're shown",
-      "publisher": "CoinDesk",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWhfb3J4cWhLdzdPVWc1LXFpNEZEczM5NmViS2prSE1PUzJucWZ2bHlXa0NOQlpNTHhxRUpFSjRCWm5uOUhUQ1pIS1NEd3FrWVdMd0ktM21CNDdGeUtSa05DR2ZOYW5obGZNdlpITFU0ZlFKM1F4WEtHUENPUnRZMDJBUDhPbEJ5R1dTV0NfanhYd1JScm9IcGx0SU1KUHBr?oc=5",
-      "snippet": "Big Tech's AI auditors will only see what they're shown CoinDesk",
-      "published": "2026-10-16T14:58:22+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "6c6fed4de4cb",
-      "title": "Beyond Speed: What Will Define the UAE\u2019s Next AI Advantage? | Interview with PwC",
-      "publisher": "\u0645\u064a\u0646\u0627 \u062a\u0643",
-      "seen_in": [
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWpaTjZTOHJSRGZPUnRNdDNoakx4ZlZ4MGNuczJFUDAwMjFWVVlORmMtRkRtdXE1X2hkLU9wMktOclI5Y1FRV1RMWHVWS2xMSlJscHJMMUtUVzdJUm1STkhOVkthbGl4ZmtuU3U5UThCUUtGd0w3dTRSdTgzWU1icXNKZ1dURmJyVlEyXzB6MTRENnhWc05KelJhRl9VWDNRNkE?oc=5",
-      "snippet": "Beyond Speed: What Will Define the UAE\u2019s Next AI Advantage? | Interview with PwC \u0645\u064a\u0646\u0627 \u062a\u0643",
-      "published": "2026-10-16T12:12:51+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "335ad1f6aa1e",
-      "title": "Deloitte\u2019s involvement in the AI Summit | Impact Report 2025 | Deloitte Ireland",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPemVlTE1ZUU1EVTd4bVdDbm5Va1NtSUdIVXF1REIwNkg1dUVUYk5qZDNid0dvRjNlWWh2S1Y1V0ljNkp4eDB2djRVUVJFWEcwT0hDNG51bmowRWExcW9EVmVVUDhFSk9UZDlBNmYtcVN5V2xBSHVtVkQ5dmhaVkFublFxT0VxZXZLLVIweWVKY0NORGdKbkFGYmJtSmVLRk9hSld0RUNmUkZKbnlDaDFqQTduY1RMTC1LSEp5RDhJTzk5NGpJ?oc=5",
-      "snippet": "Deloitte\u2019s involvement in the AI Summit | Impact Report 2025 | Deloitte Ireland Deloitte",
-      "published": "2026-10-16T11:51:58+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-19T14:32:40.878056+00:00"
-    },
-    {
-      "id": "dc6a92b1c991",
-      "title": "The age of autonomous AI: Cyber risks of AI agents and practical governance",
-      "publisher": "PwC",
-      "seen_in": [
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc19LVFE0Sy01X3ZXVW1xQTQwX05oOE5paUpWSFp5NzRzWWdtM0FzODBBdGlSVWRKeDlKXzVEUVdEUVdvRXQxS21lSVFFZV9Mc2RoaU9TRDBneUs4Vl9JdEUxTV9NaGpXVFJSa0FyeDVjdWpaUGlJWFpBSUhFUDlKVjdLTnRNRW4xdEE?oc=5",
-      "snippet": "The age of autonomous AI: Cyber risks of AI agents and practical governance PwC",
-      "published": "2026-10-16T11:46:04+00:00",
-      "themes": [
-        "Firm tools",
-        "Risk & controls"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "5b957d6b0a65",
-      "title": "East Lothian Council lacks cyber strategy and AI policy, audit finds",
-      "publisher": "FutureScot",
-      "seen_in": [
-        "IIA"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmFIY3IzTk56RkpkMV82T2hsamdOSnhHZVE5bWlUajcydVlGV3FYOERrb1FCT3RKbFB6X0tzb3hUTkZxN3B1Ymp1WTZwZkJYemJ6V1kteF9GZFNIRm80a09xMndTUzBDZy1tZ3dBUGJ4Z1NPOWo1ZnpUWVBJRDU0Nm9YMHpCMW9NQnVpTlBWWEdWX2lHb1J1dmlIMNIBmwFBVV95cUxOQmFIY3IzTk56RkpkMV82T2hsamdOSnhHZVE5bWlUajcydVlGV3FYOERrb1FCT3RKbFB6X0tzb3hUTkZxN3B1Ymp1WTZwZkJYemJ6V1kteF9GZFNIRm80a09xMndTUzBDZy1tZ3dBUGJ4Z1NPOWo1ZnpUWVBJRDU0Nm9YMHpCMW9NQnVpTlBWWEdWX2lHb1J1dmlIMA?oc=5",
-      "snippet": "East Lothian Council lacks cyber strategy and AI policy, audit finds FutureScot",
-      "published": "2026-10-16T09:46:06+00:00",
-      "themes": [
-        "Risk & controls"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "578a227f993b",
-      "title": "The path to agentic transformation",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVF9LaDE2RDlVV1FNbXZaSExjeXdIR0ZQSEdsZ2VUU2pZTVFqdzJybmxlVWtmbUVWNWhobWVvTXpXa0c4VWpydzh5MldQSnlmVlJkME54QUNZMjFvUDlDV0FDQnhRemJrOTVKNE52QnF1bHlXOUl3c09LdnNlSmd6X3pfVmtGTk5uWDdQSGVfN2JZTC1keWNsdXlibmR0Q2VwRFJVdWd3?oc=5",
-      "snippet": "The path to agentic transformation Deloitte",
-      "published": "2026-10-16T07:57:09+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "41dc6610b46e",
-      "title": "How CFOs are addressing AI economics, risk and governance",
-      "publisher": "EY",
-      "seen_in": [
-        "EY"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQk9DbC0zMUE2ejRQNThFWFlZa0NyZ1Y0Um1IZm15WThhRV9OYmlKRWt2dlVoaFRzOGZMWW5sbXYwamw4VjhkSnl5Y2h3cENJVVVJXzZvMEp6bjUwNEdlSHR5a3JBdkJTMGtOUDl6a3NaMVpDZi1kVmdFTEl0NE1wUFEzT2drM0tWNF9fRWVmZVluN1RYUGZCdXVMNXdCYlI5RjR4T0ZCM25LYTZ3d3pfZFJxV24?oc=5",
-      "snippet": "How CFOs are addressing AI economics, risk and governance EY",
-      "published": "2026-10-16T07:00:00+00:00",
-      "themes": [
-        "Firm tools",
-        "Risk & controls"
-      ],
-      "first_seen": "2026-10-20T14:27:35.204085+00:00"
-    },
-    {
-      "id": "a773aad1a56d",
-      "title": "The lifecycle economics of AI",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0lwdEloUy0yM05NYkZObk1GOHBfNUJOMkFsdTByYnVseEVHdWpnRVpIZkItWl9tNEtxMmV3cG4yRHg2WlJhZnFwc1VfODdRVC11YXo2OTc1QXhpX1dCYnhRRTRyb3RPR3NHTFl4cGRqZjJVMmZBX0FsOW9OZjVqNTB2NHd5dlVDcXEtWjlNR1dybm40VnZLbUhaYzhaY2RibUE?oc=5",
-      "snippet": "The lifecycle economics of AI Deloitte",
-      "published": "2026-10-16T07:00:00+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-21T14:29:14.130887+00:00"
-    },
-    {
-      "id": "51d2173c4b3a",
-      "title": "Scaling AI personalization with small language models",
-      "publisher": "EY",
-      "seen_in": [
-        "EY"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV1o5aWtmT3Exa3RXVUxxYkFMQlpLMXhsNGFHZ3dHTU9aakZVV3psY3IwX1E3SElxUHlGdjhMeGpoVjUtNXJsZ1prUUg3dWdJbDhGeU5uRU44Q2hUeER3MHRvSlliSkV5cEtYaGI1ZWtNaTJLVlFWRGhhVHM3MFpSZmIzM0FNS0lWUFRvWFllRzFBMEh1MU5fS2hHbWFIQ2dKRnJBTE5PMmw2S2NFSjRKTTN3SGFqS3hVNF9j?oc=5",
-      "snippet": "Scaling AI personalization with small language models EY",
-      "published": "2026-10-16T06:48:04+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "1eba9940a3a8",
-      "title": "Unlocking AI value in insurance: From AI ambition to business value",
-      "publisher": "kpmg.com",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZW82bmYzdWtTU21PSDI2SVp1d3ZzS29hSE81elZKYWp0aFA0aHpVMVlXR2hDSkxQUHRWcFl1djB6ZTBZRzVtdG5JU2Z5R2N5RHlxNklsNEFCN2c3dDA4VUhxbi1jSE5uYml0eEh2S05waGZIRFVTMmUwekhUMTRWSmlQa3ZSZ1dIMzQyak1JdG0?oc=5",
-      "snippet": "Unlocking AI value in insurance: From AI ambition to business value kpmg.com",
-      "published": "2026-10-16T06:21:17+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "81046a684e06",
-      "title": "EY, in collaboration with Snowflake and Canva, announces launch of agentic sales orchestration platform to address enterprise AI fragmentation",
-      "publisher": "EY",
-      "seen_in": [
-        "EY"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVnkyN3hHSTJ1eVBUVHlqZjVSWGZfbVdQeDBGa0YwN2dSYmx6elB6d210d1oybUFRTjl5a0NNSGxXeTd6XzFYRDdiR0MyQ2d5RGVqV1kzdG5OcEZBN3JHQ1FoaF8yeURHU1plU2d2WklIcGgtN205YUNYTWI2Q3FkTTg5YVBPTENycS0zdjdyV3lLRzYwM0UtMlJheWwwMFBRWEJCSEJEUnhnWjVXVXlPUTBhQ3dOaGVEMk54OHJwMzEzdE9RV0RHc0h2Z0JHY3BRczFyUEY4MUF5UFBla3BZWGxGUEpLVlppQ2cweUtQVE9uN185X1l6N0pZcFRxYzktWFVIazJLbHVZYk1SZF9F?oc=5",
-      "snippet": "EY, in collaboration with Snowflake and Canva, announces launch of agentic sales orchestration platform to address enterprise AI fragmentation EY",
-      "published": "2026-10-16T03:11:33+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "4d7b4357fa32",
-      "title": "How can organizations account for AI costs related to internal-use software development?",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUDJ4YTgyZmVISDEwZFVOU09MZ1pvRFl2c3hPeWhxT19zMVRGblJOTWM3NDR1dFIxaE9GNmlOaGwxeXBPS1NaVlZxSzdHOW1KaEt5XzRQVktPYUh1czQxMHhKLW9aMWlWR1FUcVdhcmExUk5Ba2Z4bG5NUndTRG5TemJIZ1JPUHVMUWtOZV9PQzFKTFoyNDhwal9xZmNScXhWdjM2S3JfM2k2a2ZLSzU3OElRaWwyUUc0UjRQUF9jZHJkal9vZlE?oc=5",
-      "snippet": "How can organizations account for AI costs related to internal-use software development? Deloitte",
-      "published": "2026-10-16T00:25:48+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "9ea251cb3e0a",
-      "title": "Tax in 2036: Five Predictions for the Future of Tax and AI",
-      "publisher": "KPMG International",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TWWpXWU5wZ1RETVpOcnlSaDc5dnd1RFlEeEhGVWVIcHhNN0R3QzVWb0FaMVBWWURPbVlLOEd5d0hQcV9JUnZxaXNRZzZXU0xJSkFiNVhVaDdIWjdUd290bGhB?oc=5",
-      "snippet": "Tax in 2036: Five Predictions for the Future of Tax and AI KPMG International",
-      "published": "2026-10-15T23:38:30+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "1e94f967261c",
-      "title": "AI-enabled post-market surveillance for medical devices",
-      "publisher": "PwC",
-      "seen_in": [
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHpnMDgyRDd6ZXNvejluSGNIN2JLNkFTUW5XeTVFLUt1LXVmSGllZ2lMWjZuTFJFX0lBVWVjUTNvQUlyeWllRXRILWJHOWxYMHNNVGIyUllwU2VkS1RNMXNhNFFLV1FfaURzbm5vNXRsaW5vb0dGV3o2NHVkQno4dDV5Y3dhaDdXTi15VUEwY0hrbnpMazlJb1hlQzMwMGhXaWZBN2VFbGVpOWJMVmhFVHRjTFA?oc=5",
-      "snippet": "AI-enabled post-market surveillance for medical devices PwC",
-      "published": "2026-10-15T21:05:51+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "18552064a373",
-      "title": "KPMG Survey: 89% of US CEOs Expect AI to Grow Headcount, But Cyber Fears Loom",
-      "publisher": "finance.biggo.com",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpbXRteUtaZXZHUTlxYWNJX0I1VmJOZXpfaTYtbXRUMHFhWHRNRUdDcGcwSE5QWjdtMTc3SVUwcjFSVFA4d3k4aUVHb2F1alBwcUQzZk1idlAwenV1T29PQnIzblFkTV93SFkxUFVlUHNWaG9MSEE?oc=5",
-      "snippet": "KPMG Survey: 89% of US CEOs Expect AI to Grow Headcount, But Cyber Fears Loom finance.biggo.com",
-      "published": "2026-10-15T18:21:00+00:00",
-      "themes": [
-        "Firm tools",
-        "Risk & controls"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "0dea8814f195",
-      "title": "America's CEOs are spending big on AI, new KPMG survey finds",
-      "publisher": "Marketplace.org",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFNsVDlzTXcyWHBoUEQ3NXJOUjRiQm1yWFkxXzFYanNFUklKVnd1a0t1RVFheWVzT3dFbXFYOGlkaFVWbGVCVldNbExTMUdZRHJBY3JDMU9MNkRrYU5TZnoxOHF0MjlBVzFDTkJlX3E3RXdHXy1DUU9kZUdKYzc4VVozd2dNNFVKaWtVN0MzdEdLV2RmYjU5cjJlTQ?oc=5",
-      "snippet": "America's CEOs are spending big on AI, new KPMG survey finds Marketplace.org",
-      "published": "2026-10-15T18:12:16+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:40:48.685106+00:00"
-    },
-    {
-      "id": "c967255c7b54",
-      "title": "Not all AI is built for auditing \u2014 here\u2019s the difference",
-      "publisher": "Thomson Reuters tax",
-      "seen_in": [
-        "General",
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0xHbnFoRFJiWFdXVWd4dDFBSUoySDlIUDNMVmE5UmxBOF9UeTBseV9mNFNOamgxWm9RZTAwbFZ6S0s2SkxJYm9lalRKQVRxbVR1cFE3aGZFMVBkVENWaTdYYWh2dl9uVWtTNlFSM2pzaHBmbGJWNjU2bm40R0JPTWEzUHNpXzBaV0E5TENZNFQ3QThO?oc=5",
-      "snippet": "Not all AI is built for auditing \u2014 here\u2019s the difference Thomson Reuters tax",
-      "published": "2026-10-15T16:50:07+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "e0e409124a4d",
-      "title": "AI in asset management: Between strategic priority and a lack of evidence",
-      "publisher": "kpmg.com",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3Ywb2VvQllEZllleDhyS2VMQUUxc2dxVncyR19Ec0lVTTNOMll0cDJ2YmVUbVBCeWc4d3dYVlR4dFF4dlQ2V25LYUpxSEVuak5CeVUwb0JCSkdtaDlxNXh2Ql9JUDhWd0NrR0U5dlFIWHJJcy1TVjBhbmNFR21UZGI4YVNpS3AydkhqYjRUNWZpWk9pOWI3OUlQT2NBRm83RkNKeGk5dEN1dw?oc=5",
-      "snippet": "AI in asset management: Between strategic priority and a lack of evidence kpmg.com",
-      "published": "2026-10-15T15:41:37+00:00",
       "themes": [
         "Firm tools"
       ],
