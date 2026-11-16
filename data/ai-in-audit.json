@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-15T15:27:56.622753+00:00",
+  "updated": "2026-11-16T16:30:35.201579+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,138 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Today's news centers on how firms are packaging AI assurance and building AI capabilities, plus signs that AI training isn't landing with staff. There are no regulator actions in this batch.",
+    "quick_take": "Big firms are pairing AI rollouts with skills and people investments, and surveys show adoption spreading across accounting firms. Today's stories are light on regulators and audit-specific detail.",
     "standouts": [
       {
-        "id": "07b325574e48",
-        "title": "How AI assurance builds trust with SOC, attestation and certification",
-        "publisher": "EY",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcHhfU2RNWXFkTmxwanlLSlU1NWhJYXNrY293b3MzTlowV2FsbTRLR2V1a1JWeVUwVERyZ216ZURYZzNsUmtJUTZzQUg4ZkxRb3YtZHpxemFac3A4VENNRXpTY2lYVmhrNFN4SjZMaEZnaU5LWjlfQmVINjZScng2VHpnZVJoVmpabmNoYnpNWGgyejFhZmVlRVU4TQ?oc=5",
-        "why": "EY's piece on AI assurance via SOC and attestation shows a possible new audit service area and gives you a topic to raise in interviews."
+        "id": "04c897e3c7cb",
+        "title": "PwC US to train 85,000 staff in critical thinking as AI reshapes work",
+        "publisher": "International Accounting Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOczVGSjR3cVFGYWFGbW45aldBNVJMcHY5Q01MSzdmU1FCVEtrVllBVWVGY1lvNDdUTVdfUGhfWFR1NEhscGVXT0c4bnZ4RHBDVkZMWUpKamFlWUpTcmpESmVmVFQ1ZnBWMnhkaFN0QjVwTWhFbXBWeFQ3UkxKeGFKRmtFT0ZiUUc5R1RLTEtSZmhsbUJRRjNPVUpuY3NzRGQ3dHR0SXVYZXZCVmwzOFRBaF9hekZMUUFKbUdWeWRocw?oc=5",
+        "why": "PwC US is training 85,000 staff in critical thinking as AI reshapes work, signaling which skills firms want from new hires like you."
       },
       {
-        "id": "625805f5c701",
-        "title": "The 20-Point Perception Gap! HR Thinks AI Training Works, Employees Don\u2019t. New PwC and Cognizant Reports Show Why",
-        "publisher": "AICERTs",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRVVUbHJ6WmRRS0w4T09NTnI3c2VWTGoxTmlaNU5LQks1dXA3X0Fhdl9OR0FEMHd0cm9MaUhGWnB6NkFqVEV6NXBPUEZ4d1Myb2szNkxUamRmUlBfUDE1MWJFQ3JDVWdkdXMwdldVLU9XUVVuVThUbGFxalFEQTFWWUZQbGxHN1JvYXI1TzNKc0xLa0Y4Z0syS1Z5ZHRFYkJqckVBenVDal9SWkZ6b1pXSXh0SDR0bDRzTzlWU1I4OHNxdU9ReU1FR0hDVmpZNVR2UXlNcjln?oc=5",
-        "why": "PwC and Cognizant reports show HR and employees disagree on whether AI training works, which hints at what upskilling you may get at a firm."
+        "id": "70ad8956ce57",
+        "title": "AI Use in Accounting Firms Surges 78%, With 39% Higher Revenue Per Employee for Active Users",
+        "publisher": "CPA Practice Advisor",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWw2Z25ET2tQQUxoZDl3R2hDSi05N3lXQUhMX3ZMSkJvZDBmcGxmVElMYmRVMjhJUVc2ZWI3a3gxa1lKMk1QT1BWWGxzSk9LWVVZQUV0VnpvNVRUUllwcUZzYlhPN3VQZXQxaE9NS2w2aXBHSEV1UVZVSnNSQXNCX0RQUlAtSmlnTURwcHF5OUYzWHdBSGc4b0ZEZFMzcVJmdXBVVGw5bkJQVTV4NDN1Tnh4RlhRck5LS2JxSWhQWDBiSFFV?oc=5",
+        "why": "Firm AI use is up 78%, and active users report 39% higher revenue per employee, a useful stat for interviews and for gauging the pressure to adopt."
       },
       {
-        "id": "2ae9b0a1b1e7",
-        "title": "Deloitte Acquires the Business of Wavicle, Accelerating Data and AI Engineering Capabilities",
-        "publisher": "HPCwire",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTngtV1g3aG5tc2RIYS1qcmlsemlVWklYMjNGQy01X0FPSzd4NzVGbnpGYWFRVFJGTzl5OXdVMm1LNUpCZE1CTGZSZHg4NTFONFduS2pnXzV3bTUwb3gwTDFFM01CUjVxWXZDWERjMHpyMGgzWFhKZW94WTVYdWpGMTRmRFRCRmpFMlJQUmRlaXdLTThiUlB5cTl2TnlsNnpNVjNaLXRUa1gxc0ZtSXhoMU5YTGNaS3JsLW9Zc2NMZ2RPQ184dFEwcjRQZHU4TGRnZmZrUjR3Y0Y?oc=5",
-        "why": "Deloitte buying Wavicle's business signals big firms are investing in data and AI engineering talent, which shapes the skills they will want."
+        "id": "fd2be5e5b070",
+        "title": "The AI challenge is a skills challenge",
+        "publisher": "KPMG International",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVpJUG9xTHRQeVgxYnlYeVY3Q3ZGcjFYWW1ZOW1UdGE3YWtVN0pQOXFNQU93QXJCZDNkS3J1akhkWkh2RE5MZEZ6a0VQRG5UZ242MWd2RXlRT004OVk1QlhtRnVBWG55eksxUGg1WXduNzZPTFJ2SDIyYmdKYkxGMXdGYkxGRnh3SEp5ZU5GVUE0YTFjR3BrYnBPMjd3UjFHd0tNVzZmQQ?oc=5",
+        "why": "KPMG frames AI as a skills challenge, which helps you decide what to build early in your audit career."
       }
     ]
   },
   "stories": [
+    {
+      "id": "e3624a1d6b85",
+      "title": "Artificial Intelligence. Original Advantage.",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMTF5SURTUHg0N3pRdTdGS2dTUTRHSnp4NEcxNHFaLWpEVXhKeVdZeWZmNUVVMGQxU2tZM1MtdjB2elQtb1BZWDZEVzVHMVVkbUVycXc4X0hMZU84YnFMdEZ0UWl4d1RSNjM4YkxOcXI2VnZmWVNIal9LQklRdXRkdDRFcU1RTWVUc1R3M2ZYQUR6TjJQa0VFUjRDeXZfZjV5eEE?oc=5",
+      "snippet": "Artificial Intelligence. Original Advantage. Deloitte",
+      "published": "2026-11-16T14:44:19+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-16T16:30:35.201579+00:00"
+    },
+    {
+      "id": "70ad8956ce57",
+      "title": "AI Use in Accounting Firms Surges 78%, With 39% Higher Revenue Per Employee for Active Users",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWw2Z25ET2tQQUxoZDl3R2hDSi05N3lXQUhMX3ZMSkJvZDBmcGxmVElMYmRVMjhJUVc2ZWI3a3gxa1lKMk1QT1BWWGxzSk9LWVVZQUV0VnpvNVRUUllwcUZzYlhPN3VQZXQxaE9NS2w2aXBHSEV1UVZVSnNSQXNCX0RQUlAtSmlnTURwcHF5OUYzWHdBSGc4b0ZEZFMzcVJmdXBVVGw5bkJQVTV4NDN1Tnh4RlhRck5LS2JxSWhQWDBiSFFV?oc=5",
+      "snippet": "AI Use in Accounting Firms Surges 78%, With 39% Higher Revenue Per Employee for Active Users CPA Practice Advisor",
+      "published": "2026-11-16T14:05:33+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-16T16:30:35.201579+00:00"
+    },
+    {
+      "id": "746725f194e9",
+      "title": "PwC UK completes acquisition of AI consultancy Datasparq",
+      "publisher": "Accountancy Today",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYV9LRkdmVVNkWlR5V0NBOHUtYmdMODh1OE1BTWYzbElfUlU2Q2x3cjlpTTg0eEJJc3M4eXFHVnRHZGFBbEc2ekpWakdBMXdBal9XcXROeVNEaXBPOFNrUGYxMDk2NW5ZWUdqWHZkV3BSOUxRNFg2ajVKY0pjLTU4M3dOZlBaNXNZbzZPNHQ1VXlHTXN2N2YzYXpoVkFlU0gtWk5VYU13?oc=5",
+      "snippet": "PwC UK completes acquisition of AI consultancy Datasparq Accountancy Today",
+      "published": "2026-11-16T11:39:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-16T16:30:35.201579+00:00"
+    },
+    {
+      "id": "dd7ec2b8fc25",
+      "title": "Retail workers lag behind rest of UK workforce in AI productivity gains",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR2NEWVhBT1pfbldySDZ3Q2ZTODFrYkJfeHNRR3VFTTRoODZ0ZHJiRXN6TjVXaEZfYmhTckhrZFZZam5Nd0o3Wi1NTEE5R2UyWVRCbmU1MUF1MnRLck1xMDdXS25NUExseUJzYUpPU0pyeUhzWnBhVGJPOVlSMzQzNmlRN2FvT0RzcFVYUzA3dERCWEwzRmJORkFmM1VmbW1BYnpQSzJUa0d2cmpkbmNwanZqY3d4eDRqTDNNOWpDTHpMZw?oc=5",
+      "snippet": "Retail workers lag behind rest of UK workforce in AI productivity gains Deloitte",
+      "published": "2026-11-16T10:11:38+00:00",
+      "themes": [
+        "Firm tools",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-16T16:30:35.201579+00:00"
+    },
+    {
+      "id": "0d8e86d64523",
+      "title": "Deloitte Canada\u2019s 2026 Impact Report highlights progress in AI adoption, Canadian innovation, and community impact",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOXp3QkRaSmtqdFdTM0c4OVVSeGl3ZVhRNkEzdWc5aURuRUtiSS15cXp0WXFOR1NjQldIYWh4Z01VVzlyWjdjUm5QNU15NzN1enpjb1pOTUtoS2ZialNfQVVMQUFNMmR4cU9xMnNKSkZmZVU4MkxpU1NQS0RMaHcwb3ZoZ3ZWaktpOVh4OEhZemljekhhNHF2dFl1eVVtR0Vkd2pibDVtbTk5eTZJTnFtbjdQdjdoeTltN2NQVjNhRW1BS29fMVItN3hQcHVuVFdVY0Jjb3RoeFpNSUowcjIxNTd6Si1HSmt1VXZzVGJpR1dJcGxCd3lz?oc=5",
+      "snippet": "Deloitte Canada\u2019s 2026 Impact Report highlights progress in AI adoption, Canadian innovation, and community impact Deloitte",
+      "published": "2026-11-16T09:43:17+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-16T16:30:35.201579+00:00"
+    },
+    {
+      "id": "fbc234f25254",
+      "title": "Tax accountant exam topper sparks debate over whether AI could replace professionals",
+      "publisher": "\uba38\ub2c8\ud22c\ub370\uc774",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZcWRnY2VSZ1NQaWEzZEpIREk5V1JNZWs0MDUzN2NsQXJKYXNzRjBFd3RFbDFramhMOUt3bEZWZy1jX044U1ZWb1piSF9WbWhNbDk5Q29nWElJZ2JOVFZvNzhMZzBiYWQzdHlr?oc=5",
+      "snippet": "Tax accountant exam topper sparks debate over whether AI could replace professionals \uba38\ub2c8\ud22c\ub370\uc774",
+      "published": "2026-11-16T07:19:16+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-16T16:30:35.201579+00:00"
+    },
+    {
+      "id": "57be496708c1",
+      "title": "Accountancy forum: Candidates promote AI to boost audit and tax efficiency, SME firms' transition in focus",
+      "publisher": "dotdotnews",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUYVlGUDNWT25qQTlyUlgzc3JTSllpMWVvc0ZnTEh2bEdEcmx1ZW9HYW9IRW4tWUxNUk1CbG5Bd1pUSkk1U1RJUkZLR0tMQVVuSVdwbG1QV0d2X1lFZGVKYnhvbm56c0NTakZSWWQ2azBDblNaMmZvbVZ4MG9EMlE?oc=5",
+      "snippet": "Accountancy forum: Candidates promote AI to boost audit and tax efficiency, SME firms' transition in focus dotdotnews",
+      "published": "2026-11-16T03:02:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-16T16:30:35.201579+00:00"
+    },
     {
       "id": "e7dddb6e7c96",
       "title": "The Future of Tax: Finance, Digitalisation and Artificial Intelligence",
@@ -237,6 +343,22 @@
       "first_seen": "2026-11-13T15:36:28.900764+00:00"
     },
     {
+      "id": "84a2d1d17b31",
+      "title": "K.S. Oils Limited Appoints EY Internal Auditor for FY2025-26",
+      "publisher": "Multibagg AI",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUZYM1E0di1lRHc2YkEzODAyckhvN0x0cFQycWhSeXd0RWNIRU5zdnRCd1poUmpEajdZdDRuUVNNTlc4cC1ucHV1ZHBtUGNsb2NzVm56d1poZUQzY1ZDM1o0UE1FalFRNm02U2xaenU3bTkwRjdiV2p5UGx3MnZIMHVXWW1Tc2lwanVpM1ZYcVJ1SXpLVW9hR2VGRktVc2IzcFE?oc=5",
+      "snippet": "K.S. Oils Limited Appoints EY Internal Auditor for FY2025-26 Multibagg AI",
+      "published": "2026-11-13T13:14:01+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-16T16:30:35.201579+00:00"
+    },
+    {
       "id": "0a60d29c6546",
       "title": "AI for Health in Global Health: Emerging Perspectives from International Dialogue",
       "publisher": "kpmg.com",
@@ -265,6 +387,22 @@
         "Other"
       ],
       "first_seen": "2026-11-13T15:36:28.900764+00:00"
+    },
+    {
+      "id": "fd2be5e5b070",
+      "title": "The AI challenge is a skills challenge",
+      "publisher": "KPMG International",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVpJUG9xTHRQeVgxYnlYeVY3Q3ZGcjFYWW1ZOW1UdGE3YWtVN0pQOXFNQU93QXJCZDNkS3J1akhkWkh2RE5MZEZ6a0VQRG5UZ242MWd2RXlRT004OVk1QlhtRnVBWG55eksxUGg1WXduNzZPTFJ2SDIyYmdKYkxGMXdGYkxGRnh3SEp5ZU5GVUE0YTFjR3BrYnBPMjd3UjFHd0tNVzZmQQ?oc=5",
+      "snippet": "The AI challenge is a skills challenge KPMG International",
+      "published": "2026-11-13T02:37:51+00:00",
+      "themes": [
+        "Firm tools",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-16T16:30:35.201579+00:00"
     },
     {
       "id": "6721458d673c",
@@ -998,6 +1136,21 @@
         "Other"
       ],
       "first_seen": "2026-11-12T15:46:43.455638+00:00"
+    },
+    {
+      "id": "04c897e3c7cb",
+      "title": "PwC US to train 85,000 staff in critical thinking as AI reshapes work",
+      "publisher": "International Accounting Bulletin",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOczVGSjR3cVFGYWFGbW45aldBNVJMcHY5Q01MSzdmU1FCVEtrVllBVWVGY1lvNDdUTVdfUGhfWFR1NEhscGVXT0c4bnZ4RHBDVkZMWUpKamFlWUpTcmpESmVmVFQ1ZnBWMnhkaFN0QjVwTWhFbXBWeFQ3UkxKeGFKRmtFT0ZiUUc5R1RLTEtSZmhsbUJRRjNPVUpuY3NzRGQ3dHR0SXVYZXZCVmwzOFRBaF9hekZMUUFKbUdWeWRocw?oc=5",
+      "snippet": "PwC US to train 85,000 staff in critical thinking as AI reshapes work International Accounting Bulletin",
+      "published": "2026-11-10T10:43:13+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-16T16:30:35.201579+00:00"
     },
     {
       "id": "ab5a01a20953",
@@ -5273,176 +5426,6 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-18T14:20:09.062308+00:00"
-    },
-    {
-      "id": "1f7bcefa9810",
-      "title": "Why human resources must reinvent its operating model to realize AI value",
-      "publisher": "kpmg.com",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdWxPNGdURHFzX3F4NEhoX3dDTE1MQllKNU1pQjRnV0ZvQkQwM3J2Z0lERk1yRVllWEFlYzlQNUVJNTBGRFRhLXB3X2R6TWF6ZTFRajJaYkFOU2ZkZ3lMekFLdVV3dV9oLUU1bUM4T1VmcHdVNGtNSnhHQVZtcXVZb3F6UjBHTnp0YkE?oc=5",
-      "snippet": "Why human resources must reinvent its operating model to realize AI value kpmg.com",
-      "published": "2026-10-17T08:26:42+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-23T14:32:02.320606+00:00"
-    },
-    {
-      "id": "439c93736f19",
-      "title": "Why the biggest returns for AI sit between business functions",
-      "publisher": "EY",
-      "seen_in": [
-        "EY"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlBWQUN5cVlTNEpuVDR0TUhuRzdTU3huOHlSTFBTYlZFWWR0MzlpT1hEdnJxaUlZM08yNk9pdlU5N1dCdjRNUENyVDJCREhzYUJSM0xwdVhJVGJoNnM3U1AyLUVyc1ZOOEQzNF9qdk1zM2hkV1FkalNjR2tWOVpHdHA5dV9zMG1wWWpuTDNzY3JiWktYck1Xb2lDZWZoZHlSWXdsWFpSXzV4UQ?oc=5",
-      "snippet": "Why the biggest returns for AI sit between business functions EY",
-      "published": "2026-10-17T04:40:15+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-19T14:32:40.878056+00:00"
-    },
-    {
-      "id": "3c92f4627a50",
-      "title": "Arrive AI Auditor Stephano Slack Resigns; M&K CPAS Engaged Same Day",
-      "publisher": "Minichart",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjUyVFdCN2FVUWRJTnZYOHdGX3dSaW1oU0ROeVJGNWU0ZmlDYUZXU1Z2Y3JCeVZ1cmlNNFpQWkdpa1lfUk12Rmk1V19DU3JDOGs4NndfN3lQM3RHREJVRFlSQnRwRV9XdDFIUmZXRlJzSGc2UmhxaW5XaXMwc0JWVVRZelU1cDB5ZHFxUEx4b1loSHJaREVuRWVwTlZ1d1F6SjQxWk5uX0VQdw?oc=5",
-      "snippet": "Arrive AI Auditor Stephano Slack Resigns; M&K CPAS Engaged Same Day Minichart",
-      "published": "2026-10-17T02:34:00+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-17T14:20:12.041106+00:00"
-    },
-    {
-      "id": "bb34608a895d",
-      "title": "The AI Assistant Paradox: The More You Use It, the Less You Should Trust It?",
-      "publisher": "kpmg.com",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTXc4T3dIalFUQXpnSFZDZlRDeVVxM2JNVFZIMEtKdG9uallUWi1aN19UNDU2LUJsdktHSzZYelF0UjFVekhfczhpckgxdnNhanJpWlJCMnNNdWdzNkpnRXNuNzlGN2U2aHlZdVdqR204ZU94MUF6SzBkS0NZX01PaGZmWmMtdw?oc=5",
-      "snippet": "The AI Assistant Paradox: The More You Use It, the Less You Should Trust It? kpmg.com",
-      "published": "2026-10-16T23:11:30+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-17T14:20:12.041106+00:00"
-    },
-    {
-      "id": "705144a766d8",
-      "title": "Friday Footnotes: Career Ladder is Out, Career Playground Is In; AI Ranks as Leading Ethical Challenge Facing Accountants | 10.16.26",
-      "publisher": "Going Concern",
-      "seen_in": [
-        "AICPA",
-        "Deloitte",
-        "General",
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU0ctMV9BM2FmTV9KVlloSERFcVVjZlFxM2FoMXlpMzVMMjFSR0JPM3cwaUpQNS1COWtpcW1QN1pDOC1zNW1MbHhsd291MFZvTWFDRmdvbG9TSTlYZ2F6YVktLWR4LWM3azVRaW1ma0lxNVdYRmJNaG1BT2c5elZYOEM0cWVlTm1NTEg1ZVZJSmNTZXNPUkk1c2pNNllzd0hrSlhJdmlhOGdxZ25DQ2NRTGZoMlpKa1lWZERyQVNmZ2tWSmVDUWU1eUdfdUIycGVjQXZ4Z0JCMDljaWlJa2h4aWZmcFlWd1NGSmxQcGJB?oc=5",
-      "snippet": "Friday Footnotes: Career Ladder is Out, Career Playground Is In; AI Ranks as Leading Ethical Challenge Facing Accountants | 10.16.26 Going Concern",
-      "published": "2026-10-16T21:00:00+00:00",
-      "themes": [
-        "Skills & careers"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "a3e0e47a4b33",
-      "title": "AI beats human accountants at monthly close, transaction categorization",
-      "publisher": "Accounting Today",
-      "seen_in": [
-        "Accounting Today",
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUhMRUpFQ1BXSnBXeGpXVldPa1daZVJTRFljZWZnc3JNa1NSSnhBY0Fwb2JwVkYxakNxemZyNlo0M0Q1aDNNR0NmMTUtZW9oaWRsbDVoUjU2amU0Z05kSzQyR1VVc25JZ1hsdXNpQlNuWlN3cUllQ3VZSDNRUVI4TmJfNEkweV9LRTMzSk1UU0dJdkhIRTMzM29JUWNoLXMwYTNua1E1TUY4UGs?oc=5",
-      "snippet": "AI beats human accountants at monthly close, transaction categorization Accounting Today",
-      "published": "2026-10-16T20:59:00+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "0c638a76c8f6",
-      "title": "Tech news: BizBuyData will pay accounting firms for data to train AI",
-      "publisher": "Accounting Today",
-      "seen_in": [
-        "Accounting Today",
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZnBMSDFoem82a2FJZm00ZERMVGZwWFdvVHlJam9aTU9QLXZDM0FkN3dEYjREQ29QY0pYZTFidnVLYkdoMmc4cFpnUEhtdFRRZDVTTXljMVFpR2hxdGdzeVEwNFVhV0o4b0g0UnVobHlUQ3VwQ3d0WEZGb2VCc1E3cnJENExNNEM0bUljZHl2QndmRnVvQmFFRVpkUFRiX2t1dWtlUFBkWQ?oc=5",
-      "snippet": "Tech news: BizBuyData will pay accounting firms for data to train AI Accounting Today",
-      "published": "2026-10-16T20:11:38+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "196a6bbde1f8",
-      "title": "The Post-Extension Window: How to Sequence Firm Automation Before Busy Season",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV2lPbFdpcXR1Y29ieHVWTkFPUFF0R2RSSE5qWWFHZnFIV2VLbFMwZ1V4RDBSbUJ4aHFXSzJQNmIxMlhZOGZDeUtnSmVpaUZwV29QMHFNeXFpV3hpVHd5b19MaTJLVm43RGxsS3FZWWxwaGQxTmJMRzZ6SlRJbGJVRjNQcWtRbDZjUzA1clBNdU9DNUdaenRxcTFfN29uUDlJYzVZNVJ5VEQ5RTZEaDRsa1dsZDdkWU5La2pZMGl6RVg1MVh0d2IxVnFB?oc=5",
-      "snippet": "The Post-Extension Window: How to Sequence Firm Automation Before Busy Season CPA Practice Advisor",
-      "published": "2026-10-16T19:24:15+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "160c9b9c4ba6",
-      "title": "Transformative AI and the implications for Tax and Legal",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2dEaEsyUTI0OUZ1TE91WWJYS2V4d2JEWHpza1hqdG5qUjA3OXNQbThEbVY2eTJ1eG8zbk9lSFpmV3N1RFM4bnZoS3ZUUnJ3S3BPcEdaSlRMaUM0djJid2ZrU1NyRndmSzJ1dnVxSG5PQmxNVGx1WWxxMjFFT2RuZkJYanFtZlNJWGM5VGR6djhmMGJHdTJxYXJmczB6V0o5ckpIZnJ5d2VzU2tLaWk2U2Rn?oc=5",
-      "snippet": "Transformative AI and the implications for Tax and Legal Deloitte",
-      "published": "2026-10-16T18:21:00+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "ed9d653aa61f",
-      "title": "Ramp Unveils Glass AI Tool",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmtBX0N6Wkd4OFBmX1R6VEJrV0tIZUpka1ZmdFR3bTJBc3JybW5jM0tVTUlkcUpTMlJheTlvVXlza1B5Z1MtNWhCRk1JZ3NCSExGd0ZiV0JGcDdxRFJvYzYwcUw4QlRMWGhXN1pLYnZPRExXTGVqZ1VZZzBRamtMN2p3UDlGY1E?oc=5",
-      "snippet": "Ramp Unveils Glass AI Tool CPA Practice Advisor",
-      "published": "2026-10-16T16:47:35+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
-    },
-    {
-      "id": "534e9a940f68",
-      "title": "KPMG RealTalk - Physical AI",
-      "publisher": "kpmg.com",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMbi1NVUJlb1J4TXNwa2Y1WkFrcno2cXlKLWJpSWROa0pOeWZQeVVnam1fMDNQTzdmdmxTS2VHMzBEWjcyTmd5LU5xZDRheWY3VWhLQV9HbkxTLWdzQ191a05wN2Uwb1N1TDNF?oc=5",
-      "snippet": "KPMG RealTalk - Physical AI kpmg.com",
-      "published": "2026-10-16T16:38:59+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-16T23:20:51.975638+00:00"
     }
   ]
 }
