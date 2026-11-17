@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-16T16:30:35.201579+00:00",
+  "updated": "2026-11-17T22:44:48.901798+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,258 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Big firms are pairing AI rollouts with skills and people investments, and surveys show adoption spreading across accounting firms. Today's stories are light on regulators and audit-specific detail.",
+    "quick_take": "Standard-setters and regulators are putting guardrails on AI in audit while firms roll out AI-enabled platforms. Expect to use these tools and be asked how they're controlled.",
     "standouts": [
       {
-        "id": "04c897e3c7cb",
-        "title": "PwC US to train 85,000 staff in critical thinking as AI reshapes work",
-        "publisher": "International Accounting Bulletin",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOczVGSjR3cVFGYWFGbW45aldBNVJMcHY5Q01MSzdmU1FCVEtrVllBVWVGY1lvNDdUTVdfUGhfWFR1NEhscGVXT0c4bnZ4RHBDVkZMWUpKamFlWUpTcmpESmVmVFQ1ZnBWMnhkaFN0QjVwTWhFbXBWeFQ3UkxKeGFKRmtFT0ZiUUc5R1RLTEtSZmhsbUJRRjNPVUpuY3NzRGQ3dHR0SXVYZXZCVmwzOFRBaF9hekZMUUFKbUdWeWRocw?oc=5",
-        "why": "PwC US is training 85,000 staff in critical thinking as AI reshapes work, signaling which skills firms want from new hires like you."
+        "id": "b39897b1009a",
+        "title": "The International Auditing and Assurance Standards Board (IAASB) issues first AI Quality Management Guide",
+        "publisher": "https://www.big4news.com/",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxWkNtY01qU202aVR2d0lEQnF3UU8xM2pXMHdFUFFldmZzRHZQUnVtVE5XM0E2clU0bC1HekEyRWxVQjZqZ25aN1JPaXVDb0syUjVCQU1rTHI2dU93NmhLb2RsdVp1OTZvYkw3Qk1JV2IwbTNWR3doNg?oc=5",
+        "why": "The IAASB's first AI quality management guide shows how firms may be expected to control AI use, which is good interview material."
       },
       {
-        "id": "70ad8956ce57",
-        "title": "AI Use in Accounting Firms Surges 78%, With 39% Higher Revenue Per Employee for Active Users",
-        "publisher": "CPA Practice Advisor",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWw2Z25ET2tQQUxoZDl3R2hDSi05N3lXQUhMX3ZMSkJvZDBmcGxmVElMYmRVMjhJUVc2ZWI3a3gxa1lKMk1QT1BWWGxzSk9LWVVZQUV0VnpvNVRUUllwcUZzYlhPN3VQZXQxaE9NS2w2aXBHSEV1UVZVSnNSQXNCX0RQUlAtSmlnTURwcHF5OUYzWHdBSGc4b0ZEZFMzcVJmdXBVVGw5bkJQVTV4NDN1Tnh4RlhRck5LS2JxSWhQWDBiSFFV?oc=5",
-        "why": "Firm AI use is up 78%, and active users report 39% higher revenue per employee, a useful stat for interviews and for gauging the pressure to adopt."
+        "id": "fbc4d7780c80",
+        "title": "FRC issues AI and technology auditor independence guidance",
+        "publisher": "Accountancy Today",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHpxOVlIdWl3b08xakxWVEZPdEpNeFBjWkRIOGZXX3JkYWt5MHk2SmIzY3RvSVdVTFBqMUhsR3J4emZKTWx6eHgtMTdsRkVZUG1yTmpBcWRhUjl4ZVRwQ1pEcTllbFhfeFlTTUdZUjcyblU0UDgtWVhUb2VkdWY2RG9KTDBpRUIwYThRRmNlMlFtT2lJeHowTTZ3?oc=5",
+        "why": "The FRC's AI and technology independence guidance shows how tool use can affect auditor independence, a core CPA concept."
       },
       {
-        "id": "fd2be5e5b070",
-        "title": "The AI challenge is a skills challenge",
-        "publisher": "KPMG International",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVpJUG9xTHRQeVgxYnlYeVY3Q3ZGcjFYWW1ZOW1UdGE3YWtVN0pQOXFNQU93QXJCZDNkS3J1akhkWkh2RE5MZEZ6a0VQRG5UZ242MWd2RXlRT004OVk1QlhtRnVBWG55eksxUGg1WXduNzZPTFJ2SDIyYmdKYkxGMXdGYkxGRnh3SEp5ZU5GVUE0YTFjR3BrYnBPMjd3UjFHd0tNVzZmQQ?oc=5",
-        "why": "KPMG frames AI as a skills challenge, which helps you decide what to build early in your audit career."
+        "id": "414ea22fc612",
+        "title": "KPMG Unveils Next Era of AI-Enabled, Human-Assured Audit with U.S. Launch of KPMG Clara intelligence (KCi)",
+        "publisher": "kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSjZtbkNESnJqTkVvVDlNLVJXMGdKa253YnJaN0ZhWFpqSTBJNGpGckhqV3ZMdmgzS2xFeXFhalM4VzAxc1pvM3Vtd1FWckZsRHEtVFZpVElfMWZQbG5udUFScjQzVUl6SW0yTzhGQzZ0Q0NYaDdVY0daWV9XNVZZOGFsUWxpRS0wby1feDdSdHZJM2VXZm50dFAxSjRBei1UYU9YZ3VkRVFOaExrazFmTGkwTHR4THgtVElEVXk1ZGdFcHhuRlZVZXI3SXpJcEltWkE?oc=5",
+        "why": "KPMG's U.S. launch of Clara intelligence (KCi) pitches 'human-assured' AI audit, a sign of the tools and judgment you'll be expected to use."
       }
     ]
   },
   "stories": [
+    {
+      "id": "094955983431",
+      "title": "Audit Automation Tools: dnl Brings an Evidence-Linked GAAP Checklist to U.S. Auditors",
+      "publisher": "Trend Hunter",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KWDN3M3ZtT0RWMTk4cmVWbmgwYTZXSnZlTDJvOU5RS09fYk0zX3ZweHNNcmJmb0hsZ1Fpa1R0NlFONnNiY0J3Vl9YODVWZ003dFY3d1ptQ1lmaEpZWXhvdVRiVWl5eDJr?oc=5",
+      "snippet": "Audit Automation Tools: dnl Brings an Evidence-Linked GAAP Checklist to U.S. Auditors Trend Hunter",
+      "published": "2026-11-17T20:41:58+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "5e2501c2e106",
+      "title": "Thomson Reuters Brings CoCounsel Agentic AI to the Tax and Compliance Products Professionals Trust",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY0RuUG93cUhqQnBtM0RpWEhnZEstQ2xvV3hsSklJMUFtTFZDS0M1VHhGQllKVjNoVlJlYXl2YnZscTY0VUNGaVpHSktteWRvejVBNm5WaVJTYjlxUTgtcmIzMHNhUG1uV3NGVzZHak5OQ0FnV1YtRFJRQmRXRmlMWVlNSE1KQml4NXRjT0h2TFZYcTZnSGRicThVUnJlR19VRDZ2ZkcwdkJJRWV2X2VWVG1RX0d0ZVBFTlFyYjdRZzYwcF8waUg1OVBNSFNjb2lIOUhSSGNTbmZtUklEb1FHVkVxU3ZCTmM?oc=5",
+      "snippet": "Thomson Reuters Brings CoCounsel Agentic AI to the Tax and Compliance Products Professionals Trust CPA Practice Advisor",
+      "published": "2026-11-17T18:42:08+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "912310c0dcc6",
+      "title": "Microsoft launches AI transparency initiative with Accenture, Adobe, KPMG, Mastercard, and Volvo Cars",
+      "publisher": "Crypto Briefing",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnMjR1UzRvTVpYMGdsa01mVUp2VloxdXlfRFhPQUdIYTFFY2RRR0V0cmtRTE1odG9mc3djdkVpSTJuRV9SdG5HWG1IVVgydFJiRXgxdVhSUTFjWjljb3hvaU00RDJNWGRhZHoxRzJfdFVVWmNvRk4ta1VHZw?oc=5",
+      "snippet": "Microsoft launches AI transparency initiative with Accenture, Adobe, KPMG, Mastercard, and Volvo Cars Crypto Briefing",
+      "published": "2026-11-17T18:32:05+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "76b777746a9d",
+      "title": "AI is changing the work. How is it changing what matters?",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oU2trakJCVFlkNmdhV1huSldyXzQ1b0dnR01kTW9DS201Vk1fQmRjOTlkTXBscHA1MlhSV0YzR1UySmluUEZvS0p6TElXUERfWHhnWVFhQjFjX2Jqcm9JSlZDS0tHRkZMYzNOcQ?oc=5",
+      "snippet": "AI is changing the work. How is it changing what matters? EY",
+      "published": "2026-11-17T17:32:16+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "6cecda97dbea",
+      "title": "Deloitte Switzerland continues to invest heavily in AI transformation despite tough economic climate",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQUxxLVZsUjNSei0zTVlfLW9abjJGQWlQdlJMemx4enJHUUtWb0owTFFNZ1NCZWJGcWVaZE16ZU9tdk1DNG02Ym5FTWFYeWxabXcxdHA5NFNpdkljcGI5VmtWWFBWOERzYmdIQ1pfektlcWUxbXZtakZjYWVwM2NSQTNVSDNiM2o1MEI0RE9Hc3RaNnQ5TXJVT0wyNzdrbnptTlNmYjBvMkV1SUF1WHlaY3RBSWxGR05HaXpicUNKblRZTFdJWWNLc3Fjbmp5aDRXOVVYNkpPZDRGZ2I3QnNtQ003ejRjLWpD?oc=5",
+      "snippet": "Deloitte Switzerland continues to invest heavily in AI transformation despite tough economic climate Deloitte",
+      "published": "2026-11-17T16:28:39+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "c3fda86c3dc9",
+      "title": "IRS finalizes rules for 401(k), 403(b) automatic enrollment",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVnZBM19WLWdFZXRWbEItVkpLLURNTjY1UEpDQW1DVFFpRE1maUlvQklHYUM2N1FRUkVxWlQwMEtsc1FBSWN0dDRRaTJyUXljT1UtbEYyTTViZXh1TmdzSG50Z2VSN2h0X050NXFQX3lRRjdncWg2SEhiUVVUT3J2UXMxZUJXLXpEcjBndHRhNA?oc=5",
+      "snippet": "IRS finalizes rules for 401(k), 403(b) automatic enrollment Accounting Today",
+      "published": "2026-11-17T15:24:00+00:00",
+      "themes": [
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "414ea22fc612",
+      "title": "KPMG Unveils Next Era of AI-Enabled, Human-Assured Audit with U.S. Launch of KPMG Clara intelligence (KCi)",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSjZtbkNESnJqTkVvVDlNLVJXMGdKa253YnJaN0ZhWFpqSTBJNGpGckhqV3ZMdmgzS2xFeXFhalM4VzAxc1pvM3Vtd1FWckZsRHEtVFZpVElfMWZQbG5udUFScjQzVUl6SW0yTzhGQzZ0Q0NYaDdVY0daWV9XNVZZOGFsUWxpRS0wby1feDdSdHZJM2VXZm50dFAxSjRBei1UYU9YZ3VkRVFOaExrazFmTGkwTHR4THgtVElEVXk1ZGdFcHhuRlZVZXI3SXpJcEltWkE?oc=5",
+      "snippet": "KPMG Unveils Next Era of AI-Enabled, Human-Assured Audit with U.S. Launch of KPMG Clara intelligence (KCi) kpmg.com",
+      "published": "2026-11-17T12:04:17+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "fbc4d7780c80",
+      "title": "FRC issues AI and technology auditor independence guidance",
+      "publisher": "Accountancy Today",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHpxOVlIdWl3b08xakxWVEZPdEpNeFBjWkRIOGZXX3JkYWt5MHk2SmIzY3RvSVdVTFBqMUhsR3J4emZKTWx6eHgtMTdsRkVZUG1yTmpBcWRhUjl4ZVRwQ1pEcTllbFhfeFlTTUdZUjcyblU0UDgtWVhUb2VkdWY2RG9KTDBpRUIwYThRRmNlMlFtT2lJeHowTTZ3?oc=5",
+      "snippet": "FRC issues AI and technology auditor independence guidance Accountancy Today",
+      "published": "2026-11-17T10:48:00+00:00",
+      "themes": [
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "0f886cf5e12f",
+      "title": "ChatGPT can now buy things \u2014 if the seller allows agents",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQzV3OUlKNHZuMXFqWG84NGkwTjFjYzUwbW1wVEhrUkRTM0hnZXJTTXk4OEJGUEY0SExlRnFXTV9iZ0hBaVVsS1pXNElWTEZqYm9ZTXpwVGFGRFpTc2wzTlNIZmpvOVUzMFJDU1BaUElwVUdZcE9XUUp6UWZHMWltTmhPTEFXZUgzUGRsb0ZYTFVtdW91bHc?oc=5",
+      "snippet": "ChatGPT can now buy things \u2014 if the seller allows agents Accounting Today",
+      "published": "2026-11-16T21:16:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "026c2f751de6",
+      "title": "New Xero Offering Brings AI Engineers to Accounting Firms",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLXFDak0ta185RHMxQVhOMVN0X3dRMV84U1Bia3hlYnduNVhKamdxQWY4Tzd1Wmdxa1h2ZmdmeTNvQmlpUUpMeTM4b2lTZ0I0MTgxeGR3VHRlbi1JenFqNWFkNHJ5M2JURV9Id2t0bzc5aUJaa3dicjdER0NnNlp0eTNXUjJJbVF4QzJ0QUk4a183SVlVa3F2VVRRVGRVYUl0aDdrT0VCemQxSGMwQmhiaQ?oc=5",
+      "snippet": "New Xero Offering Brings AI Engineers to Accounting Firms CPA Practice Advisor",
+      "published": "2026-11-16T20:25:20+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "e7fde3f26de7",
+      "title": "Germany's dsl enters U.S. with AI-driven GAAP Checklist",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHI2eFhsOUFqcFN2a0F3ZlBCS05DODlUc3VBczRxMlhkVGZrakdKSWVHMHdJQnc5SzVkcHloV2RteFFpUFVUc3FEcXloN284SzhFMVRjUVFWeE44dHZ0cXNzYzlZWjlCOW94bTNtZHREbmp3cUcwZTEzbmZiQ25xaVVVOHdOd21iZXhuTEpGYVktOXlzZ2oxUWp1LWdaT25rR2c4eF93YnB3dFEyUC1SeExCeXM?oc=5",
+      "snippet": "Germany's dsl enters U.S. with AI-driven GAAP Checklist Accounting Today",
+      "published": "2026-11-16T20:13:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "a342a8e99af1",
+      "title": "Bringing AI to the forefront of a tech-driven food revolution",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb3F6eHduZENEREMwSDdrR0VNN2R3VUJIZThEV0ZvZ29wZEx6WG9TcTJPdmJOVnVta2VuSl84cTZ6WlVneE5DQnFYcjYxXzBvZlhSUXBERlpTbjZLbHVySXhzdWVVdTlXaDZicEdxZGNKd3gzSEgyVHkxWE9lM1c5d3ZhcEo3TTFlaXJlanVMSGVXbmZ2aTEzTkI5RjFaSlVRNXJMNkU5X2VVbDFDRU9qVlNjYkVHZmttbVhYQm5IVGpzNjEtRF9JaFVXUWw?oc=5",
+      "snippet": "Bringing AI to the forefront of a tech-driven food revolution Deloitte",
+      "published": "2026-11-16T19:38:25+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "327841f0dfc2",
+      "title": "Deloitte unveils latest insights on AI, China's competitive edges and the Greater Bay Area development in Shenzhen ahead of 2026 APEC CEO Summit",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ2k4WEpmVXc1VnZVYUpRX3FyVmJqSG5IbWlhNEd2RnRmUVUxNjU4WTBNYTRLRkx6VDQtcExsSEtXY0JNQUlJbDIyeExXUUpCSy1YcEZ4YzNqUHoyZklrR3l2RFhNcWFDalV6LVltcUZPeDVPTm55RXBVaWoyUkZwcUhVaEY5WlE?oc=5",
+      "snippet": "Deloitte unveils latest insights on AI, China's competitive edges and the Greater Bay Area development in Shenzhen ahead of 2026 APEC CEO Summit Deloitte",
+      "published": "2026-11-16T18:31:10+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "3ab70bd85661",
+      "title": "Deloitte Digital\u2019s new agentic tools aim to fix messy marketing workflows",
+      "publisher": "Yahoo Finance",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjJNamw5QkNsU1BGRURlc3FOU3FELVpPOUpiYXQ2WHQyRXNhZXluRTVlSnBKRHg4eU9aeGdKMDlVQkcyQnhPZENUcFcxQlY4NXpmS2pET1RPRVE1U3ZWTkRmUFVfcnQ5MnE1bGplNjNaUG50cG9IbUt3aXFmel9xdENKUFctMElHNF9YY3E0cG9yU2hleWMxTVJhSnZkems?oc=5",
+      "snippet": "Deloitte Digital\u2019s new agentic tools aim to fix messy marketing workflows Yahoo Finance",
+      "published": "2026-11-16T17:09:28+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "42980d8fc8a4",
+      "title": "Watchdog warns audit firms not to use AI to woo advisory clients",
+      "publisher": "City AM",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRW42MVF3UVBRd2RMM3Y1TndTY2ROZHNwZUs0NnFveWtpNzh3SEpuYkR1VlJRUVBSTXlsTlg2QkJkTEJiTHNxYTJvcVFuMWNvNGUzNG05SmRjNnF2eVJwc0Z5c3JLQkxnX3dRbUVLUUlldW9ESjdORjRjQWwwR2ZRLVcwOWVCMEJYWXFwRnQ2TTBvQQ?oc=5",
+      "snippet": "Watchdog warns audit firms not to use AI to woo advisory clients City AM",
+      "published": "2026-11-16T17:02:07+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
     {
       "id": "e3624a1d6b85",
       "title": "Artificial Intelligence. Original Advantage.",
@@ -52,6 +278,25 @@
       "first_seen": "2026-11-16T16:30:35.201579+00:00"
     },
     {
+      "id": "b39897b1009a",
+      "title": "The International Auditing and Assurance Standards Board (IAASB) issues first AI Quality Management Guide",
+      "publisher": "https://www.big4news.com/",
+      "seen_in": [
+        "IAASB",
+        "Deloitte",
+        "PwC",
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxWkNtY01qU202aVR2d0lEQnF3UU8xM2pXMHdFUFFldmZzRHZQUnVtVE5XM0E2clU0bC1HekEyRWxVQjZqZ25aN1JPaXVDb0syUjVCQU1rTHI2dU93NmhLb2RsdVp1OTZvYkw3Qk1JV2IwbTNWR3doNg?oc=5",
+      "snippet": "The International Auditing and Assurance Standards Board (IAASB) issues first AI Quality Management Guide https://www.big4news.com/",
+      "published": "2026-11-16T14:24:41+00:00",
+      "themes": [
+        "Regulation & standards",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
       "id": "70ad8956ce57",
       "title": "AI Use in Accounting Firms Surges 78%, With 39% Higher Revenue Per Employee for Active Users",
       "publisher": "CPA Practice Advisor",
@@ -65,6 +310,39 @@
         "Other"
       ],
       "first_seen": "2026-11-16T16:30:35.201579+00:00"
+    },
+    {
+      "id": "315bd9589091",
+      "title": "UK Audit Regulator Warns AI Could Threaten Auditor Independence",
+      "publisher": "https://www.big4news.com/",
+      "seen_in": [
+        "Deloitte",
+        "PwC",
+        "EY",
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GbXFJVWhVZ0Q1bV93LWMxX3Bnd1F0TUpQSWRodElyajFMVXIzeEszT3dDOVhFLVV2RkdiclpTdl9PaTY5SkJSNFc0bS1FbVFhcWJTdEhNOV81VldGX1EwWnRQRWNDT2tvSUZwNGxFWlo?oc=5",
+      "snippet": "UK Audit Regulator Warns AI Could Threaten Auditor Independence https://www.big4news.com/",
+      "published": "2026-11-16T14:03:56+00:00",
+      "themes": [
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "72894849480f",
+      "title": "Converge\u2122 by Deloitte Front Office Launches to Help Organizations Turn AI Investments Into Commercial Growth",
+      "publisher": "PR Newswire",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaWQzWWctZFpoNzZTT2w3emlTbEkyRWU0ZG94dFhoTjQxYTBvMG5yRWVSRzFMQURrWGJlQ1VnSDhTX3ZzamF5ZGxWVjRVb1M0WmdkM1NETUxXVmxuamxqYzJXSlE2Z0pNaTJnTDlGUmhFcXgydkhWaUs2X0ZMcjdXWHpndW1najA2QktaSFhjelk0ZjF3cURZYVVBeURVTDhFR09KemRHNnZDMWhWaHdFR3ZiMzk3UzYyVnVvUTRnd25MTkxLRk5sS3prQnFaSUlLRlBIeTRUcWhiU2t1RE94MXZRZW9INllKVENiRlFkdFhkUTdrMUE?oc=5",
+      "snippet": "Converge\u2122 by Deloitte Front Office Launches to Help Organizations Turn AI Investments Into Commercial Growth PR Newswire",
+      "published": "2026-11-16T12:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
     },
     {
       "id": "746725f194e9",
@@ -126,6 +404,21 @@
         "Other"
       ],
       "first_seen": "2026-11-16T16:30:35.201579+00:00"
+    },
+    {
+      "id": "b5d3a673b566",
+      "title": "How AI is eating the billable hour at Australia\u2019s top accounting firms",
+      "publisher": "AFR",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQkNxUUI5aWZmd0JsWml3WlUwSWJlanNXUmpPSEhoaW9jX3BoR0VoeTlEd2tZS0FMU2l0aTZGTXFtblZMeHVvSXdlNlZBTTZaYU9qaTQtNHYxT01SSlRXUEhCeFUyRGxobWpMN1ZENkF2X3NKRkV4aFozLWZZSWg1NFlETHhkRTZrbnUwZV9nUkw4S2F5dWZoRDQ4VXJLTTZmdHZJMEY0VGN6TkRuZkZpRy1odHNOR1VxYnlWb3RPdmtNLW5ZYU9KRThTNkFDeUxDaEVBRw?oc=5",
+      "snippet": "How AI is eating the billable hour at Australia\u2019s top accounting firms AFR",
+      "published": "2026-11-16T05:00:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
     },
     {
       "id": "57be496708c1",
@@ -878,6 +1171,22 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-11T15:37:24.939781+00:00"
+    },
+    {
+      "id": "99381d341c11",
+      "title": "KPMG Launches Trusted AI Centre of Excellence in Singapore",
+      "publisher": "Singapore Economic Development Board (EDB)",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHNIbnZaM29ZOWs1d3ZGSDZoWkxSUDBsa2dnLUZvVHlpdk93NzgyRzRTd0ZmOVJsdWRjUlQzclM0VXZhaTlsMlZiZkRJMDFET3NaeVk0TU16RGUtY2xxTWxpZkZDY1BiV2tFd0w4Wm5lcWpJb01fZUF4YVkxRzFoeEtGWl8xZUtmaE1EdVZoU2c5LVdIQlVpV3ZIR3hJQUVB?oc=5",
+      "snippet": "KPMG Launches Trusted AI Centre of Excellence in Singapore Singapore Economic Development Board (EDB)",
+      "published": "2026-11-11T08:00:00+00:00",
+      "themes": [
+        "Firm tools",
+        "Regulation & standards"
+      ],
+      "first_seen": "2026-11-17T22:44:48.901798+00:00"
     },
     {
       "id": "947f3f3e7fc5",
@@ -5411,21 +5720,6 @@
         "Other"
       ],
       "first_seen": "2026-10-19T14:32:40.878056+00:00"
-    },
-    {
-      "id": "550730725eba",
-      "title": "The new economics of AI: Understanding what AI Is worth",
-      "publisher": "kpmg.com",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1POEVJT1ZjWUhMdDBZNnpmajFnVUE5YVlZUFJUUUdQa3hsS25CSjZiN2V3ZHJHcV81OFRmdXF3OHBPME1rU1VxX3ZoaktQNHM0ckJNTUpKSzlYemw3MlVhRE9pSVBfYm9Od1Q5ajJR?oc=5",
-      "snippet": "The new economics of AI: Understanding what AI Is worth kpmg.com",
-      "published": "2026-10-17T18:31:36+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-18T14:20:09.062308+00:00"
     }
   ]
 }
