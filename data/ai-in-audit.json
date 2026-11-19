@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-18T22:26:19.981848+00:00",
+  "updated": "2026-11-19T22:31:43.166526+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,337 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "KPMG's pilot of 100+ AI agents on a full UK-listed audit dominates the news, with claims the agents asked sharper questions than humans. Regulators' rules and firm training moves frame it.",
+    "quick_take": "Big 4 firms are putting AI agents on live audits while a UK regulator warns about independence risks, and entry-level roles are shifting toward AI oversight.",
     "standouts": [
       {
-        "id": "f50689ae8cad",
-        "title": "AI asked \u2018better questions\u2019 than KPMG accountants in pilot audit",
-        "publisher": "Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVBUWGFwaW5qOHRfZ0d1MjRVbU9ibFlpY2ZtN2EzUks0TUhueEFBUF9PS3RLNWdKZTdFQ1p2Z3U2RndPNGpwQ1JtWmdPeU9yT0IxZGk3eDdXZURsRW9CTUFkS20wYnB0VG9nRjZ3V3NRN0ZjRVlrUHhDZlp6Vi1CcVlQZnQ?oc=5",
-        "why": "FT reports AI asked 'better questions' than KPMG auditors in a pilot, a direct signal of how judgment-based work may shift for juniors."
+        "id": "51e85c228541",
+        "title": "UK regulator warns audit firms over independence risks of hyping AI insights to clients",
+        "publisher": "Compliance Week",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQelpwQmVldHpiQWVMR0J0V01DNmpmNnF6Sy1yLTN6UENDLTgtSTZVZ1llWWtuTi16SlEtY080QmJCSUgtZ1lNQS1LSU9BRXRqN3FZNEZjdVFGYi16eTVQMUZoUkRGVWFobDFYZDRIRzJKMjdUazlwclVmUjl0cll3dlNjTUxTOWRiaFM3WHEwd1U4RWtRbFNOR2pISnhZMTJzSDBGMmNxY3JjT3AzTGQzdHBrcEFpSDhxRDdzRnZaeWN1aHR1NVZWYjNqMGxLd1l0T1BGMHB3?oc=5",
+        "why": "A UK regulator warning on independence risks from hyping AI insights is a concrete oversight signal you can cite in interviews."
       },
       {
-        "id": "fc6ffa5c4b00",
-        "title": "UK Agentic Audit Rules Came 233 Days Before KPMG Pilot News",
-        "publisher": "FourWeekMBA",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcmtTWWJZYzFiVGpVZXVsM2hjcnVQWGUwWDVhU21BWTJJaW16d1BFNHBXcEJ3Z01ESV95Z0NIbHlJbmxqV0dVWEIyR3BaNlFBeU1vanVYUjgxWFB6M2pyZlJYNTd3S2VTNE8wQi1hT3NUd3lmRlFuRlRwLTZZNDFocUJMUzQ3VE5GOWV6TmhmZTQ?oc=5",
-        "why": "Notes UK agentic audit rules predate KPMG's pilot by 233 days, tying regulator and standards expectations to firm AI use."
+        "id": "2509eba63573",
+        "title": "KPMG trials AI agents to audit UK-listed FTSE 250 company- report",
+        "publisher": "International Accounting Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdzczMVFtUHlzU3BCRFQybDBiMWpEM1NEdHRoVzRKWUlWUEJ4cDN2QW5aYTZ6RFhteEdtVWdpM3dYTEx2RTh3N3VQYnhJLVZmOGZTNmlMSm1rVVNRUUpxWlFrOUZrc2dmLVlzWWUzbjZ1ZWNmMUtEb0pReWlfQ2RKQ21iWlZFRDR0VjQzZGlQUjM?oc=5",
+        "why": "KPMG trialing AI agents on a FTSE 250 audit shows agentic AI moving into real engagements, which will shape your day-to-day work."
       },
       {
-        "id": "9dba6c2e141c",
-        "title": "KPMG\u2019s First AI Audit Used 100+ Agents on a FTSE 250 Firm",
-        "publisher": "FourWeekMBA",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb2JocWNlUHBIZWcwT0I5Y2V6OEFUSkN4XzYwYVlEMkU5TDBiZlBSbUJGV2RiNl93WENYNU52WVJXM3pNcUVoUUk0bXFJMDU5Sm1IV1Q2Y2JGRTBTNnpCTTZjMEozaWpQTWtaMWlFQmxWVks4YVZCbzdlcnNSTW9nMlE3cEpod3B1SHBz?oc=5",
-        "why": "Details the first AI audit: 100+ agents on a FTSE 250 firm, showing the scale of automation you may work alongside."
+        "id": "64846d814b87",
+        "title": "EY Creates Auditor-Engineer Role in Bid to Boost Staff AI Skills",
+        "publisher": "Bloomberg Tax",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTmpqSlh3VVFrYS1lWUJUUjBEMm9nZlQ1MWxrUTBHTHF1SGlRS3RaaF95T1dCT19ZTkNPMkJBNi1TdFIydDVMUE03Z25ieUNuWEp3QlJhVWJzMmRTZUhXdWhzZ2ptc3dPaV9QZkRfOHF6bUdsd3JtX3RsY3BGakI3eGExem1mYzM3WXhMczVNbm1JNzlYQW9ZQXdXa095M0JXUzZGbmE5ZE5FcFFYYllHdVNxYmp0RmxCQ2Ewd2lLc3hpUm8?oc=5",
+        "why": "EY's new auditor-engineer role shows the technical skills firms want from staff, a guide for what to build early in your career."
       }
     ]
   },
   "stories": [
+    {
+      "id": "40cb6c29b614",
+      "title": "Three lines of defense in the age of agentic AI",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXN6aENaZi1HSWNWU2J5T2xXeU02YXcyQ0pzTnZMSjVBbC1zd1Q5QXBZNGdDd2Y5WlZ6OTAxUkNTVHVzVTlzaDhpZmI4UzBKOVVrN24tUVlGUlQ1QnFVTzZPSjdyUkZwWmZmSWwwUzg0b0NlT2NLQ2dudEhVaWtXNVpfZ2tsX0tiX2swQ0lnN1R3OWdTWXZael93UEp5LUVxdVpwYUR1SnlHOThMTkpKNjFEcEg?oc=5",
+      "snippet": "Three lines of defense in the age of agentic AI EY",
+      "published": "2026-11-19T19:14:16+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "4b67b5037709",
+      "title": "AI needs consistent and regular data hygiene to be fully effective",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWXplb0JVOEdpTF9fNXdUUFk4QXF2U1lCMGttX3k0eHRLeEJ6NHdoWDZQSEpaQXVoUWJyMWZIUDVWeXBZYk5zeVk1UkxTZDViN29Wa0RsWEpULUxrb3lHN0JNamhkSzhUd1hqeFk3YndGZkliSjhETGQ1ZXlBaHhqeDF2d18ta0w2enZ5Q29IU2VIZldDOFlELVdlQmJobkxhM1JPT3pn?oc=5",
+      "snippet": "AI needs consistent and regular data hygiene to be fully effective Accounting Today",
+      "published": "2026-11-19T16:51:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "97dd3e18fed0",
+      "title": "Checking AI\u2019s Answers Isn\u2019t the Same as Testing It",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONnhNQk11TDBLNFZWNjNXT2twQl9kUnBwYWVYNEVQc2c3ZEU4VDJwdWgzVXVYZTBXSWJpWmxyaG1wbmtySEowMmxnUk14Yzk0SjF0XzFzek1qQVpUTFNBU3dVOWNPQ0Q3VHhwVjFBZFFfSHpZRkpTV1VCeVJtdHpNRzYzVEJILXZDcmh1V3JIU3YzYjdSMUUtanI4RGZ0STBLY0RLWA?oc=5",
+      "snippet": "Checking AI\u2019s Answers Isn\u2019t the Same as Testing It CPA Practice Advisor",
+      "published": "2026-11-19T15:30:09+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "595e5071dcd1",
+      "title": "PwC Japan Develops \u201cReferee\u201d System to Monitor Data Used by AI",
+      "publisher": "https://www.big4news.com/",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPY1B0elVHVXhqTDQyZkVpYVFOWlpVSEVZNUZDb3JQOXIwYUo3NkV4X3liRWpCZ3BQaTVKV2hJX3ZSU2p3QUFNRDB1TDZnV2owTWJBSE5tUW5XX1pUNnlBX19lYkVkblNvYXFN?oc=5",
+      "snippet": "PwC Japan Develops \u201cReferee\u201d System to Monitor Data Used by AI https://www.big4news.com/",
+      "published": "2026-11-19T15:10:37+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "6709662581b6",
+      "title": "Defining assurance for an AI-enabled world",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMFNlMEZRallQV3o1SUVqRUZWcEhNNXRDT0o5bnVlNkxaOFhQWjhtNnFsa0VzXzZZOHBiWWlMOHhiVUVidnZVbTN5cS1HdzA3dTJLd2I5WVA1WFpfaEhHeTd4Z09KTTFWNFpKUzh1eDFtWE1CajV0QW83amJybWFCNjRLYWhBazNwOW5BczVUWQ?oc=5",
+      "snippet": "Defining assurance for an AI-enabled world EY",
+      "published": "2026-11-19T14:57:10+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "9b623dc53a5b",
+      "title": "The Case for Practical AI in Your Accounting Firm\u2019s HR Operations",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTklVSjBZR1RhX25UYzJlV1hrQUlBR0FrYzVkUHRJcTdUR2JrODhVX0pSWHE0T1JueUdhaGdXX2FIOXpoQmlOSlM2RkdyR213eTg4bGl3NTNEQ2JkMEpXSW0zVzlDaTkteFJQc1BJUDJhSjdLejRQdkNpSGJicFF0WUYzbXU1U196b0RjU193NHlrM21BcFAxUDF6TlpFZWtrQVFxYmdteHgwVG40bDRwVmQ5NTBoZ191YUE?oc=5",
+      "snippet": "The Case for Practical AI in Your Accounting Firm\u2019s HR Operations CPA Practice Advisor",
+      "published": "2026-11-19T14:48:13+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "1582de29b974",
+      "title": "AI Is Moving Up the Audit Pyramid. What Happens to the Auditors?",
+      "publisher": "https://www.big4news.com/",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTZSdjhZQ05Ia0h2dmFuREotdXU2QnByNWpJVU5aTnJnWERVVk1NbzZvOW5jQm4ybDd3ZDBXTlJyblEzTXhiaW9aeU9aQTJnRy1idWtfZHBVVWlCTjl3T0RKbGJQbkdDRWdVWlljemtidE4waTNtT3RkcGNiX19GU01Scmd2S1U?oc=5",
+      "snippet": "AI Is Moving Up the Audit Pyramid. What Happens to the Auditors? https://www.big4news.com/",
+      "published": "2026-11-19T14:23:30+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "e4dae4b25abf",
+      "title": "EY, Deloitte, KPMG And PwC Are Racing To Put AI Agents On Audits While Training Staff To Doubt Them: What\u2019s Going On?",
+      "publisher": "TechRound",
+      "seen_in": [
+        "PwC",
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU0IzRHNWTE1CU1h1OERITGY4TFQ5S3VsLWVYT1BJbU9jd2dGYm5YVUhkSTdjN0NZQXpvTEdfbF9OMW93QjB4SEVnaVcyS0MyNl91c2Jsak9pdnlUcWRjS2JhUm5RcDFSeTdGWnlBalFJNk9kVzROQ2s0N0hBLVVSRkRPLXdIN1dRRGE2YzJwcE13Ni1OazlSWnR5X1FWZmFFcW9MeVU5cXo4WTRlaWszRUZyVnZ5azhZdklHLUE4cTVBNkV0MW95ZUxWR3UxTnQ3Z3dPRUgyQ1Z4S2REbzZia2pvSjhqNktZNWVMWFZoeEY2dlU?oc=5",
+      "snippet": "EY, Deloitte, KPMG And PwC Are Racing To Put AI Agents On Audits While Training Staff To Doubt Them: What\u2019s Going On? TechRound",
+      "published": "2026-11-19T14:18:12+00:00",
+      "themes": [
+        "Firm tools",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "d0e4a73fd320",
+      "title": "AI accounting software recommendations favor narrow band of prominent brands",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS01KZW15Y25RajdSZDExQlVTaHdNRGR4a1RtS0NtbTQzSXo5MG9JWkhUZ1VWOGkwaUFvTEpnQzBOUEJodVZLbUFva3NrT1R0Q09lbFZWMm9YOXV5d1FXYktjQ0I1RnNxVlJZZTFkTUZGNnYzT0RocER1MWlkNVdaNE9fV0pONDdfcWJkWlhzdGFocTZScjNjQUxqUTFuRVpTbGE3MGVMaHpOclNaWXM5b09VMA?oc=5",
+      "snippet": "AI accounting software recommendations favor narrow band of prominent brands Accounting Today",
+      "published": "2026-11-19T14:00:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "2509eba63573",
+      "title": "KPMG trials AI agents to audit UK-listed FTSE 250 company- report",
+      "publisher": "International Accounting Bulletin",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdzczMVFtUHlzU3BCRFQybDBiMWpEM1NEdHRoVzRKWUlWUEJ4cDN2QW5aYTZ6RFhteEdtVWdpM3dYTEx2RTh3N3VQYnhJLVZmOGZTNmlMSm1rVVNRUUpxWlFrOUZrc2dmLVlzWWUzbjZ1ZWNmMUtEb0pReWlfQ2RKQ21iWlZFRDR0VjQzZGlQUjM?oc=5",
+      "snippet": "KPMG trials AI agents to audit UK-listed FTSE 250 company- report International Accounting Bulletin",
+      "published": "2026-11-19T13:26:15+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "64846d814b87",
+      "title": "EY Creates Auditor-Engineer Role in Bid to Boost Staff AI Skills",
+      "publisher": "Bloomberg Tax",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTmpqSlh3VVFrYS1lWUJUUjBEMm9nZlQ1MWxrUTBHTHF1SGlRS3RaaF95T1dCT19ZTkNPMkJBNi1TdFIydDVMUE03Z25ieUNuWEp3QlJhVWJzMmRTZUhXdWhzZ2ptc3dPaV9QZkRfOHF6bUdsd3JtX3RsY3BGakI3eGExem1mYzM3WXhMczVNbm1JNzlYQW9ZQXdXa095M0JXUzZGbmE5ZE5FcFFYYllHdVNxYmp0RmxCQ2Ewd2lLc3hpUm8?oc=5",
+      "snippet": "EY Creates Auditor-Engineer Role in Bid to Boost Staff AI Skills Bloomberg Tax",
+      "published": "2026-11-19T13:00:00+00:00",
+      "themes": [
+        "Firm tools",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "cce33a877cec",
+      "title": "KPMG Deploys 100 AI Agents To Audit a Company, Says They Asked Better Questions Than Human Accountants",
+      "publisher": "www.techtimes.co.uk",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtMTlMVDM4YVA1cmRzeEV5c1lkS3c1OUlxd1NjcG85OGltbEdhT3NBcUFlM2hWNXhrVkkxUTM2R1VGQ0pKanRMd01jUnlSeG00UWdWMWNpX0QtdlJWMzFCQUFRS2trUGQ5VFBRbWhvcHVERE1pWXhwOUQ5aXl4MHc?oc=5",
+      "snippet": "KPMG Deploys 100 AI Agents To Audit a Company, Says They Asked Better Questions Than Human Accountants www.techtimes.co.uk",
+      "published": "2026-11-19T12:21:06+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "81c71236ca70",
+      "title": "EY Launches AI Academy for Middle East and North Africa",
+      "publisher": "Wisevoter",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSndBTnBFR2VhOVUyTVdodXRyeUNtZ2pBLWw0NDJmcFo0UGtEazJ3aVBESzJTUjVSYzh0ZGhheGEtb2VoWWh3V2pUMjNFS3VqZXNGaFR2c0lqY0U5RHJoREVmM1VOLXRJRE5DZXlySWJNR3d4Y1NtekVSRWVrdlk5Q2JSYnhNVzRWSHlpNHh0cw?oc=5",
+      "snippet": "EY Launches AI Academy for Middle East and North Africa Wisevoter",
+      "published": "2026-11-19T11:52:52+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "8b33cbf08ddc",
+      "title": "Accountants Embrace AI, Survey Finds Weekly Use Widespread",
+      "publisher": "Wisevoter",
+      "seen_in": [
+        "IAASB"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeGlYZXJGcm5SUkRqOFd6MV9CS09zY2czcW9xSWNnVmdPUVZPWXl4LUlSYkVnYkcyQnAwcFllVk0yTTZXLTE4bVhxRVB0enRNdG9XV2RJOUM1QTdHUUdHMFBpTm1sT0lMb204Z01lMzQ0WUJ1VGFsenloanhDNFBJNWdJU2g?oc=5",
+      "snippet": "Accountants Embrace AI, Survey Finds Weekly Use Widespread Wisevoter",
+      "published": "2026-11-19T11:42:29+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "52e650c40ec6",
+      "title": "AI-Powered Financial Management: Workday Simplifies Accounting and Audit Preparation\u2026",
+      "publisher": "Trend Hunter",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rS0U5WFB5RmJ2cXBFTEZiYVJpMHppN2FBSnhCVHNYczN2MlFKbzlseVFHY29UNEJiU1hFeEFGVXFvR2lFZUlVVkR2N2pXRmhLRTRBcHRweF9JalAyeWMwejhoQzdrUDUweHZPVG5mdERKdUNG?oc=5",
+      "snippet": "AI-Powered Financial Management: Workday Simplifies Accounting and Audit Preparation\u2026 Trend Hunter",
+      "published": "2026-11-19T10:20:56+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "d424e8cfc644",
+      "title": "KPMG says AI asks \"better questions\" than auditors during trial scheme \u2013 but concerns remain",
+      "publisher": "IT Pro",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRjVmODZyVDFoUWVoTmVpV1M5QlE5U0xsYWpXOGFRX3ZSanNoRktmNlE1ZnZiVFlIQjU5SHhyR3VwS2NrWkwtaFdEcmdyRG01Q2lvZU0wYzluVlBFQ0xuOUY1VlFFTGJKNmRRM1ZDek5MZE1vdk0zcHVCN0NHTDBnaUtEZUt1NzhKRG9TVTBrZU9rcWQzNnBOcWVoZ3FpMm8xYU5Oa3JwOVZydXI5TkxNT1JKRE00SjZFTTBaanJkd1ROcjVwUmNQV2JNd2tLMHFWQm1ud2pEcF9iZHpYU2c?oc=5",
+      "snippet": "KPMG says AI asks \"better questions\" than auditors during trial scheme \u2013 but concerns remain IT Pro",
+      "published": "2026-11-19T10:08:40+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "199dda6099ca",
+      "title": "KPMG Conducts First AI-Based Audit of UK FTSE 250 Company Using Over 100 AI Agents",
+      "publisher": "CAclubindia",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWZCd2ROQ3NuTjFCbThQSGtOLS1JTnFRbVRQVlZLUUtoTkUxRGc1R3pHVmZqdHhKSmVVVFpneW9CSFFWYVZUQXlwMFRsZUNXVnQ3MG5VNnc3TWFWNmw0aDAzcm9BV1dobE5pVUIyTklvVWQyU2FFaFk3d3NuZE92UTc1Y0JSazdtSld2VVZQLWs5bTdfRGlUNlExNUNsXzF0R3A3dTlLcnJ1bTV6Ynk5OC1fa25XS3JxZ3dBQy1KbzZMSDQ?oc=5",
+      "snippet": "KPMG Conducts First AI-Based Audit of UK FTSE 250 Company Using Over 100 AI Agents CAclubindia",
+      "published": "2026-11-19T03:54:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "51e85c228541",
+      "title": "UK regulator warns audit firms over independence risks of hyping AI insights to clients",
+      "publisher": "Compliance Week",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQelpwQmVldHpiQWVMR0J0V01DNmpmNnF6Sy1yLTN6UENDLTgtSTZVZ1llWWtuTi16SlEtY080QmJCSUgtZ1lNQS1LSU9BRXRqN3FZNEZjdVFGYi16eTVQMUZoUkRGVWFobDFYZDRIRzJKMjdUazlwclVmUjl0cll3dlNjTUxTOWRiaFM3WHEwd1U4RWtRbFNOR2pISnhZMTJzSDBGMmNxY3JjT3AzTGQzdHBrcEFpSDhxRDdzRnZaeWN1aHR1NVZWYjNqMGxLd1l0T1BGMHB3?oc=5",
+      "snippet": "UK regulator warns audit firms over independence risks of hyping AI insights to clients Compliance Week",
+      "published": "2026-11-19T02:52:52+00:00",
+      "themes": [
+        "Regulation & standards",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "fbc4ab2636f3",
+      "title": "How banks can move AI agents into production",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0kxMVVZVVlRVVpFVWZDaFAtOEtwM1RjRVVHSGFUVFlseFhUemlYQi1tcGxNeGtWMWd2c0tjeGtBOFhQMGlOVG9PSGdJZXVGZ3N6UXBfY2w5d2xzRFdaZDNQWmpoRzRXQzB5OV9mMHdWTnlORzVEcGp5NVJmRzhlUjkyODlPVDdaY3ZYbWpxRWczTFk3Wjd0Nk9LRjI5UQ?oc=5",
+      "snippet": "How banks can move AI agents into production EY",
+      "published": "2026-11-18T23:44:48+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
+      "id": "a112aad318b5",
+      "title": "KPMG Expands AI Audits as Canada Reports Data Breach",
+      "publisher": "SuaraGarut.ID",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96YlEtTWRwbHh1TURHTkpZaEFqd3F6WVRPLWhGX1UtVkw0RXpIT05vRjVoYWFKVnB0UXptaV9IaUp5VXV6NFZFQXFhOElmMXUtRlBmZFppaWZmOEJBNlNlUG50RTVibFVTMmc?oc=5",
+      "snippet": "KPMG Expands AI Audits as Canada Reports Data Breach SuaraGarut.ID",
+      "published": "2026-11-18T23:41:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
     {
       "id": "d90cb2f5656f",
       "title": "Wolters Kluwer\u2019s Future Ready Accountant Report: Redesigning Work Around AI is the Next Competitive Advantage",
@@ -130,6 +435,21 @@
       "first_seen": "2026-11-18T22:26:19.981848+00:00"
     },
     {
+      "id": "246ae82c128c",
+      "title": "As private markets continue to grow \u2013 so do expectations, with AI raising the stakes, EY finds",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmFhQjE0M3VCa0lXQ2Z3OTM5dERuR2loVWkyVXpSTFdVTFZtdV9aVkwzQWZIenJNeXd1Y0hoR2llTm9Sc2dBSm1RdWt5VHBpMnFWWW5VZXdweTBJZnktdDZCWUo1eXE2ejZERWxSSWxoeVFEVHdkSUk0MFU0ZGlGWWpnVFZPOE1SOWNYR1ptMktCU0ZDLWd3LUpXX1U2aE04UVpEM2liUFlicjQ2VjV0ZlhQYXVfSUpyVGVXWjRmb1R2a1Fsdi0yS0VDamEzM3VPZTlvYXVn?oc=5",
+      "snippet": "As private markets continue to grow \u2013 so do expectations, with AI raising the stakes, EY finds EY",
+      "published": "2026-11-18T15:40:26+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
       "id": "718c69f03ebd",
       "title": "AI governance: managing AI costs and usage",
       "publisher": "EY",
@@ -208,6 +528,22 @@
       "first_seen": "2026-11-18T22:26:19.981848+00:00"
     },
     {
+      "id": "0790be861721",
+      "title": "EY launches ey.ai Academy to accelerate workforce AI adoption across the MENA region",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOTN0cW10V2RCT09VMU95aFQ4ekxZTnJjVGtidmctWWpCTmIxTWxtaGZ2VktCOTIwd2VfVEhiSFJya3k0c3VGOGNrTy0xMFgtaEhDUjZTaXY1ZXpTZDlxQlhnT29rN0FtZHRmbFRWVEZla0l5U1diWlZZeTBZRUZwVjFFR3ZNdHNoc3FPVVZTWklhMnBGUDlzZjFSTGJEczFMaklDcVVCSVhxOHZycXl1cmE1bTdDa0J6MHh5dUdaX0QtNW5U?oc=5",
+      "snippet": "EY launches ey.ai Academy to accelerate workforce AI adoption across the MENA region EY",
+      "published": "2026-11-18T12:33:16+00:00",
+      "themes": [
+        "Firm tools",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
+    },
+    {
       "id": "29dda5378974",
       "title": "Unlocking AI ROI in the technology industry",
       "publisher": "EY",
@@ -257,7 +593,8 @@
       "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
       "publisher": "European Business Magazine",
       "seen_in": [
-        "KPMG"
+        "KPMG",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCVHRBRDY2RTRYTDFPcm83b3pmZkZPRlZwWnY3T3lYbDYtOW0zdWVTbHFtWTJ5cnQxTXd3QVJYNFJpYzA0WHZkaVAtRTJkMzNEeS1uTTROb1pYTThJZWpQV0JtbUhHbkYwdHRjQ1ZieHNOMkdsOHMyTg?oc=5",
       "snippet": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial European Business Magazine",
@@ -656,6 +993,21 @@
         "Regulation & standards"
       ],
       "first_seen": "2026-11-17T22:44:48.901798+00:00"
+    },
+    {
+      "id": "28921a24a9a9",
+      "title": "Pentagon Fails 9th Audit: EY $990M, AI Reconciliation",
+      "publisher": "explainx.ai",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUJqQzRMdS01M0RJbG5nTEhueDI0MWpCa0tXNVNRZzI3VHN3S1pSdXJrTm9MREFFM0hrRW9EUkhYUXpjckVZeHpJeUh2TmkxeTZ1VUJoUVZLdWxudGxqQVZPUDA1alByUktaUUhEX0UzejAwQ3RCVzEtS3RHdk4wa3ZSNzdnSm1rbk5vNFh1SVo?oc=5",
+      "snippet": "Pentagon Fails 9th Audit: EY $990M, AI Reconciliation explainx.ai",
+      "published": "2026-11-17T00:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-19T22:31:43.166526+00:00"
     },
     {
       "id": "0f886cf5e12f",
@@ -5764,174 +6116,6 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-22T14:30:14.802560+00:00"
-    },
-    {
-      "id": "77cc56ec777b",
-      "title": "How to empower businesses with trusted conversational AI",
-      "publisher": "EY",
-      "seen_in": [
-        "EY"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ05pN0VoMWtrOUUyOHZnWmVyandMLW84OXBDLVJCVmdhempTcUtXM1B0TjZucFdaM3ROZUJEb1ZuaTZtQ2VfLTk3QUlRbHY2R2J6ZndRVTdEOTlkNjBUeXh3SG5zWVRQXzJtdjNueGR6X3Nzc0ZzQ1UtMndBV3BkcWx5UTIzTEZkLUQ4LUl5clVxQQ?oc=5",
-      "snippet": "How to empower businesses with trusted conversational AI EY",
-      "published": "2026-10-20T21:26:15+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-24T14:21:10.250672+00:00"
-    },
-    {
-      "id": "42433c8dc55a",
-      "title": "BILL Unveils New Agentic Capabilities for Finance Teams",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR2xWMWZxa1VOUUZYUWlZUXFKYUgySm5wam5kRTk5MDZCZTYwcjhBY1dkQUVsQjBqZGQwQzZtWG1UVXVUbGVKclJkUG1MYUxEem9CRGQ4S00xY3E2ZWZmUUZKcHF2aUQ0V0ZqT09nTHF0RC1sUXNRdHI3ZURsXzdVSGJLOUpPbUpzRjN1eldJQllrTTZGT2JTc1NMV281QlI0Qmk5bkdtMHRRdUJXQlE?oc=5",
-      "snippet": "BILL Unveils New Agentic Capabilities for Finance Teams CPA Practice Advisor",
-      "published": "2026-10-20T20:34:43+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-21T14:29:14.130887+00:00"
-    },
-    {
-      "id": "880c65afd1fc",
-      "title": "Stout acquires agentic AI company",
-      "publisher": "Accounting Today",
-      "seen_in": [
-        "Accounting Today",
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pa1h3alhnYXRPSWFKc1U4c3Ewei00ckg4TDJqR0N0b0tSWnhtNVVUQ2haNmFwb1VldDc2WE1Ebl9xSjdPNFhJZjEweVNONk5CYkEzVWFrVkVkWU03V0VzY0dxLURXZ2VwNk5XbDNqWQ?oc=5",
-      "snippet": "Stout acquires agentic AI company Accounting Today",
-      "published": "2026-10-20T19:36:00+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-21T14:29:14.130887+00:00"
-    },
-    {
-      "id": "107acf8bbb62",
-      "title": "Is AI Safe for Accounting Practices? What You Need to Know (in Plain English)",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlU3OEJVZk9LRFZpV3FpYmtuQ1hyVDdUcnFKZWRSX28zdjRCaGwwWTdORVVpNkg2dXRjTi1ZNDRqWGZUYU5OX044STlyNk5qaGxlSURCallzb1BOMGNwR3ZDOHJJeTNRVkZ0TDRxZkNPbWsyOFB2TUVraTAxcHM0RkhUalRuNGlpLVhTcmtCMWxocGdDZnBHWnU2Wjd1anV6c1l3Mkw2UWRVREdJNkViQXZmd0h1aDZBT0NtMWhhMV8yNG5FUXlV?oc=5",
-      "snippet": "Is AI Safe for Accounting Practices? What You Need to Know (in Plain English) CPA Practice Advisor",
-      "published": "2026-10-20T17:44:49+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-21T14:29:14.130887+00:00"
-    },
-    {
-      "id": "04ecaee56699",
-      "title": "Internal audit leans more on external partners and AI",
-      "publisher": "Accounting Today",
-      "seen_in": [
-        "Accounting Today",
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNWJXZlJWRmtiQWFacmlwaHJQcm4zQ3Y1ZE9EdThxQWVLajRqbllHcmR0TFNwM2JkdU5FcXFDN2pWUWNYYWZ4ZzR5UVVIeTc5QW5zTW5XX01RdTVLSFJaSVFEbnhCcEYxM2RmUHhGaEx1NGV1ZU56bFk5alVienJBQjh2THlaYXFjM3N6Vmg3cE5tTUx0?oc=5",
-      "snippet": "Internal audit leans more on external partners and AI Accounting Today",
-      "published": "2026-10-20T17:16:00+00:00",
-      "themes": [
-        "Risk & controls"
-      ],
-      "first_seen": "2026-10-21T14:29:14.130887+00:00"
-    },
-    {
-      "id": "aef77d69f8df",
-      "title": "Top 5 Popular AI Accounting Software for Public Companies in Singapore",
-      "publisher": "TyN Magazine",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRldrMGYzTWE0bEprRkZvWUJqRG1rMXM1SW5JOGh4S2FLOGhlUUtqZ2VtdExUc0tDZ0JpYlVuV01oNUJCeEJPZ054SW9udXFhUUVzbUZMb1l2TDZGaDJvTEUxeHQ2a1l1OE13VkdBdnhJYnV0OV9ILUtjbTJmNEJpY2U3WndlMlFTd2w3M1VEYkxqVzRKU1U0OUhpdw?oc=5",
-      "snippet": "Top 5 Popular AI Accounting Software for Public Companies in Singapore TyN Magazine",
-      "published": "2026-10-20T16:26:31+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-21T14:29:14.130887+00:00"
-    },
-    {
-      "id": "2faff98c11ae",
-      "title": "Gradient raises $4M to build an AI-native accounting firm for startups",
-      "publisher": "Dealroom",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHRCTWJZS09EajNfanV3aXBmb3hpd3Nxb2p0aXZSMjBoUm9UbWZUUktvbXNuVWQ2a1lyQnVTc002bVg4RGlMbWVLdlN3Zk5SbDFzelBVeDJULWhOZ1ZzQTh2TUFRM1FjVHo1ODR5WFFBSl9VZ3QwdUJ4SVJkV0dKY0czZ3Vnc0ttUVRTOXdwTmREUFVVUkpCTHdsQUMwVmlZQXkwaHF3?oc=5",
-      "snippet": "Gradient raises $4M to build an AI-native accounting firm for startups Dealroom",
-      "published": "2026-10-20T13:42:17+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-20T14:27:35.204085+00:00"
-    },
-    {
-      "id": "97be86d66eaa",
-      "title": "Exclusive: Gradient raises $4M for AI-native startup accounting firm",
-      "publisher": "Tech Funding News",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRTRWZzBvV0JzQmtPYUZJbkNxUkE0M0MySHREbGtTWkFDZGc4ZnhzdzAzZFBFTUtxYm1zLU9CRWFGMFFScG5jSGxqRldxalRhZDg5NXlXZk5CYzNaMXNJSktMdG1teExwUkFVQW8zd2w2cE44UVI0VmNrMlk1LTdteURUZ2U1RWtvc1ZBS1JxR0ljZm5fYTJhSXBNNA?oc=5",
-      "snippet": "Exclusive: Gradient raises $4M for AI-native startup accounting firm Tech Funding News",
-      "published": "2026-10-20T13:04:27+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-21T14:29:14.130887+00:00"
-    },
-    {
-      "id": "067b48443338",
-      "title": "Frontier AI is changing the cybersecurity landscape. Are you prepared?",
-      "publisher": "PwC Nederland",
-      "seen_in": [
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNERacDhGOVFXTFFyaTFiNVA2NzBnakZlRlBiQWY0NFdUclk3cWljWjI1LUVBaHBZbi1tTGNzb21tV0dTVEh3emx6QlZkV1RKZkhMSG1YZHlQcU5nM21WY0ctVHB4ZVdLdTFNZmZweGpvTmp5VXdUc2loSXF2b3ROWjU1UlJ3VVBFVGRybnFSQ2NmMEgxYVFmZk11M09hSDBIRGYyRVptZ2Y3R2RnLXluU3JWRlBCM28wS0ktZHVaSVlxdDZaV3Y3U0FCTzNWQlFVZG1Sazk3c2xMTEU?oc=5",
-      "snippet": "Frontier AI is changing the cybersecurity landscape. Are you prepared? PwC Nederland",
-      "published": "2026-10-20T09:17:52+00:00",
-      "themes": [
-        "Firm tools",
-        "Risk & controls"
-      ],
-      "first_seen": "2026-10-20T14:27:35.204085+00:00"
-    },
-    {
-      "id": "c4e149342774",
-      "title": "Plinto Secures 2.9 Million Euros for AI Invoice Audit Agents",
-      "publisher": "n24.com.tr",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb3Vxdl9KaC1NQ0tYaDd0czhydjRrUWtfTjdCUnI1SkRib0o2NFQzTTdxWDdpZ2tIUFFOSVZkUjhPbXVOZ2ZpOXN1OEtkWHA5NU4zWGpGLTNZc2NOMEpYbVc0dU1sVzZqSDRmbnlmekFqX3pfTXUwcTlncFBETkFVUHJtdUNFQVZRb2V6WkNuMVdWOThzNlNkeVl3?oc=5",
-      "snippet": "Plinto Secures 2.9 Million Euros for AI Invoice Audit Agents n24.com.tr",
-      "published": "2026-10-20T07:30:11+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-22T14:30:14.802560+00:00"
-    },
-    {
-      "id": "5027d5b034a1",
-      "title": "Medicaid\u2019s AI moment: Turning operational friction into measurable outcomes",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeFlVbVlIS2ZwMzBPRVR5akY1VlE1X1hkbUpQajYyWjdRVkJhb0U3SF8yamI2ZmROb0JYYXFaVEZMcENUU3FlUjdnajV0UWVmTTVaQ2RnMzdyaVJIemg3ZWplX0ZhbFpEQTkwZ1J5SEJibHZkcjliS25hMjlQdkRSS0RGaGxzMmZGZTlkR3JlVVVRa01Za29Kb015MUdNQ0ZaeWlUQS1FSmNhbHJuMjdoa0pmMTdwejhDazZPaFZLM0IwU0I3Z2lvWWh1eW92X2M?oc=5",
-      "snippet": "Medicaid\u2019s AI moment: Turning operational friction into measurable outcomes Deloitte",
-      "published": "2026-10-20T06:34:17+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-20T14:27:35.204085+00:00"
     }
   ]
 }
