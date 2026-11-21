@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-20T22:04:14.110971+00:00",
+  "updated": "2026-11-21T20:42:57.820660+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,47 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "KPMG's FTSE 250 AI audit pilot dominates today, with reports that AI agents asked sharper questions than humans. Meanwhile, firms are growing on AI but few are redesigning workflows.",
+    "quick_take": "Big firms are moving from AI pilots to agents and governance at scale, while accounting for AI spend itself becomes a topic. Headlines only, so details are thin.",
     "standouts": [
       {
-        "id": "74746aaedd15",
-        "title": "AI asked better questions than auditors in a large-scale KPMG test",
-        "publisher": "Computerworld",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONzd6WVFzTm5lSDRJOWgtdG9BcEkwZHNqRjh2eHJIek1uV3N0eDdPaEs4VTJWNVFlU1l4VVJmb0tfVWZGVHVFeldPLXdzWmJwWm56ZlVjQUFQRmxfVWVXX1FuSnYyOGtKZnZ1QUhEcjN6bERNbjhXcDQyVy11aW96cFAxUTBCUWQ5M1Z4V0haUGJPd2tJX0lzblYtaUFfT3Q2Ukd0Tm00ejI1WVNTWkZtal9ENkF2UQ?oc=5",
-        "why": "Reports AI asked better questions than auditors in a large KPMG test, which shows where entry-level skills like judgment and questioning must go."
+        "id": "cf61e5f37214",
+        "title": "KPMG Tests Over 100 AI Agents in Parallel Audit",
+        "publisher": "Brief IA",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMlJLWXlmc2NDUWhld2ZrSGNqWGpIam40TXpZTGxlZ19DN21CV09ENWNkZXJFLXdOVUtWNUp5ZkdqcXowazRPWWowdlNrZW5oblNZZmMtUTA1MnMya2MtNDRBdm5HbXo4WGE5YlhHQzlpd3JMWUlBSTB5bzNSOWtmdWsyN1N2RlVm?oc=5",
+        "why": "KPMG testing 100+ AI agents in a parallel audit signals how audit work, and entry-level tasks, may be reshaped."
       },
       {
-        "id": "c5f54bcd8e94",
-        "title": "Accounting Firms Grow on AI but Few Redesign Workflows",
-        "publisher": "Wisevoter",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFlucU9ERWRLbXVQNlBOZWg3YjZnSk5OeEk0VDl1cnBlRXFzdF80OHljMmZNbExESHNwcElTbjhhY09EWnBZTk5YRjljMkJvWTA4Y0VkbGZKWUluTUdwUGFRY1FZRW9mS3VOQlVJWUNYUUlYWC14SWVWaVlHZlZaWnljNHpveEpfTG1zQmtMYw?oc=5",
-        "why": "Firms are growing on AI but few redesign workflows, so expect uneven tool adoption and a chance to stand out by learning the tools."
+        "id": "e69fa22a17e7",
+        "title": "AI readiness assessment: governance and controls for scale",
+        "publisher": "EY",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMk5OQnlVZlhYbVozTzRRVEtVN19PQkUwVlVwYzdLRXJIZEFuTXNyZG44Q3d3SWpHNGcyOUVldm1GRmljUS10dlpGZGNNZk1SekoyN3N5MVUtT0l6c3p2clFyLXplQklxdDhGdGNhMm9MOXlrSlVhV3I1cVZaNEROYVhoQmZXa1BHUjFVTk9qS0ptcmxaRVkzcjBwdWJNWWVMSEh2NDBmZkFPMHM?oc=5",
+        "why": "Governance and controls for scaling AI is the risk lens auditors will apply to clients and their own firms' tools."
       },
       {
-        "id": "6f5de1708233",
-        "title": "Insurance\u2019s AI \u2018black box\u2019: Can auditors trust the results?",
-        "publisher": "InsuranceNewsNet",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHBURXA2U3M3SkF6T1NENjlPOXZpY3JpTUhTcjNWLWJnZXM0QXRwaUs0Vi1ISzRxRXVDTHZuS0p1cHFOUWhiSDdsaWNxZlRyRDBrVTZBYzByNWxkOFN6QWctMjZrV3V2cFNUemdxN01KVEFreUdvSzVOeURaOHpCTDZXQ1pNVUYyYk1RNjZoQlg3TDlVeXhxMlpR?oc=5",
-        "why": "Asks whether auditors can trust AI 'black box' results, a risk and controls theme you can raise in interviews."
+        "id": "d2a78349d611",
+        "title": "AI investment accounting: Compute costs and capitalization",
+        "publisher": "PwC",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzFtOGFfYjFWeDVFNDlfOUVzX3ZpT0lBbnhXLWVDYXc3SkxXUU96RjZaQy1fRmtORUh4WkQ5d01VOGI3UTlvcnY0MHh4Z0tpdnZrMFY4WTJRRFVEZHRxcHhMUVA0azZ4OUNqX095OWFNZG5CRmw4NjZYLVRlVmI5ZWkzaG0yVlJ2UEhzZnYwOVJqc2N2R2xHbHdzcnhSTl9YLUFyNGFqcXlsOHlYS1E?oc=5",
+        "why": "Compute cost and capitalization questions are technical accounting issues you may audit at AI-investing clients."
       }
     ]
   },
   "stories": [
+    {
+      "id": "ffeccf06001e",
+      "title": "From AI Adoption to Enterprise Value with Agentic AI",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa055dTJzT2ZGZHNxVnFydTFFOHVadDJrcGZEczNtSDJUN0FValhZNWlfR1A3cGVCbkNMemJMWk1ucHZxNXltZEMwcjRWOWZTUW0yNnRBb2ZpazZNcFVIVEtsQkZoRy1KcEF3NkRydFNoWFdVQjZzdkp0ckdWbmt0anJoOXhkaXBncUtYekN1TmcxOXRHOU5FcFlrcS02YXVG?oc=5",
+      "snippet": "From AI Adoption to Enterprise Value with Agentic AI EY",
+      "published": "2026-11-21T07:54:34+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-21T20:42:57.820660+00:00"
+    },
     {
       "id": "176770b3fe8b",
       "title": "How AI Risks Can Affect Accounting Firms\u2019 E&O Insurance",
@@ -86,7 +101,8 @@
       "title": "AI literacy: The next core CPA competency?",
       "publisher": "Accounting Today",
       "seen_in": [
-        "Accounting Today"
+        "Accounting Today",
+        "AICPA"
       ],
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVExXY1dibEJ4NnVRdmdjTm80SHpWQUFnMm54ZGZUNEVuODRKSjlSbnBWQnM5Y2FXVFh4UG5yY29paHVGZl9LQTBhZ2taZWhzY08wcHk5MFZNU254MkRJLXVaSGZCa0wyZE0waVhJd2pTZHpfS3BKNGk2akoyVkphVlBpbDJOQW8?oc=5",
       "snippet": "AI literacy: The next core CPA competency? Accounting Today",
@@ -396,7 +412,8 @@
       "publisher": "International Accounting Bulletin",
       "seen_in": [
         "General",
-        "KPMG"
+        "KPMG",
+        "PwC"
       ],
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdzczMVFtUHlzU3BCRFQybDBiMWpEM1NEdHRoVzRKWUlWUEJ4cDN2QW5aYTZ6RFhteEdtVWdpM3dYTEx2RTh3N3VQYnhJLVZmOGZTNmlMSm1rVVNRUUpxWlFrOUZrc2dmLVlzWWUzbjZ1ZWNmMUtEb0pReWlfQ2RKQ21iWlZFRDR0VjQzZGlQUjM?oc=5",
       "snippet": "KPMG trials AI agents to audit UK-listed FTSE 250 company- report International Accounting Bulletin",
@@ -545,6 +562,37 @@
       "first_seen": "2026-11-20T22:04:14.110971+00:00"
     },
     {
+      "id": "d2a78349d611",
+      "title": "AI investment accounting: Compute costs and capitalization",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzFtOGFfYjFWeDVFNDlfOUVzX3ZpT0lBbnhXLWVDYXc3SkxXUU96RjZaQy1fRmtORUh4WkQ5d01VOGI3UTlvcnY0MHh4Z0tpdnZrMFY4WTJRRFVEZHRxcHhMUVA0azZ4OUNqX095OWFNZG5CRmw4NjZYLVRlVmI5ZWkzaG0yVlJ2UEhzZnYwOVJqc2N2R2xHbHdzcnhSTl9YLUFyNGFqcXlsOHlYS1E?oc=5",
+      "snippet": "AI investment accounting: Compute costs and capitalization PwC",
+      "published": "2026-11-19T08:00:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-21T20:42:57.820660+00:00"
+    },
+    {
+      "id": "e69fa22a17e7",
+      "title": "AI readiness assessment: governance and controls for scale",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMk5OQnlVZlhYbVozTzRRVEtVN19PQkUwVlVwYzdLRXJIZEFuTXNyZG44Q3d3SWpHNGcyOUVldm1GRmljUS10dlpGZGNNZk1SekoyN3N5MVUtT0l6c3p2clFyLXplQklxdDhGdGNhMm9MOXlrSlVhV3I1cVZaNEROYVhoQmZXa1BHUjFVTk9qS0ptcmxaRVkzcjBwdWJNWWVMSEh2NDBmZkFPMHM?oc=5",
+      "snippet": "AI readiness assessment: governance and controls for scale EY",
+      "published": "2026-11-19T08:00:00+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-21T20:42:57.820660+00:00"
+    },
+    {
       "id": "ddfcc9dd8f1e",
       "title": "Workday webinar: People \u00d7 AI: the new competitive advantage",
       "publisher": "Deloitte",
@@ -652,6 +700,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-18T22:26:19.981848+00:00"
+    },
+    {
+      "id": "cf61e5f37214",
+      "title": "KPMG Tests Over 100 AI Agents in Parallel Audit",
+      "publisher": "Brief IA",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMlJLWXlmc2NDUWhld2ZrSGNqWGpIam40TXpZTGxlZ19DN21CV09ENWNkZXJFLXdOVUtWNUp5ZkdqcXowazRPWWowdlNrZW5oblNZZmMtUTA1MnMya2MtNDRBdm5HbXo4WGE5YlhHQzlpd3JMWUlBSTB5bzNSOWtmdWsyN1N2RlVm?oc=5",
+      "snippet": "KPMG Tests Over 100 AI Agents in Parallel Audit Brief IA",
+      "published": "2026-11-18T17:53:04+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-21T20:42:57.820660+00:00"
     },
     {
       "id": "391e71ded0e6",
@@ -5861,295 +5924,6 @@
         "Risk & controls"
       ],
       "first_seen": "2026-10-24T14:21:10.250672+00:00"
-    },
-    {
-      "id": "14f07d86798a",
-      "title": "Tax and Audit Professionals Asked If AI Could Actually Do the Work. Today We Answer",
-      "publisher": "Thomson Reuters",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVFRJUEZUVDVuU2JMYzJ2Vy10S2FhU3J1YXJsaF9QaWREQnpWX1RpUEc1Z0pDemJBM0p5TXlzVDM0ZU11WU5OWGVNTXRueElTdGdQZ1NFOUFMcW5oSk5TSlVnY3NXbmloRHFUSW5VTjBzSW5RTG1XYUVrMXQ1U1o1ODU0aENOS0VSbWNBb3BjTUhqSElTR2lsYXRhaUNGQXZXZm5tSnNEanhndUF6T1Q3Z1Q5R09COUNuTzFMdnlrekY1VUtZZkR5U2RCb0k2X0w2RElN?oc=5",
-      "snippet": "Tax and Audit Professionals Asked If AI Could Actually Do the Work. Today We Answer Thomson Reuters",
-      "published": "2026-10-22T20:08:13+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-23T14:32:02.320606+00:00"
-    },
-    {
-      "id": "3263f31578ff",
-      "title": "Deel Launches AI Lab and LLMs",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2xEMmtFY3UzdG93TjQ2eHhYUV9mcFF5UXJBd2RJU0wzVWJWRXJEdXg4eEswb192ZUVMT0hwQWEwZGRGTjR2eVFGMzFLUGV4cmoyclpIYktMb2NlT3lwMFp2RjBoenhxQnNRbmRpRjZ0TFduTUpkMkJqcmxzZFV1ZEJhQnBLZWpZenpj?oc=5",
-      "snippet": "Deel Launches AI Lab and LLMs CPA Practice Advisor",
-      "published": "2026-10-22T18:01:44+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-23T14:32:02.320606+00:00"
-    },
-    {
-      "id": "5994cb31b4fb",
-      "title": "Dext Rolls Out AI Connector",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0hnRGNXRDBSSURNSXlvclFGU1BMRFM4cmQwRWVwaE5xVTUxbnRaQldPNmUyOUJJVFFrS094bDN4VjZJUFZOYm0za1F6OVhCak10NmdiZXU4R3lGbXlYd09qT1JLYVdrcTBDWmJLSVJOSVlqVVEtOVFFTDNIN0IzTVg3eE1nVzV6?oc=5",
-      "snippet": "Dext Rolls Out AI Connector CPA Practice Advisor",
-      "published": "2026-10-22T17:59:03+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-23T14:32:02.320606+00:00"
-    },
-    {
-      "id": "cdc923d231d2",
-      "title": "Global AI Quarterly Pulse Survey: Q3 2026",
-      "publisher": "kpmg.com",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mcHNjZEpGOXNrMlNTcWhrUGN6NG10WGI3cFNOM3ZqOU9mNi0zSDlJOWtQMGFWak9EY19aMmdENUNFWndxbVB3cF9xME5xZzdPZDdlWGNUYkRhR1hNVDJsYjZtZjVaWXc?oc=5",
-      "snippet": "Global AI Quarterly Pulse Survey: Q3 2026 kpmg.com",
-      "published": "2026-10-22T17:35:21+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-26T15:32:35.093879+00:00"
-    },
-    {
-      "id": "cd5988553628",
-      "title": "90% of internal auditors now use AI",
-      "publisher": "CFO Brew",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Rc1Z2T0p1eWxlZV9Na2tvUzRUeHMzSk0wMFBFWDJJSWgwUXBMZGQ1eEpfYkl5ZVQxaHF6UXlMZHhPMmd0VGZhYVp1V0xWdzN4alpQTjN6ME5mQVlzVjVyZGNFMGRoMUpfNEVwME02RDFHb2QwRnc?oc=5",
-      "snippet": "90% of internal auditors now use AI CFO Brew",
-      "published": "2026-10-22T17:01:59+00:00",
-      "themes": [
-        "Risk & controls"
-      ],
-      "first_seen": "2026-10-23T14:32:02.320606+00:00"
-    },
-    {
-      "id": "84de42a1f700",
-      "title": "93% of AI Spend Goes to Technology, 7% to People, Deloitte Says. Broken Trust Halves Motivation",
-      "publisher": "AICERTs",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLU5SbnJrVDBpbzNUN1BhVzhuUlpwaWRIZDlyRER3ZVpIazZMVzlIZzNVemd5NFBEQ01nQmxzWkJnYU40LXRtX2t2ejdkSk9pOTNJR05BNko1dXJlQk1lYVNhdVJ5TENlRmQ3V1RrRUY4X0YtY1pvUUh5SGZVTWlWQnVzNXBwNTlDdjFoREtndkozV1NGcl9BcGo1NF8yT2tTb01xWFExVVBuX0U0RHJ3bFFpTkFvOTktbmh5cA?oc=5",
-      "snippet": "93% of AI Spend Goes to Technology, 7% to People, Deloitte Says. Broken Trust Halves Motivation AICERTs",
-      "published": "2026-10-22T16:42:00+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-23T14:32:02.320606+00:00"
-    },
-    {
-      "id": "951b18a8b785",
-      "title": "Bill, Billtrust, Visa pilot AI payments without human authentication",
-      "publisher": "Accounting Today",
-      "seen_in": [
-        "Accounting Today",
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHZabkxxcFdZQ01iVUUtV293Q1Y4Uld6UlprcXBJYkNLMkJtaGFWdWwzNmc3aWF2S3FudHpIS213azVMRG0ydHRMQksxaWhKdnFhbUNNdnpVaWZWTHRubGtGZXhGbmJPMUN1TF95QVlQMUwwcVhNOFpGS2VUcnBUcjhJYTZ2WE1uMGZRcVRLUU1lT3ZmWVFhU2NBNDIydXhBdFg4YnJvY3hiUEhCdjBZ?oc=5",
-      "snippet": "Bill, Billtrust, Visa pilot AI payments without human authentication Accounting Today",
-      "published": "2026-10-22T16:00:00+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-23T14:32:02.320606+00:00"
-    },
-    {
-      "id": "27c9c28769ee",
-      "title": "AI adoption and regulation: the latest FCA view",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaU1ZRE5WNzc2QjkySmpoQndVX3lVMjMtMUxxejhCdEZpVzJIZEo3d1NYSDk2cVZqbHdkZjNNaENkNGlEN3NwRW5LdnA2aGRTUm9fQkZPbHo1MFY0NGl2ZVl5NHNaZ21SbXgtM2YwU3JjZ19rN19lVTFSOGFfcTVNQ1N4RGc2RU9fZ3U5TkZMVFQ0eFhIV21JWQ?oc=5",
-      "snippet": "AI adoption and regulation: the latest FCA view Deloitte",
-      "published": "2026-10-22T14:51:35+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-23T14:32:02.320606+00:00"
-    },
-    {
-      "id": "7f706096bee3",
-      "title": "UK perspective: Architecting an AI-native tech organisation",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUZ5eUVabTlHZzhjM0ZuWU95c0NfLUMzb0pDcjZMNGNjclNoMWxCalVXR3EyNllhcDFSak9Hc1Z6ajBhQWRQbWNzQ1FNLS1Gb3RNcnkzUzJkNGpBcW9UbVRfdjExLUkzRmM4N09TRXdMT0tucXRuWEpFd2ZPTUFua21PbXJLU1YwV2JYOXJmYU95dnJmQzdVQTFYMGJBTW1mSW1jOUxLaGVGLXR1ZEJ5cGZ4NHBsLTk5Vk9lMmpic2VhUEFhc1E?oc=5",
-      "snippet": "UK perspective: Architecting an AI-native tech organisation Deloitte",
-      "published": "2026-10-22T13:51:07+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-24T14:21:10.250672+00:00"
-    },
-    {
-      "id": "206ed430ffe5",
-      "title": "Thomson Reuters Launches AI for Tax and Audit That Knows Not Just the Answer, But Why It\u2019s Right",
-      "publisher": "Thomson Reuters",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaDhNVVBqV1pYVFBLZFppc2sxdlllWk53Vjl1a2Q5Zl9LaEN5dVUxTW1aUDR0bjkteVVmZXlSMmF0bFBXUW1acm85eExOQkZIaGNNVGNWNTY1Z2FiUjJSWldLYlVLdl95SVVsLW1RZlJBTXZGRXY1OTZwSmpxVjNIR2tDSEFMLWs5VDcyOXV5ZUs1YU9mS3gzeTZpWXJGWVJMTmhodzJiZHdPeWJjN1g1VU9wQ0dHZnpucV9qVUE4Z1VadThuSGtmUU9qN1dyY0xaaDNLUWtjUUpUdkNqVHd3NFJERQ?oc=5",
-      "snippet": "Thomson Reuters Launches AI for Tax and Audit That Knows Not Just the Answer, But Why It\u2019s Right Thomson Reuters",
-      "published": "2026-10-22T13:24:44+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-23T14:32:02.320606+00:00"
-    },
-    {
-      "id": "6e1f81130d03",
-      "title": "UK perspective: Securing and leveraging AI for cyber defence",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPem1EMnhPb3QtVzdVYmMxN3BFRk1MdU1CaU9qcFVwVzExSnNWc3pDSUliR05TU2NiMVJVSmdLQm1Ra0w5QXk3ejdubXBXalAxcTRMSWlYbU51T2NNMG9XdVoxVmJXQ0xaM0V3WlFEYUh5RWg0VDM4ZFJTdVo1Y1hsazRCTVJHOThuS0c3ZUZNRm9BdFd5TTFqelFkLVZzUzNuVTViSHBaOUU5VzFCbjFSd2NXbzNILU0wTEQ2bm9FRHJyREoxbkpz?oc=5",
-      "snippet": "UK perspective: Securing and leveraging AI for cyber defence Deloitte",
-      "published": "2026-10-22T13:18:18+00:00",
-      "themes": [
-        "Firm tools",
-        "Risk & controls"
-      ],
-      "first_seen": "2026-10-24T14:21:10.250672+00:00"
-    },
-    {
-      "id": "66fba6522632",
-      "title": "Thomson Reuters folds AI into its professional tax and audit software",
-      "publisher": "SiliconANGLE",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkVDUjEyaW00M1BIZGxTTi1DQi12SkFlX2ZQYTRPUXFsOEhjTkVxUEs1d0dTeWY0ZzFXeEoxSDRXQU1rT1FfWHd5SGRzSWNUcllIbnBLMmdxMkZrSlZNSUJXMm1RYkUtTFROTnRKZ1A1clFBWmFJTnRNVkh5Nmh6MlRfMXNkSUc4XzJtOUtySUpGWW1vNjBRelJSamhEejBJa0NyV24zSlZTQQ?oc=5",
-      "snippet": "Thomson Reuters folds AI into its professional tax and audit software SiliconANGLE",
-      "published": "2026-10-22T13:00:00+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-22T14:30:14.802560+00:00"
-    },
-    {
-      "id": "eccc6fc45ecc",
-      "title": "Thomson Reuters Launches AI for Tax and Audit That Knows the Answer, and Why It's Right",
-      "publisher": "PR Newswire",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONXkzYm56RkRJMXBTNzB4QlZsc0tYc1VEcFp4NU8xSW5KSTk1U2h6YUttazF4bUo2dzU4NlVHbjB0SWpZY1p5cEllR0NuOE9jMWIycU1lVEYzUGhXeEJ3ZnNHelRMNUNWOGkzQ3BjNG43c0wtcXdMRVhHQkt6YVdvSjhpbnEzaGpCaUtoN0lLbDVXcDZYZ0Ztd044QVl3cWtnd0dvRU9vdFp6eUUta0xIUm45cWx1cDBoVUlIM054Rno3WFpBdmRFb0FteUU3djFmRXZFZHA0eXQ?oc=5",
-      "snippet": "Thomson Reuters Launches AI for Tax and Audit That Knows the Answer, and Why It's Right PR Newswire",
-      "published": "2026-10-22T13:00:00+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-22T14:30:14.802560+00:00"
-    },
-    {
-      "id": "4af1e5951b9a",
-      "title": "How a commercial brain builds competitive AI advantage",
-      "publisher": "PwC",
-      "seen_in": [
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYkRfZ2dNVjViT3B5VmR2MnVaWGRiQlkxRGpfTDVWN3p1UWh0cXpNcUJjYUcya095cjU5cnFlMDBZVjdxb1UzSjZaenVYdGtnZldqM1VxNFJULXByRjdzVG42dmhMN0RtY3FYNWJoU0dqWlRGalN6TzVucElzOVYwaUw4OTVxbVVZWExBMWVsOFJlaUdtOU5YRHMyYVl5M05iYWZ0LUg1MWFuZHY2YTZn?oc=5",
-      "snippet": "How a commercial brain builds competitive AI advantage PwC",
-      "published": "2026-10-22T07:00:00+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-24T14:21:10.250672+00:00"
-    },
-    {
-      "id": "b0416def9fe2",
-      "title": "Generative AI will not solve Switzerland\u2019s workforce problem: it will only partially cushion the retirement wave",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQjczbkUtd0VRNldzdlZzaE9qTE5MUlJlczdjSkJMaTdjcVZubjhsWnVoTVV0MlJMRlhlTmtTRTFBQkQ1R0VLWDNDejJjYm9oaWhnTU1UakQ2Z0xDTkg4eU9IVTM3cWp6V3hWdnpiWERLS0ZEVE9DdmVPQmNvSVA2NTRSd2dTSzhwRjY3VkpoSm9nSDFVYTFZNnVhRTdYY3l0UDFfQXYyWjc4Z1hmMVZXZm1kZlFDVXpJWXdjNTAzNFJhellRVGZubWFUZk5VbWt0ODhSbTlRTVl1ZVZiWUh0UWkzQU5hd3g1NEF6R0xPLWJiVjhia3c?oc=5",
-      "snippet": "Generative AI will not solve Switzerland\u2019s workforce problem: it will only partially cushion the retirement wave Deloitte",
-      "published": "2026-10-22T06:18:28+00:00",
-      "themes": [
-        "Firm tools",
-        "Skills & careers"
-      ],
-      "first_seen": "2026-10-22T14:30:14.802560+00:00"
-    },
-    {
-      "id": "ee6f4cad83b6",
-      "title": "How INSEAD is transforming student engagement with AI",
-      "publisher": "PwC",
-      "seen_in": [
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYl9UZHo5Ml8xaWFmOE5ObHdoWmhUcW1KX08yWm1WNjZsbFZTaE5PRnZweEo2dE1UNTRDQ2FGajhtaG8xUzR1U3FLamdGZ1psQjBhOWU0THZ4Qmx3NkxIamFvWmo5Tmc5dTc4X2NHamZWMEJ5dGg0REVVN2tycUtjczBtdmMyTl8zcGMwT0M5N0JtQQ?oc=5",
-      "snippet": "How INSEAD is transforming student engagement with AI PwC",
-      "published": "2026-10-22T01:45:34+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-22T14:30:14.802560+00:00"
-    },
-    {
-      "id": "294fcb86d9fc",
-      "title": "Agentic L1 Copilot Support",
-      "publisher": "PwC",
-      "seen_in": [
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWszWnRNQ1hsSU40eGZyNTZVV3pEeThVNkF5Rlg4T284MWUycllyRXI4QjdBYVpydzRfQ1hhRDdkbXlEQ2dURXBoS3haMU9GVXVLUlBaTVFuOW5hdFMtOFVUS3lnWXhXSmhrcDZpU1gzNHRJQVdNV0pvSTloNldYeHRMczlTb3ItY2RqSW9jS21nS01iQjlSN0tyZ0U1TGI1U1pmTkllTHJpRzQ?oc=5",
-      "snippet": "Agentic L1 Copilot Support PwC",
-      "published": "2026-10-21T23:44:20+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-22T14:30:14.802560+00:00"
-    },
-    {
-      "id": "8b711db15b02",
-      "title": "CBK's Draft Guidance Note on Artificial Intelligence in the Banking Sector\u200b",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUWZNQllSUjdRakFzYXJSemkxVDlLR290SmpkR1JTWUdfM3ptWTV1ckVRdmlraWtGQU80WHQxNU44U3ZnS2IyaEcyTDBGTFRaVUREU2h5QnQzT3ZPNHVNR2hVVllqMXRsVUNKak9XVEZUdmNaYUZWa0VJYkd3eGcySERDc0RQZlRmN3VXYnA3dUdiMlMxSGhSdzlmSWRsdWk1Zlk3VF9QaUVzeHlzb2VCSEV5aUJMYmpZUk4xbG5nLUJjeUFfa2RlTzk4a0ZleUtJLU5ONWtVdElWb21TTjRGNTZKalk?oc=5",
-      "snippet": "CBK's Draft Guidance Note on Artificial Intelligence in the Banking Sector\u200b Deloitte",
-      "published": "2026-10-21T23:25:08+00:00",
-      "themes": [
-        "Firm tools",
-        "Regulation & standards"
-      ],
-      "first_seen": "2026-10-22T14:30:14.802560+00:00"
-    },
-    {
-      "id": "774214fc4b7a",
-      "title": "Will you shape the future of AI, or will it shape you?",
-      "publisher": "EY",
-      "seen_in": [
-        "EY"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zZGIzazhyQ2NwRlhoR3hTbm1tX0x2TXdjRDhlQU1MWHpNWHJlRGVjaTdINXpvZ1pPdWswaXhGREZCVWMyTWc4SkNuZklRVGFhRGEySFlSb1pNSVJXdjBiYkpKNjBTSWxYN0RzOHZKWHE0U25BbXdV?oc=5",
-      "snippet": "Will you shape the future of AI, or will it shape you? EY",
-      "published": "2026-10-21T23:24:16+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-22T14:30:14.802560+00:00"
     }
   ]
 }
