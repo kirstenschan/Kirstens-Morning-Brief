@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-24T01:57:54.019768+00:00",
+  "updated": "2026-11-24T23:42:27.526195+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,111 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Big Four firms are pushing AI deeper into audit work and training, while Grant Thornton warns about quality pressure. Expect interview questions on judgment, data control and oversight.",
+    "quick_take": "Audit firms are leaning into AI agents, but quality worries and human review are the themes. Standard-setters are also starting to ask for AI disclosures in assurance reports.",
     "standouts": [
       {
-        "id": "e58d5a8d9dc9",
-        "title": "KPMG AI audit pilot finds agents asked deeper questions than humans",
-        "publisher": "Accountancy Today",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbU9zRDhKS3k5TGM4RkltRHB4S1RFTVUxSjJvaWdWY2ktVzViYkt6dmxIZURRajV5clpNVHVydEd6ZGktQV80cVBPMTVQZ1ZpUkZHdVhmSDhQQ2ZpNC13NVhLTmtCVHdUbUZEcEhlNm51YjVQUkdzUFJ2MXdPZUlmY01RRE5FM052RVFqV1liUGRQWHlsREw0MHJOMXZTd1RIRDhYck1IVUVQdkNvck9xVURUWjNueFR1TFhJcWV3eWlRV3c?oc=5",
-        "why": "A KPMG audit pilot found AI agents asked deeper questions than humans, hinting at how entry-level testing and inquiry work may change."
+        "id": "e51dec7c25a9",
+        "title": "Grant Thornton warns AI use in UK audits risks quality erosion",
+        "publisher": "Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeEJKX0IyOG4wdEZkVDVmeHBXdE9vYnljRjYtbXF5ZllWTkRSTDBRVmt4RzVaY0lJZER6TThodW9YTVlXblZjWEZvbDhaRmxZemdXWklkWFVXODBrWWZZUmw5Qkd4N3ZPV21UMEZjR0VCTG1ZTFlWbF9UVzIxYUoyd0NJWVFfUWtLd3piQ0F4WQ?oc=5",
+        "why": "A Big-name firm warning that AI could erode UK audit quality shows the risk side, which is useful to cite in interviews."
       },
       {
-        "id": "0b2f7f7db621",
-        "title": "Grant Thornton warns AI audits could trigger \u2018race to the bottom\u2019",
-        "publisher": "Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWkw5UF96ZFlVMWdVaFNBY1JDWTdzdlBQa1I0c1ZJTUY0Um1hNzgySUdlbUdpMU1EcVlNQldrUjhjU29rb2pjUG1Kc2N6T2p1UE9RT24yQUg2TV9Ndk5QX0psQW00TVZzV0UzYklGNDlaNjZyOWJZYkVNUk45XzVRUEYtTHE?oc=5",
-        "why": "Grant Thornton warns AI audits could spark a 'race to the bottom,' a useful view on quality and fees to cite in interviews."
+        "id": "ff99cbd17875",
+        "title": "Should the auditor or the AI go first? UK audit splits on agents",
+        "publisher": "Resultsense",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0hxSjl1M0lzZy1aRDJFYnltSWtrN0d3dEQzeFJIMFZUN3h4d0pXQTRlYnBRenBRMmRjZDFad3lqaFd2SGFzMk9oUUVJc2VsSUhzOTFoQzFON05BUDliSnRwSjNuZ0tUSmNrNGxTV1AwTWNoQjludl9FTzFCUDNPSlVWeE1heDBlY2lQUXlR?oc=5",
+        "why": "UK audit is split on whether the auditor or AI agent should go first, which affects how your early-career work gets done."
       },
       {
-        "id": "635115b936b6",
-        "title": "PwC's talent leader shares how the firm will certify 85,000 workers in critical thinking for the AI age",
-        "publisher": "Business Insider",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2h2eEJfaEtDRU1sRjJMRWlwZ0VvOEtHRzduNFhkZ3dCQloyREpZdmFXUU9kV3Q1bEZ2MHZzX3UwOEsxdFFibUJjUlBUSy1qdGwyQlJOa3MyTjVpakh1bjU0UlNmYkpIY1dlU0ZGYkNtSURxRmxiNHRVcnoxbkdSM1I0Q1hpc1hYWEk0TkdpU0dBTV9oTmxQejIyanlnaUFXZ051bUlGOA?oc=5",
-        "why": "PwC will certify 85,000 workers in critical thinking for the AI age, signaling which skills firms will value in new hires."
+        "id": "d7a6d9945b5b",
+        "title": "Proposed SOC 2 changes lower disclosure threshold, add AI disclosures",
+        "publisher": "Accounting Today",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGxMckZrLVJQSUhBN2V1cmEtWlpCazFVWkM5Y3MyYk1QZDdaQkhHb2Vnc3FlMWlVaENhT1BGZWNCSGhBa0JwRTE5M3MtMk95MUFkbDAxME1nZHVVMXZWbHluSG1LejRNWVYyQ3FHLTZYSVhGQ2k2YkJFTXlhcHA4d3dheWdQMEtvcVFPREFGdFczVk41djBxYlhGZkZ3TEw4NG12UE9PVzk?oc=5",
+        "why": "Proposed SOC 2 changes add AI disclosures, a sign that assurance standards are adapting to AI and a skill area to learn."
       }
     ]
   },
   "stories": [
+    {
+      "id": "113c7bcb6ffc",
+      "title": "What SOC 2 plus AIUC-1 adds to AI assurance, and what\u2019s next",
+      "publisher": "Journal of Accountancy",
+      "seen_in": [
+        "Journal of Accountancy"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV1lpNG0zZk5XbklWbTJzaUVBYUhrbFp5cUE1RjlxQ0dnbjNrMEw1NjZBQUdpeXZENllxeUxZSi0zMjAwYW5EOEJCQVk5NEhoTWdGTTNmVmlLUVpHbGlPMGkzTzZncUJPMFlhTmdzUnVQMkdZeUd4dnpseTdvcFp3VVdZclctSzZKN2JaeGtacVRPZGZaaFVQTTFhMm9SRXdNU1VuQkxvQWxYSkFOcHUzYjVLWQ?oc=5",
+      "snippet": "What SOC 2 plus AIUC-1 adds to AI assurance, and what\u2019s next Journal of Accountancy",
+      "published": "2026-11-24T20:42:59+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-24T23:42:27.526195+00:00"
+    },
+    {
+      "id": "d7a6d9945b5b",
+      "title": "Proposed SOC 2 changes lower disclosure threshold, add AI disclosures",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "AICPA",
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGxMckZrLVJQSUhBN2V1cmEtWlpCazFVWkM5Y3MyYk1QZDdaQkhHb2Vnc3FlMWlVaENhT1BGZWNCSGhBa0JwRTE5M3MtMk95MUFkbDAxME1nZHVVMXZWbHluSG1LejRNWVYyQ3FHLTZYSVhGQ2k2YkJFTXlhcHA4d3dheWdQMEtvcVFPREFGdFczVk41djBxYlhGZkZ3TEw4NG12UE9PVzk?oc=5",
+      "snippet": "Proposed SOC 2 changes lower disclosure threshold, add AI disclosures Accounting Today",
+      "published": "2026-11-24T20:30:56+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-24T23:42:27.526195+00:00"
+    },
+    {
+      "id": "60d7b8f1a6ea",
+      "title": "97% of firms that use AI have people check at least some outputs",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX01SNHZ6VHFReUNQU0swZHFFdXNMenJqbER4YThiNjlic1YwTWlSNGtDOTJFcVZXVzlEQml6Z0k0MGRkZ3daVUM5QnZ6ejJXdElLYTZkejdydGo5MURDOC01QkRnclRtY01YRTh0NXAyMWctdFNKbE9NaDBVZE44Vk5hV21XSWNYSnZlbmdsOGNrZGxScDQtVWVXaVdYdTlCcEE?oc=5",
+      "snippet": "97% of firms that use AI have people check at least some outputs Accounting Today",
+      "published": "2026-11-24T19:21:27+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-24T23:42:27.526195+00:00"
+    },
+    {
+      "id": "ff99cbd17875",
+      "title": "Should the auditor or the AI go first? UK audit splits on agents",
+      "publisher": "Resultsense",
+      "seen_in": [
+        "PwC",
+        "KPMG",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0hxSjl1M0lzZy1aRDJFYnltSWtrN0d3dEQzeFJIMFZUN3h4d0pXQTRlYnBRenBRMmRjZDFad3lqaFd2SGFzMk9oUUVJc2VsSUhzOTFoQzFON05BUDliSnRwSjNuZ0tUSmNrNGxTV1AwTWNoQjludl9FTzFCUDNPSlVWeE1heDBlY2lQUXlR?oc=5",
+      "snippet": "Should the auditor or the AI go first? UK audit splits on agents Resultsense",
+      "published": "2026-11-24T10:43:30+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-24T23:42:27.526195+00:00"
+    },
+    {
+      "id": "a86ac6c93c0c",
+      "title": "MYCPE ONE buys AI accounting platform AssureOne, serving 3,000+ firms",
+      "publisher": "Dealroom",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVM3UDZYdGdqMHNlOVhEdGg5cGpNb2JQbEtVbkRrREZxNUlLZ0tPVGhsRlZzXzZ6Ykt1ZzhJZlh1ZzJRc3lOR204cHNWNW03MWpZdW1VSkRQUlJvY0x0b2ZnaEZ2QnpGRXQyQl9DeHhxTlMtdTljUDV5ajN2U1dtRHhUMlVvcGx4RXNmaUY1SmV2WldzYmNacmVqN1g0SUtTMHRZ?oc=5",
+      "snippet": "MYCPE ONE buys AI accounting platform AssureOne, serving 3,000+ firms Dealroom",
+      "published": "2026-11-24T07:16:53+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-24T23:42:27.526195+00:00"
+    },
     {
       "id": "bc4e53a8e705",
       "title": "Tokenomics: Vendors trade rising AI costs for productivity",
@@ -51,6 +130,21 @@
         "Other"
       ],
       "first_seen": "2026-11-24T01:57:54.019768+00:00"
+    },
+    {
+      "id": "d0fa4edaf6ec",
+      "title": "Accounting and Artificial Intelligence",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lTTJyMVJsV0lrZFVLVk9jTXZSemRMV0FJeEpmakI5Zzg5eFE2VTdkS3NnNXF6TjBSanVBLTFzX2ZNdDBuV3hiZEZmaG9haHd4U0ZZRHNqNEpfenBRQUdvcEprQWZPZU91ODRCeElxdFUtb2VaME1rZUR3?oc=5",
+      "snippet": "Accounting and Artificial Intelligence Accounting Today",
+      "published": "2026-11-23T22:21:08+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-24T23:42:27.526195+00:00"
     },
     {
       "id": "f06632c77002",
@@ -297,6 +391,21 @@
       "first_seen": "2026-11-24T01:57:54.019768+00:00"
     },
     {
+      "id": "e51dec7c25a9",
+      "title": "Grant Thornton warns AI use in UK audits risks quality erosion",
+      "publisher": "Traders Union",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeEJKX0IyOG4wdEZkVDVmeHBXdE9vYnljRjYtbXF5ZllWTkRSTDBRVmt4RzVaY0lJZER6TThodW9YTVlXblZjWEZvbDhaRmxZemdXWklkWFVXODBrWWZZUmw5Qkd4N3ZPV21UMEZjR0VCTG1ZTFlWbF9UVzIxYUoyd0NJWVFfUWtLd3piQ0F4WQ?oc=5",
+      "snippet": "Grant Thornton warns AI use in UK audits risks quality erosion Traders Union",
+      "published": "2026-11-23T09:09:29+00:00",
+      "themes": [
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-24T23:42:27.526195+00:00"
+    },
+    {
       "id": "78e85d2e9b9b",
       "title": "Internal Audit Brazil in 2026: A Practical Plan for AI-Driven Assurance",
       "publisher": "Global Advisory Experts",
@@ -449,6 +558,21 @@
       "first_seen": "2026-11-20T22:04:14.110971+00:00"
     },
     {
+      "id": "b10fd2f68981",
+      "title": "AT Think Meta\u2019s AI data center claims highlight a critical R&D credit issue",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTJDczlld09YTDJJR1paQ0Q3WkNFNEN5eGI3QjVsbi03Z3lBSkhhaXYxclpxN1VIZmVuVTJsbkxUY3Qxc21HdFVkdXhtYnR6Rk5kTFpFQzNxYnFhVURrU2ZRYUVZUUQwV0JnNjBsd25CMHh5SWhyaHdrMXVlZzhwM1lyeERiSXMtUnVSaXpwOUN0SHp2cjJXZlkxX0FDTTdORnVCa3BXUTQ?oc=5",
+      "snippet": "AT Think Meta\u2019s AI data center claims highlight a critical R&D credit issue Accounting Today",
+      "published": "2026-11-20T15:44:58+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-24T23:42:27.526195+00:00"
+    },
+    {
       "id": "fa3f236f30c1",
       "title": "Meta's AI data center claims highlight a critical R&D credit issue",
       "publisher": "Accounting Today",
@@ -508,6 +632,21 @@
         "Other"
       ],
       "first_seen": "2026-11-20T22:04:14.110971+00:00"
+    },
+    {
+      "id": "a56fd8664a91",
+      "title": "AT Think Your firm\u2019s AI keys reach client data. Put them in your WISP",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjV4dG05YXdfNUloUVA5WlJfMXg4anRzZi1BYzhSeVNJbTd6SGlDLUxUakw3bVVLNThEYURvOFZmcHlqZjVaa2YzdGVNTlF6TmxpTjh0VmNDbUtVcHF0emhRdzVkOWJjNlFQXzN1TWxId01pby1nQVRJcTRBdTFlbVN4NHZ2elBsa1BtdXFVNnZRazhqOVZfbEh1T01qMW8?oc=5",
+      "snippet": "AT Think Your firm\u2019s AI keys reach client data. Put them in your WISP Accounting Today",
+      "published": "2026-11-20T14:00:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-24T23:42:27.526195+00:00"
     },
     {
       "id": "0cecd4aac473",
