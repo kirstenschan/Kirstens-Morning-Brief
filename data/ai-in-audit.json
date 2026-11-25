@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-24T23:42:27.526195+00:00",
+  "updated": "2026-11-25T23:25:49.380817+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,182 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Audit firms are leaning into AI agents, but quality worries and human review are the themes. Standard-setters are also starting to ask for AI disclosures in assurance reports.",
+    "quick_take": "Firms are testing AI agents on real audits while a Deloitte suspension over AI errors shows the cost of weak review. Firms are also investing in AI skills.",
     "standouts": [
       {
-        "id": "e51dec7c25a9",
-        "title": "Grant Thornton warns AI use in UK audits risks quality erosion",
-        "publisher": "Traders Union",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeEJKX0IyOG4wdEZkVDVmeHBXdE9vYnljRjYtbXF5ZllWTkRSTDBRVmt4RzVaY0lJZER6TThodW9YTVlXblZjWEZvbDhaRmxZemdXWklkWFVXODBrWWZZUmw5Qkd4N3ZPV21UMEZjR0VCTG1ZTFlWbF9UVzIxYUoyd0NJWVFfUWtLd3piQ0F4WQ?oc=5",
-        "why": "A Big-name firm warning that AI could erode UK audit quality shows the risk side, which is useful to cite in interviews."
+        "id": "4880d03208d0",
+        "title": "KPMG Tests AI Agents in FTSE 250 Company Audit",
+        "publisher": "cwibc.co.id",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rU2NpaWF0SjdmbDNINEFlaWs1c1c4LTFhZzBHd1d6S0c1dFFwbjN6SHRxQkN5dExRalduN1lhd3pYRmVHVW1tUUN2YTRDS3duZVljSmpMYVY?oc=5",
+        "why": "KPMG is testing AI agents on a FTSE 250 audit, a direct look at how audit work and entry-level tasks may change."
       },
       {
-        "id": "ff99cbd17875",
-        "title": "Should the auditor or the AI go first? UK audit splits on agents",
-        "publisher": "Resultsense",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0hxSjl1M0lzZy1aRDJFYnltSWtrN0d3dEQzeFJIMFZUN3h4d0pXQTRlYnBRenBRMmRjZDFad3lqaFd2SGFzMk9oUUVJc2VsSUhzOTFoQzFON05BUDliSnRwSjNuZ0tUSmNrNGxTV1AwTWNoQjludl9FTzFCUDNPSlVWeE1heDBlY2lQUXlR?oc=5",
-        "why": "UK audit is split on whether the auditor or AI agent should go first, which affects how your early-career work gets done."
+        "id": "cf3e33feff98",
+        "title": "WA government bans Deloitte for three months over AI uni report",
+        "publisher": "SMH.com.au",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYWFhNFROR2M5Ym1KdUR5a3hiYnBKTGVGNGZmWHczeUdGWHh0MGcxMnBXQ1BULWp3VS0yYldINHV1R0swSkJGeGdndzJwcDB1bmNJbFZOVTY4cXFHQ1lIWmRYaU9Lalh5c25qdUk4UExxR1FYc3lFeDFBVHhnVHU0QVRqcnA2MHhfTTZxdGNZOUd2V2JrZ1R5NmtXOElJc0NYQzB6TE54T2tlZUYxQXR2YzIzV2tUQldZLVFLSU1IU21Uc0JFQnMwdGgyY0s5cnc?oc=5",
+        "why": "WA government banned Deloitte for three months over an AI-flawed report, showing why human review and verifying AI output matter."
       },
       {
-        "id": "d7a6d9945b5b",
-        "title": "Proposed SOC 2 changes lower disclosure threshold, add AI disclosures",
-        "publisher": "Accounting Today",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGxMckZrLVJQSUhBN2V1cmEtWlpCazFVWkM5Y3MyYk1QZDdaQkhHb2Vnc3FlMWlVaENhT1BGZWNCSGhBa0JwRTE5M3MtMk95MUFkbDAxME1nZHVVMXZWbHluSG1LejRNWVYyQ3FHLTZYSVhGQ2k2YkJFTXlhcHA4d3dheWdQMEtvcVFPREFGdFczVk41djBxYlhGZkZ3TEw4NG12UE9PVzk?oc=5",
-        "why": "Proposed SOC 2 changes add AI disclosures, a sign that assurance standards are adapting to AI and a skill area to learn."
+        "id": "fb45e3abe6c6",
+        "title": "AI's workforce collision",
+        "publisher": "kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jU1hhUERqZDcwU3dQTE8wT3MyY0MzNjlNQ0tTQTBtSmZlRG1IYTU5MEVxcGZjY2Q3SWtTZWVOWWNzb1ZIblVTVTU3SjdRMHpMTkFybjdEM2FaQU51NmZYS21TMlg5aERRUU54NXFWVQ?oc=5",
+        "why": "KPMG's piece on AI's workforce collision speaks to which skills and roles are shifting, useful for interview talking points."
       }
     ]
   },
   "stories": [
+    {
+      "id": "36f640ac8a9c",
+      "title": "KPMG could earn up to $5.1m finding Character.ai a California tax refund",
+      "publisher": "PPC Land",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX01LWlhXOGNQQXdpMzY3YllZLUxkaUtUY1k2RmVqb3lacms3NHAwRVJQcHRGQjRKWVZudmpfQ0dBaWxWcDVqSXJOajNZTnhUWjROaGpKZE9hR05YVEQ5Y1dXc1Rqb0VHZHpkU2tjRFVULU8tN2NRSnFrU25oTXphekFnMGtQaFBVMVBJcHZRT09FMVE?oc=5",
+      "snippet": "KPMG could earn up to $5.1m finding Character.ai a California tax refund PPC Land",
+      "published": "2026-11-25T19:55:45+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
+      "id": "68547c61f047",
+      "title": "MYCPE ONE buys AssureOne to pair accounting AI with its staffing services",
+      "publisher": "Superpower Daily",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHdfY1JfMnNYUHo5Y1ZDOHJOR25IaU5YUzZLdnQwbnVxVWg5S0hyRnNsUld5MERvVVVNcC0xRElnOVJRY0Q0X3FldTNjQ25pbkxSckhhUy10TDZmWExoV3g5OS1FckJDUlpFUF9LSkZleTNKRkJrakY3QVcxMXpvRmJ6cy1qaVFScWgxWXdHRlN4R1cxWGdodGJKODJLYXBMSEFSdHh5Z3dBLWc?oc=5",
+      "snippet": "MYCPE ONE buys AssureOne to pair accounting AI with its staffing services Superpower Daily",
+      "published": "2026-11-25T17:23:34+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
+      "id": "417c5a63b426",
+      "title": "Cutting through the noise: Where AI tax transformation finds its human frequency",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3VkFacG5JQnRzcmpUX0s5ZHpjbkhrdGpWZjVJMGdnRmFNX25RLUd3UjhSdU5teGJjM2ZXOE1wVjZFX3ZIb3ZHakNsY0s4WkU5VWJ1cGFNUTNsdw?oc=5",
+      "snippet": "Cutting through the noise: Where AI tax transformation finds its human frequency EY",
+      "published": "2026-11-25T16:00:53+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
+      "id": "14b8d8ec2b78",
+      "title": "AI can buy things for you, but most aren\u2019t ready to let it",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "Accounting Today"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPajNuazdueW1HamxNZFR5RXRtVzVfVVpjT3ZMMTBBWFV3Q1JELXd3RXlEN3FpUThDYi1sVFduRWZFdmhTTFF2NUlGbzhDa1cxR2cxN0ZHTW52VXktT0dFM0tkOWQ4NGh5S0hvazJIM0ZWeDJmTi1BZkczSHVYRjNJSjN4aURBRHE1dGhwLUlGQVNBdkpjVk9weTZ3?oc=5",
+      "snippet": "AI can buy things for you, but most aren\u2019t ready to let it Accounting Today",
+      "published": "2026-11-25T15:53:57+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
+      "id": "b488efad94d2",
+      "title": "MYCPE ONE Acquires AssureOne to Expand AI-Powered Technology Solutions for Accounting Firms",
+      "publisher": "citybiz",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1pfOTBGSWZXM1NKeG9XTm1LNHNWX2xtbGVkRU9ZQm52TU1heHN3WTNYZjVyenV3OFJCVk1wcUpCYlhuSDN5Q01jVFVPMC15bTUyb0h1Vy1JNmhUQnVwSHlJTV8wVzNZemhFc2czX0ZuQUJrTWx6QkRtdy1wU0dsX2ROZ25yOTdEQ0EwMzE1NTdKbGhicUZrRUg3NUJMajY3VzJiS0czUG1VMS1scE9tamowVXFBcTJJbjA5aW5rdXk4X2xfU1VpMEVR?oc=5",
+      "snippet": "MYCPE ONE Acquires AssureOne to Expand AI-Powered Technology Solutions for Accounting Firms citybiz",
+      "published": "2026-11-25T13:20:20+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
+      "id": "d53b2fafb73c",
+      "title": "WA government suspends Deloitte over AI-riddled report on uni merger plan",
+      "publisher": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQWpfVHFVck1MbVIwS213WkJnWGR6cGdIOGNnVXhJSGZ5N01jQ2lhN3FjN1B1YUMzRTV2ZkYwVFZtbUpkQ1c1RGk2QWJKN2xyd3hUQlZ2MVhVaXFWOWU2b19uazREdm00M3dxcmdhTUpHTjNISUNoYS1NUmRXTFk4ekxONVl1UlVib0dhWW9ZUkNtN2hkYnQ3enB1cUd6cElXa1pET3AxNHU2cXJhb1NkVg?oc=5",
+      "snippet": "WA government suspends Deloitte over AI-riddled report on uni merger plan ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "published": "2026-11-25T10:11:51+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
+      "id": "198434e42dcf",
+      "title": "Deloitte Suspended From WA Government Work Over AI Errors",
+      "publisher": "Wisevoter",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVnhQZHRmdm9qOHd4Q3Nvc0Z0Q2tEQ2N4TU5RQ01EMmZYd3NJSU1RWDRuZ1ZnLTUxejNGNEIzTW5qTW5aVEsyeG11dVhUQWhramJ2LW5CTTROYWNoeFgzTDhEeGpVUmpEZnU0X0wzOVFRZ0FkY1FwTi1oRXNDZkNENnlkZnNnRkVxMkI2OC03dGo?oc=5",
+      "snippet": "Deloitte Suspended From WA Government Work Over AI Errors Wisevoter",
+      "published": "2026-11-25T09:37:54+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
+      "id": "06240402e6ae",
+      "title": "Deloitte banned from WA government work over AI-tarnished report",
+      "publisher": "AFR",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVFVldGs1R183LU10QkZaZ2ZkSGtjRm4tU290UkxZN2RGZEsyazlTNk9uY2xTczNXMDJPbmZ6NmstX0ZkeXRNYWpRbFNFcVFSb0lrd2FRSTUxckt5N2YyYVNrSTlTbmZsR1R1RGNmNHpLZVljNW10TXh6eW45blZqUmpYTGc4ZEc0eVVxckcwSnU4YnUxcHR3N3U5WFlYWHMzNlFtanE0ZXlfeDRSNEVjcHZ3YnFQZDVzYUJINE5ERjVGQ1lRblZF?oc=5",
+      "snippet": "Deloitte banned from WA government work over AI-tarnished report AFR",
+      "published": "2026-11-25T09:31:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
+      "id": "cf3e33feff98",
+      "title": "WA government bans Deloitte for three months over AI uni report",
+      "publisher": "SMH.com.au",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYWFhNFROR2M5Ym1KdUR5a3hiYnBKTGVGNGZmWHczeUdGWHh0MGcxMnBXQ1BULWp3VS0yYldINHV1R0swSkJGeGdndzJwcDB1bmNJbFZOVTY4cXFHQ1lIWmRYaU9Lalh5c25qdUk4UExxR1FYc3lFeDFBVHhnVHU0QVRqcnA2MHhfTTZxdGNZOUd2V2JrZ1R5NmtXOElJc0NYQzB6TE54T2tlZUYxQXR2YzIzV2tUQldZLVFLSU1IU21Uc0JFQnMwdGgyY0s5cnc?oc=5",
+      "snippet": "WA government bans Deloitte for three months over AI uni report SMH.com.au",
+      "published": "2026-11-25T07:44:30+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
+      "id": "27578c04496e",
+      "title": "Top accounting firms ration AI tokens, bill clients to curb costs",
+      "publisher": "AFR",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNUhFcE5JUGhmTjlRZ181RV9kSkFqMnlJTHA0MjBGS2dXWnRzMG1lMmNucGJfVFRFV1RkcVh6OS1MRHVFYXJMajRkTzBYQ2Jrd2RlajduNVFLb2FDSGxEdVJLMXZFVVU1S1B0ck1rY1ZBRHg5STVQUUFiNXFTMnlSNm5mNTJyOWVDa3hFRWRCQjgyNE1oVGY5TlVNMU5iT0I3TE9BUXhMbUF2WFFJZEtkSHVBRHY2cEJfa1J1SFFEWGhRRzVBcVVJcEswQXE?oc=5",
+      "snippet": "Top accounting firms ration AI tokens, bill clients to curb costs AFR",
+      "published": "2026-11-25T06:34:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
     {
       "id": "113c7bcb6ffc",
       "title": "What SOC 2 plus AIUC-1 adds to AI assurance, and what\u2019s next",
@@ -57,7 +207,8 @@
       "publisher": "Accounting Today",
       "seen_in": [
         "AICPA",
-        "Accounting Today"
+        "Accounting Today",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGxMckZrLVJQSUhBN2V1cmEtWlpCazFVWkM5Y3MyYk1QZDdaQkhHb2Vnc3FlMWlVaENhT1BGZWNCSGhBa0JwRTE5M3MtMk95MUFkbDAxME1nZHVVMXZWbHluSG1LejRNWVYyQ3FHLTZYSVhGQ2k2YkJFTXlhcHA4d3dheWdQMEtvcVFPREFGdFczVk41djBxYlhGZkZ3TEw4NG12UE9PVzk?oc=5",
       "snippet": "Proposed SOC 2 changes lower disclosure threshold, add AI disclosures Accounting Today",
@@ -84,6 +235,36 @@
       "first_seen": "2026-11-24T23:42:27.526195+00:00"
     },
     {
+      "id": "809078f65dde",
+      "title": "KPMG and Salesforce launch joint whitepaper on AI-enabled customer experience at Salesforce Agentforce World Tour Dubai",
+      "publisher": "Zawya",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcUdGczBTMGpNWVJ1eXJMUEtfRFJmYkFKbVE2T1FvMTFwc3NjSXlCcFJDN003UXA5b1hTVHRVMFhkTkkySlVVSUd5aDBfVlBKLTQ2THRlcTQ0dnZpSXp6S01yZ2pLeGJuY29jSjNVQ2dka0w4S3FLcFdYVUNsWm05WWdWZkh6QndKdFctRWNPUUpFZVozT1FTT3ZiSHpERS1BYlljUG9rM1dkempOWGJtSW1uY3FuLW1QRGRDOTJCU291M3QwN3JXVTJSWlZpR3E0cm1vb3ljVjVFc0tjRFpfdWpaQXFHeWtjMEx1LXI0R0VPZGhkbmtyOXFfbUZITkpLTTlpWlo1NHFIbmNJQnBEZg?oc=5",
+      "snippet": "KPMG and Salesforce launch joint whitepaper on AI-enabled customer experience at Salesforce Agentforce World Tour Dubai Zawya",
+      "published": "2026-11-24T13:32:00+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
+      "id": "f5ed17767298",
+      "title": "ChatGPT Accounting Plugin for bookkeeping automation",
+      "publisher": "Dynamic Business",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzBNNDFWci1WNjhSQVNNQWxheGc5ajc5Und6Y0VEWHMwemRHSEhkam5YeE9JWFhwc2JZZUQxUXNwMFdHd3p3cEFEckJXY3c1Y3NXVkRZSE9sRXlNbzVGTVpWTThVcXpQSUpVZGdtZU9vRi1wc1hoZjJpLTJXWktkaml5dndjZ2dyOWtZbzZFWGpUNkZNSnRIQk9R?oc=5",
+      "snippet": "ChatGPT Accounting Plugin for bookkeeping automation Dynamic Business",
+      "published": "2026-11-24T11:19:44+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
       "id": "ff99cbd17875",
       "title": "Should the auditor or the AI go first? UK audit splits on agents",
       "publisher": "Resultsense",
@@ -99,6 +280,21 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-24T23:42:27.526195+00:00"
+    },
+    {
+      "id": "e4654b54b975",
+      "title": "AI in the insurance sector: Why efficiency gains are just the beginning",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQREhRRVRFN2V5NmpvYTM5dTlmZkFNRUduOWtZZmRnRUR6VVc2cVhWNGwzS0xaOTJkbURqd2UzbkNDSk9TN0NyRHFjQ2Q3YW1sWTE4R3p0MXRlN0U2ZVJ0QU5KLUVpX2lnWnlKV2Yya05RMjZlZGduMVNsaTcyQlNYbWVPYmhDZ0VOMEw5SFJLUy1UVlA1ZGtOV1NWVm1NQUhv?oc=5",
+      "snippet": "AI in the insurance sector: Why efficiency gains are just the beginning kpmg.com",
+      "published": "2026-11-24T08:16:07+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
     },
     {
       "id": "a86ac6c93c0c",
@@ -145,6 +341,22 @@
         "Other"
       ],
       "first_seen": "2026-11-24T23:42:27.526195+00:00"
+    },
+    {
+      "id": "fb45e3abe6c6",
+      "title": "AI's workforce collision",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jU1hhUERqZDcwU3dQTE8wT3MyY0MzNjlNQ0tTQTBtSmZlRG1IYTU5MEVxcGZjY2Q3SWtTZWVOWWNzb1ZIblVTVTU3SjdRMHpMTkFybjdEM2FaQU51NmZYS21TMlg5aERRUU54NXFWVQ?oc=5",
+      "snippet": "AI's workforce collision kpmg.com",
+      "published": "2026-11-23T21:48:09+00:00",
+      "themes": [
+        "Firm tools",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
     },
     {
       "id": "f06632c77002",
@@ -365,7 +577,8 @@
       "title": "Grant Thornton warns rush to AI audits risks a race to the bottom",
       "publisher": "Resultsense",
       "seen_in": [
-        "KPMG"
+        "KPMG",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkIzQ3M0RG1UWHowUVJUc0dkYUM0VmROSVB0R21QWEZtU2RXcF8ydE9mMnd2TGpxSE5ZWmZiNjltRFJnd3Nta20wTnJna2JSUEhkNlhYbnhTRzVLdElEaFVGazZPMTRLd1dVVkdsck95VlFRYndGeEJYN284ejRLalpVQ3NTSXcxSmQw?oc=5",
       "snippet": "Grant Thornton warns rush to AI audits risks a race to the bottom Resultsense",
@@ -395,7 +608,8 @@
       "title": "Grant Thornton warns AI use in UK audits risks quality erosion",
       "publisher": "Traders Union",
       "seen_in": [
-        "KPMG"
+        "KPMG",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeEJKX0IyOG4wdEZkVDVmeHBXdE9vYnljRjYtbXF5ZllWTkRSTDBRVmt4RzVaY0lJZER6TThodW9YTVlXblZjWEZvbDhaRmxZemdXWklkWFVXODBrWWZZUmw5Qkd4N3ZPV21UMEZjR0VCTG1ZTFlWbF9UVzIxYUoyd0NJWVFfUWtLd3piQ0F4WQ?oc=5",
       "snippet": "Grant Thornton warns AI use in UK audits risks quality erosion Traders Union",
@@ -404,6 +618,22 @@
         "Risk & controls"
       ],
       "first_seen": "2026-11-24T23:42:27.526195+00:00"
+    },
+    {
+      "id": "317a25a226b5",
+      "title": "AI-driven cyber risks reshape underwriting practices in India's cyber insurance market: Deloitte India",
+      "publisher": "Big News Network.com",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRnRxVG9UUkpkcWQ3d1ZUUEM0bVFDdEJoTTE2dHVjZHFYZG4zZEpuN1JNLWRoMm85eTdaUHBxZk1PWmcwcmtmXzVnZjI2VjdLaEJLbEd4SkJWWEh5SkxuUlU5UzNzWnJDYjR1eWR5YVVuamJSU3JxOUxJSUtvWUhneFNpaTJtVkZiWGNHT3VzcmRvdGtqREstUG45YkxiNWVhUTAxNXdOYzdkRjhCLWJPTkdTQ3k1WFJTTEVjenBvZGtzdkJLdXI2bjVERGlGWHAwXzJiQVBDU3JVNnNoTEE?oc=5",
+      "snippet": "AI-driven cyber risks reshape underwriting practices in India's cyber insurance market: Deloitte India Big News Network.com",
+      "published": "2026-11-23T09:03:00+00:00",
+      "themes": [
+        "Firm tools",
+        "Risk & controls"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
     },
     {
       "id": "78e85d2e9b9b",
@@ -427,7 +657,8 @@
       "seen_in": [
         "PwC",
         "KPMG",
-        "General"
+        "General",
+        "EY"
       ],
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWkw5UF96ZFlVMWdVaFNBY1JDWTdzdlBQa1I0c1ZJTUY0Um1hNzgySUdlbUdpMU1EcVlNQldrUjhjU29rb2pjUG1Kc2N6T2p1UE9RT24yQUg2TV9Ndk5QX0psQW00TVZzV0UzYklGNDlaNjZyOWJZYkVNUk45XzVRUEYtTHE?oc=5",
       "snippet": "Grant Thornton warns AI audits could trigger \u2018race to the bottom\u2019 Financial Times",
@@ -436,6 +667,21 @@
         "Other"
       ],
       "first_seen": "2026-11-24T01:57:54.019768+00:00"
+    },
+    {
+      "id": "0f6a139a7d6f",
+      "title": "How agentic AI can create an intelligence layer for infrastructure",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSUd1bWpZUlg4TW56YVIxTkhEeHc4SnpEMVBDV2VFN0FkU3pBN3VDbDFQZC1ETEE4VGFueTE4WUN2b1hZdTBMN3ptNUFISUpHZ0NQVmVNSy01SEpxQXlLOW1icTRKekkwSUVRSkxjdUtNb3VDRlJ0bkpuY3dzME1WLWJqMnN4Wm5fUEQwWnZIWHk1YlZ3UjZiQnpGOHAwcDNwckwwOGpabzFmdWk3RjJZZ09EYU8ydw?oc=5",
+      "snippet": "How agentic AI can create an intelligence layer for infrastructure EY",
+      "published": "2026-11-22T21:00:57+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
     },
     {
       "id": "428085373752",
@@ -543,6 +789,37 @@
       "first_seen": "2026-11-22T20:54:05.648331+00:00"
     },
     {
+      "id": "f153c3c5c479",
+      "title": "AI strategy for growth and competitive advantage",
+      "publisher": "PwC",
+      "seen_in": [
+        "PwC"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42Uk90TFh4Z1ItRHZMai1VWTF0elJYX0ZZWV95Z3hFMXFNTVJoc1cxVWdkb0JYaXNoRHBlVV93eXg1ancyUFpDX0puNk1Dd2d3X1RPMzFfSnVTZ0lCLXRJZUxfbktma3N1aGg4ZWZIQVZqeG9VMm1KNA?oc=5",
+      "snippet": "AI strategy for growth and competitive advantage PwC",
+      "published": "2026-11-21T01:09:46+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
+      "id": "0167010ca5c4",
+      "title": "How AI jobs are reshaping customer demand and business growth",
+      "publisher": "EY",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ib2JhcVp2Yi1TM2s5ZVdxNDFieWFTb0pSemVhSGVWQnQ3QW9rOUU1UWE2a0RBdE1lREx3TFZUV21TSVZaRTg1N29CVTR2SEV0SlhMQ2NDMjRyV2RLeHphZWdXRlpxVmhCa0t4S2FXYmdCZmVjN19QTHZ3?oc=5",
+      "snippet": "How AI jobs are reshaping customer demand and business growth EY",
+      "published": "2026-11-20T22:26:35+00:00",
+      "themes": [
+        "Firm tools",
+        "Skills & careers"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
       "id": "176770b3fe8b",
       "title": "How AI Risks Can Affect Accounting Firms\u2019 E&O Insurance",
       "publisher": "CPA Practice Advisor",
@@ -619,6 +896,21 @@
       "first_seen": "2026-11-20T22:04:14.110971+00:00"
     },
     {
+      "id": "38be9a6970e8",
+      "title": "AT Think AI literacy: The next core CPA competency?",
+      "publisher": "Accounting Today",
+      "seen_in": [
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVExXY1dibEJ4NnVRdmdjTm80SHpWQUFnMm54ZGZUNEVuODRKSjlSbnBWQnM5Y2FXVFh4UG5yY29paHVGZl9LQTBhZ2taZWhzY08wcHk5MFZNU254MkRJLXVaSGZCa0wyZE0waVhJd2pTZHpfS3BKNGk2akoyVkphVlBpbDJOQW8?oc=5",
+      "snippet": "AT Think AI literacy: The next core CPA competency? Accounting Today",
+      "published": "2026-11-20T14:35:00+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
       "id": "60fe17045cbb",
       "title": "Your firm's AI keys reach client data. Put them in your WISP",
       "publisher": "Accounting Today",
@@ -638,7 +930,8 @@
       "title": "AT Think Your firm\u2019s AI keys reach client data. Put them in your WISP",
       "publisher": "Accounting Today",
       "seen_in": [
-        "Accounting Today"
+        "Accounting Today",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjV4dG05YXdfNUloUVA5WlJfMXg4anRzZi1BYzhSeVNJbTd6SGlDLUxUakw3bVVLNThEYURvOFZmcHlqZjVaa2YzdGVNTlF6TmxpTjh0VmNDbUtVcHF0emhRdzVkOWJjNlFQXzN1TWxId01pby1nQVRJcTRBdTFlbVN4NHZ2elBsa1BtdXFVNnZRazhqOVZfbEh1T01qMW8?oc=5",
       "snippet": "AT Think Your firm\u2019s AI keys reach client data. Put them in your WISP Accounting Today",
@@ -729,7 +1022,8 @@
       "title": "KPMG's KCi AI agents cut up to 3.5 weeks from some audits",
       "publisher": "MarketScale",
       "seen_in": [
-        "KPMG"
+        "KPMG",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZUFoZHAyUENhVmRRQWEybDVVNWVGcGR4MHhPYU1tTVBZemtTRERzYjAxeGRqNzIwS2ZUczk5aG9FOVVZRTdPOFMzeVFfQXpiNkthR2tLRm5zdDB1a1dNWHVFLXJPbUVBXy01NlNSazRYYV9FbU0tbDF2bGFEWW1yMm43R1pqVkV4dFYtTHRTMC03X2d2YjNxb0xkeTZnVC1yYmRzdWU1NlRkSjNOclp6cEQ5c3Y?oc=5",
       "snippet": "KPMG's KCi AI agents cut up to 3.5 weeks from some audits MarketScale",
@@ -761,7 +1055,8 @@
       "publisher": "CPA Practice Advisor",
       "seen_in": [
         "Deloitte",
-        "CPA Practice Advisor"
+        "CPA Practice Advisor",
+        "General"
       ],
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUGdPTW10UDhoM1d6bjljMkFqUVdsZi03aVozaHFYSFVqbTFjOEREaVNaUzQ1NTA5QVRfR0VJVlMydVFaeWZJWGltY3N1LTlXTnphRFBmVmkyUlQ4TVRBWWsyN0ptcEFpQWxWOWJ4cWNIbTV1WWkxb0dwYXVEZVlQQjNrR2xqRWItZk52YVV2bFNYOElISUlpbGc4MlAtUzQ1TEsxUkFFeHl1VFZpMGZnLWxLelNKeFNRS2QxcURpYjhHbzN6eTlOZ2FhOEwwaHBQcjNpNFVHaF9jTUlmcTE3czFFQlpSRXVNd1E?oc=5",
       "snippet": "Shield Named to Deloitte Technology Fast 500 Again as Regulated Firms Demand Audit-Ready, Governed AI CPA Practice Advisor",
@@ -877,6 +1172,21 @@
       "first_seen": "2026-11-19T22:31:43.166526+00:00"
     },
     {
+      "id": "800c81bcc985",
+      "title": "EY Canada Invests CAD$80 Million in AI, Future of Work",
+      "publisher": "Wisevoter",
+      "seen_in": [
+        "EY"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1dDYjlicXFhTkh2ZUJuM3Nfam9vNTdycWQwOXg5bUZkSVNqUzhseEkzRktJSmtic1RCSWUwZWRCcXZxQ1B5ZTFvTXl4YXA0MzZOVG5GZXhDTzZIQTVpb1BRWmhsd2V2QjFOaGRwQ05fZWVXRlFnQkFPSEtLX2V1Vi1pMmZvUk8yUm1ISGtB?oc=5",
+      "snippet": "EY Canada Invests CAD$80 Million in AI, Future of Work Wisevoter",
+      "published": "2026-11-19T18:30:50+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
+    },
+    {
       "id": "4b33a0042b68",
       "title": "Togal.AI Ranks 27th Fastest-Growing Company in North America on the 2026 Deloitte Technology Fast 500",
       "publisher": "The Des Moines Register",
@@ -950,6 +1260,22 @@
         "Firm tools"
       ],
       "first_seen": "2026-11-20T22:04:14.110971+00:00"
+    },
+    {
+      "id": "4880d03208d0",
+      "title": "KPMG Tests AI Agents in FTSE 250 Company Audit",
+      "publisher": "cwibc.co.id",
+      "seen_in": [
+        "KPMG",
+        "General"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rU2NpaWF0SjdmbDNINEFlaWs1c1c4LTFhZzBHd1d6S0c1dFFwbjN6SHRxQkN5dExRalduN1lhd3pYRmVHVW1tUUN2YTRDS3duZVljSmpMYVY?oc=5",
+      "snippet": "KPMG Tests AI Agents in FTSE 250 Company Audit cwibc.co.id",
+      "published": "2026-11-19T15:05:15+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-25T23:25:49.380817+00:00"
     },
     {
       "id": "97b8668aa8c3",
@@ -1317,7 +1643,8 @@
       "title": "How Will AI Change Audit Hours and Fees? Audit Committee Forum to Hold Seminar",
       "publisher": "\uc544\uc2dc\uc544\uacbd\uc81c",
       "seen_in": [
-        "PwC"
+        "PwC",
+        "KPMG"
       ],
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqSnBrSm9pd0p4ck9Oc05jN2ljWmt5M21qVXVwb25rbGRLLXdMV2pmdGl0WDU1ZkpVLWVjaWxhci1MM084MU9ZTWNySlFVNDFkQjlSNTIyZGVOLUtzMkN0RlZsdkw?oc=5",
       "snippet": "How Will AI Change Audit Hours and Fees? Audit Committee Forum to Hold Seminar \uc544\uc2dc\uc544\uacbd\uc81c",
@@ -6193,192 +6520,6 @@
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTFh0UUwyS3RjV2VuTjVtZktObHc2clIxdVlPNDN0UWhsSjZ3T283alJRQmxYMGFzVEhJYURxRGNySGxRSzBReHdiV3VfZWpzalZXeGtIZGI4aVZiMDZYT1draHFxWGx0bGJZcDJrdzZPc0VSN0ZmQW9OODhHSk9paFRDMDFMSTVwM2xycXN0a2xRbTE3QXprNWdSdkdKNzN0amF6bV9TRldSaVVMZm5pRnVrVHI1Z3gzUUdFbHNaclpicTQwdFFvUFJOQ3R6TUNINVNKeC04VnEtSmRrT0g5UFl0SnlkaS1xSXVBcVJCWmRVUQ?oc=5",
       "snippet": "AI in institutional real estate: Adoption and impact PwC",
       "published": "2026-10-27T03:40:57+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "37a1843bdf56",
-      "title": "Oracle NetSuite Debuts Industry-Specific AI Agents",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3JKdWZqdmVWRU16NGExZjVKTGZ3VEprUi03R2E2UG5aX0tzbUV2b2VrSlVTaWdJbEVLTVJ4UU51dGY1bFdnS3JobWdmTmpwLUd1ekJNX19Kcmo2aDZiR3AtZWcydGIzMWh4cVdxR1luSkRyNkk3RXZtRTFkZ21KN1ppMzhHM2xjdDFGLWt5dUppNTFJVm1LRFhuQ1p2aEpUZXhLVE4zQQ?oc=5",
-      "snippet": "Oracle NetSuite Debuts Industry-Specific AI Agents CPA Practice Advisor",
-      "published": "2026-10-26T22:26:57+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "0b8845496c14",
-      "title": "AI in Nursing: A Framework for Safe Adoption",
-      "publisher": "PwC",
-      "seen_in": [
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSzBVS0pvU3RnYXkwZU1Udkd3a3NkalZVZU5UZkxhemZkMTJsU1k1MF8zWURqY2tZc1RaY2JWYWhDUzB1end6WlYxV2NFcDJkd05WZVptbDlKLUY0MzZ4Rmw1VzNrYXdKLWZ3THNmNDdaa3VDQ3Jnckx4NGREb1hQc3FzQ2RjaUk2aGpzUEtLQjRpclpzY2c?oc=5",
-      "snippet": "AI in Nursing: A Framework for Safe Adoption PwC",
-      "published": "2026-10-26T20:43:08+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "60b88142126e",
-      "title": "Vertex Introduces Vertex S\u014dl, a Connected, AI-Powered Tax and Compliance Experience",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdkc2Wkdaa1o0X1o0OGQ1S096Rm5qYkJhc3drUWFLNHdya1JxQlgtVEhQV3IxMDhTNW43c0VOVzY0ZXY4RDU0UTVoYTEwQW5ER0RER3Zkdm10cjFwRjBYcldGM2Q3VTRISkgzRXhGdkRXZU1YaExmd2Z6Si0zSV84N0xrVVBLQk93azV2Q1ZGbkZIVnZZTmsyMmduNmpmd2U2cnZESHl6a3g4U1NmTlZRYU9mWmNLcXlQZnFTYXNraFFuVEpWeUZyMGFrXzduQU9n?oc=5",
-      "snippet": "Vertex Introduces Vertex S\u014dl, a Connected, AI-Powered Tax and Compliance Experience CPA Practice Advisor",
-      "published": "2026-10-26T18:26:07+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "af7b8410bf5c",
-      "title": "Wolters Kluwer expands agentic tax and audit capabilities in CCH Axcess",
-      "publisher": "Business Wire",
-      "seen_in": [
-        "General",
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLUJwV1JMcnRzTnp6ZFZaaHFha0REcmNHOXhhZHlLMVN6VXZXYzdjMXQyakRLdkp4RlZzajRBSGh0VUJuWFZSaEtxOHUydnVncS1Vb1RDMS1XMUxBR05aQWFJVlJLSUpKRWlmMVo2RHRiQmt0VDNOcmI2SGh5VEZteF83UDF3WmJuODg1dzFVS0s5WlNPZzFKbGFJb3lqUG1kM29kT3QxdTdXNlJGclBYT25ZNWhqVzJBWFJvNlJyN3dfUTdPSC0w?oc=5",
-      "snippet": "Wolters Kluwer expands agentic tax and audit capabilities in CCH Axcess Business Wire",
-      "published": "2026-10-26T18:00:00+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "aed0161e59cd",
-      "title": "The Work Between the Systems: Where AI in the Close Needs a Reviewer and a Record",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor",
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVWhUdkNuZnhZRkM3NzlsbnA5LXJ3b3JoeGF1MDJQZlE1OUY1ZTFYVHo2dDFSRXpJckc5ME81RWlMcHkyS0l5dlM1bHVSTzZUa1F0aFFrQlhvNWNwbDZvcWVJOXR6emdnQi1hZ19jOUhYeWFNS3dTb1VFTi1ZX3ZkX3JZcTNObWlUdFFVZ0hTRm5aSWx6bTEzNFYtdEFEUTZUWXIzME5vZEROZFd5T1FFR1BsTVBrYXN4QnZJNmViVjB4dEdDOXlLY1I0V21wUms?oc=5",
-      "snippet": "The Work Between the Systems: Where AI in the Close Needs a Reviewer and a Record CPA Practice Advisor",
-      "published": "2026-10-26T17:38:51+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "c554bf135a01",
-      "title": "Monday Morning Accounting News Brief: Deloitte In Trouble Again For AI Slop Report; Don't Embezzle to Tip Livestream Girls | 10.26.26",
-      "publisher": "Going Concern",
-      "seen_in": [
-        "Deloitte",
-        "PwC",
-        "KPMG",
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeTJnVUdaQmNYU0dZbVoya0gtVngwaUJMWXp3anZyeGtfQ0RtUHFXanFKMFVubXlQcDFUVVZDbUlEcXNQYkZtNlB2alc1dFhPa2ZiMFVHQ2dPZ0cxTGF5U3Z3RDdVUldnc09YLWFtSDNtMFFrWmd1cU1jV1Y3MDNWd2cwUVpQd2JhNjBieHRFSExmS1phckJQYks0cXlKcnpTem9DTXNELW91TmVHdFlzRmdYY1o2azlJcXRXTm1WLUdMc191TllSZ3Q3Wmo4Y2RveXc1QzJDNUJjeXFaRmNLVkhLYm1WUThoVnM0VEM4cw?oc=5",
-      "snippet": "Monday Morning Accounting News Brief: Deloitte In Trouble Again For AI Slop Report; Don't Embezzle to Tip Livestream Girls | 10.26.26 Going Concern",
-      "published": "2026-10-26T15:30:00+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "cefd1eb74840",
-      "title": "We have introduced AI. What comes next?",
-      "publisher": "EY",
-      "seen_in": [
-        "EY"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OazI3b0dMRTd2NndnN0FPMXc3c2FuV01uWHdnb2Y4T3hYc2NDYXE4OFh4TkpwU2RPWENYWHZ0NjZCeHB1anJxMHEybjZxeUVPZWtJbmM3bjNQb1NNaWxoV09yZHhHWjFjd0hpakFfRDk1WGJmd04w?oc=5",
-      "snippet": "We have introduced AI. What comes next? EY",
-      "published": "2026-10-26T15:21:45+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "5d5b5b3dbf18",
-      "title": "Global growth and AI",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZE94Y0hNM1dUZ3RYVTBMaG1ydGN3amRMVzRHazB1Si1kdHh3aFhSbFlZaEpaR3Q4Y2d6bWNWYmlpTlRnX2Mzd1lSalRiYUdsa18tdFpvMW5scGpfcTBGeXBBTDZkNm1maFJVem1xMlR1TW96U0R5WjFTajVDTkp4bkxKckM?oc=5",
-      "snippet": "Global growth and AI Deloitte",
-      "published": "2026-10-26T15:11:42+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-29T14:48:30.296897+00:00"
-    },
-    {
-      "id": "a349a6b3c826",
-      "title": "KPMG: Economic Uncertainty, AI Readiness Will Shape Next Phase of African Investment",
-      "publisher": "THISDAYLIVE",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRXB1NHByWlhNR0ZWRWZBVWhGT3U3a3hZT2JSeUI3dm9OVmJiMDRiSE0xNWY1N0ZpVGdVNzVrX2Zpd3RLQzNmcjhVWEFKMnF5eUNsQlBoZ09PWGQ3eHh3cHRuWXc0aFgzcmRMamttam9ocmIwLWpxTEU0X0V4M1hWWG5fXzRqVFVjN095cFR1bGdjZWxkblhXaHg2YlR4a01mU2c4MjR2NzVNX0FJLTJMZGdzd3gzckozWDRFOEpZYw?oc=5",
-      "snippet": "KPMG: Economic Uncertainty, AI Readiness Will Shape Next Phase of African Investment THISDAYLIVE",
-      "published": "2026-10-26T11:50:32+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-26T15:32:35.093879+00:00"
-    },
-    {
-      "id": "422637245a23",
-      "title": "PwC UK and FloQast Expand Partnership to Launch AI-Powered Finance Managed Services",
-      "publisher": "FF News",
-      "seen_in": [
-        "PwC",
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVVEOW81NlBfaEJCdXllYl9laG11azk4bzRqb2hZRWFad0VOOUx5QVJDM2FFcGZ1czhJQjRfbVdZZkZQRThvVzM3RU5QVGtYTVJrZzNwSXdLeGQxYXVKVHVycnhXajh3WkdVT0RkYzd2MmNzWk5WQ0IwSWRnNnlGdGpUM3hCRWhkclNDZnl6ZWtHSnprbXllV0VjcXFiQXU1NTVQRnRhc2c3dG5S?oc=5",
-      "snippet": "PwC UK and FloQast Expand Partnership to Launch AI-Powered Finance Managed Services FF News",
-      "published": "2026-10-26T11:40:09+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-26T15:32:35.093879+00:00"
-    },
-    {
-      "id": "14bad519c326",
-      "title": "Are you ready for AI colleagues?",
-      "publisher": "EY",
-      "seen_in": [
-        "EY"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNmV1amR6bkxsZFVJTnZvU3hEYzRTb01hdTVwUUxKMVdneTlnWUlZLUFnb0lScEx2R0VFcnRIS2FKd2R1WDdzb2lEVFpESFQtWW5xSHpFS2hjNmlwaUY3eEFlc0tfdHJDMFJVMEFFaTlaT0lmbWZsN1hFUE8xWkhENm9iSkVFQQ?oc=5",
-      "snippet": "Are you ready for AI colleagues? EY",
-      "published": "2026-10-26T09:36:44+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-30T14:48:49.018471+00:00"
-    },
-    {
-      "id": "525e2fe69f4c",
-      "title": "How AI is accelerating operational performance in real estate",
-      "publisher": "PwC",
-      "seen_in": [
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTmtINW9LZFNHVENlSldxcVJmZ3ZwdlpIQjRJVlhtVWpabTJUVzhtdVFpTXd0bmVLN1hqUTU1Z0RpRWVqbjdhQmpaczk5NTd2YjdhSzYxNXExSG1VazlfWnpuZXdGWC1qNVk0bkpsQmlydTVBWHBYZmhvQXFBR1VfTDNuRmJEeUpZMnlEMTNiVHY2RG5IT29TZUp6eUU1RDJoaDNZWU92dWF0RDk2czlUSzkxY2Z6eVB4ZDlYbDlxczZ4c240cGJPT242OC1zQU4xUEt6M1Z0TE1HS0ljM3NjcXFheFhwT21tTVJ4aFExQy1qaW8?oc=5",
-      "snippet": "How AI is accelerating operational performance in real estate PwC",
-      "published": "2026-10-26T03:40:57+00:00",
       "themes": [
         "Firm tools"
       ],
