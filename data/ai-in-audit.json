@@ -1,6 +1,6 @@
 {
   "name": "AI in Audit",
-  "updated": "2026-11-25T23:25:49.380817+00:00",
+  "updated": "2026-11-26T23:25:08.473299+00:00",
   "themes": [
     "Firm tools",
     "Regulation & standards",
@@ -10,32 +10,152 @@
   ],
   "recap": {
     "written_by": "ai",
-    "quick_take": "Firms are testing AI agents on real audits while a Deloitte suspension over AI errors shows the cost of weak review. Firms are also investing in AI skills.",
+    "quick_take": "Deloitte's suspension from Western Australian government work over an AI-flawed report shows the risk of unchecked AI output. Firms are also pitching AI as a mentor for junior staff.",
     "standouts": [
       {
-        "id": "4880d03208d0",
-        "title": "KPMG Tests AI Agents in FTSE 250 Company Audit",
-        "publisher": "cwibc.co.id",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rU2NpaWF0SjdmbDNINEFlaWs1c1c4LTFhZzBHd1d6S0c1dFFwbjN6SHRxQkN5dExRalduN1lhd3pYRmVHVW1tUUN2YTRDS3duZVljSmpMYVY?oc=5",
-        "why": "KPMG is testing AI agents on a FTSE 250 audit, a direct look at how audit work and entry-level tasks may change."
+        "id": "4b767b2c3bd0",
+        "title": "Deloitte Suspended From Western Australian Government Contracts Over AI Report Errors",
+        "publisher": "https://www.big4news.com/",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeW9nSEhWT1dQdXZJMi14ZEpNTGZTV01jSFNBY1VuaERhSkFoYUNjSF9YUU1wV1hxejNNNjNIS3I5MWVKWTktTWpHX3dLX01INVF6MUpNQnRYRXp5cWQzZEF0bGV1NnFkbXFqeWRKR3UxSS1Tc0g4MVBpUmVNRDAzNHRMc0c?oc=5",
+        "why": "A Big 4 firm was suspended from government contracts over AI report errors, showing why reviewing and verifying AI output is a core skill."
       },
       {
-        "id": "cf3e33feff98",
-        "title": "WA government bans Deloitte for three months over AI uni report",
-        "publisher": "SMH.com.au",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYWFhNFROR2M5Ym1KdUR5a3hiYnBKTGVGNGZmWHczeUdGWHh0MGcxMnBXQ1BULWp3VS0yYldINHV1R0swSkJGeGdndzJwcDB1bmNJbFZOVTY4cXFHQ1lIWmRYaU9Lalh5c25qdUk4UExxR1FYc3lFeDFBVHhnVHU0QVRqcnA2MHhfTTZxdGNZOUd2V2JrZ1R5NmtXOElJc0NYQzB6TE54T2tlZUYxQXR2YzIzV2tUQldZLVFLSU1IU21Uc0JFQnMwdGgyY0s5cnc?oc=5",
-        "why": "WA government banned Deloitte for three months over an AI-flawed report, showing why human review and verifying AI output matter."
+        "id": "58957dfe5af2",
+        "title": "AI is a Tool for Your Best People and a Mentor for Your Newest Ones",
+        "publisher": "CPA Practice Advisor",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNank1QzVfVTFhVHA2YjNRc0otZk1XMTl5azVuSVRhRnJvWVAyV2xEZGdPZnMzTDRlcGlTRWpfamF3YlBsbUVHNEJSai1GRDFKd0xEeWtKVllaZXI4azZTVk82eXFtUTViWW5QYkdlUXhoWkl4YTU4N1B0QU9DRmYwRU9PNnNZcjBINnY3c2plTWRmZ1JDaDRRRVRJNFJrZWtIYmRoU2szUzhIWXFOeUFXQWkwTHJjZklfSERsTkNn?oc=5",
+        "why": "Frames AI as a mentor for the newest staff, which bears on how your early-career training and day-to-day work may look."
       },
       {
-        "id": "fb45e3abe6c6",
-        "title": "AI's workforce collision",
-        "publisher": "kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jU1hhUERqZDcwU3dQTE8wT3MyY0MzNjlNQ0tTQTBtSmZlRG1IYTU5MEVxcGZjY2Q3SWtTZWVOWWNzb1ZIblVTVTU3SjdRMHpMTkFybjdEM2FaQU51NmZYS21TMlg5aERRUU54NXFWVQ?oc=5",
-        "why": "KPMG's piece on AI's workforce collision speaks to which skills and roles are shifting, useful for interview talking points."
+        "id": "a8f2a6337702",
+        "title": "AI New Models, Tokens, and Orchestration \u2013 Technology Lab Podcast \u2013 Nov. 2026",
+        "publisher": "CPA Practice Advisor",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRjRSYmFRa1EyTXZsZkZqYkFmalFkRTA0czdRSmhUdWJMdk4waDVmRTlrM0tNajR3ODJJZVlTOUJQYjBvMkx6NXo3YWQ5TkZjS0lqQnpkLWlVOHpVSzdnQmkyZkZ4NFE2UVU5MzBpVHU4U0pMRUhRZ2RZNHFINERUOWthZUNkekRBYkJ3VkFOV1dERDRybG1kQjMybmI4VTI3am5nSTJNZXdZOERjRUE0RHJndEZmQQ?oc=5",
+        "why": "A podcast on new models, tokens and orchestration builds the AI vocabulary that helps you sound informed in interviews."
       }
     ]
   },
   "stories": [
+    {
+      "id": "a8f2a6337702",
+      "title": "AI New Models, Tokens, and Orchestration \u2013 Technology Lab Podcast \u2013 Nov. 2026",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRjRSYmFRa1EyTXZsZkZqYkFmalFkRTA0czdRSmhUdWJMdk4waDVmRTlrM0tNajR3ODJJZVlTOUJQYjBvMkx6NXo3YWQ5TkZjS0lqQnpkLWlVOHpVSzdnQmkyZkZ4NFE2UVU5MzBpVHU4U0pMRUhRZ2RZNHFINERUOWthZUNkekRBYkJ3VkFOV1dERDRybG1kQjMybmI4VTI3am5nSTJNZXdZOERjRUE0RHJndEZmQQ?oc=5",
+      "snippet": "AI New Models, Tokens, and Orchestration \u2013 Technology Lab Podcast \u2013 Nov. 2026 CPA Practice Advisor",
+      "published": "2026-11-26T17:26:14+00:00",
+      "themes": [
+        "Other"
+      ],
+      "first_seen": "2026-11-26T23:25:08.473299+00:00"
+    },
+    {
+      "id": "4b767b2c3bd0",
+      "title": "Deloitte Suspended From Western Australian Government Contracts Over AI Report Errors",
+      "publisher": "https://www.big4news.com/",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeW9nSEhWT1dQdXZJMi14ZEpNTGZTV01jSFNBY1VuaERhSkFoYUNjSF9YUU1wV1hxejNNNjNIS3I5MWVKWTktTWpHX3dLX01INVF6MUpNQnRYRXp5cWQzZEF0bGV1NnFkbXFqeWRKR3UxSS1Tc0g4MVBpUmVNRDAzNHRMc0c?oc=5",
+      "snippet": "Deloitte Suspended From Western Australian Government Contracts Over AI Report Errors https://www.big4news.com/",
+      "published": "2026-11-26T15:05:18+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-26T23:25:08.473299+00:00"
+    },
+    {
+      "id": "58957dfe5af2",
+      "title": "AI is a Tool for Your Best People and a Mentor for Your Newest Ones",
+      "publisher": "CPA Practice Advisor",
+      "seen_in": [
+        "CPA Practice Advisor"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNank1QzVfVTFhVHA2YjNRc0otZk1XMTl5azVuSVRhRnJvWVAyV2xEZGdPZnMzTDRlcGlTRWpfamF3YlBsbUVHNEJSai1GRDFKd0xEeWtKVllaZXI4azZTVk82eXFtUTViWW5QYkdlUXhoWkl4YTU4N1B0QU9DRmYwRU9PNnNZcjBINnY3c2plTWRmZ1JDaDRRRVRJNFJrZWtIYmRoU2szUzhIWXFOeUFXQWkwTHJjZklfSERsTkNn?oc=5",
+      "snippet": "AI is a Tool for Your Best People and a Mentor for Your Newest Ones CPA Practice Advisor",
+      "published": "2026-11-26T14:28:07+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-26T23:25:08.473299+00:00"
+    },
+    {
+      "id": "9a36545a25c6",
+      "title": "Deloitte Digital launches agentic marketing-workflow tools",
+      "publisher": "MarkHub24",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUjBHUVlVSVM0OG5KUVlfNmtNMVpzcl8wNGVwVFNya1AzeGNha1hZTEtkV3pJMFBvc1NOQmF1Vm5TTGF6djJPM0dDZEl3cDZsb0IxdUxWUmtiTWFFVXFENVBaUGdOODdMcldaNUpZdlhDVjFTVlRnWlNtLUZveEVlakRuZHB5c2s1Y19ETlgxcExtTXc?oc=5",
+      "snippet": "Deloitte Digital launches agentic marketing-workflow tools MarkHub24",
+      "published": "2026-11-26T13:06:14+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-26T23:25:08.473299+00:00"
+    },
+    {
+      "id": "c0de53c85efd",
+      "title": "WA Suspends Deloitte Over AI-Flawed Merger Report",
+      "publisher": "CASRAI",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1RlUU9WSlFzWGk2dndJSU9yWlBFZURocUVSMDFZcFBTNDVzYzEzYXloS1l6QW9DNVk1T0VqVlBlcEVWNHZoNFQ2SjgtTll4RUh3ZTNOX2U4VjBxTjRhdm1JM3VfZmFDQVlyNW0xSW1wTXhzZnIzMUpFcEdpTjBRQnlmaHd5MnhBNUxVMg?oc=5",
+      "snippet": "WA Suspends Deloitte Over AI-Flawed Merger Report CASRAI",
+      "published": "2026-11-26T03:02:47+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-26T23:25:08.473299+00:00"
+    },
+    {
+      "id": "6fecb70dc5e3",
+      "title": "Better real estate decisions need more than AI",
+      "publisher": "Deloitte",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS05KZDBXaGVwbmNEN1dZUE81RTlVVFBOUTI1NlRiV3BxUU8zQ2tXaEhETjlqWmdRWkJtSlJBXzVYUW10RG1fR1NyT1dFZy1WX2ZxN3pfZkpQMXN0c0d3RktvNnh1aTEya1Y5T1JCNUN1X0VBaU5JektVVW9CVE51azQ5NzNDTHF3NGc1dVJjRVY1YmpGS1JqMVdVczdyZw?oc=5",
+      "snippet": "Better real estate decisions need more than AI Deloitte",
+      "published": "2026-11-26T02:28:41+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-26T23:25:08.473299+00:00"
+    },
+    {
+      "id": "ac77a870a7d4",
+      "title": "Unlocking AI value in insurance",
+      "publisher": "kpmg.com",
+      "seen_in": [
+        "KPMG"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVi1DRnFiLXFTUklMWGtTYW1YdVNIUmJaajlKS3doUnprUUZhYU1abUNUcWRPMEljTEhhN3hjSnRWY0c3eFFoVHJrUmtGYWxaS0dTekFoRXUyeFhZUUFoQzhDTHM5NUo1R2F4LVVaR1ItYy1HRVRodWxlZnI0ODQ4ZWgwQVJKdzc1UFNSZHRMcw?oc=5",
+      "snippet": "Unlocking AI value in insurance kpmg.com",
+      "published": "2026-11-25T20:54:35+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-26T23:25:08.473299+00:00"
+    },
+    {
+      "id": "2e4a1158e365",
+      "title": "WA government suspends Deloitte over AI error-filled university merger report",
+      "publisher": "Traders Union",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUzNNRWxEaHVZdTZLTXAxXzhqZ2FDR2xqN29BaDNadGZnLVFlMEFoTFRKWjVxN2xQYVgwVkh3cGJiNzlSYUdPMmFhUC1saGlCT0IzdEU0bFozZEhpczd5VE5fQnJzSVZZWGlSN1hFcWIzYUh6ajN2ZG1DX1ZVdHFtRml3WXlWMldramVFY2NGZ2I0cENINDRV?oc=5",
+      "snippet": "WA government suspends Deloitte over AI error-filled university merger report Traders Union",
+      "published": "2026-11-25T20:10:43+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-26T23:25:08.473299+00:00"
+    },
     {
       "id": "36f640ac8a9c",
       "title": "KPMG could earn up to $5.1m finding Character.ai a California tax refund",
@@ -271,7 +391,8 @@
       "seen_in": [
         "PwC",
         "KPMG",
-        "General"
+        "General",
+        "Deloitte"
       ],
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0hxSjl1M0lzZy1aRDJFYnltSWtrN0d3dEQzeFJIMFZUN3h4d0pXQTRlYnBRenBRMmRjZDFad3lqaFd2SGFzMk9oUUVJc2VsSUhzOTFoQzFON05BUDliSnRwSjNuZ0tUSmNrNGxTV1AwTWNoQjludl9FTzFCUDNPSlVWeE1heDBlY2lQUXlR?oc=5",
       "snippet": "Should the auditor or the AI go first? UK audit splits on agents Resultsense",
@@ -658,7 +779,8 @@
         "PwC",
         "KPMG",
         "General",
-        "EY"
+        "EY",
+        "Deloitte"
       ],
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWkw5UF96ZFlVMWdVaFNBY1JDWTdzdlBQa1I0c1ZJTUY0Um1hNzgySUdlbUdpMU1EcVlNQldrUjhjU29rb2pjUG1Kc2N6T2p1UE9RT24yQUg2TV9Ndk5QX0psQW00TVZzV0UzYklGNDlaNjZyOWJZYkVNUk45XzVRUEYtTHE?oc=5",
       "snippet": "Grant Thornton warns AI audits could trigger \u2018race to the bottom\u2019 Financial Times",
@@ -835,6 +957,21 @@
       "first_seen": "2026-11-20T22:04:14.110971+00:00"
     },
     {
+      "id": "88a372f0fd18",
+      "title": "Deloitte 2027 Manufacturing Outlook: AI Moves Beyond Pilots",
+      "publisher": "Manufacturing Digital",
+      "seen_in": [
+        "Deloitte"
+      ],
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOczQ1NWo0MER1R1AwRjBBbFp1cWo3UXZ0aWVZbmk2WE1LMVhuM0lMZVo2dHRhbDhHcTlSSE9XVl8ydHNrWTlxWW5ia1BxZXM3UlBhOUM5MGlqUDFDYUZ6N1RHOVZucTRtTVhkcmdPRmsyVHdUbUkxWEF4MXF1eURfN0J3TGZNWkhKcGhqQTN2R21pZm5wckdTcEFTY1g?oc=5",
+      "snippet": "Deloitte 2027 Manufacturing Outlook: AI Moves Beyond Pilots Manufacturing Digital",
+      "published": "2026-11-20T16:59:21+00:00",
+      "themes": [
+        "Firm tools"
+      ],
+      "first_seen": "2026-11-26T23:25:08.473299+00:00"
+    },
+    {
       "id": "b10fd2f68981",
       "title": "AT Think Meta\u2019s AI data center claims highlight a critical R&D credit issue",
       "publisher": "Accounting Today",
@@ -900,7 +1037,10 @@
       "title": "AT Think AI literacy: The next core CPA competency?",
       "publisher": "Accounting Today",
       "seen_in": [
-        "General"
+        "General",
+        "AICPA",
+        "Deloitte",
+        "Accounting Today"
       ],
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVExXY1dibEJ4NnVRdmdjTm80SHpWQUFnMm54ZGZUNEVuODRKSjlSbnBWQnM5Y2FXVFh4UG5yY29paHVGZl9LQTBhZ2taZWhzY08wcHk5MFZNU254MkRJLXVaSGZCa0wyZE0waVhJd2pTZHpfS3BKNGk2akoyVkphVlBpbDJOQW8?oc=5",
       "snippet": "AT Think AI literacy: The next core CPA competency? Accounting Today",
@@ -6248,282 +6388,6 @@
         "Firm tools"
       ],
       "first_seen": "2026-10-28T14:45:58.282290+00:00"
-    },
-    {
-      "id": "a65b2a5407cd",
-      "title": "2025 reset as banks double down on payments modernization and AI",
-      "publisher": "EY",
-      "seen_in": [
-        "EY"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnZHZFFiVzdCMkVmN0lwel81ekdHajRiNEtwS2FFY083MTRjdVJYUTZwdHA3STNVTXFzOVhkZWswa2xOMURHek9Rb2Z2WklTTmRDNVhOc0pTSDc5M2g5aG9rVjY2enloT3hTazUwVXZlN0cxaC1xY1hzZ3c4UGhhYVk0dHBTU3huZHpTRDBZSGR6ODhTd0FyNW4wdXZ1Wm1CZVFuSC1XekdERHND?oc=5",
-      "snippet": "2025 reset as banks double down on payments modernization and AI EY",
-      "published": "2026-10-27T22:41:08+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-28T14:45:58.282290+00:00"
-    },
-    {
-      "id": "c44792ea1d04",
-      "title": "Meet Parkes: An AI Coworker That Helps Accounting Firms Run the Firm",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLTRnY2RwaFh0enlQeXNiOVNtaTB6NUpRMEpkR3A3M2JCS056WUtvUmFKMWNZWEhkUWsybWtwaUJ5MXdDbVk2Z1JVVk5aQlk4SkpQbEZ6anJTajNBRjl3TGwzUHB5UFpIN2Myd1M3c2hULXN4RmtVNElkQWl5OGFYeVZpeTlWYjFrWmdxQ1Z6UzM5TlAtdUpLNWktUmFQSWR5UG1OY2U4VjNvaWl2b1I1SmExbTgybHo2TGYyd2h3?oc=5",
-      "snippet": "Meet Parkes: An AI Coworker That Helps Accounting Firms Run the Firm CPA Practice Advisor",
-      "published": "2026-10-27T21:56:01+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-28T14:45:58.282290+00:00"
-    },
-    {
-      "id": "f7cb93ff6987",
-      "title": "AI in tax and audit: What firms must rethink about developing judgment, pricing & leadership",
-      "publisher": "Thomson Reuters",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HcGQ5TkotQ1E0dkMxRWx2MWdNVV94TkdlQ3Y0NEQ5ZXJXSGc0QzQ3aHVpcDRzdGMzTnpSbUhaRU45VGpsODNGLU9Ub3B6WmhUNl9ZX0xrcTcxdVBNTzRPaU5JU0ZETEE4NE9xdml6VzNXcjhqVkp1R2FzV0s?oc=5",
-      "snippet": "AI in tax and audit: What firms must rethink about developing judgment, pricing & leadership Thomson Reuters",
-      "published": "2026-10-27T20:45:34+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-28T14:45:58.282290+00:00"
-    },
-    {
-      "id": "ee634c6d7b9c",
-      "title": "Black Ore Brings Big-Firm Tax Automation to CPA Firms as Customer Base Grows 5x",
-      "publisher": "HackerNoon",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXRsYTVOdHlRT1hPVVo3N3Y4Z1BjY2F1TnlLOVVuNU5jWUs2TlowMHN5NmFDcUlkT3ZORWxpODNCaHNrbGEzT2dFbTlhbmVVclY3RFN1dUcxbUhySjZERW5BQjdpMTEzcTI5ek5TeU5jN2sxU01Gd19qM1dLb0NWVVloOEFGNzhMRTJMcUFhVHFFUDJfdzJTRV8zY1lxNE9QMzhuaA?oc=5",
-      "snippet": "Black Ore Brings Big-Firm Tax Automation to CPA Firms as Customer Base Grows 5x HackerNoon",
-      "published": "2026-10-27T19:48:46+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-28T14:45:58.282290+00:00"
-    },
-    {
-      "id": "b454af4dbaa3",
-      "title": "Crowe Expands Alteryx Use to Help Tax Departments Operationalize AI",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzRrUE05UmkxQmctWTlzS0hYT09EVm14RVdPSGFUSzhUV1hXaXNDbkJPUWEyZlM1d2lsX25pa1pGVkFRdDQxU2Y1cGMzOXhyZ0RPUTJwVThCUmgtTkZEVjlfZDZ6V3p5X0lCcEtoQkNONUM5bnNNX21pZGo2d0IzUXhyTjIwcXVWUTJzRDdIQTU5VWY1RHJkZnkxZmlzckpoT1VwVlVQQmxRLTBmZkRta1hZWDZ6MEZBeWZiY3Z3?oc=5",
-      "snippet": "Crowe Expands Alteryx Use to Help Tax Departments Operationalize AI CPA Practice Advisor",
-      "published": "2026-10-27T18:28:56+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-28T14:45:58.282290+00:00"
-    },
-    {
-      "id": "691d7a496113",
-      "title": "When auditors come for your AI algorithms",
-      "publisher": "Information Week",
-      "seen_in": [
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkRZZnZmMEphajFWOTJBMWRKWmVtRmtCNXZzcVAyUFBwbWF5aVpfOHJJaDYwb1RjYXdKMEF1N1hxQU53WHRlOTBRQ01JUUczWF8tenpPUVZDQTFTeVFiYV9qLTZPRnEtOG5RN1ZRQzNVTlktckdIa0Zibm5oUFp4QkVtdDluTEhzTXJPczNiMjAzVkE?oc=5",
-      "snippet": "When auditors come for your AI algorithms Information Week",
-      "published": "2026-10-27T18:27:31+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-29T14:48:30.296897+00:00"
-    },
-    {
-      "id": "94e017d3b8c7",
-      "title": "Where AI Belongs in the Audit Process (and Where It Doesn\u2019t)",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor",
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFU0UnB4X1MwNDFNbW82ckZIVTMzWmZSNHdKOFdoQmhZblplc0pzWVFpb2tGYVNmWU5FOEtuM0ZVRWRlOF9ZTXJnWWlkUjF4WlktVzZycUw2b1o1SmQxYXNRYTk2WXdaSHg0WlpvSXBmQWJhaDZ1UnJKTHpnQmduZVV1SDhHS3FDWm5ZT3dtdFRkTnRadE9DNHVQYnNFeDJwZUlSVXNHcG9OY2FZdGhEcA?oc=5",
-      "snippet": "Where AI Belongs in the Audit Process (and Where It Doesn\u2019t) CPA Practice Advisor",
-      "published": "2026-10-27T17:55:22+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-28T14:45:58.282290+00:00"
-    },
-    {
-      "id": "d4bef2af79c4",
-      "title": "Structured Installment Sales Over $5 Million: What CPAs Should Model Before Closing",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeUQxTnVCRXJDSUxmX2czdVNPa05DUkk3NjZXdUNjRHpmUTlYS2VidnFPdVNUUko5aEk1cFJIRE9aZlMweExmcm5WVFU2X29KQlMyRXVTRzBKV0IxYWplajlfWVZOLW5zOHJRcWp4d2xZcHpncVkxRW1nTFduTXBnSE0zXzZpQkgyVEdaUnp1WGxWcWwwVW5vb1VxVzB4VXNEM2VLVUZWR1lXMHRPOWxHUHJjdmFoLWEzWlBfWFZSYmhSQ01QaGw0dzRTeXBaYlFq?oc=5",
-      "snippet": "Structured Installment Sales Over $5 Million: What CPAs Should Model Before Closing CPA Practice Advisor",
-      "published": "2026-10-27T16:10:03+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-28T14:45:58.282290+00:00"
-    },
-    {
-      "id": "b848b595d61b",
-      "title": "From fragmentation to symphony: Why unified automation orchestration is essential",
-      "publisher": "Deloitte",
-      "seen_in": [
-        "Deloitte"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWU1xOFFieFJHTi1RZ3NwRjlkSl9ZVGxiQmJ0VUFQUWQ0S29ma3Myakx3S3BiVDNpZFh0Vnk1YzlqY2xWT2o4d1psc2wwX3cwN2Fqdm5CSGVQRWFZemhOX1BLTlFDU19fQVUtcGFCWTZMZ0Vjc3pLVHp6bFhYdTgtRm1acUZXLWVuZXQ4VTNfX1J0UVc2QnhaenNrTGs?oc=5",
-      "snippet": "From fragmentation to symphony: Why unified automation orchestration is essential Deloitte",
-      "published": "2026-10-27T15:29:57+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-30T14:48:49.018471+00:00"
-    },
-    {
-      "id": "43a444e599f3",
-      "title": "Sweden's Warmare raises $900K to build an AI accounting firm",
-      "publisher": "Dealroom",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlNXc0R0MDF1WnktbVoyT2c5RGVPR0NCdlJIdTVNZkV1ZnpXUi14R0xJMkRhbWt0RFZHTVd2cTRPbVFwM2N6R1RhaHZLN2hJd2xNTnpzV3UyZDhZemlXOFJHcUxRaGtqMC1pTHBOQjB6ZTVFN01QNG0tc1EzanVlZmIweXgzbWZFRUl4cWlVVVlqa3Q3aC1feg?oc=5",
-      "snippet": "Sweden's Warmare raises $900K to build an AI accounting firm Dealroom",
-      "published": "2026-10-27T15:22:39+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-30T14:48:49.018471+00:00"
-    },
-    {
-      "id": "d92115554fd1",
-      "title": "Intuit Launches AI-Driven Platform Uniting Businesses and Accountants",
-      "publisher": "Small Business Trends",
-      "seen_in": [
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDJpUVViUG9ac2ZMNjNTU0FJX00yTU8zVXpGekFWMWZGLTBtQ3J1b1N6YkVEZzhWazJRYlkyTnljMFVfTUE5UVJsMU52em9yZFVqWXhZaEhGQndrNXVjaFAxUERHZURjeWxrZGZ1bnpMdnN6eUVsMWxwTjZjeU1xZDhpRFB5RVZsaTU0QTRjRFRJTnFPN293RHI2dEp6Zw?oc=5",
-      "snippet": "Intuit Launches AI-Driven Platform Uniting Businesses and Accountants Small Business Trends",
-      "published": "2026-10-27T14:45:36+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-28T14:45:58.282290+00:00"
-    },
-    {
-      "id": "fbde79be6a56",
-      "title": "Black Ore Unveils Robust Tax Automation for Small Firms",
-      "publisher": "CPA Practice Advisor",
-      "seen_in": [
-        "CPA Practice Advisor"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXhhcXN1YVRQaXlKTTliVXFwa2VhdHRya2JQUGdvTzZaYWhQMS1QYVpEeXdid3MtTC1yZ0dqZ1VlOVBaTVVDd3RKVDg4SWtRY3BocUdFc2FOdUg1dlFDbmRiZWx2Qnp4S25oREFCVUdZVlpEYmlyTVlrbWR4VjBtRksxRWN4U3FPTF9LRm1QM1dmNm4xQWN0czlYUEhzcEhNc1B5YmlwY0o5aWdJZVE?oc=5",
-      "snippet": "Black Ore Unveils Robust Tax Automation for Small Firms CPA Practice Advisor",
-      "published": "2026-10-27T13:03:02+00:00",
-      "themes": [
-        "Other"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "231e29eb6dd8",
-      "title": "AI for assurance",
-      "publisher": "kpmg.com",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMdUM1ZkFxWEtESUpqc19lVUtSUFFuQ2k2R2thM3RLaks5VmIzejBjME4xUXByNnJWX0pSeFVDOUZsdVhSci1yRk0yR1lmUzk1RThJck9na3g3WUVQdTJCUENlTElvQzBxSjRr?oc=5",
-      "snippet": "AI for assurance kpmg.com",
-      "published": "2026-10-27T12:20:24+00:00",
-      "themes": [
-        "Firm tools",
-        "Risk & controls"
-      ],
-      "first_seen": "2026-10-28T14:45:58.282290+00:00"
-    },
-    {
-      "id": "16e2f38ce68a",
-      "title": "Intuit plans bigger AI rollout with accountants",
-      "publisher": "Accounting Today",
-      "seen_in": [
-        "Accounting Today",
-        "General"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnhRX0FKQU9nWXY5TUhES2xtTDBNTHBqanpZYUJlRXBzNjU5cTkwdmJ6ckpZU1RZTjJvcEZ4aGtFa3VvTU5Wb0VlZ3dHd3U4TFQ2TWZZSFV0SzFlTDhsSVpYMnVPVzZKdWhoU1Y5amlYNGtZMm1ST3JRZVFpMVdqSnhWcjBhX0F4U2o4OA?oc=5",
-      "snippet": "Intuit plans bigger AI rollout with accountants Accounting Today",
-      "published": "2026-10-27T09:12:00+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "209eac39b0cb",
-      "title": "Anthropic Joins Top AI Companies Turning to EY to Vet Financials",
-      "publisher": "Bloomberg Tax",
-      "seen_in": [
-        "EY",
-        "General",
-        "Deloitte",
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXlvakJXVzlidk12RXhJQ1ZuX0tBblRHTmN4U1RVNXVMdktSX2xiREE2eXFNcjBOT0Fmekdvd3pHdnBYaVJHcEl6d2c3UFQzUWc3dmRPa2R6UDFxWWQ2LXVfS2t3S0l4ZEJFMWhEYUVtZVcxUHB0bURuakpyd1JXbUhnVGhMdGkyTXdCZkU0dWszb2ZvRWo3UkZxdVhYOWxjcEN1cEdZT2xOZ1hkQWhGRjRLS0RDUQ?oc=5",
-      "snippet": "Anthropic Joins Top AI Companies Turning to EY to Vet Financials Bloomberg Tax",
-      "published": "2026-10-27T08:45:00+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "2243f5de34c8",
-      "title": "Governing the agentic enterprise",
-      "publisher": "kpmg.com",
-      "seen_in": [
-        "KPMG"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVdGYmFOY2FPaUFXZmJ0RXM0RUFSV3dKNzRGNnNGaUdHelEyS1hsUlJHLUdra0d5WGVHNlFVV2kweFpid29WQ3YtMUpfWTdFSlhkOXlwZjI2dDVrUVd3ZnZrbVRvUkFTVXVBNG93ZkNMS3EwRGlZdE5MYXM1bnZkNTNwTF9VdEFMenFoLVM1VW1acnA0OGc?oc=5",
-      "snippet": "Governing the agentic enterprise kpmg.com",
-      "published": "2026-10-27T04:02:38+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "40c3914526a2",
-      "title": "AI in real estate and the value of human expertise",
-      "publisher": "PwC",
-      "seen_in": [
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWXBTYU8xMlJ2VXlCcHhkQ01mRjY3Q3ZPU05nV3MyQ3ZDU2hZa2tQZ2Vma3pFaGtrTy11NUJsUEdIeWRBTDZlc2JvbG9VZEtwa2hLalc4RmF1YzJ2eE5qMGE0UGNFMTZpWmVMYmllSm96ZEtKSGtIUjdxSlo1NUYwaTlzWkFOczVZVjdTUGdNUElBTzBpUmhQeXQ4eEFMSmlGaUtueHVvT19kR2xTZy1Jc2Y4ZnBxallHcHF2OG5ydTRDMlVILVFYamNnYkoyWlBsUVVTV01ZTTE4c0RwVzZOM1hvdmNRc3o2dVMzd1JLZXRvSTlyUFFWaUE2UQ?oc=5",
-      "snippet": "AI in real estate and the value of human expertise PwC",
-      "published": "2026-10-27T03:40:57+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
-    },
-    {
-      "id": "c6f7fdca0639",
-      "title": "AI in institutional real estate: Adoption and impact",
-      "publisher": "PwC",
-      "seen_in": [
-        "PwC"
-      ],
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTFh0UUwyS3RjV2VuTjVtZktObHc2clIxdVlPNDN0UWhsSjZ3T283alJRQmxYMGFzVEhJYURxRGNySGxRSzBReHdiV3VfZWpzalZXeGtIZGI4aVZiMDZYT1draHFxWGx0bGJZcDJrdzZPc0VSN0ZmQW9OODhHSk9paFRDMDFMSTVwM2xycXN0a2xRbTE3QXprNWdSdkdKNzN0amF6bV9TRldSaVVMZm5pRnVrVHI1Z3gzUUdFbHNaclpicTQwdFFvUFJOQ3R6TUNINVNKeC04VnEtSmRrT0g5UFl0SnlkaS1xSXVBcVJCWmRVUQ?oc=5",
-      "snippet": "AI in institutional real estate: Adoption and impact PwC",
-      "published": "2026-10-27T03:40:57+00:00",
-      "themes": [
-        "Firm tools"
-      ],
-      "first_seen": "2026-10-27T14:42:50.052225+00:00"
     }
   ]
 }

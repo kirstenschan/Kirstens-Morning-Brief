@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-25T23:25:49.380817+00:00",
+  "updated": "2026-11-26T23:25:08.473299+00:00",
   "topics": [
     {
       "slug": "ai-in-audit",
       "name": "AI in Audit",
-      "new_count": 21
+      "new_count": 9
     },
     {
       "slug": "markets-business",
       "name": "Markets & Business",
-      "new_count": 539
+      "new_count": 491
     }
   ]
 }
